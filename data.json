@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-02 15:48",
+  "updated_at_gst": "2026-03-02 18:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran death toll reaches 555 as US, Israel escalate attacks",
-        "published": "Mon, 02 Mar 2026 11:17:04 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/2/ayatollah-ali-khameneis-assassination-will-likely-backfire-here-is-why?traffic_source=rss"
+        "title": "Video shows Iranian missile strike hit Beersheba, Israel",
+        "published": "Mon, 02 Mar 2026 14:18:24 +0000",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/2/outrage-over-us-israel-attacks-on-iran-may-have-sparked-violence-in?traffic_source=rss"
       },
       {
-        "title": "‘Missile debris’ sparks fire at Saudi’s Aramco oil refinery",
-        "published": "Mon, 02 Mar 2026 09:16:19 +0000",
-        "link": "https://www.aljazeera.com/features/2026/3/2/not-again-gaza-rushes-to-stockpile-amid-iran-war-crossing-closures?traffic_source=rss"
+        "title": "Pakistan calls troops, orders 3-day curfew as 24 killed in pro-Iran rallies",
+        "published": "Mon, 02 Mar 2026 13:50:03 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/2/will-the-us-israeli-attacks-impact-irans-participation-in-world-cup-2026?traffic_source=rss"
       },
       {
-        "title": "British military base in Cyprus targeted in suspected drone attack",
-        "published": "Mon, 02 Mar 2026 08:13:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/2/blasts-shake-qatar-uae-kuwait-as-irans-retaliatory-strikes-continue?traffic_source=rss"
+        "title": "Gas prices soar as QatarEnergy halts LNG production after Iran attacks",
+        "published": "Mon, 02 Mar 2026 13:19:17 +0000",
+        "link": "https://www.aljazeera.com/features/2026/3/2/israel-intensifies-war-on-lebanon-after-hezbollah-attack?traffic_source=rss"
       },
       {
-        "title": "Iran’s Larijani refutes claims Tehran pushed to resume US talks",
-        "published": "Mon, 02 Mar 2026 07:16:08 +0000",
-        "link": "https://www.aljazeera.com/features/2026/3/2/hold-analysis-khameneis-killing-leaves-irans-axis-in-disarray?traffic_source=rss"
+        "title": "Nearly 170 people killed in attack in South Sudan’s Ruweng, officials say",
+        "published": "Mon, 02 Mar 2026 12:39:22 +0000",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/2/israel-has-been-provoking-hezbollah-to-react-for-a?traffic_source=rss"
       },
       {
-        "title": "After Iran’s salvo hit their skylines, will Gulf states enter the war?",
-        "published": "Mon, 02 Mar 2026 05:36:56 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/al-jazeera-reports-from-beirut-as-residents-flee-following-israeli-strikes?traffic_source=rss"
+        "title": "What’s happening in Lebanon as Iran war spills over",
+        "published": "Mon, 02 Mar 2026 12:10:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/thousands-of-passengers-stranded-as-middle-east-airspace-shuts?traffic_source=rss"
+      },
+      {
+        "title": "Nigerians mourn killing of Iran’s Ayatollah Ali Khamenei",
+        "published": "Mon, 02 Mar 2026 12:02:16 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/2/ukraine-to-help-down-irans-drones-how-russias-war-rewrites-the-playbook?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
