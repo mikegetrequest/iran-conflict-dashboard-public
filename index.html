@@ -1,27 +1,17 @@
 <!doctype html>
-<html lang="en" class="dark">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Iran Conflict Dashboard</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    tailwind.config = {
-      darkMode: 'class',
-      theme: {
-        extend: {
-          colors: { bg:'#000', panel:'#0a0a0a', line:'#1f1f1f', sub:'#a1a1aa' }
-        }
-      }
-    }
-  </script>
   <style>
-    #globeViz { width: 100%; height: 360px; }
-    .pulse-dot { width: 8px; height: 8px; border-radius: 999px; background: #22c55e; animation: pulse 1.8s infinite; }
+    #globeViz { width: 100vw; height: 68vh; min-height: 460px; }
+    .pulse-dot { width: 7px; height: 7px; border-radius: 999px; background: #16a34a; animation: pulse 1.8s infinite; }
     @keyframes pulse { 0%{opacity:.25;transform:scale(.9)} 50%{opacity:1;transform:scale(1)} 100%{opacity:.25;transform:scale(.9)} }
   </style>
 </head>
-<body class="bg-bg text-white antialiased">
+<body class="bg-white text-zinc-900 antialiased">
   <div id="app"></div>
 
   <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
@@ -31,157 +21,88 @@
 
   <script>
     const e = React.createElement;
+    const coords = { Iran:[32.42,53.68], Israel:[31.04,34.85], UAE:[23.42,53.84], Dubai:[25.20,55.27], Qatar:[25.35,51.18], Bahrain:[25.93,50.63], Kuwait:[29.31,47.48], Lebanon:[33.85,35.86], Oman:[21.47,55.97], Tehran:[35.68,51.38] };
 
-    const countryCoords = {
-      Iran: [32.4279, 53.6880], Israel: [31.0461, 34.8516], UAE: [23.4241, 53.8478],
-      Dubai: [25.2048, 55.2708], Qatar: [25.3548, 51.1839], Bahrain: [25.9304, 50.6378],
-      Kuwait: [29.3117, 47.4818], Lebanon: [33.8547, 35.8623], Oman: [21.4735, 55.9754],
-      Teheran: [35.6892, 51.3890], Tehran: [35.6892, 51.3890], Cyprus: [35.1264, 33.4299],
-      US: [38.9072, -77.0369], America: [38.9072, -77.0369]
-    };
-
-    function extractCountryPoints(items){
-      const pts = [];
-      for(const it of items){
-        const t = (it.title || '').toLowerCase();
-        for(const k of Object.keys(countryCoords)){
-          if(t.includes(k.toLowerCase())){
-            const [lat,lng] = countryCoords[k];
-            pts.push({ lat, lng, size: 0.35, color: '#f97316', label: k });
-          }
-        }
+    function pointsFrom(items){
+      const out=[]; const seen=new Set();
+      for(const it of items){ const t=(it.title||'').toLowerCase();
+        for(const k in coords){ if(t.includes(k.toLowerCase())){ const [lat,lng]=coords[k]; const key=`${lat},${lng}`; if(!seen.has(key)){seen.add(key); out.push({lat,lng,size:.33,color:'#2563eb'})}} }
       }
-      // de-dup by lat/lng
-      const seen = new Set();
-      return pts.filter(p=>{const key=`${p.lat},${p.lng}`; if(seen.has(key)) return false; seen.add(key); return true;});
+      return out;
     }
 
     async function fetchGuardian(){
-      const params = new URLSearchParams({
-        q: 'Iran OR Israel OR UAE OR Dubai OR Qatar OR Bahrain OR Kuwait OR Lebanon OR Oman',
-        'page-size': '20',
-        'order-by': 'newest',
-        'show-fields': 'headline',
-        'api-key': 'test'
-      });
-      const r = await fetch(`https://content.guardianapis.com/search?${params.toString()}`);
+      const p = new URLSearchParams({q:'Iran OR Israel OR UAE OR Dubai OR Qatar OR Bahrain OR Kuwait OR Lebanon OR Oman','page-size':'14','order-by':'newest','api-key':'test'});
+      const r = await fetch(`https://content.guardianapis.com/search?${p}`);
       if(!r.ok) throw new Error('Guardian API failed');
       const j = await r.json();
-      return (j.response?.results || []).map(x => ({
-        title: x.webTitle,
-        link: x.webUrl,
-        source: 'theguardian.com',
-        published: x.webPublicationDate
-      })).slice(0,10);
+      return (j.response?.results||[]).map(x=>({title:x.webTitle,link:x.webUrl,source:'theguardian.com',published:x.webPublicationDate})).slice(0,8);
     }
-
     async function fetchMonitor(){
-      const r = await fetch('https://r.jina.ai/http://monitor-the-situation.com/middle-east');
-      if(!r.ok) return [];
-      const t = await r.text();
-      return t.split('\n').map(s=>s.trim()).filter(Boolean)
-        .filter(s => /iran|israel|uae|dubai|qatar|bahrain|kuwait|tehran|missile|strike|attack|lebanon|hezbollah|oman|cyprus/i.test(s))
-        .slice(0,10)
-        .map((title,i)=>({ title, link:'https://monitor-the-situation.com/middle-east', source:'monitor-the-situation.com', published:`line-${i+1}` }));
+      try{ const r=await fetch('https://r.jina.ai/http://monitor-the-situation.com/middle-east'); if(!r.ok) return [];
+        const t=await r.text();
+        return t.split('\n').map(s=>s.trim()).filter(Boolean).filter(s=>/iran|israel|uae|dubai|qatar|bahrain|kuwait|tehran|missile|strike|attack|lebanon|hezbollah|oman/i.test(s)).slice(0,8).map((title,i)=>({title,link:'https://monitor-the-situation.com/middle-east',source:'monitor',published:`line-${i+1}`}));
+      }catch{return []}
     }
 
-    function LoadingCard(){
-      return e('div',{className:'rounded-xl border border-line bg-panel p-4 animate-pulse'},
-        e('div',{className:'h-3 w-20 bg-zinc-800 rounded mb-3'}),
-        e('div',{className:'h-6 w-40 bg-zinc-800 rounded'})
-      );
-    }
+    function Skeleton(){ return e('div',{className:'h-16 rounded-lg border border-zinc-200 bg-zinc-50 animate-pulse'}); }
 
     function App(){
-      const [state,setState] = React.useState({loading:true,error:null,news:[],monitor:[],updated:null});
-      const globeRef = React.useRef(null);
-      const globeInstance = React.useRef(null);
+      const [s,setS]=React.useState({loading:true,error:null,news:[],monitor:[],updated:null});
+      const globeEl=React.useRef(null); const globe=React.useRef(null);
 
-      const refresh = React.useCallback(async()=>{
-        try{
-          setState(s=>({...s,loading:true,error:null}));
-          const [news, monitor] = await Promise.all([fetchGuardian(), fetchMonitor().catch(()=>[])]);
-          setState({loading:false,error:null,news,monitor,updated:new Date()});
-        }catch(err){
-          setState(s=>({...s,loading:false,error:String(err),updated:new Date()}));
-        }
+      const load = React.useCallback(async()=>{
+        try{ if(!s.updated) setS(v=>({...v,loading:true,error:null}));
+          const [news,monitor]=await Promise.all([fetchGuardian(),fetchMonitor()]);
+          setS({loading:false,error:null,news,monitor,updated:new Date()});
+        }catch(err){ setS(v=>({...v,loading:false,error:String(err),updated:new Date()})); }
+      },[s.updated]);
+
+      React.useEffect(()=>{ load(); },[]);
+      React.useEffect(()=>{ const id=setInterval(load,30000); return ()=>clearInterval(id); },[load]);
+
+      React.useEffect(()=>{
+        if(!globeEl.current || globe.current) return;
+        globe.current = Globe()(globeEl.current)
+          .globeImageUrl('https://unpkg.com/three-globe/example/img/earth-blue-marble.jpg')
+          .backgroundColor('#ffffff')
+          .atmosphereColor('#60a5fa')
+          .atmosphereAltitude(0.12);
+        globe.current.controls().autoRotate = true;
+        globe.current.controls().autoRotateSpeed = 0.45;
+        globe.current.pointColor('color').pointAltitude('size').pointRadius(0.28);
       },[]);
+      React.useEffect(()=>{ if(globe.current){ globe.current.pointsData(pointsFrom([...s.news,...s.monitor])); } },[s.news,s.monitor]);
 
-      React.useEffect(()=>{ refresh(); },[refresh]);
+      return e('main',null,
+        e('div',{className:'max-w-5xl mx-auto px-4 pt-6 pb-3'},
+          e('div',{className:'flex items-center gap-2 text-xs text-zinc-500'}, e('div',{className:'pulse-dot'}), 'live / refresh 30s'),
+          e('h1',{className:'mt-2 text-2xl font-semibold'},'Iran Conflict Dashboard'),
+          e('p',{className:'mt-1 text-xs text-zinc-500'},`updated: ${s.updated ? s.updated.toLocaleString('en-GB',{hour12:false}) : 'loading...'}`),
 
-      // pseudo-live updates (poll every 30s). Works on static hosting.
-      React.useEffect(()=>{
-        const id = setInterval(refresh, 30000);
-        return ()=>clearInterval(id);
-      },[refresh]);
-
-      React.useEffect(()=>{
-        if(!globeRef.current || globeInstance.current) return;
-        const globe = Globe()(globeRef.current)
-          .globeImageUrl('https://unpkg.com/three-globe/example/img/earth-dark.jpg')
-          .backgroundColor('#000000')
-          .atmosphereColor('#3b82f6')
-          .atmosphereAltitude(0.15);
-        globe.controls().autoRotate = true;
-        globe.controls().autoRotateSpeed = 0.5;
-        globe.pointAltitude('size').pointColor('color').pointRadius(0.3);
-        globeInstance.current = globe;
-      },[]);
-
-      React.useEffect(()=>{
-        if(!globeInstance.current) return;
-        const points = extractCountryPoints([...state.news, ...state.monitor]);
-        globeInstance.current.pointsData(points);
-      },[state.news, state.monitor]);
-
-      return e('main',{className:'max-w-6xl mx-auto px-4 md:px-8 py-7'},
-        e('header',{className:'mb-5'},
-          e('div',{className:'flex items-center gap-2 text-xs text-sub'}, e('div',{className:'pulse-dot'}), 'LIVE (auto-refresh 30s)'),
-          e('h1',{className:'mt-2 text-3xl md:text-4xl font-semibold tracking-tight'},'Iran Conflict Dashboard'),
-          e('p',{className:'mt-2 text-sub text-sm'},`Minimal live monitor with map • Updated: ${state.updated ? state.updated.toLocaleString('en-GB',{hour12:false}) : 'loading...'}`)
-        ),
-
-        e('section',{className:'grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 mb-5'},
-          state.loading ? e(LoadingCard) : e('div',{className:'rounded-xl border border-line bg-panel p-4'},e('div',{className:'text-xs text-sub uppercase'},'DXB/DWC'),e('div',{className:'mt-2 text-xl font-semibold text-red-300'},'Suspended until further notice')),
-          state.loading ? e(LoadingCard) : e('div',{className:'rounded-xl border border-line bg-panel p-4'},e('div',{className:'text-xs text-sub uppercase'},'Live API'),e('div',{className:'mt-2 text-xl font-semibold'},String(state.news.length))),
-          state.loading ? e(LoadingCard) : e('div',{className:'rounded-xl border border-line bg-panel p-4'},e('div',{className:'text-xs text-sub uppercase'},'Monitor Lines'),e('div',{className:'mt-2 text-xl font-semibold'},String(state.monitor.length))),
-          state.loading ? e(LoadingCard) : e('div',{className:'rounded-xl border border-line bg-panel p-4'},e('div',{className:'text-xs text-sub uppercase'},'UAE Posture'),e('div',{className:'mt-2 text-xl font-semibold text-amber-300'},'Elevated'))
-        ),
-
-        e('section',{className:'rounded-2xl border border-line bg-panel overflow-hidden mb-5'},
-          e('div',{className:'px-4 py-3 border-b border-line text-sm text-sub'},'Country activity map (keyword-mapped points from live headlines)'),
-          e('div',{id:'globeViz', ref:globeRef})
-        ),
-
-        e('section',{className:'grid grid-cols-1 lg:grid-cols-2 gap-4'},
-          e('div',{className:'rounded-2xl border border-line bg-panel p-4'},
-            e('div',{className:'flex items-center justify-between mb-3'},e('h2',{className:'text-lg font-medium'},'Live API (Guardian)'),e('span',{className:'text-xs text-sub border border-line rounded-full px-2 py-1'},'client-side')),
-            e('div',{className:'space-y-2'},
-              state.news.map((h,i)=>e('div',{key:'n'+i,className:'rounded-lg border border-line p-3'},
-                e('a',{href:h.link,target:'_blank',rel:'noreferrer',className:'font-medium hover:underline'},h.title),
-                e('div',{className:'mt-1 text-xs text-sub'},`${h.source} • ${h.published}`)
-              )),
-              !state.loading && state.news.length===0 && e('div',{className:'text-sm text-sub'},'No API items returned right now.')
-            )
-          ),
-          e('div',{className:'rounded-2xl border border-line bg-panel p-4'},
-            e('div',{className:'flex items-center justify-between mb-3'},e('h2',{className:'text-lg font-medium'},'monitor-the-situation.com'),e('span',{className:'text-xs text-sub border border-line rounded-full px-2 py-1'},'live lines')),
-            e('div',{className:'space-y-2'},
-              state.monitor.map((h,i)=>e('div',{key:'m'+i,className:'rounded-lg border border-line p-3'},
-                e('a',{href:h.link,target:'_blank',rel:'noreferrer',className:'font-medium hover:underline'},h.title),
-                e('div',{className:'mt-1 text-xs text-sub'},`${h.source} • ${h.published}`)
-              )),
-              !state.loading && state.monitor.length===0 && e('div',{className:'text-sm text-sub'},'No monitor lines returned right now.')
-            )
+          e('div',{className:'mt-3 grid grid-cols-2 md:grid-cols-4 gap-2'},
+            e('div',{className:'rounded-lg border border-zinc-200 p-2'}, e('div',{className:'text-[10px] text-zinc-500 uppercase'},'DXB/DWC'), e('div',{className:'text-sm font-medium text-red-600'},'Suspended')),
+            e('div',{className:'rounded-lg border border-zinc-200 p-2'}, e('div',{className:'text-[10px] text-zinc-500 uppercase'},'API items'), e('div',{className:'text-sm font-medium'},String(s.news.length))),
+            e('div',{className:'rounded-lg border border-zinc-200 p-2'}, e('div',{className:'text-[10px] text-zinc-500 uppercase'},'Monitor'), e('div',{className:'text-sm font-medium'},String(s.monitor.length))),
+            e('div',{className:'rounded-lg border border-zinc-200 p-2'}, e('div',{className:'text-[10px] text-zinc-500 uppercase'},'Posture'), e('div',{className:'text-sm font-medium text-amber-600'},'Elevated'))
           )
         ),
 
-        e('footer',{className:'mt-6 text-xs text-sub'},
-          'Sources: ',
-          e('a',{href:'https://content.guardianapis.com/',target:'_blank',className:'underline'},'Guardian API'), ' • ',
-          e('a',{href:'https://monitor-the-situation.com/middle-east',target:'_blank',className:'underline'},'monitor-the-situation.com'), ' • ',
-          e('a',{href:'https://www.dubaiairports.ae/',target:'_blank',className:'underline'},'Dubai Airports'), ' • ',
-          e('a',{href:'https://www.mofa.gov.ae/en',target:'_blank',className:'underline'},'UAE MOFA')
+        e('section',{className:'w-full border-y border-zinc-200'}, e('div',{id:'globeViz',ref:globeEl})),
+
+        e('div',{className:'max-w-5xl mx-auto px-4 py-4 grid grid-cols-1 lg:grid-cols-2 gap-3'},
+          e('div',{className:'rounded-lg border border-zinc-200 p-3'},
+            e('div',{className:'text-sm font-medium mb-2'},'Live API (Guardian)'),
+            s.loading ? e(Skeleton) : null,
+            e('div',{className:'space-y-2'}, s.news.map((h,i)=>e('div',{key:i,className:'text-sm'}, e('a',{href:h.link,target:'_blank',className:'hover:underline'},h.title), e('div',{className:'text-[11px] text-zinc-500'},h.published || '')))),
+            !s.loading && s.news.length===0 ? e('div',{className:'text-xs text-zinc-500'},'No items returned') : null
+          ),
+          e('div',{className:'rounded-lg border border-zinc-200 p-3'},
+            e('div',{className:'text-sm font-medium mb-2'},'monitor-the-situation.com'),
+            s.loading ? e(Skeleton) : null,
+            e('div',{className:'space-y-2'}, s.monitor.map((h,i)=>e('div',{key:i,className:'text-sm'}, e('a',{href:h.link,target:'_blank',className:'hover:underline'},h.title), e('div',{className:'text-[11px] text-zinc-500'},h.published || '')))),
+            !s.loading && s.monitor.length===0 ? e('div',{className:'text-xs text-zinc-500'},'No lines returned') : null
+          )
         )
       );
     }
