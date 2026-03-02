@@ -1,136 +1,150 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="dark">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Iran Conflict Dashboard</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <style>
-    :root{--bg:#0a0d12;--panel:#0f141c;--line:#1f2a38;--text:#e8eef7;--muted:#95a6bb;--ok:#79c28a;--warn:#f7c65c;--bad:#ff7b7b}
-    *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,system-ui}
-    .wrap{max-width:1100px;margin:0 auto;padding:24px}
-    h1{margin:0;font-size:28px}.sub{color:var(--muted);margin-top:6px}
-    .grid{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));margin-top:14px}
-    .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px}
-    .k{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}.v{font-size:22px;font-weight:700;margin-top:4px}
-    .status-bad{color:var(--bad)} .status-warn{color:var(--warn)}
-    .section{margin-top:16px}.head{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
-    .head h2{margin:0;font-size:18px}.pill{font-size:11px;padding:5px 9px;border:1px solid var(--line);border-radius:999px;color:var(--muted)}
-    .list{display:flex;flex-direction:column;gap:8px}.item{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:11px}
-    .item a{color:var(--text);text-decoration:none}.item a:hover{text-decoration:underline}
-    .meta{font-size:12px;color:var(--muted);margin-top:4px}.row{display:grid;grid-template-columns:2fr 1fr;gap:12px}
-    @media (max-width:900px){.row{grid-template-columns:1fr}}
-    .footer{margin-top:16px;color:var(--muted);font-size:12px}
-  </style>
-</head>
-<body>
-<div id="app"></div>
-
-<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-<script>
-const e = React.createElement;
-
-async function fetchGuardian(){
-  const params = new URLSearchParams({
-    q: 'Iran OR Israel OR UAE OR Dubai OR Qatar OR Bahrain OR Kuwait',
-    'page-size': '12',
-    'order-by': 'newest',
-    'show-fields': 'headline',
-    'api-key': 'test'
-  });
-  const url = `https://content.guardianapis.com/search?${params.toString()}`;
-  const r = await fetch(url);
-  if(!r.ok) throw new Error('Guardian API failed');
-  const j = await r.json();
-  return (j.response?.results || []).map(x => ({
-    title: x.webTitle,
-    link: x.webUrl,
-    source: 'theguardian.com',
-    published: x.webPublicationDate
-  })).slice(0,8);
-}
-
-async function fetchMonitorLines(){
-  try{
-    const r = await fetch('https://r.jina.ai/http://monitor-the-situation.com/middle-east');
-    if(!r.ok) throw new Error('monitor fetch failed');
-    const t = await r.text();
-    const lines = t.split('\n').map(s=>s.trim()).filter(Boolean)
-      .filter(s => /iran|israel|uae|dubai|qatar|bahrain|kuwait|tehran|missile|strike|attack|lebanon|hezbollah/i.test(s))
-      .slice(0,8)
-      .map((title,i)=>({title, link:'https://monitor-the-situation.com/middle-east', source:'monitor-the-situation.com', published:`line-${i+1}`}));
-    return lines;
-  }catch{ return []; }
-}
-
-function App(){
-  const [state,setState] = React.useState({loading:true,error:null,guardian:[],monitor:[],updated:null});
-
-  React.useEffect(()=>{
-    (async()=>{
-      try{
-        const [guardian, monitor] = await Promise.all([
-          fetchGuardian(),
-          fetchMonitorLines()
-        ]);
-        setState({loading:false,error:null,guardian,monitor,updated:new Date()});
-      }catch(err){
-        setState(s=>({...s,loading:false,error:String(err)}));
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            bg: '#000000',
+            panel: '#0a0a0a',
+            line: '#1f1f1f',
+            text: '#fafafa',
+            sub: '#a1a1aa',
+          },
+          boxShadow: {
+            soft: '0 0 0 1px rgba(255,255,255,0.08) inset'
+          }
+        }
       }
-    })();
-  },[]);
+    }
+  </script>
+</head>
+<body class="bg-bg text-text antialiased">
+  <div id="app"></div>
 
-  const dxbStatus = 'Suspended until further notice (official advisory stream)';
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script>
+    const e = React.createElement;
 
-  return e('div',{className:'wrap'},
-    e('h1',null,'Iran Conflict Dashboard'),
-    e('div',{className:'sub'},`Custom React client • Live API: Guardian (api-key=test) • Updated: ${state.updated ? state.updated.toLocaleString('en-GB',{hour12:false}) : 'loading...'}`),
+    async function fetchGuardian(){
+      const params = new URLSearchParams({
+        q: 'Iran OR Israel OR UAE OR Dubai OR Qatar OR Bahrain OR Kuwait',
+        'page-size': '12',
+        'order-by': 'newest',
+        'show-fields': 'headline',
+        'api-key': 'test'
+      });
+      const url = `https://content.guardianapis.com/search?${params.toString()}`;
+      const r = await fetch(url);
+      if(!r.ok) throw new Error('Guardian API failed');
+      const j = await r.json();
+      return (j.response?.results || []).map(x => ({
+        title: x.webTitle,
+        link: x.webUrl,
+        source: 'theguardian.com',
+        published: x.webPublicationDate
+      })).slice(0,8);
+    }
 
-    e('div',{className:'grid'},
-      e('div',{className:'card'},e('div',{className:'k'},'DXB/DWC'),e('div',{className:'v status-bad'},dxbStatus)),
-      e('div',{className:'card'},e('div',{className:'k'},'Guardian Live Items'),e('div',{className:'v'},String(state.guardian.length))),
-      e('div',{className:'card'},e('div',{className:'k'},'Monitor Lines'),e('div',{className:'v'},String(state.monitor.length))),
-      e('div',{className:'card'},e('div',{className:'k'},'UAE Posture'),e('div',{className:'v status-warn'},'Elevated'))
-    ),
+    async function fetchMonitorLines(){
+      try{
+        const r = await fetch('https://r.jina.ai/http://monitor-the-situation.com/middle-east');
+        if(!r.ok) throw new Error('monitor fetch failed');
+        const t = await r.text();
+        return t.split('\n').map(s=>s.trim()).filter(Boolean)
+          .filter(s => /iran|israel|uae|dubai|qatar|bahrain|kuwait|tehran|missile|strike|attack|lebanon|hezbollah/i.test(s))
+          .slice(0,8)
+          .map((title,i)=>({title, link:'https://monitor-the-situation.com/middle-east', source:'monitor-the-situation.com', published:`line-${i+1}`}));
+      }catch{ return []; }
+    }
 
-    e('div',{className:'row section'},
-      e('div',null,
-        e('div',{className:'head'},e('h2',null,'Live API feed (The Guardian API)'),e('span',{className:'pill'},'api-key=test')),
-        e('div',{className:'list'},
-          state.guardian.map((h,i)=>e('div',{className:'item',key:'g'+i},
-            e('a',{href:h.link,target:'_blank',rel:'noreferrer'},h.title),
-            e('div',{className:'meta'},`${h.source} • ${h.published || ''}`)
-          )),
-          state.guardian.length===0 && e('div',{className:'item'},'No Guardian API items returned right now.'),
-          state.error && e('div',{className:'item'},`Error: ${state.error}`)
+    function Card({label,value,status}){
+      const statusColor = status==='bad' ? 'text-red-300' : status==='warn' ? 'text-amber-300' : 'text-zinc-100';
+      return e('div',{className:'rounded-xl bg-panel border border-line p-4 shadow-soft'},
+        e('div',{className:'text-xs uppercase tracking-wider text-sub'},label),
+        e('div',{className:`mt-2 text-xl md:text-2xl font-semibold ${statusColor}`},value)
+      );
+    }
+
+    function ListItem({h}){
+      return e('div',{className:'rounded-lg border border-line bg-panel p-3 hover:border-zinc-600 transition-colors'},
+        e('a',{href:h.link,target:'_blank',rel:'noreferrer',className:'text-sm md:text-base font-medium text-zinc-100 hover:underline'},h.title),
+        e('div',{className:'mt-1 text-xs text-sub'},`${h.source}${h.published ? ' • ' + h.published : ''}`)
+      );
+    }
+
+    function App(){
+      const [state,setState] = React.useState({loading:true,error:null,guardian:[],monitor:[],updated:null});
+
+      React.useEffect(()=>{
+        (async()=>{
+          try{
+            const [guardian, monitor] = await Promise.all([fetchGuardian(), fetchMonitorLines()]);
+            setState({loading:false,error:null,guardian,monitor,updated:new Date()});
+          }catch(err){
+            setState(s=>({...s,loading:false,error:String(err),updated:new Date()}));
+          }
+        })();
+      },[]);
+
+      const dxbStatus = 'Suspended until further notice';
+
+      return e('main',{className:'max-w-6xl mx-auto px-4 md:px-8 py-8 md:py-12'},
+        e('header',{className:'mb-6'},
+          e('div',{className:'inline-flex items-center gap-2 rounded-full border border-line bg-panel px-3 py-1 text-xs text-sub'},'LIVE', e('span',{className:'h-1.5 w-1.5 rounded-full bg-red-400'})),
+          e('h1',{className:'mt-3 text-3xl md:text-4xl font-semibold tracking-tight'},'Iran Conflict Dashboard'),
+          e('p',{className:'mt-2 text-sub text-sm md:text-base'},`Vercel-style minimal UI • React client • Updated: ${state.updated ? state.updated.toLocaleString('en-GB',{hour12:false}) : 'loading...'}`)
+        ),
+
+        e('section',{className:'grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-3 mb-6'},
+          e(Card,{label:'DXB / DWC',value:dxbStatus,status:'bad'}),
+          e(Card,{label:'Live API Items',value:String(state.guardian.length),status:'ok'}),
+          e(Card,{label:'Monitor Lines',value:String(state.monitor.length),status:'ok'}),
+          e(Card,{label:'UAE Posture',value:'Elevated',status:'warn'})
+        ),
+
+        e('section',{className:'grid grid-cols-1 lg:grid-cols-3 gap-4'},
+          e('div',{className:'lg:col-span-2 rounded-2xl border border-line bg-panel p-4'},
+            e('div',{className:'flex items-center justify-between mb-3'},
+              e('h2',{className:'text-lg font-medium'},'Live API - Guardian'),
+              e('span',{className:'text-xs text-sub border border-line rounded-full px-2 py-1'},'api-key=test')
+            ),
+            e('div',{className:'space-y-2'},
+              state.guardian.map((h,i)=>e(ListItem,{h,key:'g'+i})),
+              state.guardian.length===0 && e('div',{className:'text-sm text-sub'},'No API items returned right now.'),
+              state.error && e('div',{className:'text-sm text-red-300'},`API error: ${state.error}`)
+            )
+          ),
+          e('div',{className:'rounded-2xl border border-line bg-panel p-4'},
+            e('div',{className:'flex items-center justify-between mb-3'},
+              e('h2',{className:'text-lg font-medium'},'monitor-the-situation'),
+              e('span',{className:'text-xs text-sub border border-line rounded-full px-2 py-1'},'scrape lines')
+            ),
+            e('div',{className:'space-y-2'},
+              state.monitor.map((h,i)=>e(ListItem,{h,key:'m'+i})),
+              state.monitor.length===0 && e('div',{className:'text-sm text-sub'},'No lines returned right now.')
+            )
+          )
+        ),
+
+        e('footer',{className:'mt-8 text-xs text-sub'},
+          'Sources: ',
+          e('a',{href:'https://content.guardianapis.com/',target:'_blank',rel:'noreferrer',className:'underline hover:text-zinc-300'},'Guardian API'),
+          ' • ',e('a',{href:'https://monitor-the-situation.com/middle-east',target:'_blank',rel:'noreferrer',className:'underline hover:text-zinc-300'},'Monitor the Situation'),
+          ' • ',e('a',{href:'https://www.dubaiairports.ae/',target:'_blank',rel:'noreferrer',className:'underline hover:text-zinc-300'},'Dubai Airports'),
+          ' • ',e('a',{href:'https://www.mofa.gov.ae/en',target:'_blank',rel:'noreferrer',className:'underline hover:text-zinc-300'},'UAE MOFA')
         )
-      ),
-      e('div',null,
-        e('div',{className:'head'},e('h2',null,'monitor-the-situation.com'),e('span',{className:'pill'},'feed lines')),
-        e('div',{className:'list'},
-          state.monitor.map((h,i)=>e('div',{className:'item',key:'m'+i},
-            e('a',{href:h.link,target:'_blank',rel:'noreferrer'},h.title),
-            e('div',{className:'meta'},`${h.source} • ${h.published}`)
-          )),
-          state.monitor.length===0 && e('div',{className:'item'},'No monitor lines returned in this check.')
-        )
-      )
-    ),
+      );
+    }
 
-    e('div',{className:'footer'},
-      'Sources: ',
-      e('a',{href:'https://content.guardianapis.com/',target:'_blank',rel:'noreferrer'},'Guardian Open Platform API'),
-      ' • ',e('a',{href:'https://monitor-the-situation.com/middle-east',target:'_blank',rel:'noreferrer'},'Monitor the Situation'),
-      ' • ',e('a',{href:'https://www.dubaiairports.ae/',target:'_blank',rel:'noreferrer'},'Dubai Airports'),
-      ' • ',e('a',{href:'https://www.mofa.gov.ae/en',target:'_blank',rel:'noreferrer'},'UAE MOFA')
-    )
-  );
-}
-
-ReactDOM.createRoot(document.getElementById('app')).render(e(App));
-</script>
+    ReactDOM.createRoot(document.getElementById('app')).render(e(App));
+  </script>
 </body>
 </html>
