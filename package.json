@@ -1,0 +1,40 @@
+{
+  "name": "iran-conflict-dashboard-public",
+  "version": "1.0.0",
+  "description": "Minimalist dashboard using real, cited open-source data snapshots for the Iran/UAE escalation context.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikegetrequest/iran-conflict-dashboard-public.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikegetrequest/iran-conflict-dashboard-public/issues"
+  },
+  "homepage": "https://github.com/mikegetrequest/iran-conflict-dashboard-public#readme",
+  "dependencies": {
+    "@tanstack/react-query": "^5.90.21",
+    "axios": "^1.13.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-globe.gl": "^2.37.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@typescript-eslint/eslint-plugin": "^8.56.1",
+    "@typescript-eslint/parser": "^8.56.1",
+    "@vitejs/plugin-react": "^5.1.4",
+    "eslint": "^10.0.2",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  }
+}

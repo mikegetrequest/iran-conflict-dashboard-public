@@ -1,122 +1,13 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Iran Conflict Dashboard</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <style>
-    #globeViz { width: 100vw; height: 68vh; min-height: 460px; }
-    .pulse-dot { width: 7px; height: 7px; border-radius: 999px; background: #16a34a; animation: pulse 1.8s infinite; }
-    @keyframes pulse { 0%{opacity:.25;transform:scale(.9)} 50%{opacity:1;transform:scale(1)} 100%{opacity:.25;transform:scale(.9)} }
-  </style>
-</head>
-<body class="bg-white text-zinc-900 antialiased">
-  <div id="app"></div>
-
-  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-  <script src="https://unpkg.com/@tanstack/query-core@5.56.2/build/umd/index.production.js"></script>
-  <script src="https://unpkg.com/@tanstack/react-query@5.56.2/build/umd/index.production.js"></script>
-  <script src="https://unpkg.com/three"></script>
-  <script src="https://unpkg.com/globe.gl"></script>
-
-  <script>
-    const e = React.createElement;
-    const { QueryClient, QueryClientProvider, useQuery } = ReactQuery;
-
-    const coords = { Iran:[32.42,53.68], Israel:[31.04,34.85], UAE:[23.42,53.84], Dubai:[25.20,55.27], Qatar:[25.35,51.18], Bahrain:[25.93,50.63], Kuwait:[29.31,47.48], Lebanon:[33.85,35.86], Oman:[21.47,55.97], Tehran:[35.68,51.38] };
-    function pointsFrom(items){
-      const out=[]; const seen=new Set();
-      for(const it of items){ const t=(it.title||'').toLowerCase();
-        for(const k in coords){ if(t.includes(k.toLowerCase())){ const [lat,lng]=coords[k]; const key=`${lat},${lng}`; if(!seen.has(key)){seen.add(key); out.push({lat,lng,size:.33,color:'#2563eb'})}} }
-      }
-      return out;
-    }
-
-    async function fetchGuardian(){
-      const params = new URLSearchParams({
-        q: 'Iran OR Israel OR UAE OR Dubai OR Qatar OR Bahrain OR Kuwait OR Lebanon OR Oman',
-        'page-size': '14',
-        'order-by': 'newest',
-        'api-key': 'test'
-      });
-      const { data } = await axios.get(`https://content.guardianapis.com/search?${params.toString()}`);
-      return (data.response?.results || []).map(x=>({
-        title: x.webTitle,
-        link: x.webUrl,
-        source: 'theguardian.com',
-        published: x.webPublicationDate
-      })).slice(0,10);
-    }
-
-    function Skeleton(){ return e('div',{className:'h-16 rounded-lg border border-zinc-200 bg-zinc-50 animate-pulse'}); }
-
-    function Dashboard(){
-      const globeEl = React.useRef(null);
-      const globe = React.useRef(null);
-
-      const query = useQuery({
-        queryKey: ['guardian-news'],
-        queryFn: fetchGuardian,
-        refetchInterval: 30000,
-        staleTime: 15000,
-        retry: 2
-      });
-
-      const news = query.data || [];
-
-      React.useEffect(()=>{
-        if(!globeEl.current || globe.current) return;
-        globe.current = Globe()(globeEl.current)
-          .globeImageUrl('https://unpkg.com/three-globe/example/img/earth-blue-marble.jpg')
-          .backgroundColor('#ffffff')
-          .atmosphereColor('#60a5fa')
-          .atmosphereAltitude(0.12);
-        globe.current.controls().autoRotate = true;
-        globe.current.controls().autoRotateSpeed = 0.45;
-        globe.current.pointColor('color').pointAltitude('size').pointRadius(0.28);
-      },[]);
-
-      React.useEffect(()=>{
-        if(globe.current){ globe.current.pointsData(pointsFrom(news)); }
-      },[news]);
-
-      return e('main',null,
-        e('div',{className:'max-w-5xl mx-auto px-4 pt-6 pb-3'},
-          e('div',{className:'flex items-center gap-2 text-xs text-zinc-500'}, e('div',{className:'pulse-dot'}), query.isFetching ? 'live / refreshing...' : 'live'),
-          e('h1',{className:'mt-2 text-2xl font-semibold'},'Iran Conflict Dashboard'),
-          e('p',{className:'mt-1 text-xs text-zinc-500'},`Updated: ${query.dataUpdatedAt ? new Date(query.dataUpdatedAt).toLocaleString('en-GB',{hour12:false}) : 'loading...'}`),
-
-          e('div',{className:'mt-3 grid grid-cols-2 md:grid-cols-4 gap-2'},
-            e('div',{className:'rounded-lg border border-zinc-200 p-2'}, e('div',{className:'text-[10px] text-zinc-500 uppercase'},'DXB/DWC'), e('div',{className:'text-sm font-medium text-red-600'},'Suspended')),
-            e('div',{className:'rounded-lg border border-zinc-200 p-2'}, e('div',{className:'text-[10px] text-zinc-500 uppercase'},'Live API items'), e('div',{className:'text-sm font-medium'},String(news.length))),
-            e('div',{className:'rounded-lg border border-zinc-200 p-2'}, e('div',{className:'text-[10px] text-zinc-500 uppercase'},'Source'), e('div',{className:'text-sm font-medium'},'Guardian API')),
-            e('div',{className:'rounded-lg border border-zinc-200 p-2'}, e('div',{className:'text-[10px] text-zinc-500 uppercase'},'Posture'), e('div',{className:'text-sm font-medium text-amber-600'},'Elevated'))
-          )
-        ),
-
-        e('section',{className:'w-full border-y border-zinc-200'}, e('div',{id:'globeViz',ref:globeEl})),
-
-        e('div',{className:'max-w-5xl mx-auto px-4 py-4'},
-          e('h2',{className:'text-sm font-semibold mb-2'},'Latest headlines'),
-          query.isLoading ? e(Skeleton) : null,
-          query.isError ? e('div',{className:'text-sm text-red-600'},`Failed to fetch: ${query.error?.message || 'Unknown error'}`) : null,
-          e('div',{className:'space-y-2'},
-            news.map((h,i)=>e('div',{key:i,className:'rounded-lg border border-zinc-200 p-3 text-sm'},
-              e('a',{href:h.link,target:'_blank',className:'hover:underline'},h.title),
-              e('div',{className:'text-[11px] text-zinc-500 mt-1'},h.published || '')
-            ))
-          )
-        )
-      );
-    }
-
-    const qc = new QueryClient();
-    ReactDOM.createRoot(document.getElementById('app')).render(
-      e(QueryClientProvider,{client:qc}, e(Dashboard))
-    );
-  </script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Iran Conflict Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-white text-zinc-900 antialiased">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
 </html>

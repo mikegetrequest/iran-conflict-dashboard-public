@@ -1,0 +1,51 @@
+{
+  "updated_at_gst": "2026-03-02 14:24",
+  "status": {
+    "dxb_dwc": "Suspended until further notice (verify on official advisory)",
+    "uae_posture": "High-alert diplomatic/security posture",
+    "note": "Use official airport + airline channels before movement."
+  },
+  "sources": {
+    "gdelt_api": "https://api.gdeltproject.org/api/v2/doc/doc",
+    "aljazeera_rss": "https://www.aljazeera.com/xml/rss/all.xml",
+    "monitor_the_situation": "https://monitor-the-situation.com/middle-east",
+    "dubaiairports": "https://www.dubaiairports.ae/",
+    "mofa": "https://www.mofa.gov.ae/en"
+  },
+  "live_api_events": [],
+  "headlines": {
+    "aljazeera": [
+      {
+        "title": "‘Missile debris’ sparks fire at Saudi’s Aramco oil refinery",
+        "published": "Mon, 02 Mar 2026 09:16:19 +0000",
+        "link": "https://www.aljazeera.com/features/2026/3/2/not-again-gaza-rushes-to-stockpile-amid-iran-war-crossing-closures?traffic_source=rss"
+      },
+      {
+        "title": "British military base in Cyprus targeted in suspected drone attack",
+        "published": "Mon, 02 Mar 2026 08:13:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/2/blasts-shake-qatar-uae-kuwait-as-irans-retaliatory-strikes-continue?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s Larijani refutes claims Tehran pushed to resume US talks",
+        "published": "Mon, 02 Mar 2026 07:16:08 +0000",
+        "link": "https://www.aljazeera.com/features/2026/3/2/hold-analysis-khameneis-killing-leaves-irans-axis-in-disarray?traffic_source=rss"
+      },
+      {
+        "title": "After Iran’s salvo hit their skylines, will Gulf states enter the war?",
+        "published": "Mon, 02 Mar 2026 05:36:56 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/al-jazeera-reports-from-beirut-as-residents-flee-following-israeli-strikes?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu vows increasing strikes on Tehran",
+        "published": "Mon, 02 Mar 2026 01:30:49 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/2/poll-suggests-only-a-quarter-of-americans-support-attacks-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Tehran comes under attack from new round of Israeli strikes",
+        "published": "Mon, 02 Mar 2026 01:17:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/raqi-police-disperse-pro-iran-protesters-near-us-embassy?traffic_source=rss"
+      }
+    ],
+    "monitor_the_situation": []
+  }
+}
