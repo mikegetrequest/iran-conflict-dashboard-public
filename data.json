@@ -1,44 +1,51 @@
 {
-  "updated_at_gst": "2026-03-02 14:05",
-  "airport_status": {
-    "dxb_dwc": "Suspended until further notice",
-    "source": "https://www.dubaiairports.ae/",
-    "note": "Passenger advisory says do not travel to airport; contact airlines directly."
+  "updated_at_gst": "2026-03-02 14:23",
+  "status": {
+    "dxb_dwc": "Suspended until further notice (verify on official advisory)",
+    "uae_posture": "High-alert diplomatic/security posture",
+    "note": "Use official airport + airline channels before movement."
   },
-  "official_uae": {
-    "posture": "Elevated diplomatic/security posture",
-    "latest_actions": [
-      "UAE summoned Iran's ambassador and delivered protest note (2 Mar)",
-      "UAE embassy in Tehran closed; mission withdrawn (1 Mar)"
+  "sources": {
+    "gdelt_api": "https://api.gdeltproject.org/api/v2/doc/doc",
+    "aljazeera_rss": "https://www.aljazeera.com/xml/rss/all.xml",
+    "monitor_the_situation": "https://monitor-the-situation.com/middle-east",
+    "dubaiairports": "https://www.dubaiairports.ae/",
+    "mofa": "https://www.mofa.gov.ae/en"
+  },
+  "live_api_events": [],
+  "headlines": {
+    "aljazeera": [
+      {
+        "title": "‘Missile debris’ sparks fire at Saudi’s Aramco oil refinery",
+        "published": "Mon, 02 Mar 2026 09:16:19 +0000",
+        "link": "https://www.aljazeera.com/features/2026/3/2/not-again-gaza-rushes-to-stockpile-amid-iran-war-crossing-closures?traffic_source=rss"
+      },
+      {
+        "title": "British military base in Cyprus targeted in suspected drone attack",
+        "published": "Mon, 02 Mar 2026 08:13:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/2/blasts-shake-qatar-uae-kuwait-as-irans-retaliatory-strikes-continue?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s Larijani refutes claims Tehran pushed to resume US talks",
+        "published": "Mon, 02 Mar 2026 07:16:08 +0000",
+        "link": "https://www.aljazeera.com/features/2026/3/2/hold-analysis-khameneis-killing-leaves-irans-axis-in-disarray?traffic_source=rss"
+      },
+      {
+        "title": "After Iran’s salvo hit their skylines, will Gulf states enter the war?",
+        "published": "Mon, 02 Mar 2026 05:36:56 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/al-jazeera-reports-from-beirut-as-residents-flee-following-israeli-strikes?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu vows increasing strikes on Tehran",
+        "published": "Mon, 02 Mar 2026 01:30:49 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/2/poll-suggests-only-a-quarter-of-americans-support-attacks-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Tehran comes under attack from new round of Israeli strikes",
+        "published": "Mon, 02 Mar 2026 01:17:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/raqi-police-disperse-pro-iran-protesters-near-us-embassy?traffic_source=rss"
+      }
     ],
-    "source": "https://www.mofa.gov.ae/en"
-  },
-  "aljazeera_latest": [
-    {
-      "title": "Oil prices rise sharply after US, Israeli attacks on Iran",
-      "published_utc": "2026-03-02T09:27:13Z",
-      "source": "https://www.aljazeera.com/news/"
-    },
-    {
-      "title": "What we know on day three of US-Israeli attacks on Iran",
-      "published_utc": "2026-03-02T08:31:00Z",
-      "source": "https://www.aljazeera.com/news/"
-    },
-    {
-      "title": "Blasts shake Qatar, UAE, Kuwait as Iran's retaliatory strikes continue",
-      "published_utc": "2026-03-02T07:16:41Z",
-      "source": "https://www.aljazeera.com/news/"
-    },
-    {
-      "title": "Netanyahu vows increasing strikes on Tehran",
-      "published_utc": "2026-03-02T01:30:49Z",
-      "source": "https://www.aljazeera.com/news/"
-    }
-  ],
-  "timeline": [
-    {"time_gst":"2026-02-28 16:05", "event":"DXB/DWC operations suspended advisory posted", "type":"aviation", "source":"https://www.dubaiairports.ae/"},
-    {"time_gst":"2026-03-01 00:00", "event":"Regional retaliation cycle intensifies (open-source reporting)", "type":"conflict", "source":"https://www.aljazeera.com/news/"},
-    {"time_gst":"2026-03-01 12:00", "event":"UAE embassy Tehran closure announced", "type":"diplomatic", "source":"https://www.mofa.gov.ae/en"},
-    {"time_gst":"2026-03-02 09:00", "event":"UAE summons Iranian ambassador", "type":"diplomatic", "source":"https://www.mofa.gov.ae/en"}
-  ]
+    "monitor_the_situation": []
+  }
 }

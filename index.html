@@ -6,41 +6,38 @@
   <title>Iran Conflict Dashboard</title>
   <style>
     body{margin:0;font:16px/1.5 Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial;background:#fff;color:#111}
-    .c{max-width:860px;margin:0 auto;padding:28px 18px 56px}
-    h1{font-size:28px;margin:0 0 4px}
-    .muted{color:#666;font-size:14px}
+    .c{max-width:900px;margin:0 auto;padding:28px 18px 56px}
+    h1{font-size:28px;margin:0 0 4px}.muted{color:#666;font-size:14px}
     .status{margin:18px 0;padding:12px 14px;border:1px solid #e8e8e8;border-radius:10px;background:#fafafa}
     .pill{display:inline-block;padding:4px 8px;border-radius:999px;font-size:12px;border:1px solid #ddd;margin-right:6px}
-    h2{font-size:18px;margin:24px 0 8px}
-    ul{padding-left:18px}
-    li{margin:8px 0}
-    a{color:#111}
-    .src{font-size:12px;color:#666}
-    .line{height:1px;background:#efefef;margin:22px 0}
+    h2{font-size:18px;margin:24px 0 8px}ul{padding-left:18px}li{margin:8px 0}a{color:#111}.src{font-size:12px;color:#666}.line{height:1px;background:#efefef;margin:22px 0}
   </style>
 </head>
 <body>
 <div class="c">
   <h1>Iran Conflict Dashboard</h1>
   <div class="muted" id="updated">Loading…</div>
-
   <div class="status">
     <span class="pill">DXB/DWC</span> <strong id="airport">—</strong><br/>
     <span class="pill">UAE Posture</span> <strong id="posture">—</strong><br/>
     <span class="pill">Note</span> <span id="note">—</span>
   </div>
 
+  <h2>Live API events (GDELT)</h2>
+  <ul id="gdelt"></ul>
+
+  <div class="line"></div>
   <h2>Al Jazeera - latest</h2>
   <ul id="aj"></ul>
 
   <div class="line"></div>
-
   <h2>monitor-the-situation.com - latest lines</h2>
   <ul id="mts"></ul>
 
   <div class="line"></div>
   <div class="src">
     Sources:
+    <a id="sg" target="_blank">GDELT API</a> ·
     <a id="s1" target="_blank">Al Jazeera RSS</a> ·
     <a id="s2" target="_blank">Monitor the Situation</a> ·
     <a id="s3" target="_blank">Dubai Airports</a> ·
@@ -54,19 +51,15 @@ fetch('./data.json').then(r=>r.json()).then(d=>{
   posture.textContent = d.status.uae_posture;
   note.textContent = d.status.note;
 
-  d.headlines.aljazeera.forEach(h=>{
+  (d.live_api_events||[]).slice(0,8).forEach(h=>{
     const li=document.createElement('li');
-    li.innerHTML = `<a href="${h.link}" target="_blank">${h.title}</a> <span class="muted">(${h.published})</span>`;
-    aj.appendChild(li);
+    li.innerHTML = `<a href="${h.link}" target="_blank">${h.title}</a> <span class="muted">(${h.source || 'source'})</span>`;
+    gdelt.appendChild(li);
   });
+  (d.headlines.aljazeera||[]).forEach(h=>{const li=document.createElement('li'); li.innerHTML=`<a href="${h.link}" target="_blank">${h.title}</a> <span class="muted">(${h.published})</span>`; aj.appendChild(li);});
+  (d.headlines.monitor_the_situation||[]).forEach(h=>{const li=document.createElement('li'); li.innerHTML=`<a href="${h.link}" target="_blank">${h.title}</a>`; mts.appendChild(li);});
 
-  d.headlines.monitor_the_situation.forEach(h=>{
-    const li=document.createElement('li');
-    li.innerHTML = `<a href="${h.link}" target="_blank">${h.title}</a>`;
-    mts.appendChild(li);
-  });
-
-  s1.href=d.sources.aljazeera; s2.href=d.sources.monitor_the_situation; s3.href=d.sources.dubaiairports; s4.href=d.sources.mofa;
+  sg.href=d.sources.gdelt_api; s1.href=d.sources.aljazeera_rss; s2.href=d.sources.monitor_the_situation; s3.href=d.sources.dubaiairports; s4.href=d.sources.mofa;
 }).catch(()=>{updated.textContent='Failed to load data.json';});
 </script>
 </body>
