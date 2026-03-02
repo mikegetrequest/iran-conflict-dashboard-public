@@ -12,9 +12,16 @@ type DataJson = { status?: { dxb_dwc?: string; uae_posture?: string } }
 type Point = { lat: number; lng: number; size: number; color: string }
 
 const coords: Record<string, [number, number]> = {
-  Iran: [32.42, 53.68], Israel: [31.04, 34.85], UAE: [23.42, 53.84], Dubai: [25.2, 55.27],
-  Qatar: [25.35, 51.18], Bahrain: [25.93, 50.63], Kuwait: [29.31, 47.48], Lebanon: [33.85, 35.86],
-  Oman: [21.47, 55.97], Tehran: [35.68, 51.38]
+  Iran: [32.42, 53.68],
+  Israel: [31.04, 34.85],
+  UAE: [23.42, 53.84],
+  Dubai: [25.2, 55.27],
+  Qatar: [25.35, 51.18],
+  Bahrain: [25.93, 50.63],
+  Kuwait: [29.31, 47.48],
+  Lebanon: [33.85, 35.86],
+  Oman: [21.47, 55.97],
+  Tehran: [35.68, 51.38]
 }
 
 async function fetchGuardian(): Promise<FeedItem[]> {
@@ -48,7 +55,7 @@ function toPoints(items: FeedItem[]): Point[] {
         const key = `${lat},${lng}`
         if (!seen.has(key)) {
           seen.add(key)
-          out.push({ lat, lng, size: 0.35, color: '#2563eb' })
+          out.push({ lat, lng, size: 0.38, color: '#2563eb' })
         }
       }
     }
@@ -64,20 +71,38 @@ function App() {
   const points = React.useMemo(() => toPoints(items), [items])
 
   return (
-    <main className="max-w-5xl mx-auto px-4 pt-6 pb-10">
-      <div className="text-xs text-zinc-500">live / refresh 30s</div>
-      <h1 className="mt-2 text-2xl font-semibold">Iran Conflict Dashboard</h1>
-      <p className="mt-1 text-xs text-zinc-500">Type-safe React + Axios + React Query</p>
+    <main className="max-w-6xl mx-auto px-4 md:px-8 py-8">
+      <header>
+        <div className="text-sm text-zinc-500">Live - auto refresh 30s</div>
+        <h1 className="mt-2 text-4xl md:text-5xl font-semibold tracking-tight">Iran Conflict Dashboard</h1>
+        <p className="mt-2 text-sm md:text-base text-zinc-500">
+          Clean live monitor with typed React, Axios and React Query.
+          {' '}Updated: {news.dataUpdatedAt ? new Date(news.dataUpdatedAt).toLocaleString('en-GB', { hour12: false }) : 'loading...'}
+        </p>
+      </header>
 
-      <div className="mt-3 grid grid-cols-2 md:grid-cols-4 gap-2">
-        <div className="rounded-lg border border-zinc-200 p-2"><div className="text-[10px] text-zinc-500 uppercase">DXB/DWC</div><div className="text-sm font-medium text-red-600">{status.data?.status?.dxb_dwc ?? 'Loading...'}</div></div>
-        <div className="rounded-lg border border-zinc-200 p-2"><div className="text-[10px] text-zinc-500 uppercase">API items</div><div className="text-sm font-medium">{items.length}</div></div>
-        <div className="rounded-lg border border-zinc-200 p-2"><div className="text-[10px] text-zinc-500 uppercase">Source</div><div className="text-sm font-medium">Guardian API</div></div>
-        <div className="rounded-lg border border-zinc-200 p-2"><div className="text-[10px] text-zinc-500 uppercase">Posture</div><div className="text-sm font-medium text-amber-600">{status.data?.status?.uae_posture ?? 'Elevated'}</div></div>
-      </div>
+      <section className="mt-6 grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-3">
+        <div className="rounded-xl border border-zinc-200 p-4 bg-white">
+          <div className="text-xs uppercase text-zinc-500">DXB / DWC</div>
+          <div className="text-lg font-semibold text-red-600 mt-1">{status.data?.status?.dxb_dwc ?? 'Loading...'}</div>
+        </div>
+        <div className="rounded-xl border border-zinc-200 p-4 bg-white">
+          <div className="text-xs uppercase text-zinc-500">Live API items</div>
+          <div className="text-2xl font-semibold mt-1">{items.length}</div>
+        </div>
+        <div className="rounded-xl border border-zinc-200 p-4 bg-white">
+          <div className="text-xs uppercase text-zinc-500">Source</div>
+          <div className="text-lg font-semibold mt-1">Guardian API</div>
+        </div>
+        <div className="rounded-xl border border-zinc-200 p-4 bg-white">
+          <div className="text-xs uppercase text-zinc-500">UAE posture</div>
+          <div className="text-lg font-semibold text-amber-600 mt-1">{status.data?.status?.uae_posture ?? 'Elevated'}</div>
+        </div>
+      </section>
 
-      <section className="w-[100vw] relative left-1/2 right-1/2 -mx-[50vw] mt-4 border-y border-zinc-200 bg-white">
-        <div className="h-[62vh] min-h-[420px]">
+      <section className="mt-6 rounded-2xl border border-zinc-200 overflow-hidden bg-white">
+        <div className="px-4 py-3 border-b border-zinc-200 text-sm text-zinc-600">Regional activity map</div>
+        <div className="h-[420px] md:h-[520px]">
           <Globe
             globeImageUrl="https://unpkg.com/three-globe/example/img/earth-blue-marble.jpg"
             backgroundColor="#ffffff"
@@ -86,24 +111,27 @@ function App() {
             pointsData={points}
             pointColor="color"
             pointAltitude="size"
-            pointRadius={0.28}
+            pointRadius={0.3}
           />
         </div>
       </section>
 
-      <div className="mt-4">
-        <h2 className="text-sm font-semibold mb-2">Latest headlines</h2>
-        {news.isLoading && <div className="h-16 rounded-lg border border-zinc-200 bg-zinc-50 animate-pulse" />}
-        {news.isError && <div className="text-sm text-red-600">Failed to fetch live API data.</div>}
-        <div className="space-y-2">
+      <section className="mt-6">
+        <h2 className="text-xl font-semibold">Latest headlines</h2>
+        <p className="text-sm text-zinc-500 mt-1">Live items from Guardian Open Platform API.</p>
+
+        {news.isLoading && <div className="mt-3 h-20 rounded-lg border border-zinc-200 bg-zinc-50 animate-pulse" />}
+        {news.isError && <div className="mt-3 text-sm text-red-600">Failed to fetch live API data.</div>}
+
+        <div className="mt-3 space-y-2">
           {items.map((h, i) => (
-            <div key={i} className="rounded-lg border border-zinc-200 p-3 text-sm">
-              <a href={h.link} target="_blank" rel="noreferrer" className="hover:underline">{h.title}</a>
-              <div className="text-[11px] text-zinc-500 mt-1">{h.published}</div>
+            <div key={i} className="rounded-lg border border-zinc-200 p-4 bg-white">
+              <a href={h.link} target="_blank" rel="noreferrer" className="text-base font-medium hover:underline">{h.title}</a>
+              <div className="text-xs text-zinc-500 mt-2">{h.published}</div>
             </div>
           ))}
         </div>
-      </div>
+      </section>
     </main>
   )
 }
