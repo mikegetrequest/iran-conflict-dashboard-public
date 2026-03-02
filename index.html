@@ -7,7 +7,19 @@
     <script src="https://cdn.tailwindcss.com"></script>
   </head>
   <body class="bg-white text-zinc-900 antialiased">
-    <div id="root"></div>
+    <div id="root">
+      <main style="max-width:760px;margin:0 auto;padding:24px;font:14px/1.5 Inter,system-ui;color:#111;">
+        <h1 style="font-size:16px;margin:0 0 8px;">Iran Conflict Dashboard</h1>
+        <p style="margin:0;color:#666;">Loading live data…</p>
+        <p style="margin-top:10px;color:#666;">If this persists, please hard refresh or open in private tab.</p>
+      </main>
+    </div>
+    <noscript>
+      <main style="max-width:760px;margin:0 auto;padding:24px;font:14px/1.5 Inter,system-ui;color:#111;">
+        <h1 style="font-size:16px;margin:0 0 8px;">Iran Conflict Dashboard</h1>
+        <p>JavaScript is required for live updates.</p>
+      </main>
+    </noscript>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
