@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-02 23:55",
+  "updated_at_gst": "2026-03-03 01:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Spain refuses to let US use bases for Iran attacks",
+        "published": "Mon, 02 Mar 2026 20:31:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/us-israeli-strikes-hit-housing-hospitals-and-more-in-tehran?traffic_source=rss"
+      },
+      {
+        "title": "Anti-war candidates pose early test for US Democrats after attacks on Iran",
+        "published": "Mon, 02 Mar 2026 20:02:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/netanyahu-iran-would-threaten-all-of-humanity-with-nuclear-weapon?traffic_source=rss"
+      },
       {
         "title": "US and Israeli interests may soon diverge on Iran",
         "published": "Mon, 02 Mar 2026 19:10:57 +0000",
@@ -34,16 +44,6 @@
         "title": "Starmer lets US use bases for Iran clash: UK’s military, legal quagmire",
         "published": "Mon, 02 Mar 2026 16:49:11 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/speed-surprise-and-violence-of-action-how-us-launched-attack-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Lebanese civilians flee amid deadly Israeli strikes on Beirut suburbs",
-        "published": "Mon, 02 Mar 2026 16:47:10 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/starmer-says-uk-involvement-in-us-strikes-on-iran-is?traffic_source=rss"
-      },
-      {
-        "title": "Iran demands international action after attacks impact hospitals, schools",
-        "published": "Mon, 02 Mar 2026 16:18:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/qatar-halts-natural-gas-production-after-iranian-attacks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
