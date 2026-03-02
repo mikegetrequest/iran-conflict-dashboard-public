@@ -1,64 +1,73 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Iran Conflict Dashboard</title>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <style>
-    body{margin:0;background:#0b0f14;color:#e6edf3;font-family:Inter,system-ui}
-    .wrap{max-width:1080px;margin:0 auto;padding:24px}
-    .muted{color:#9fb0c3}
-    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
-    .card{background:#121923;border:1px solid #1e2936;border-radius:12px;padding:14px}
-    h1{margin:0 0 8px}
-    table{width:100%;border-collapse:collapse;background:#121923;border:1px solid #1e2936;border-radius:12px;overflow:hidden}
-    th,td{padding:10px;border-bottom:1px solid #1e2936;text-align:left;font-size:14px}
-    th{color:#9fb0c3}
-    a{color:#7cc4ff}
+    body{margin:0;font:16px/1.5 Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial;background:#fff;color:#111}
+    .c{max-width:860px;margin:0 auto;padding:28px 18px 56px}
+    h1{font-size:28px;margin:0 0 4px}
+    .muted{color:#666;font-size:14px}
+    .status{margin:18px 0;padding:12px 14px;border:1px solid #e8e8e8;border-radius:10px;background:#fafafa}
+    .pill{display:inline-block;padding:4px 8px;border-radius:999px;font-size:12px;border:1px solid #ddd;margin-right:6px}
+    h2{font-size:18px;margin:24px 0 8px}
+    ul{padding-left:18px}
+    li{margin:8px 0}
+    a{color:#111}
+    .src{font-size:12px;color:#666}
+    .line{height:1px;background:#efefef;margin:22px 0}
   </style>
 </head>
 <body>
-<div class="wrap">
+<div class="c">
   <h1>Iran Conflict Dashboard</h1>
-  <div class="muted" id="updated"></div>
+  <div class="muted" id="updated">Loading…</div>
 
-  <div class="grid" style="margin-top:12px">
-    <div class="card"><div class="muted">DXB/DWC Status</div><div id="airport" style="font-size:22px;font-weight:700"></div></div>
-    <div class="card"><div class="muted">Official UAE Posture</div><div id="posture" style="font-size:18px;font-weight:700"></div></div>
-    <div class="card"><div class="muted">Latest Headline Count</div><div id="count" style="font-size:22px;font-weight:700"></div></div>
+  <div class="status">
+    <span class="pill">DXB/DWC</span> <strong id="airport">—</strong><br/>
+    <span class="pill">UAE Posture</span> <strong id="posture">—</strong><br/>
+    <span class="pill">Note</span> <span id="note">—</span>
   </div>
 
-  <div class="card" style="margin-top:12px">
-    <h3 style="margin-top:0">Latest verified headlines</h3>
-    <ul id="headlines"></ul>
+  <h2>Al Jazeera - latest</h2>
+  <ul id="aj"></ul>
+
+  <div class="line"></div>
+
+  <h2>monitor-the-situation.com - latest lines</h2>
+  <ul id="mts"></ul>
+
+  <div class="line"></div>
+  <div class="src">
+    Sources:
+    <a id="s1" target="_blank">Al Jazeera RSS</a> ·
+    <a id="s2" target="_blank">Monitor the Situation</a> ·
+    <a id="s3" target="_blank">Dubai Airports</a> ·
+    <a id="s4" target="_blank">UAE MOFA</a>
   </div>
-
-  <canvas id="timelineChart" height="110" style="margin-top:12px;background:#121923;border:1px solid #1e2936;border-radius:12px;padding:10px"></canvas>
-
-  <h3>Event Timeline</h3>
-  <table><thead><tr><th>Time (GST)</th><th>Event</th><th>Type</th><th>Source</th></tr></thead><tbody id="tl"></tbody></table>
 </div>
-
 <script>
-fetch('./data.json').then(r=>r.json()).then(data=>{
-  document.getElementById('updated').textContent = `Updated (GST): ${data.updated_at_gst}`;
-  document.getElementById('airport').textContent = data.airport_status.dxb_dwc;
-  document.getElementById('posture').textContent = data.official_uae.posture;
-  document.getElementById('count').textContent = data.aljazeera_latest.length;
+fetch('./data.json').then(r=>r.json()).then(d=>{
+  updated.textContent = `Updated (GST): ${d.updated_at_gst}`;
+  airport.textContent = d.status.dxb_dwc;
+  posture.textContent = d.status.uae_posture;
+  note.textContent = d.status.note;
 
-  const ul=document.getElementById('headlines');
-  data.aljazeera_latest.forEach(h=>{const li=document.createElement('li'); li.innerHTML=`${h.title} <span class='muted'>(${h.published_utc})</span>`; ul.appendChild(li);});
-
-  const tbody=document.getElementById('tl');
-  data.timeline.forEach(t=>{const tr=document.createElement('tr'); tr.innerHTML=`<td>${t.time_gst}</td><td>${t.event}</td><td>${t.type}</td><td><a href='${t.source}' target='_blank'>source</a></td>`; tbody.appendChild(tr);});
-
-  new Chart(document.getElementById('timelineChart'),{
-    type:'line',
-    data:{labels:data.timeline.map(t=>t.time_gst.slice(11)),datasets:[{label:'Event markers',data:data.timeline.map((_,i)=>i+1),borderColor:'#7cc4ff',tension:.2}]},
-    options:{plugins:{legend:{labels:{color:'#e6edf3'}}},scales:{x:{ticks:{color:'#9fb0c3'}},y:{ticks:{color:'#9fb0c3',stepSize:1}}}}
+  d.headlines.aljazeera.forEach(h=>{
+    const li=document.createElement('li');
+    li.innerHTML = `<a href="${h.link}" target="_blank">${h.title}</a> <span class="muted">(${h.published})</span>`;
+    aj.appendChild(li);
   });
-});
+
+  d.headlines.monitor_the_situation.forEach(h=>{
+    const li=document.createElement('li');
+    li.innerHTML = `<a href="${h.link}" target="_blank">${h.title}</a>`;
+    mts.appendChild(li);
+  });
+
+  s1.href=d.sources.aljazeera; s2.href=d.sources.monitor_the_situation; s3.href=d.sources.dubaiairports; s4.href=d.sources.mofa;
+}).catch(()=>{updated.textContent='Failed to load data.json';});
 </script>
 </body>
 </html>
