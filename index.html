@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Iran Conflict Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body{margin:0;background:#0b0f14;color:#e6edf3;font-family:Inter,system-ui}
+    .wrap{max-width:1080px;margin:0 auto;padding:24px}
+    .muted{color:#9fb0c3}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+    .card{background:#121923;border:1px solid #1e2936;border-radius:12px;padding:14px}
+    h1{margin:0 0 8px}
+    table{width:100%;border-collapse:collapse;background:#121923;border:1px solid #1e2936;border-radius:12px;overflow:hidden}
+    th,td{padding:10px;border-bottom:1px solid #1e2936;text-align:left;font-size:14px}
+    th{color:#9fb0c3}
+    a{color:#7cc4ff}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Iran Conflict Dashboard</h1>
+  <div class="muted" id="updated"></div>
+
+  <div class="grid" style="margin-top:12px">
+    <div class="card"><div class="muted">DXB/DWC Status</div><div id="airport" style="font-size:22px;font-weight:700"></div></div>
+    <div class="card"><div class="muted">Official UAE Posture</div><div id="posture" style="font-size:18px;font-weight:700"></div></div>
+    <div class="card"><div class="muted">Latest Headline Count</div><div id="count" style="font-size:22px;font-weight:700"></div></div>
+  </div>
+
+  <div class="card" style="margin-top:12px">
+    <h3 style="margin-top:0">Latest verified headlines</h3>
+    <ul id="headlines"></ul>
+  </div>
+
+  <canvas id="timelineChart" height="110" style="margin-top:12px;background:#121923;border:1px solid #1e2936;border-radius:12px;padding:10px"></canvas>
+
+  <h3>Event Timeline</h3>
+  <table><thead><tr><th>Time (GST)</th><th>Event</th><th>Type</th><th>Source</th></tr></thead><tbody id="tl"></tbody></table>
+</div>
+
+<script>
+fetch('./data.json').then(r=>r.json()).then(data=>{
+  document.getElementById('updated').textContent = `Updated (GST): ${data.updated_at_gst}`;
+  document.getElementById('airport').textContent = data.airport_status.dxb_dwc;
+  document.getElementById('posture').textContent = data.official_uae.posture;
+  document.getElementById('count').textContent = data.aljazeera_latest.length;
+
+  const ul=document.getElementById('headlines');
+  data.aljazeera_latest.forEach(h=>{const li=document.createElement('li'); li.innerHTML=`${h.title} <span class='muted'>(${h.published_utc})</span>`; ul.appendChild(li);});
+
+  const tbody=document.getElementById('tl');
+  data.timeline.forEach(t=>{const tr=document.createElement('tr'); tr.innerHTML=`<td>${t.time_gst}</td><td>${t.event}</td><td>${t.type}</td><td><a href='${t.source}' target='_blank'>source</a></td>`; tbody.appendChild(tr);});
+
+  new Chart(document.getElementById('timelineChart'),{
+    type:'line',
+    data:{labels:data.timeline.map(t=>t.time_gst.slice(11)),datasets:[{label:'Event markers',data:data.timeline.map((_,i)=>i+1),borderColor:'#7cc4ff',tension:.2}]},
+    options:{plugins:{legend:{labels:{color:'#e6edf3'}}},scales:{x:{ticks:{color:'#9fb0c3'}},y:{ticks:{color:'#9fb0c3',stepSize:1}}}}
+  });
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+{
+  "updated_at_gst": "2026-03-02 14:05",
+  "airport_status": {
+    "dxb_dwc": "Suspended until further notice",
+    "source": "https://www.dubaiairports.ae/",
+    "note": "Passenger advisory says do not travel to airport; contact airlines directly."
+  },
+  "official_uae": {
+    "posture": "Elevated diplomatic/security posture",
+    "latest_actions": [
+      "UAE summoned Iran's ambassador and delivered protest note (2 Mar)",
+      "UAE embassy in Tehran closed; mission withdrawn (1 Mar)"
+    ],
+    "source": "https://www.mofa.gov.ae/en"
+  },
+  "aljazeera_latest": [
+    {
+      "title": "Oil prices rise sharply after US, Israeli attacks on Iran",
+      "published_utc": "2026-03-02T09:27:13Z",
+      "source": "https://www.aljazeera.com/news/"
+    },
+    {
+      "title": "What we know on day three of US-Israeli attacks on Iran",
+      "published_utc": "2026-03-02T08:31:00Z",
+      "source": "https://www.aljazeera.com/news/"
+    },
+    {
+      "title": "Blasts shake Qatar, UAE, Kuwait as Iran's retaliatory strikes continue",
+      "published_utc": "2026-03-02T07:16:41Z",
+      "source": "https://www.aljazeera.com/news/"
+    },
+    {
+      "title": "Netanyahu vows increasing strikes on Tehran",
+      "published_utc": "2026-03-02T01:30:49Z",
+      "source": "https://www.aljazeera.com/news/"
+    }
+  ],
+  "timeline": [
+    {"time_gst":"2026-02-28 16:05", "event":"DXB/DWC operations suspended advisory posted", "type":"aviation", "source":"https://www.dubaiairports.ae/"},
+    {"time_gst":"2026-03-01 00:00", "event":"Regional retaliation cycle intensifies (open-source reporting)", "type":"conflict", "source":"https://www.aljazeera.com/news/"},
+    {"time_gst":"2026-03-01 12:00", "event":"UAE embassy Tehran closure announced", "type":"diplomatic", "source":"https://www.mofa.gov.ae/en"},
+    {"time_gst":"2026-03-02 09:00", "event":"UAE summons Iranian ambassador", "type":"diplomatic", "source":"https://www.mofa.gov.ae/en"}
+  ]
+}
