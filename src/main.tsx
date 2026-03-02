@@ -14,6 +14,22 @@ type Point = { lat: number; lng: number; size: number; color: string }
 
 const http = axios.create({ timeout: 12000 })
 
+
+
+const relevancePattern = /(iran|israel|uae|dubai|qatar|bahrain|kuwait|tehran|hezbollah|lebanon|missile|strike|attack|airspace|airport|dxb|dwc)/i
+
+function isRelevant(title: string): boolean {
+  return relevancePattern.test(title)
+}
+
+function priorityScore(title: string): number {
+  const t = title.toLowerCase()
+  let score = 0
+  ;['dubai','uae','dxb','dwc','airspace','airport','missile','strike','attack','qatar','bahrain','kuwait','tehran','hezbollah','lebanon'].forEach(k=>{ if(t.includes(k)) score += 2 })
+  if(t.includes('live')) score += 1
+  return score
+}
+
 const coords: Record<string, [number, number]> = {
   Iran: [32.42, 53.68], Israel: [31.04, 34.85], UAE: [23.42, 53.84], Dubai: [25.2, 55.27],
   Qatar: [25.35, 51.18], Bahrain: [25.93, 50.63], Kuwait: [29.31, 47.48],
@@ -28,7 +44,9 @@ async function fetchGuardian(): Promise<FeedItem[]> {
     'api-key': 'test'
   })
   const { data } = await http.get<GuardianResp>(`https://content.guardianapis.com/search?${params.toString()}`)
-  return (data.response?.results ?? []).map((x) => ({ title: x.webTitle, link: x.webUrl, published: x.webPublicationDate, source: 'The Guardian' }))
+  return (data.response?.results ?? [])
+    .map((x) => ({ title: x.webTitle, link: x.webUrl, published: x.webPublicationDate, source: 'The Guardian' }))
+    .filter((x) => isRelevant(x.title))
 }
 
 async function fetchGDELT(): Promise<FeedItem[]> {
@@ -57,8 +75,8 @@ async function fetchDynamicStatus(): Promise<DynamicStatus> {
     http.get<string>('https://r.jina.ai/http://www.mofa.gov.ae/en', { responseType: 'text' }).then((r) => r.data).catch(() => '')
   ])
   return {
-    airportLine: pickLine(airportRaw, [/dxb/i, /dwc/i, /suspend/i, /airport/i], 'Airport status unavailable right now.'),
-    mofaLine: pickLine(mofaRaw, [/iran/i, /ambassador/i, /embassy/i, /condemn/i, /statement/i], 'MOFA line unavailable right now.')
+    airportLine: pickLine(airportRaw, [/dxb/i, /dwc/i, /suspend/i, /operations/i, /travel to the airport/i, /advisory/i], 'Airport status unavailable right now.'),
+    mofaLine: pickLine(mofaRaw, [/summon/i, /ambassador/i, /embassy/i, /iran/i, /condemn/i, /protest note/i], 'MOFA line unavailable right now.')
   }
 }
 
@@ -75,7 +93,7 @@ function mergeAndDedup(feeds: FeedItem[][]): FeedItem[] {
     const key = `${item.title}::${item.link}`
     if (!seen.has(key)) { seen.add(key); merged.push(item) }
   })
-  return merged.slice(0, 36)
+  return merged.sort((a,b)=>{const ps=priorityScore(b.title)-priorityScore(a.title); if(ps!==0) return ps; return (new Date(b.published||0).getTime())-(new Date(a.published||0).getTime());}).slice(0, 20)
 }
 
 function toPoints(items: FeedItem[]): Point[] {
@@ -159,6 +177,15 @@ function App() {
             pointAltitude="size"
             pointRadius={0.3}
           />
+        </div>
+      </section>
+
+      <section className="mt-5">
+        <h2 className="text-[16px] font-semibold">Quick read</h2>
+        <div className="mt-2 border border-zinc-200 rounded-md p-3 text-zinc-700">
+          <div><strong>Airport:</strong> {status?.airportLine ?? 'Loading...'}</div>
+          <div className="mt-1"><strong>MOFA:</strong> {status?.mofaLine ?? 'Loading...'}</div>
+          <div className="mt-1"><strong>Top signal:</strong> {items[0]?.title ?? 'No fresh conflict headline yet.'}</div>
         </div>
       </section>
 
