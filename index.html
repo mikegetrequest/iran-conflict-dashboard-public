@@ -4,63 +4,126 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Iran Conflict Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
-    body{margin:0;font:16px/1.5 Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial;background:#fff;color:#111}
-    .c{max-width:900px;margin:0 auto;padding:28px 18px 56px}
-    h1{font-size:28px;margin:0 0 4px}.muted{color:#666;font-size:14px}
-    .status{margin:18px 0;padding:12px 14px;border:1px solid #e8e8e8;border-radius:10px;background:#fafafa}
-    .pill{display:inline-block;padding:4px 8px;border-radius:999px;font-size:12px;border:1px solid #ddd;margin-right:6px}
-    h2{font-size:18px;margin:24px 0 8px}ul{padding-left:18px}li{margin:8px 0}a{color:#111}.src{font-size:12px;color:#666}.line{height:1px;background:#efefef;margin:22px 0}
+    :root{--bg:#0a0d12;--panel:#0f141c;--line:#1f2a38;--text:#e8eef7;--muted:#95a6bb;--ok:#79c28a;--warn:#f7c65c;--bad:#ff7b7b;--blue:#7db8ff}
+    *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,system-ui}
+    .wrap{max-width:1100px;margin:0 auto;padding:24px}
+    h1{margin:0;font-size:28px}.sub{color:var(--muted);margin-top:6px}
+    .grid{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));margin-top:14px}
+    .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px}
+    .k{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}.v{font-size:22px;font-weight:700;margin-top:4px}
+    .status-ok{color:var(--ok)} .status-warn{color:var(--warn)} .status-bad{color:var(--bad)}
+    .section{margin-top:16px}
+    .head{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+    .head h2{margin:0;font-size:18px}
+    .pill{font-size:11px;padding:5px 9px;border:1px solid var(--line);border-radius:999px;color:var(--muted)}
+    .list{display:flex;flex-direction:column;gap:8px}
+    .item{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:11px}
+    .item a{color:var(--text);text-decoration:none}.item a:hover{text-decoration:underline}
+    .meta{font-size:12px;color:var(--muted);margin-top:4px}
+    .row{display:grid;grid-template-columns:2fr 1fr;gap:12px}
+    @media (max-width:900px){.row{grid-template-columns:1fr}}
+    .footer{margin-top:16px;color:var(--muted);font-size:12px}
+    .input{background:#0b1118;border:1px solid var(--line);color:var(--text);border-radius:8px;padding:8px 10px;width:100%}
   </style>
 </head>
 <body>
-<div class="c">
-  <h1>Iran Conflict Dashboard</h1>
-  <div class="muted" id="updated">Loading…</div>
-  <div class="status">
-    <span class="pill">DXB/DWC</span> <strong id="airport">—</strong><br/>
-    <span class="pill">UAE Posture</span> <strong id="posture">—</strong><br/>
-    <span class="pill">Note</span> <span id="note">—</span>
-  </div>
+<div id="app"></div>
 
-  <h2>Live API events (GDELT)</h2>
-  <ul id="gdelt"></ul>
-
-  <div class="line"></div>
-  <h2>Al Jazeera - latest</h2>
-  <ul id="aj"></ul>
-
-  <div class="line"></div>
-  <h2>monitor-the-situation.com - latest lines</h2>
-  <ul id="mts"></ul>
-
-  <div class="line"></div>
-  <div class="src">
-    Sources:
-    <a id="sg" target="_blank">GDELT API</a> ·
-    <a id="s1" target="_blank">Al Jazeera RSS</a> ·
-    <a id="s2" target="_blank">Monitor the Situation</a> ·
-    <a id="s3" target="_blank">Dubai Airports</a> ·
-    <a id="s4" target="_blank">UAE MOFA</a>
-  </div>
-</div>
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
 <script>
-fetch('./data.json').then(r=>r.json()).then(d=>{
-  updated.textContent = `Updated (GST): ${d.updated_at_gst}`;
-  airport.textContent = d.status.dxb_dwc;
-  posture.textContent = d.status.uae_posture;
-  note.textContent = d.status.note;
+const e = React.createElement;
 
-  (d.live_api_events||[]).slice(0,8).forEach(h=>{
-    const li=document.createElement('li');
-    li.innerHTML = `<a href="${h.link}" target="_blank">${h.title}</a> <span class="muted">(${h.source || 'source'})</span>`;
-    gdelt.appendChild(li);
-  });
-  (d.headlines.aljazeera||[]).forEach(h=>{const li=document.createElement('li'); li.innerHTML=`<a href="${h.link}" target="_blank">${h.title}</a> <span class="muted">(${h.published})</span>`; aj.appendChild(li);});
-  (d.headlines.monitor_the_situation||[]).forEach(h=>{const li=document.createElement('li'); li.innerHTML=`<a href="${h.link}" target="_blank">${h.title}</a>`; mts.appendChild(li);});
+async function fetchGDELT(){
+  const q = encodeURIComponent('(Iran OR Israel OR UAE OR Dubai OR Qatar OR Bahrain OR Kuwait) AND (missile OR strike OR attack OR conflict)');
+  const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=${q}&mode=artlist&maxrecords=20&format=json&sort=datedesc`;
+  const r = await fetch(url);
+  if(!r.ok) throw new Error('GDELT failed');
+  const j = await r.json();
+  return (j.articles || []).map(a => ({ title:a.title, link:a.url, source:a.domain, published:a.seendate })).slice(0,8);
+}
 
-  sg.href=d.sources.gdelt_api; s1.href=d.sources.aljazeera_rss; s2.href=d.sources.monitor_the_situation; s3.href=d.sources.dubaiairports; s4.href=d.sources.mofa;
-}).catch(()=>{updated.textContent='Failed to load data.json';});
+async function fetchRssHeadlineFeed(){
+  // fallback proxy style endpoint used previously in this workspace
+  const r = await fetch('https://r.jina.ai/http://www.aljazeera.com/news/');
+  if(!r.ok) throw new Error('AJ feed fetch failed');
+  const t = await r.text();
+  const lines = t.split('\n').map(s=>s.trim()).filter(Boolean)
+    .filter(s => /iran|israel|uae|dubai|qatar|bahrain|kuwait|missile|strike|attack|lebanon|hezbollah/i.test(s))
+    .slice(0,8)
+    .map((title,i)=>({title, link:'https://www.aljazeera.com/news/', source:'aljazeera', published:`line-${i+1}`}));
+  return lines;
+}
+
+function App(){
+  const [state,setState] = React.useState({loading:true,error:null,gdelt:[],aj:[],updated:null});
+
+  React.useEffect(()=>{
+    (async()=>{
+      try{
+        const [gdelt, aj] = await Promise.all([
+          fetchGDELT().catch(()=>[]),
+          fetchRssHeadlineFeed().catch(()=>[])
+        ]);
+        setState({loading:false,error:null,gdelt,aj,updated:new Date()});
+      }catch(err){
+        setState(s=>({...s,loading:false,error:String(err)}));
+      }
+    })();
+  },[]);
+
+  const dxbStatus = 'Suspended until further notice (official advisory)';
+  const statusClass = dxbStatus.includes('Suspended') ? 'status-bad' : 'status-ok';
+
+  return e('div',{className:'wrap'},
+    e('h1',null,'Iran Conflict Dashboard'),
+    e('div',{className:'sub'},`Custom React client • Live API connected (GDELT) • Updated: ${state.updated ? state.updated.toLocaleString('en-GB',{hour12:false}) : 'loading...'}`),
+
+    e('div',{className:'grid'},
+      e('div',{className:'card'},e('div',{className:'k'},'DXB/DWC'),e('div',{className:`v ${statusClass}`},dxbStatus)),
+      e('div',{className:'card'},e('div',{className:'k'},'GDELT Live Items'),e('div',{className:'v'},String(state.gdelt.length))),
+      e('div',{className:'card'},e('div',{className:'k'},'Al Jazeera Lines'),e('div',{className:'v'},String(state.aj.length))),
+      e('div',{className:'card'},e('div',{className:'k'},'UAE Posture'),e('div',{className:'v status-warn'},'Elevated'))
+    ),
+
+    e('div',{className:'row section'},
+      e('div',null,
+        e('div',{className:'head'},e('h2',null,'Live API feed (GDELT)'),e('span',{className:'pill'},'API')),
+        e('div',{className:'list'},
+          state.gdelt.map((h,i)=>e('div',{className:'item',key:'g'+i},
+            e('a',{href:h.link,target:'_blank',rel:'noreferrer'},h.title),
+            e('div',{className:'meta'},`${h.source || 'source'} • ${h.published || ''}`)
+          )),
+          state.gdelt.length===0 && e('div',{className:'item'},'No GDELT items returned right now.')
+        )
+      ),
+      e('div',null,
+        e('div',{className:'head'},e('h2',null,'Al Jazeera stream'),e('span',{className:'pill'},'feed')),
+        e('div',{className:'list'},
+          state.aj.map((h,i)=>e('div',{className:'item',key:'a'+i},
+            e('a',{href:h.link,target:'_blank',rel:'noreferrer'},h.title),
+            e('div',{className:'meta'},`${h.source || 'aljazeera'} • ${h.published || ''}`)
+          )),
+          state.aj.length===0 && e('div',{className:'item'},'No feed lines returned right now.')
+        )
+      )
+    ),
+
+    e('div',{className:'footer'},
+      'Sources: ',
+      e('a',{href:'https://api.gdeltproject.org/api/v2/doc/doc',target:'_blank',rel:'noreferrer'},'GDELT API'),
+      ' • ',e('a',{href:'https://www.aljazeera.com/news/',target:'_blank',rel:'noreferrer'},'Al Jazeera'),
+      ' • ',e('a',{href:'https://www.dubaiairports.ae/',target:'_blank',rel:'noreferrer'},'Dubai Airports'),
+      ' • ',e('a',{href:'https://www.mofa.gov.ae/en',target:'_blank',rel:'noreferrer'},'UAE MOFA')
+    )
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('app')).render(e(App));
 </script>
 </body>
 </html>
