@@ -35,15 +35,29 @@ function topLinesFromHTML(html, max=6){
 }
 
 async function gdeltEvents(max=8){
-  const q = encodeURIComponent('("Iran" OR "Israel" OR "UAE" OR "Dubai" OR "Qatar" OR "Bahrain" OR "Kuwait") AND (missile OR strike OR attack OR conflict)');
-  const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=${q}&mode=artlist&maxrecords=${max}&format=json&sort=datedesc`;
-  const j = await getJson(url);
-  const arts = (j.articles || []).map(a => ({
+  const strictQ = encodeURIComponent('("Iran" OR "Israel" OR "UAE" OR "Dubai" OR "Qatar" OR "Bahrain" OR "Kuwait") AND (missile OR strike OR attack OR conflict)');
+  const broadQ = encodeURIComponent('("Iran" OR "Israel" OR "UAE" OR "Dubai" OR "Qatar" OR "Bahrain" OR "Kuwait")');
+
+  const strictUrl = `https://api.gdeltproject.org/api/v2/doc/doc?query=${strictQ}&mode=artlist&maxrecords=${max}&format=json&sort=datedesc`;
+  let j = await getJson(strictUrl).catch(() => ({ articles: [] }));
+  let arts = (j.articles || []).map(a => ({
     title: a.title,
     source: a.domain,
-    published: a.seendate || a.socialimage || '',
+    published: a.seendate || '',
     link: a.url
   }));
+
+  if (!arts.length) {
+    const broadUrl = `https://api.gdeltproject.org/api/v2/doc/doc?query=${broadQ}&mode=artlist&maxrecords=${max}&format=json&sort=datedesc`;
+    j = await getJson(broadUrl).catch(() => ({ articles: [] }));
+    arts = (j.articles || []).map(a => ({
+      title: a.title,
+      source: a.domain,
+      published: a.seendate || '',
+      link: a.url
+    }));
+  }
+
   return arts;
 }
 
