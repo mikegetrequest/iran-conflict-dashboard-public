@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-03 02:52",
+  "updated_at_gst": "2026-03-03 03:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran says will attack any ship trying to pass through Strait of Hormuz",
+        "published": "Mon, 02 Mar 2026 23:09:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/new-wave-of-heavy-israeli-strikes-hit-tehran?traffic_source=rss"
+      },
       {
         "title": "What dangers does the Iran war pose for Israel?",
         "published": "Mon, 02 Mar 2026 21:38:51 +0000",
@@ -39,11 +44,6 @@
         "title": "Why QatarEnergy’s LNG production halt could shake up global gas markets",
         "published": "Mon, 02 Mar 2026 18:39:11 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/trump-this-was-the-best-chance-to-strike-irans-sick-and-sinister?traffic_source=rss"
-      },
-      {
-        "title": "How the US hit Iran with a banned AI",
-        "published": "Mon, 02 Mar 2026 17:28:44 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/3/2/protests-across-india-against-khameneis-killing?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
