@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-03 23:31",
+  "updated_at_gst": "2026-03-04 01:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,26 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Trump mulls exiled Iranian dissident Reza Pahlavi as regime successor",
+        "published": "Tue, 03 Mar 2026 20:49:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/3/us-midterm-primary-season-kicks-off-in-shadow-of-iran-war?traffic_source=rss"
+      },
+      {
+        "title": "US will provide insurance for ships in Gulf amid Iranian attacks: Trump",
+        "published": "Tue, 03 Mar 2026 20:22:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/3/uk-sending-warship-helicopters-to-cyprus-after-drone-attack?traffic_source=rss"
+      },
+      {
+        "title": "Flames, smoke rise from US Consulate in Dubai after suspected attack",
+        "published": "Tue, 03 Mar 2026 20:15:17 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/iran-mourns-165-girls-staff-killed-in-us-israel-strike-on-minab-school?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Iran navy, air force destroyed, Germany ‘helping out’",
+        "published": "Tue, 03 Mar 2026 19:38:16 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/3/no-quick-victory-leaves-trump-scrambling-to-define-success-in-iran?traffic_source=rss"
+      },
+      {
         "title": "Why is Iran striking Gulf Arab countries so hard?",
         "published": "Tue, 03 Mar 2026 19:15:00 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/school-turned-into-shelter-for-families-displaced-in-southern-lebanon?traffic_source=rss"
@@ -24,26 +44,6 @@
         "title": "Trump contradicts Rubio, says Israel didn’t force him to launch war",
         "published": "Tue, 03 Mar 2026 17:35:39 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/iran-warns-european-countries-from-joining-the-war?traffic_source=rss"
-      },
-      {
-        "title": "NATO Chief welcomes Iran leader’s death",
-        "published": "Tue, 03 Mar 2026 16:57:58 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/3/uae-tennis-tournament-suspended-after-drone-interception-sparks-fire?traffic_source=rss"
-      },
-      {
-        "title": "Babies evacuated from Iranian hospital damaged in US-Israeli strikes",
-        "published": "Tue, 03 Mar 2026 15:11:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/3/iaea-confirms-some-damage-to-irans-natanz-nuclear-facility?traffic_source=rss"
-      },
-      {
-        "title": "Inside the US-Israel plan to assassinate Iran’s Khamenei",
-        "published": "Tue, 03 Mar 2026 14:48:18 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/qatar-says-it-downed-iranian-missiles-targeting-its-airport?traffic_source=rss"
-      },
-      {
-        "title": "Iran shows government buildings destroyed by US-Israeli strikes",
-        "published": "Tue, 03 Mar 2026 14:31:18 +0000",
-        "link": "https://www.aljazeera.com/features/2026/3/3/lebanons-ban-on-hezbollah-activities-bold-but-difficult-to-implement?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
