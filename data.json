@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-03 18:12",
+  "updated_at_gst": "2026-03-03 21:09",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Questions over Minab girls’ school strike as Israel, US deny involvement",
-        "published": "Tue, 03 Mar 2026 13:20:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/3/analysis-trumps-foreign-policy-message-in-a-nutshell-we-can-reach-you?traffic_source=rss"
+        "title": "UAE tennis tournament suspended after drone interception sparks fire",
+        "published": "Tue, 03 Mar 2026 16:42:24 +0000",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/3/ships-now-fear-crossing-the-strait-of-hormuz?traffic_source=rss"
       },
       {
-        "title": "Qatar says Iran didn’t warn of missile attacks, no comms with Tehran",
-        "published": "Tue, 03 Mar 2026 12:54:50 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/thousands-flee-to-syria-over-israeli-attacks-in-lebanon?traffic_source=rss"
+        "title": "IAEA confirms buildings damaged at Iran’s Natanz nuclear facility",
+        "published": "Tue, 03 Mar 2026 14:49:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/3/inside-the-us-israel-plan-to-assassinate-irans-khamenei?traffic_source=rss"
       },
       {
-        "title": "UN chief warns of Israeli-made humanitarian crisis in Gaza amid war on Iran",
-        "published": "Tue, 03 Mar 2026 11:56:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/dubai-hotel-guests-shelter-in-car-park-as-iran-attacks?traffic_source=rss"
+        "title": "Qatar says it downed Iranian missiles targeting its airport",
+        "published": "Tue, 03 Mar 2026 14:40:52 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/iran-shows-government-buildings-destroyed-by-us-israeli-strikes?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s ban on Hezbollah ‘activities’: bold but difficult to implement",
+        "published": "Tue, 03 Mar 2026 14:27:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/3/is-iran-expanding-attacks-to-target-energy-and-civilian-sites-in-the-gulf?traffic_source=rss"
+      },
+      {
+        "title": "‘Russian oil will be sought’: What are Moscow’s gains from the war in Iran?",
+        "published": "Tue, 03 Mar 2026 13:44:49 +0000",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/3/us-president-has-the-authority-to-act-for-imminent-threats-against-the?traffic_source=rss"
+      },
+      {
+        "title": "Israel launches strikes on Beirut as troops advance into southern Lebanon",
+        "published": "Tue, 03 Mar 2026 13:22:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/3/questions-over-minab-girls-school-strike-as-israel-us-deny-involvement?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
