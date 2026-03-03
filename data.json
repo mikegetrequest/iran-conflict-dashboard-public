@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-03 09:07",
+  "updated_at_gst": "2026-03-03 11:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US claims destroyed IRGC command centre, more Israel attacks on Tehran",
+        "published": "Tue, 03 Mar 2026 07:11:10 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/3/real-madrid-defeated-by-getafe-to-fall-four-points-behind-barca-in-la-liga?traffic_source=rss"
+      },
+      {
+        "title": "What we know on day four of US-Israeli attacks on Iran",
+        "published": "Tue, 03 Mar 2026 06:27:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/3/israel-strikes-lebanons-beirut-again-hezbollah-launches-drones-at-israel?traffic_source=rss"
+      },
+      {
+        "title": "Asia’s stock markets plunge amid US-Israeli conflict with Iran",
+        "published": "Tue, 03 Mar 2026 06:11:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/3/nepals-gen-z-threw-out-old-parties-will-it-vote-for-them-in-key-election?traffic_source=rss"
+      },
+      {
+        "title": "As bombing continues, Israel’s war aim in Iran becomes clear: Regime change",
+        "published": "Tue, 03 Mar 2026 05:08:53 +0000",
+        "link": "https://www.aljazeera.com/features/2026/3/3/who-is-ali-larijani-the-iranian-official-promising-a-lesson-to-the-us?traffic_source=rss"
+      },
+      {
         "title": "UAE resumes limited flights amid travel chaos across Middle East",
         "published": "Tue, 03 Mar 2026 04:39:43 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/3/iran-to-do-utmost-to-protect-chinas-citizens-amid-us-israel-attacks-fm?traffic_source=rss"
       },
       {
-        "title": "How much could the Iran war cost the US? Here’s what we know",
-        "published": "Tue, 03 Mar 2026 01:44:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/golestan-palace-majorly-damaged-in-us-israeli-strikes-on-tehran?traffic_source=rss"
-      },
-      {
-        "title": "Melania Trump chairs UN meeting on children days after Iran school strike",
-        "published": "Tue, 03 Mar 2026 00:45:37 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/un-chief-calls-for-way-out-of-iran-war?traffic_source=rss"
-      },
-      {
-        "title": "US’s Rubio tries to justify attacks on Iran as driven by self-defence",
-        "published": "Tue, 03 Mar 2026 00:13:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/3/us-urges-citizens-to-immediately-leave-over-a-dozen-middle-east-countries?traffic_source=rss"
-      },
-      {
-        "title": "Iran live: US embassy in Riyadh hit; Tehran closes Strait of Hormuz",
-        "published": "Tue, 03 Mar 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/iranian-missiles-interceptions-seen-over-israel?traffic_source=rss"
-      },
-      {
-        "title": "Witness describes Israeli-US ‘double-tap’ strike on downtown Tehran",
-        "published": "Mon, 02 Mar 2026 23:55:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/2/iran-says-will-attack-any-ship-trying-to-pass-through-strait-of-hormuz?traffic_source=rss"
+        "title": "US Embassy in Riyadh hit by drones, Iran claims strike on US’s Bahrain base",
+        "published": "Tue, 03 Mar 2026 02:35:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/us-kamikaze-drone-found-on-farmland-in-iraq?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
