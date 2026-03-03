@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-03 11:52",
+  "updated_at_gst": "2026-03-03 14:04",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US claims destroyed IRGC command centre, more Israel attacks on Tehran",
-        "published": "Tue, 03 Mar 2026 07:11:10 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/3/real-madrid-defeated-by-getafe-to-fall-four-points-behind-barca-in-la-liga?traffic_source=rss"
+        "title": "Israeli strikes in Beirut as Hezbollah launches drones at Israel",
+        "published": "Tue, 03 Mar 2026 09:03:27 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/3/iran-holds-mass-funeral-for-girls-staff-killed-in-us-israel-school-attack?traffic_source=rss"
       },
       {
-        "title": "What we know on day four of US-Israeli attacks on Iran",
-        "published": "Tue, 03 Mar 2026 06:27:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/3/israel-strikes-lebanons-beirut-again-hezbollah-launches-drones-at-israel?traffic_source=rss"
+        "title": "Video: Top Democrat says there was no imminent threat to the US from Iran",
+        "published": "Tue, 03 Mar 2026 08:44:09 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/us-speaker-says-us-had-to-attack-iran-after-israel-did?traffic_source=rss"
       },
       {
-        "title": "Asia’s stock markets plunge amid US-Israeli conflict with Iran",
-        "published": "Tue, 03 Mar 2026 06:11:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/3/nepals-gen-z-threw-out-old-parties-will-it-vote-for-them-in-key-election?traffic_source=rss"
+        "title": "How Russia could benefit from the US-Israeli war on Iran",
+        "published": "Tue, 03 Mar 2026 06:27:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/3/what-we-know-on-day-four-of-us-israeli-attacks-on-iran?traffic_source=rss"
       },
       {
-        "title": "As bombing continues, Israel’s war aim in Iran becomes clear: Regime change",
-        "published": "Tue, 03 Mar 2026 05:08:53 +0000",
-        "link": "https://www.aljazeera.com/features/2026/3/3/who-is-ali-larijani-the-iranian-official-promising-a-lesson-to-the-us?traffic_source=rss"
+        "title": "Israel strikes Lebanon’s Beirut again; Hezbollah launches drones at Israel",
+        "published": "Tue, 03 Mar 2026 06:12:31 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/3/asias-stock-markets-plunge-amid-us-israeli-conflict-with-iran?traffic_source=rss"
       },
       {
-        "title": "UAE resumes limited flights amid travel chaos across Middle East",
-        "published": "Tue, 03 Mar 2026 04:39:43 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/3/iran-to-do-utmost-to-protect-chinas-citizens-amid-us-israel-attacks-fm?traffic_source=rss"
+        "title": "Who is Ali Larijani, the Iranian official promising a ‘lesson’ to the US?",
+        "published": "Tue, 03 Mar 2026 05:07:57 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/3/uae-resumes-limited-flights-amid-travel-chaos-across-middle-east?traffic_source=rss"
       },
       {
-        "title": "US Embassy in Riyadh hit by drones, Iran claims strike on US’s Bahrain base",
-        "published": "Tue, 03 Mar 2026 02:35:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/us-kamikaze-drone-found-on-farmland-in-iraq?traffic_source=rss"
+        "title": "Iran to do ‘utmost’ to protect China’s citizens amid US-Israel attacks: FM",
+        "published": "Tue, 03 Mar 2026 04:10:54 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/3/shutdown-of-hormuz-strait-raises-fears-of-soaring-oil-prices?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
