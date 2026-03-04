@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-04 13:08",
+  "updated_at_gst": "2026-03-04 15:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,26 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "After Iran’s warning, Europe fails to unite on war launched by US, Israel",
+        "published": "Wed, 04 Mar 2026 10:33:54 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/4/israeli-air-attack-hits-beirut-during-live-report?traffic_source=rss"
+      },
+      {
+        "title": "How Iran fights an imposed war",
+        "published": "Wed, 04 Mar 2026 10:11:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/4/iranian-missile-hits-base-housing-us-troops-in-qatar?traffic_source=rss"
+      },
+      {
+        "title": "‘We were just praying’: Pakistani students recount escape from war-hit Iran",
+        "published": "Wed, 04 Mar 2026 09:58:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/4/huge-column-of-smoke-seen-over-western-tehran?traffic_source=rss"
+      },
+      {
+        "title": "Iranians to bid farewell to Khamenei as Israel threatens to kill successor",
+        "published": "Wed, 04 Mar 2026 09:27:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/4/hundreds-of-drones-target-kuwait-iraq-saudi-arabia-uae-amid-iran-war?traffic_source=rss"
+      },
+      {
         "title": "Analyst says interest in Epstein files plummeted after war on Iran launched",
         "published": "Wed, 04 Mar 2026 08:38:20 +0000",
         "link": "https://www.aljazeera.com/features/2026/3/4/will-the-us-put-boots-on-the-ground-in-iran?traffic_source=rss"
@@ -24,26 +44,6 @@
         "title": "What we know on day five of US-Israeli attacks on Iran",
         "published": "Wed, 04 Mar 2026 08:30:37 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/4/irgc-says-iran-in-complete-control-of-strait-of-hormuz-amid-trump-threats?traffic_source=rss"
-      },
-      {
-        "title": "Trump says Iran leader alternatives mostly killed",
-        "published": "Wed, 04 Mar 2026 08:18:52 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/4/israeli-air-attack-targets-hotel-in-beirut?traffic_source=rss"
-      },
-      {
-        "title": "How long can Israel sustain a military conflict with Iran?",
-        "published": "Wed, 04 Mar 2026 08:01:48 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/4/destruction-seen-after-attack-on-irans-assembly-of-experts-building?traffic_source=rss"
-      },
-      {
-        "title": "Israel, Iran continue attacks as war enters its fifth day, engulfs region",
-        "published": "Wed, 04 Mar 2026 06:48:45 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/4/south-koreas-stock-market-in-meltdown-amid-us-iran-war?traffic_source=rss"
-      },
-      {
-        "title": "The Iran strikes could become a midterm reckoning – for Trump and Israel",
-        "published": "Wed, 04 Mar 2026 06:18:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/4/russia-china-raise-diplomatic-voices-against-us-israeli-attacks-on-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
