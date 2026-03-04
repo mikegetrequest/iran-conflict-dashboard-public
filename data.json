@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-04 08:56",
+  "updated_at_gst": "2026-03-04 11:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israeli forces bomb hotel in Beirut, residential building in Lebanon’s east",
+        "published": "Wed, 04 Mar 2026 06:53:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/4/israel-iran-continue-attacks-as-war-enters-its-fifth-day-engulfs-region?traffic_source=rss"
+      },
+      {
+        "title": "South Korea’s stock market in meltdown amid US-Iran war",
+        "published": "Wed, 04 Mar 2026 06:19:27 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/3/4/the-iran-strikes-could-become-a-midterm-reckoning-for-trump-and-israel?traffic_source=rss"
+      },
+      {
         "title": "Russia, China raise diplomatic voices against US-Israeli attacks on Iran",
         "published": "Wed, 04 Mar 2026 03:03:12 +0000",
         "link": "https://www.aljazeera.com/economy/2026/3/4/us-commerce-secretary-lutnick-to-testify-before-congress-about-epstein-ties?traffic_source=rss"
@@ -31,19 +41,9 @@
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/4/macron-warns-israel-against-lebanon-invasion?traffic_source=rss"
       },
       {
-        "title": "Iran live news: US consulate in Dubai hit; Israel pounds Tehran, Beirut",
+        "title": "Iran live news: Trump under fire from Democrats, Israel pounds Lebanon",
         "published": "Wed, 04 Mar 2026 00:00:26 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/unpacking-us-justification-for-iran-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Spain baulks at Trump’s threat to cut off all trade over NATO, Iran stance",
-        "published": "Tue, 03 Mar 2026 22:00:46 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/3/travellers-stranded-airlines-under-pressure-as-iran-war-escalates?traffic_source=rss"
-      },
-      {
-        "title": "Rubio says Iran was ‘playing’ US in negotiations",
-        "published": "Tue, 03 Mar 2026 21:28:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/3/oman-calls-for-immediate-ceasefire-says-off-ramps?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
