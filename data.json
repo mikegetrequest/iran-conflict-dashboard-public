@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-05 09:04",
+  "updated_at_gst": "2026-03-05 11:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war: What is happening on day six of US-Israel attacks?",
+        "published": "Thu, 05 Mar 2026 07:10:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/5/israeli-strikes-hit-beirut-amid-threats-on-iranian-officials-in-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Iran denies firing missile towards Turkiye after NATO interception",
+        "published": "Thu, 05 Mar 2026 06:24:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/5/video-intense-us-israeli-bombardment-across-iran?traffic_source=rss"
+      },
       {
         "title": "Canada PM Carney says unable to rule out military role in Iran war",
         "published": "Thu, 05 Mar 2026 04:44:25 +0000",
@@ -34,16 +44,6 @@
         "title": "Senate Republicans block war powers resolution on Iran",
         "published": "Thu, 05 Mar 2026 02:32:27 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/5/trump-had-a-good-feeling-iran-would-strike-the-us-white-house?traffic_source=rss"
-      },
-      {
-        "title": "Israel tightens siege on Gaza amid Iran war",
-        "published": "Thu, 05 Mar 2026 01:33:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/5/cuba-hit-by-widespread-blackout-ecuador-expels-havanas-ambassador-staff?traffic_source=rss"
-      },
-      {
-        "title": "Traders mint money on betting platforms on US-Israel strike on Iran",
-        "published": "Wed, 04 Mar 2026 23:57:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/4/us-will-rain-missiles-death-and-destruction-on-iran-trump-aides-say?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
