@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-05 15:53",
+  "updated_at_gst": "2026-03-05 18:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,26 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Map shows how big Iran is compared with the 50 US states",
+        "published": "Thu, 05 Mar 2026 13:53:22 +0000",
+        "link": "https://www.aljazeera.com/features/2026/3/5/while-us-encourages-kurds-to-attack-iran-history-serves-darker-warning?traffic_source=rss"
+      },
+      {
+        "title": "Missiles fired by US, Israel hit two schools near Tehran: Iranian media",
+        "published": "Thu, 05 Mar 2026 13:29:00 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/3/5/israel-puts-a-target-on-the-back-of-the-rules-based-order?traffic_source=rss"
+      },
+      {
+        "title": "Will the US benefit from the oil crisis sparked by the war on Iran?",
+        "published": "Thu, 05 Mar 2026 12:59:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/5/nepal-elections-frame-new-era-after-youth-protests-toppled-leaders?traffic_source=rss"
+      },
+      {
+        "title": "Iran, The US, and the World Cup",
+        "published": "Thu, 05 Mar 2026 12:00:37 +0000",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/5/its-up-to-the-united-states-congress-not-any-president-to-declare?traffic_source=rss"
+      },
+      {
         "title": "A long and troubled trail: Qatar’s IRGC cell arrests strain Iran relations",
         "published": "Thu, 05 Mar 2026 11:21:01 +0000",
         "link": "https://www.aljazeera.com/opinions/2026/3/5/hezbollahs-risky-return-to-the-battlefield?traffic_source=rss"
@@ -24,21 +44,6 @@
         "title": "Iran drone attack at Azerbaijan airport",
         "published": "Thu, 05 Mar 2026 10:41:06 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/5/iranian-drones-hit-airport-in-azerbaijans-exclave-as-us-israel-war-widens?traffic_source=rss"
-      },
-      {
-        "title": "Where are Iran’s allies? Why Moscow, Beijing are keeping their distance",
-        "published": "Thu, 05 Mar 2026 08:58:02 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/5/drone-targets-us-base-in-iraq-as-iran-attacks-hit-region-amid-us-israel-war?traffic_source=rss"
-      },
-      {
-        "title": "Under cover of Iran war, Israeli settlers terrorise Palestinian communities",
-        "published": "Thu, 05 Mar 2026 08:07:20 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/5/saka-helps-arsenal-win-as-man-united-lose-to-newcastle-in-premier-league?traffic_source=rss"
-      },
-      {
-        "title": "Israeli attacks kill 8 in Lebanon amid threats on Iranian officials",
-        "published": "Thu, 05 Mar 2026 07:05:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/5/china-economic-growth-target-set-below-5-for-the-first-time-at-key-meeting?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
