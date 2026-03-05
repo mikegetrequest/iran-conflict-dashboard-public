@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-05 14:06",
+  "updated_at_gst": "2026-03-05 15:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Canada PM unable to rule out military involvement in Iran war",
-        "published": "Thu, 05 Mar 2026 09:15:02 +0000",
-        "link": "https://www.aljazeera.com/features/2026/3/5/where-are-irans-allies-why-moscow-beijing-are-keeping-their-distance?traffic_source=rss"
+        "title": "A long and troubled trail: Qatar’s IRGC cell arrests strain Iran relations",
+        "published": "Thu, 05 Mar 2026 11:21:01 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/3/5/hezbollahs-risky-return-to-the-battlefield?traffic_source=rss"
       },
       {
-        "title": "Drone targets US base in Iraq as Iran attacks hit region amid US-Israel war",
-        "published": "Thu, 05 Mar 2026 08:49:06 +0000",
-        "link": "https://www.aljazeera.com/video/making-peace/2026/3/5/pain-didnt-come-to-kill-me-ep-4-el?traffic_source=rss"
+        "title": "Iran drone attack at Azerbaijan airport",
+        "published": "Thu, 05 Mar 2026 10:41:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/5/iranian-drones-hit-airport-in-azerbaijans-exclave-as-us-israel-war-widens?traffic_source=rss"
       },
       {
-        "title": "Hezbollah leader pledges to continue fight against Israel",
-        "published": "Thu, 05 Mar 2026 08:36:34 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/5/live-india-vs-england-t20-world-cup-semifinal?traffic_source=rss"
+        "title": "Where are Iran’s allies? Why Moscow, Beijing are keeping their distance",
+        "published": "Thu, 05 Mar 2026 08:58:02 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/5/drone-targets-us-base-in-iraq-as-iran-attacks-hit-region-amid-us-israel-war?traffic_source=rss"
       },
       {
-        "title": "Iran war: What is happening on day six of US-Israel attacks?",
-        "published": "Thu, 05 Mar 2026 07:10:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/5/israeli-strikes-hit-beirut-amid-threats-on-iranian-officials-in-lebanon?traffic_source=rss"
+        "title": "Under cover of Iran war, Israeli settlers terrorise Palestinian communities",
+        "published": "Thu, 05 Mar 2026 08:07:20 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/5/saka-helps-arsenal-win-as-man-united-lose-to-newcastle-in-premier-league?traffic_source=rss"
       },
       {
-        "title": "Iran denies firing missile towards Turkiye after NATO interception",
-        "published": "Thu, 05 Mar 2026 06:24:58 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/5/video-intense-us-israeli-bombardment-across-iran?traffic_source=rss"
-      },
-      {
-        "title": "Canada PM Carney says unable to rule out military role in Iran war",
-        "published": "Thu, 05 Mar 2026 04:44:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/5/north-koreas-kim-oversees-cruise-missile-tests-from-new-naval-destroyer?traffic_source=rss"
+        "title": "Israeli attacks kill 8 in Lebanon amid threats on Iranian officials",
+        "published": "Thu, 05 Mar 2026 07:05:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/5/china-economic-growth-target-set-below-5-for-the-first-time-at-key-meeting?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
