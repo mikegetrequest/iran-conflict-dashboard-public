@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-05 23:38",
+  "updated_at_gst": "2026-03-06 01:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US House of Representatives to vote on latest effort to halt Iran war",
+        "published": "Thu, 05 Mar 2026 20:34:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/5/trump-says-he-will-replace-homeland-security-chief-kristi-noem?traffic_source=rss"
+      },
+      {
+        "title": "Sri Lanka evacuates crew of second Iranian vessel after US sunk IRIS Dena",
+        "published": "Thu, 05 Mar 2026 19:49:29 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/5/ukraine-russia-free-200-pows-each-in-latest-swap-amid-stalled-peace-talks?traffic_source=rss"
+      },
       {
         "title": "Israel, US intensify Iran strikes, targeting homes, hospitals, stadium",
         "published": "Thu, 05 Mar 2026 19:01:45 +0000",
@@ -34,16 +44,6 @@
         "title": "Iranians ‘ready to disgrace’ US troops if they invade, top official says",
         "published": "Thu, 05 Mar 2026 17:10:01 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/5/emotional-turmoil-grips-iranians-watching-conflict-unfold-overseas?traffic_source=rss"
-      },
-      {
-        "title": "EU leaders express solidarity with Gulf countries amid Iranian attacks",
-        "published": "Thu, 05 Mar 2026 15:53:50 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/5/videos-show-destruction-after-us-and-israeli-strikes-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Which Kurdish groups is the US rallying to fight Iran?",
-        "published": "Thu, 05 Mar 2026 14:17:02 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/5/map-shows-how-big-iran-is-compared-with-the-50-us-states?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
