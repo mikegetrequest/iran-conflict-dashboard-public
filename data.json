@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-06 02:03",
+  "updated_at_gst": "2026-03-06 04:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Suspected Iranian missile debris ignites fires in central Israel",
+        "published": "Thu, 05 Mar 2026 23:17:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/5/trump-offers-immunity-to-irgc-iranian-police-who-lay-down-their?traffic_source=rss"
+      },
+      {
+        "title": "US House narrowly rejects resolution to end Trump’s Iran war",
+        "published": "Thu, 05 Mar 2026 22:38:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/5/trump-says-regime-change-in-cuba-is-question-of-time-after-iran?traffic_source=rss"
+      },
+      {
+        "title": "Trump says he must be ‘involved’ in choosing Iran’s next supreme leader",
+        "published": "Thu, 05 Mar 2026 22:12:45 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/5/celta-vigo-vs-real-madrid-la-liga-teams-start-kickoff-time-lineups?traffic_source=rss"
+      },
+      {
         "title": "Why has Hezbollah joined Middle East war?",
         "published": "Thu, 05 Mar 2026 21:28:15 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/5/trump-voices-support-for-possible-kurdish-offensive-in-iran?traffic_source=rss"
@@ -29,16 +44,6 @@
         "title": "Israel kills more than 100 Lebanese as it commands Beirut residents to flee",
         "published": "Thu, 05 Mar 2026 18:15:14 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/5/india-beat-england-to-reach-t20-world-cup-final-as-sanju-stars-again?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s Smotrich threatens Beirut suburbs amid evacuation orders",
-        "published": "Thu, 05 Mar 2026 17:32:03 +0000",
-        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/5/aje-onl-tt_irn_usiranmonday_av_v1-020326?traffic_source=rss"
-      },
-      {
-        "title": "Emotional turmoil grips Iranians watching conflict unfold overseas",
-        "published": "Thu, 05 Mar 2026 17:07:24 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/5/eu-leaders-express-solidarity-with-gulf-countries-amid-iranian-attacks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
