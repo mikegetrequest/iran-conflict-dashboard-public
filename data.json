@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-06 04:06",
+  "updated_at_gst": "2026-03-06 09:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "How US sinking of Iranian warship blew hole in Modi’s ‘guardian’ claims",
+        "published": "Fri, 06 Mar 2026 01:09:29 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/6/who-is-ahmad-vahidi-the-irgcs-new-commander?traffic_source=rss"
+      },
+      {
+        "title": "US says Iran missile attacks down 90% after strikes from B-2 bombers",
+        "published": "Fri, 06 Mar 2026 00:39:14 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/3/6/iran-live-trump-says-iran-being-demolished-tehran-keeps-up-gulf-attacks?traffic_source=rss"
+      },
       {
         "title": "Suspected Iranian missile debris ignites fires in central Israel",
         "published": "Thu, 05 Mar 2026 23:17:34 +0000",
@@ -34,16 +44,6 @@
         "title": "Why has Hezbollah joined Middle East war?",
         "published": "Thu, 05 Mar 2026 21:28:15 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/5/trump-voices-support-for-possible-kurdish-offensive-in-iran?traffic_source=rss"
-      },
-      {
-        "title": "Israel cancels Friday prayers at Al-Aqsa Mosque amid Iran conflict",
-        "published": "Thu, 05 Mar 2026 21:02:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/5/us-house-of-representatives-to-vote-on-latest-effort-to-halt-iran-war?traffic_source=rss"
-      },
-      {
-        "title": "Israel kills more than 100 Lebanese as it commands Beirut residents to flee",
-        "published": "Thu, 05 Mar 2026 18:15:14 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/5/india-beat-england-to-reach-t20-world-cup-final-as-sanju-stars-again?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
