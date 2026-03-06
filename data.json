@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-06 20:03",
+  "updated_at_gst": "2026-03-06 22:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Has Donald Trump failed to sell the Iran war to the world?",
+        "published": "Fri, 06 Mar 2026 17:34:14 +0000",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/6/how-will-the-middle-east-conflict-affect-global-energy-prices?traffic_source=rss"
+      },
+      {
+        "title": "Israel extending ‘Gaza playbook’ to Lebanon, charity warns",
+        "published": "Fri, 06 Mar 2026 16:21:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/6/in-a-bid-to-counter-china-trump-hosts-a-summit-for-latin-america-leaders?traffic_source=rss"
+      },
       {
         "title": "Thousands of Syrian refugees flee Lebanon after Israeli strikes",
         "published": "Fri, 06 Mar 2026 15:45:36 +0000",
@@ -34,16 +44,6 @@
         "title": "‘Kurdish uprising in Iran unlikely without US-Israeli protection’",
         "published": "Fri, 06 Mar 2026 12:44:10 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/iranian-kurd-fighters-ready-for-a-ground-operation-if-opportunity-arises?traffic_source=rss"
-      },
-      {
-        "title": "Messi censured for meeting and applauding Trump amid US attacks on Iran",
-        "published": "Fri, 06 Mar 2026 12:40:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/6/moscow-sees-significant-rise-in-demand-for-russian-oil-gas-amid-iran-war?traffic_source=rss"
-      },
-      {
-        "title": "‘We know Shaheds’: Ukraine touts drone expertise in US-Israel war with Iran",
-        "published": "Fri, 06 Mar 2026 12:35:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/6/amid-iran-war-will-russia-exploit-ukraines-shortage-of-patriot-missiles?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
