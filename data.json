@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-07 00:59",
+  "updated_at_gst": "2026-03-07 01:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US and Israel attacking Iran at ‘record pace’, war monitor says",
+        "published": "Fri, 06 Mar 2026 20:37:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/6/human-rights-court-orders-reparations-for-forced-sterilisation-case-in-peru?traffic_source=rss"
+      },
       {
         "title": "Spanish politician slams those using ‘feminism’ as excuse for Iran war",
         "published": "Fri, 06 Mar 2026 20:02:44 +0000",
@@ -39,11 +44,6 @@
         "title": "Calls grow for independent probe into deadly Iranian girls’ school attack",
         "published": "Fri, 06 Mar 2026 18:04:51 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/white-house-posts-american-justice-video-days-after-iran-school-attack?traffic_source=rss"
-      },
-      {
-        "title": "Has Donald Trump failed to sell the Iran war to the world?",
-        "published": "Fri, 06 Mar 2026 17:34:14 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/6/us-job-market-stalls-unemployment-rate-rises-before-fed-decision?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
