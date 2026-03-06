@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-06 13:06",
+  "updated_at_gst": "2026-03-06 15:04",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Huge explosion seen in Tehran as strikes on Iran continue",
+        "published": "Fri, 06 Mar 2026 10:39:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/6/russian-attacks-on-kramatorsk-escalate-ukraine-war-as-kyiv-regains-ground?traffic_source=rss"
+      },
+      {
+        "title": "New video shows rescue of Iran sailors after US attack on ship",
+        "published": "Fri, 06 Mar 2026 10:03:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/6/epstein-files-with-claims-against-trump-released-by-us-justice-department?traffic_source=rss"
+      },
+      {
+        "title": "Is BRICS bloc divided over US-Israel attacks on Iran?",
+        "published": "Fri, 06 Mar 2026 09:16:36 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/3/6/will-the-houthis-join-irans-war?traffic_source=rss"
+      },
+      {
         "title": "Cost to US for war on Iran is $3.7bn in first 100 hours, says think tank",
         "published": "Fri, 06 Mar 2026 08:35:27 +0000",
         "link": "https://www.aljazeera.com/economy/2026/3/6/scramble-for-flights-out-of-middle-east-amid-iran-war?traffic_source=rss"
       },
       {
-        "title": "More than 120 killed in Israel’s Lebanon attacks as Beirut, south, east hit",
-        "published": "Fri, 06 Mar 2026 07:23:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/6/sudanese-army-retakes-bara-secures-el-obeid-in-north-kordofan?traffic_source=rss"
+        "title": "Thousands displaced in Beirut after Israeli forced evacuation order",
+        "published": "Fri, 06 Mar 2026 08:00:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/6/death-toll-in-israels-lebanon-attacks-over-120-as-beirut-south-east-hit?traffic_source=rss"
       },
       {
-        "title": "Tehran hit by heavy bombing on day seven of US-Israel war on Iran",
-        "published": "Fri, 06 Mar 2026 06:28:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/6/iran-war-what-is-happening-on-day-seven-of-us-israel-attacks?traffic_source=rss"
-      },
-      {
-        "title": "How US sinking of Iranian warship blew hole in Modi’s ‘guardian’ claims",
-        "published": "Fri, 06 Mar 2026 01:09:29 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/6/who-is-ahmad-vahidi-the-irgcs-new-commander?traffic_source=rss"
-      },
-      {
-        "title": "US says Iran missile attacks down 90% after strikes from B-2 bombers",
-        "published": "Fri, 06 Mar 2026 00:39:14 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/3/6/iran-live-trump-says-iran-being-demolished-tehran-keeps-up-gulf-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Suspected Iranian missile debris ignites fires in central Israel",
-        "published": "Thu, 05 Mar 2026 23:17:34 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/5/trump-offers-immunity-to-irgc-iranian-police-who-lay-down-their?traffic_source=rss"
+        "title": "Iran war: What is happening on day seven of US-Israel attacks?",
+        "published": "Fri, 06 Mar 2026 06:18:53 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/forcibly-displaced-lebanese-seek-food-clothing-and-comfort-in-shelters?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
