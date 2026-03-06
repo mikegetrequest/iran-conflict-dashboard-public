@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-06 22:02",
+  "updated_at_gst": "2026-03-06 23:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran’s future will be determined by Iranians, not Trump, officials say",
+        "published": "Fri, 06 Mar 2026 19:29:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/6/us-customs-agency-says-it-is-not-yet-able-to-reimburse-tariff-costs?traffic_source=rss"
+      },
+      {
+        "title": "Iran shares video of Tehran primary school after attack",
+        "published": "Fri, 06 Mar 2026 18:37:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/video-shows-explosions-near-tehrans-azadi-tower?traffic_source=rss"
+      },
+      {
+        "title": "Calls grow for independent probe into deadly Iranian girls’ school attack",
+        "published": "Fri, 06 Mar 2026 18:04:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/white-house-posts-american-justice-video-days-after-iran-school-attack?traffic_source=rss"
+      },
+      {
         "title": "Has Donald Trump failed to sell the Iran war to the world?",
         "published": "Fri, 06 Mar 2026 17:34:14 +0000",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/6/how-will-the-middle-east-conflict-affect-global-energy-prices?traffic_source=rss"
+        "link": "https://www.aljazeera.com/economy/2026/3/6/us-job-market-stalls-unemployment-rate-rises-before-fed-decision?traffic_source=rss"
       },
       {
-        "title": "Israel extending ‘Gaza playbook’ to Lebanon, charity warns",
-        "published": "Fri, 06 Mar 2026 16:21:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/6/in-a-bid-to-counter-china-trump-hosts-a-summit-for-latin-america-leaders?traffic_source=rss"
+        "title": "Kurdish opposition mulls whether to trust Trump after Iran uprising call",
+        "published": "Fri, 06 Mar 2026 15:24:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/6/no-deal-with-iran-except-unconditional-surrender-trump-says?traffic_source=rss"
       },
       {
-        "title": "Thousands of Syrian refugees flee Lebanon after Israeli strikes",
-        "published": "Fri, 06 Mar 2026 15:45:36 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/6/kurdish-opposition-mulls-whether-to-trust-trump-after-iran-uprising-call?traffic_source=rss"
-      },
-      {
-        "title": "‘No deal with Iran except unconditional surrender,’ Trump says",
-        "published": "Fri, 06 Mar 2026 15:01:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/6/qatar-warns-iran-war-could-halt-gulf-energy-exports-within-weeks?traffic_source=rss"
-      },
-      {
-        "title": "Elementary school in Tehran hit, Iran’s foreign ministry says",
-        "published": "Fri, 06 Mar 2026 14:28:44 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/6/fifpro-urge-afc-to-protect-iran-womens-team-after-traitors-state-tv-jibe?traffic_source=rss"
-      },
-      {
-        "title": "‘Kurdish uprising in Iran unlikely without US-Israeli protection’",
-        "published": "Fri, 06 Mar 2026 12:44:10 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/iranian-kurd-fighters-ready-for-a-ground-operation-if-opportunity-arises?traffic_source=rss"
+        "title": "Qatar warns Iran war could halt Gulf energy exports ‘within weeks’",
+        "published": "Fri, 06 Mar 2026 14:29:07 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/6/elementary-school-in-tehran-hit-irans-foreign-ministry-says?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
