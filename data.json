@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-06 23:51",
+  "updated_at_gst": "2026-03-07 00:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Spanish politician slams those using ‘feminism’ as excuse for Iran war",
+        "published": "Fri, 06 Mar 2026 20:02:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/messi-criticised-for-applauding-trump-amid-us-attacks-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "What the world is getting wrong about what Iranians think",
+        "published": "Fri, 06 Mar 2026 19:42:36 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/6/india-vs-new-zealand-t20-world-cup-final-predicted-xi-time-stream?traffic_source=rss"
+      },
       {
         "title": "Iran’s future will be determined by Iranians, not Trump, officials say",
         "published": "Fri, 06 Mar 2026 19:29:26 +0000",
@@ -34,16 +44,6 @@
         "title": "Has Donald Trump failed to sell the Iran war to the world?",
         "published": "Fri, 06 Mar 2026 17:34:14 +0000",
         "link": "https://www.aljazeera.com/economy/2026/3/6/us-job-market-stalls-unemployment-rate-rises-before-fed-decision?traffic_source=rss"
-      },
-      {
-        "title": "Kurdish opposition mulls whether to trust Trump after Iran uprising call",
-        "published": "Fri, 06 Mar 2026 15:24:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/6/no-deal-with-iran-except-unconditional-surrender-trump-says?traffic_source=rss"
-      },
-      {
-        "title": "Qatar warns Iran war could halt Gulf energy exports ‘within weeks’",
-        "published": "Fri, 06 Mar 2026 14:29:07 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/6/elementary-school-in-tehran-hit-irans-foreign-ministry-says?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
