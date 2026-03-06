@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-07 01:55",
+  "updated_at_gst": "2026-03-07 02:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Why did the US torpedo Iran’s ‘prize’ warship?",
+        "published": "Fri, 06 Mar 2026 22:04:02 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/people-are-tracking-this-shepherd-fleeing-israeli-strikes-in-lebanon?traffic_source=rss"
+      },
       {
         "title": "US and Israel attacking Iran at ‘record pace’, war monitor says",
         "published": "Fri, 06 Mar 2026 20:37:21 +0000",
@@ -39,11 +44,6 @@
         "title": "Iran shares video of Tehran primary school after attack",
         "published": "Fri, 06 Mar 2026 18:37:50 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/video-shows-explosions-near-tehrans-azadi-tower?traffic_source=rss"
-      },
-      {
-        "title": "Calls grow for independent probe into deadly Iranian girls’ school attack",
-        "published": "Fri, 06 Mar 2026 18:04:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/white-house-posts-american-justice-video-days-after-iran-school-attack?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
