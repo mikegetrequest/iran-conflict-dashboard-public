@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-07 21:43",
+  "updated_at_gst": "2026-03-07 22:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel launches raid in Lebanon searching for missing pilot",
+        "published": "Sat, 07 Mar 2026 18:24:09 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/7/live-athletic-bilbao-vs-barcelona-la-liga?traffic_source=rss"
+      },
       {
         "title": "War against Iran: How far will it go?",
         "published": "Sat, 07 Mar 2026 15:40:58 +0000",
@@ -39,11 +44,6 @@
         "title": "Kurdish fighters say Iran ground operation ‘highly likely’",
         "published": "Sat, 07 Mar 2026 12:19:47 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/sirens-echo-in-occupied-east-jerusalem-warning-of-iranian-missiles?traffic_source=rss"
-      },
-      {
-        "title": "Beirut’s southern suburbs in ruins after Israeli attack",
-        "published": "Sat, 07 Mar 2026 11:05:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/protests-in-cuba-after-thousands-without-power-following-blackout?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
