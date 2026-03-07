@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-07 19:42",
+  "updated_at_gst": "2026-03-07 20:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "War against Iran: How far will it go?",
+        "published": "Sat, 07 Mar 2026 15:40:58 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-t20-world-cup-final-no-pressure-no-fun-for-hosts?traffic_source=rss"
+      },
       {
         "title": "Israel kills father, daughter in Gaza as genocide continues amid wider war",
         "published": "Sat, 07 Mar 2026 14:00:42 +0000",
@@ -39,11 +44,6 @@
         "title": "Beirut’s southern suburbs in ruins after Israeli attack",
         "published": "Sat, 07 Mar 2026 11:05:36 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/protests-in-cuba-after-thousands-without-power-following-blackout?traffic_source=rss"
-      },
-      {
-        "title": "Iranian Kurd leader in Iraq says ground operation into Iran ‘highly likely’",
-        "published": "Sat, 07 Mar 2026 09:50:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/7/us-downplays-reports-russia-gave-iran-intel-to-help-tehran-strike-us-assets?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
