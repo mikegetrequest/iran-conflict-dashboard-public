@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-07 17:50",
+  "updated_at_gst": "2026-03-07 18:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Indonesians protest Iran war, pressure president over US ties",
-        "published": "Sat, 07 Mar 2026 12:23:43 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/kurdish-fighters-say-iran-ground-operation-highly?traffic_source=rss"
+        "title": "Israel kills father, daughter in Gaza as genocide continues amid wider war",
+        "published": "Sat, 07 Mar 2026 14:00:42 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-fans-hope-for-world-cup-final-redemption-in-ahmedabad?traffic_source=rss"
       },
       {
-        "title": "Sirens echo in occupied East Jerusalem warning of Iranian missiles",
-        "published": "Sat, 07 Mar 2026 11:30:19 +0000",
-        "link": "https://www.aljazeera.com/video/the-listening-post/2026/3/7/trump-netanyahus-war-in-search-of-a-strategy?traffic_source=rss"
+        "title": "Iranian authorities warn against ‘fifth column’, as no signs of war abating",
+        "published": "Sat, 07 Mar 2026 13:00:59 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/7/openais-fund-raising-boom-slows-amid-mounting-debt?traffic_source=rss"
       },
       {
-        "title": "US downplays reports Russia gave Iran intel to help Tehran strike US assets",
-        "published": "Sat, 07 Mar 2026 09:09:15 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/irans-president-apologises-for-attacking-neighbouring-countries?traffic_source=rss"
+        "title": "Aftermath of village in Lebanon after Hezbollah, Israeli troops clash",
+        "published": "Sat, 07 Mar 2026 12:24:56 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/indonesians-protest-iran-war-pressure-president-over-us-ties?traffic_source=rss"
       },
       {
-        "title": "Moment drone strikes Dubai International Airport",
-        "published": "Sat, 07 Mar 2026 08:33:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/overnight-us-israeli-strikes-in-tehran-target-airport?traffic_source=rss"
+        "title": "Kurdish fighters say Iran ground operation ‘highly likely’",
+        "published": "Sat, 07 Mar 2026 12:19:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/sirens-echo-in-occupied-east-jerusalem-warning-of-iranian-missiles?traffic_source=rss"
       },
       {
-        "title": "Iran to halt strikes on neighbours unless attacks from there: Pezeshkian",
-        "published": "Sat, 07 Mar 2026 08:25:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/panic-at-pakistan-fuel-stations-over-iran-war?traffic_source=rss"
+        "title": "Beirut’s southern suburbs in ruins after Israeli attack",
+        "published": "Sat, 07 Mar 2026 11:05:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/protests-in-cuba-after-thousands-without-power-following-blackout?traffic_source=rss"
+      },
+      {
+        "title": "Iranian Kurd leader in Iraq says ground operation into Iran ‘highly likely’",
+        "published": "Sat, 07 Mar 2026 09:50:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/7/us-downplays-reports-russia-gave-iran-intel-to-help-tehran-strike-us-assets?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
