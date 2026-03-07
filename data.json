@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-07 15:37",
+  "updated_at_gst": "2026-03-07 17:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Beirut’s southern suburbs in ruins after Israeli attack",
-        "published": "Sat, 07 Mar 2026 11:05:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/protests-in-cuba-after-thousands-without-power-following-blackout?traffic_source=rss"
+        "title": "Indonesians protest Iran war, pressure president over US ties",
+        "published": "Sat, 07 Mar 2026 12:23:43 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/kurdish-fighters-say-iran-ground-operation-highly?traffic_source=rss"
       },
       {
-        "title": "Iranian Kurd leader in Iraq says ground operation into Iran ‘highly likely’",
-        "published": "Sat, 07 Mar 2026 09:50:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/7/us-downplays-reports-russia-gave-iran-intel-to-help-tehran-strike-us-assets?traffic_source=rss"
+        "title": "Sirens echo in occupied East Jerusalem warning of Iranian missiles",
+        "published": "Sat, 07 Mar 2026 11:30:19 +0000",
+        "link": "https://www.aljazeera.com/video/the-listening-post/2026/3/7/trump-netanyahus-war-in-search-of-a-strategy?traffic_source=rss"
       },
       {
-        "title": "Iran’s president apologises for attacking neighbouring countries",
-        "published": "Sat, 07 Mar 2026 09:07:53 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/moment-drone-strikes-dubai-international-airport?traffic_source=rss"
+        "title": "US downplays reports Russia gave Iran intel to help Tehran strike US assets",
+        "published": "Sat, 07 Mar 2026 09:09:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/irans-president-apologises-for-attacking-neighbouring-countries?traffic_source=rss"
       },
       {
-        "title": "Overnight US-Israeli strikes in Tehran target airport",
-        "published": "Sat, 07 Mar 2026 08:27:28 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/7/iran-to-halt-strikes-on-neighbours-unless-attacks-from-there-pezeshkian?traffic_source=rss"
+        "title": "Moment drone strikes Dubai International Airport",
+        "published": "Sat, 07 Mar 2026 08:33:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/overnight-us-israeli-strikes-in-tehran-target-airport?traffic_source=rss"
       },
       {
-        "title": "Panic at Pakistan fuel stations over Iran war",
-        "published": "Sat, 07 Mar 2026 08:05:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/7/hezbollah-israeli-troops-clash-on-the-ground-in-eastern-lebanons-bekaa?traffic_source=rss"
-      },
-      {
-        "title": "Tehran pounded in week two of US-Israel war, Iran targets Israel",
-        "published": "Sat, 07 Mar 2026 07:02:48 +0000",
-        "link": "https://www.aljazeera.com/features/2026/3/7/indonesian-presidents-us-ties-questioned-amid-public-anger-over-iran-war?traffic_source=rss"
+        "title": "Iran to halt strikes on neighbours unless attacks from there: Pezeshkian",
+        "published": "Sat, 07 Mar 2026 08:25:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/panic-at-pakistan-fuel-stations-over-iran-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
