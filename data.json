@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-08 01:39",
+  "updated_at_gst": "2026-03-08 02:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US embassy in Baghdad attacked as US-Israel war on Iran escalates",
+        "published": "Sat, 07 Mar 2026 22:06:16 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/3/7/how-far-will-the-iran-war-spillover?traffic_source=rss"
+      },
       {
         "title": "Video: Satellite images reveal damage to several Iranian military bases",
         "published": "Sat, 07 Mar 2026 20:39:25 +0000",
