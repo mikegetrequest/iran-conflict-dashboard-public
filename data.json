@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-08 02:50",
+  "updated_at_gst": "2026-03-08 03:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US embassy in Baghdad attacked as US-Israel war on Iran escalates",
-        "published": "Sat, 07 Mar 2026 22:06:16 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/3/7/how-far-will-the-iran-war-spillover?traffic_source=rss"
+        "title": "Huge fire rages at Tehran oil depot after Israeli attack",
+        "published": "Sat, 07 Mar 2026 23:26:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/7/zelenskyy-offers-saudi-arabias-mbs-help-with-countering-iranian-drones?traffic_source=rss"
       },
       {
-        "title": "Video: Satellite images reveal damage to several Iranian military bases",
-        "published": "Sat, 07 Mar 2026 20:39:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/7/cuba-says-electricity-plant-successfully-repaired-after-large-blackout?traffic_source=rss"
+        "title": "Trump administration denies reports that Iran captured US soldiers",
+        "published": "Sat, 07 Mar 2026 22:37:00 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/7/lamine-yamal-gives-barcelona-hard-fought-1-0-win-at-athletic-bilbao?traffic_source=rss"
       },
       {
-        "title": "UAE president says prepared to confront ‘threats’ as Iran attacks continue",
-        "published": "Sat, 07 Mar 2026 20:18:59 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/7/russia-kills-10-in-kharkiv-strike-including-children-using-new-missile?traffic_source=rss"
+        "title": "Trump oversees return of US troops killed in Iranian drone strike",
+        "published": "Sat, 07 Mar 2026 22:21:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/7/us-embassy-in-baghdad-attacked-as-us-israel-war-on-iran-escalates?traffic_source=rss"
       },
       {
-        "title": "Smoke rises from a Dubai tower after attack",
-        "published": "Sat, 07 Mar 2026 19:49:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/7/more-than-30-injured-in-nightclub-bombing-in-northern-peru?traffic_source=rss"
+        "title": "How far will the Iran war spillover?",
+        "published": "Sat, 07 Mar 2026 21:45:43 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/7/florida-bar-denies-investigation-into-trump-lawyer-lindsey-halligan?traffic_source=rss"
+      },
+      {
+        "title": "Doctors try to save girl as father was killed in Gaza Israeli attack",
+        "published": "Sat, 07 Mar 2026 20:56:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/video-satellite-images-reveal-damage-to-several-iranian-military-bases?traffic_source=rss"
+      },
+      {
+        "title": "Russia kills 10 in Ukraine strike including children with new missile",
+        "published": "Sat, 07 Mar 2026 20:13:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/smoke-rises-from-a-dubai-tower-after?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
