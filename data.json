@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-07 23:40",
+  "updated_at_gst": "2026-03-08 00:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel launches raid in Lebanon searching for missing pilot",
-        "published": "Sat, 07 Mar 2026 18:24:09 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/7/live-athletic-bilbao-vs-barcelona-la-liga?traffic_source=rss"
+        "title": "Video: Satellite images reveal damage to several Iranian military bases",
+        "published": "Sat, 07 Mar 2026 20:39:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/7/cuba-says-electricity-plant-successfully-repaired-after-large-blackout?traffic_source=rss"
       },
       {
-        "title": "War against Iran: How far will it go?",
-        "published": "Sat, 07 Mar 2026 15:40:58 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-t20-world-cup-final-no-pressure-no-fun-for-hosts?traffic_source=rss"
+        "title": "UAE president says prepared to confront ‘threats’ as Iran attacks continue",
+        "published": "Sat, 07 Mar 2026 20:18:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/7/russia-kills-10-in-kharkiv-strike-including-children-using-new-missile?traffic_source=rss"
       },
       {
-        "title": "Israel kills father, daughter in Gaza as genocide continues amid wider war",
-        "published": "Sat, 07 Mar 2026 14:00:42 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-fans-hope-for-world-cup-final-redemption-in-ahmedabad?traffic_source=rss"
+        "title": "Smoke rises from a Dubai tower after attack",
+        "published": "Sat, 07 Mar 2026 19:49:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/7/more-than-30-injured-in-nightclub-bombing-in-northern-peru?traffic_source=rss"
       },
       {
-        "title": "Iranian authorities warn against ‘fifth column’, as no signs of war abating",
-        "published": "Sat, 07 Mar 2026 13:00:59 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/7/openais-fund-raising-boom-slows-amid-mounting-debt?traffic_source=rss"
-      },
-      {
-        "title": "Aftermath of village in Lebanon after Hezbollah, Israeli troops clash",
-        "published": "Sat, 07 Mar 2026 12:24:56 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/indonesians-protest-iran-war-pressure-president-over-us-ties?traffic_source=rss"
-      },
-      {
-        "title": "Kurdish fighters say Iran ground operation ‘highly likely’",
-        "published": "Sat, 07 Mar 2026 12:19:47 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/sirens-echo-in-occupied-east-jerusalem-warning-of-iranian-missiles?traffic_source=rss"
+        "title": "Indonesians protest Iran war, pressure president over US ties",
+        "published": "Sat, 07 Mar 2026 12:23:43 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/kurdish-fighters-say-iran-ground-operation-highly?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
