@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-08 23:50",
+  "updated_at_gst": "2026-03-09 00:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,7 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump vows control over Iran leaders as officials seek to calm oil concerns",
+        "title": "Trump vows control over Iran leaders as US troop death toll rises to seven",
         "published": "Sun, 08 Mar 2026 18:56:10 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/8/two-killed-in-saudi-arabia-after-projectile-falls-on-residential-building?traffic_source=rss"
       },
@@ -34,16 +34,6 @@
         "title": "Amid escalation, Iran religious scholars signal new leader to be named soon",
         "published": "Sun, 08 Mar 2026 14:05:14 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/unicef-spokesman-enraged-over-child-casualties-from-israeli-us-iran-war?traffic_source=rss"
-      },
-      {
-        "title": "Tehran residents donate blood amid ongoing US-Israel attacks on Iran",
-        "published": "Sun, 08 Mar 2026 13:10:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/8/blast-at-us-embassy-in-oslo-may-have-terror-motive-norway-police-say?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s president responds to Trump call to pardon Netanyahu",
-        "published": "Sun, 08 Mar 2026 13:03:56 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/8/iran-war-threatens-prolonged-impact-on-energy-markets-as-oil-prices-rise?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
