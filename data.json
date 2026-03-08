@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-08 03:41",
+  "updated_at_gst": "2026-03-08 09:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump says US does not need UK’s aircraft carriers for Iran war",
+        "published": "Sun, 08 Mar 2026 00:33:56 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/3/8/iran-live-israel-bombs-tehran-oil-depots-attacks-on-gulf-states-continue?traffic_source=rss"
+      },
       {
         "title": "Huge fire rages at Tehran oil depot after Israeli attack",
         "published": "Sat, 07 Mar 2026 23:26:45 +0000",
@@ -39,11 +44,6 @@
         "title": "Doctors try to save girl as father was killed in Gaza Israeli attack",
         "published": "Sat, 07 Mar 2026 20:56:45 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/video-satellite-images-reveal-damage-to-several-iranian-military-bases?traffic_source=rss"
-      },
-      {
-        "title": "Russia kills 10 in Ukraine strike including children with new missile",
-        "published": "Sat, 07 Mar 2026 20:13:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/smoke-rises-from-a-dubai-tower-after?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
