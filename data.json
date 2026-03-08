@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-08 12:59",
+  "updated_at_gst": "2026-03-08 13:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran’s Assembly of Experts says consensus reached on Khamenei’s successor",
+        "published": "Sun, 08 Mar 2026 09:24:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/8/no-popular-support-china-warns-against-government-change-in-iran?traffic_source=rss"
+      },
       {
         "title": "Israel strikes Iran’s oil facilities for first time as war enters ninth day",
         "published": "Sun, 08 Mar 2026 08:17:48 +0000",
@@ -39,11 +44,6 @@
         "title": "Iran war live: Israel hit Tehran oil depots; Bahrain desalination plant hit",
         "published": "Sun, 08 Mar 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/huge-fire-rages-at-tehran-oil-depot-after-israeli-attack?traffic_source=rss"
-      },
-      {
-        "title": "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones",
-        "published": "Sat, 07 Mar 2026 23:11:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/7/trump-administration-denies-reports-that-iran-captured-us-soldiers?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
