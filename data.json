@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-08 17:51",
+  "updated_at_gst": "2026-03-08 18:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran women’s football team sing anthem amid safety concerns during war",
+        "published": "Sun, 08 Mar 2026 14:34:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/8/how-targeting-of-desalination-plants-could-disrupt-water-supply-in-the-gulf?traffic_source=rss"
+      },
+      {
+        "title": "UNICEF spokesman enraged over child casualties from Israeli-US Iran war",
+        "published": "Sun, 08 Mar 2026 13:48:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/pope-leo-urges-dialogue-amid-middle-east-war?traffic_source=rss"
+      },
       {
         "title": "Al Jazeera reporter boards first flight to Doha since war on Iran",
         "published": "Sun, 08 Mar 2026 13:23:26 +0000",
@@ -34,16 +44,6 @@
         "title": "Israeli settlers kill two Palestinians in occupied West Bank",
         "published": "Sun, 08 Mar 2026 10:32:37 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/hundreds-march-in-new-york-condemning-us-israeli-attacks-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Bahrain says water desalination plant damaged in Iranian drone attack",
-        "published": "Sun, 08 Mar 2026 10:17:02 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/aje-onl-t20_wc_final_v3-080326?traffic_source=rss"
-      },
-      {
-        "title": "Smoke rises over Beirut after Israeli strike on Raouche building",
-        "published": "Sun, 08 Mar 2026 10:04:24 +0000",
-        "link": "https://www.aljazeera.com/video/quotable/2026/3/8/selecting-irans-next-supreme-leader-has-nothing-to-with-the?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
