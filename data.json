@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-09 01:42",
+  "updated_at_gst": "2026-03-09 02:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,21 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran names Ayatollah Khamenei’s son as new leader after father’s killing",
+        "published": "Sun, 08 Mar 2026 22:46:13 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/3/8/whos-in-control-in-iran-and-how-will-gulf-states-react-to?traffic_source=rss"
+      },
+      {
+        "title": "Iran names Khamenei’s son as new supreme leader after father’s killing",
+        "published": "Sun, 08 Mar 2026 21:21:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/8/explosive-device-thrown-at-protest-outside-nyc-mayor-mamdani-home-nypd?traffic_source=rss"
+      },
+      {
+        "title": "Aftermath in Iran of US and Israeli air strikes",
+        "published": "Sun, 08 Mar 2026 19:56:51 +0000",
+        "link": "https://www.aljazeera.com/video/the-stream/2026/3/8/how-do-you-track-a-war-in-real-time?traffic_source=rss"
+      },
       {
         "title": "Trump vows control over Iran leaders as US troop death toll rises to seven",
         "published": "Sun, 08 Mar 2026 18:56:10 +0000",
