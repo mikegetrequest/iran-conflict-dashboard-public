@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-08 09:00",
+  "updated_at_gst": "2026-03-08 11:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Palestinians risk life and limb to fish in Gaza’s Israeli-controlled sea",
+        "published": "Sun, 08 Mar 2026 06:13:06 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/israel-strikes-busy-beirut-hotel-in-assassination-attempt?traffic_source=rss"
+      },
       {
         "title": "Trump says US does not need UK’s aircraft carriers for Iran war",
         "published": "Sun, 08 Mar 2026 00:33:56 +0000",
@@ -39,11 +44,6 @@
         "title": "How far will the Iran war spillover?",
         "published": "Sat, 07 Mar 2026 21:45:43 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/7/florida-bar-denies-investigation-into-trump-lawyer-lindsey-halligan?traffic_source=rss"
-      },
-      {
-        "title": "Doctors try to save girl as father was killed in Gaza Israeli attack",
-        "published": "Sat, 07 Mar 2026 20:56:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/video-satellite-images-reveal-damage-to-several-iranian-military-bases?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
