@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-08 20:55",
+  "updated_at_gst": "2026-03-08 21:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel escalates attacks across Lebanon as two soldiers killed",
-        "published": "Sun, 08 Mar 2026 16:31:19 +0000",
-        "link": "https://www.aljazeera.com/video/quotable/2026/3/8/gulf-countries-may-question-us-capability-to-protect?traffic_source=rss"
+        "title": "Israel’s Mossad relies on US cover and security rot for Iran strikes",
+        "published": "Sun, 08 Mar 2026 17:06:37 +0000",
+        "link": "https://www.aljazeera.com/features/2026/3/8/is-israel-reshaping-lebanon-trying-to-separate-hezbollah-from-its-people?traffic_source=rss"
       },
       {
-        "title": "Iran women’s football team sing anthem amid safety concerns during war",
-        "published": "Sun, 08 Mar 2026 14:34:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/8/how-targeting-of-desalination-plants-could-disrupt-water-supply-in-the-gulf?traffic_source=rss"
+        "title": "Amid escalation, Iran religious scholars signal new leader to be named soon",
+        "published": "Sun, 08 Mar 2026 14:05:14 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/unicef-spokesman-enraged-over-child-casualties-from-israeli-us-iran-war?traffic_source=rss"
       },
       {
-        "title": "UNICEF spokesman enraged over child casualties from Israeli-US Iran war",
-        "published": "Sun, 08 Mar 2026 13:48:05 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/pope-leo-urges-dialogue-amid-middle-east-war?traffic_source=rss"
+        "title": "Tehran residents donate blood amid ongoing US-Israel attacks on Iran",
+        "published": "Sun, 08 Mar 2026 13:10:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/8/blast-at-us-embassy-in-oslo-may-have-terror-motive-norway-police-say?traffic_source=rss"
       },
       {
-        "title": "Al Jazeera reporter boards first flight to Doha since war on Iran",
-        "published": "Sun, 08 Mar 2026 13:23:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/tehran-residents-donate-blood-amid-ongoing-us-israel-attacks-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Iran war threatens prolonged impact on energy markets as oil prices rise",
-        "published": "Sun, 08 Mar 2026 12:55:57 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/8/russell-and-mercedes-win-f1s-australian-grand-prix-after-piastri-crash?traffic_source=rss"
-      },
-      {
-        "title": "Iran will not ‘bow’ to US and Israeli pressure, Pezeshkian says",
-        "published": "Sun, 08 Mar 2026 12:16:22 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/8/honouring-gazas-women-who-refused-to-let-the-world-look-away?traffic_source=rss"
+        "title": "Israel’s president responds to Trump call to pardon Netanyahu",
+        "published": "Sun, 08 Mar 2026 13:03:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/8/iran-war-threatens-prolonged-impact-on-energy-markets-as-oil-prices-rise?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
