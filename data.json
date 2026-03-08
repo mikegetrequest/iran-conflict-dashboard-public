@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-08 11:57",
+  "updated_at_gst": "2026-03-08 12:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel strikes Iran’s oil facilities for first time as war enters ninth day",
+        "published": "Sun, 08 Mar 2026 08:17:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/8/iran-war-what-is-happening-on-day-nine-of-us-israel-attacks?traffic_source=rss"
+      },
       {
         "title": "Israeli attack on hotel in Lebanon’s Beirut kills four",
         "published": "Sun, 08 Mar 2026 07:31:09 +0000",
@@ -39,11 +44,6 @@
         "title": "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones",
         "published": "Sat, 07 Mar 2026 23:11:51 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/7/trump-administration-denies-reports-that-iran-captured-us-soldiers?traffic_source=rss"
-      },
-      {
-        "title": "US embassy in Baghdad attacked as US-Israel war on Iran escalates",
-        "published": "Sat, 07 Mar 2026 22:06:16 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/3/7/how-far-will-the-iran-war-spillover?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
