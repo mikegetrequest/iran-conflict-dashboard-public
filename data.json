@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-08 15:39",
+  "updated_at_gst": "2026-03-08 17:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Al Jazeera reporter boards first flight to Doha since war on Iran",
+        "published": "Sun, 08 Mar 2026 13:23:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/tehran-residents-donate-blood-amid-ongoing-us-israel-attacks-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Iran war threatens prolonged impact on energy markets as oil prices rise",
+        "published": "Sun, 08 Mar 2026 12:55:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/iran-will-not-bow-to-us-and-israeli-pressure-pezeshkian-says?traffic_source=rss"
+      },
       {
         "title": "Who pays when the war on Iran breaks air travel?",
         "published": "Sun, 08 Mar 2026 11:12:21 +0000",
@@ -34,16 +44,6 @@
         "title": "Smoke rises over Beirut after Israeli strike on Raouche building",
         "published": "Sun, 08 Mar 2026 10:04:24 +0000",
         "link": "https://www.aljazeera.com/video/quotable/2026/3/8/selecting-irans-next-supreme-leader-has-nothing-to-with-the?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s Assembly of Experts says consensus reached on Khamenei’s successor",
-        "published": "Sun, 08 Mar 2026 09:24:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/8/no-popular-support-china-warns-against-government-change-in-iran?traffic_source=rss"
-      },
-      {
-        "title": "Iran oil facilities hit for first time as war with US-Israel enters day 9",
-        "published": "Sun, 08 Mar 2026 08:17:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/8/iran-war-what-is-happening-on-day-nine-of-us-israel-attacks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
