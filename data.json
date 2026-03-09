@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-09 19:13",
+  "updated_at_gst": "2026-03-09 22:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US military kills six in strike on alleged drug boat in the Eastern Pacific",
+        "published": "Mon, 09 Mar 2026 16:40:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/9/turkiye-says-iranian-ballistic-missile-intercepted-by-nato-air-defences?traffic_source=rss"
+      },
+      {
+        "title": "What defence support could Ukraine offer Middle East states amid Iran war?",
+        "published": "Mon, 09 Mar 2026 15:28:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/9/irans-authorities-showcase-continuity-as-they-back-new-leader-during-war?traffic_source=rss"
+      },
       {
         "title": "Israeli forces kill Palestinian journalist Amal Shamali in Gaza attack",
         "published": "Mon, 09 Mar 2026 14:39:36 +0000",
@@ -34,16 +44,6 @@
         "title": "Is the Iran war really costing the US $2bn per day?",
         "published": "Mon, 09 Mar 2026 13:03:35 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/9/bangladesh-closes-universities-due-to-iran-war-energy-crisis?traffic_source=rss"
-      },
-      {
-        "title": "As Khamenei son takes over, Nigerian Shias mourn Iran’s old supreme leader",
-        "published": "Mon, 09 Mar 2026 12:40:43 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/9/most-victims-of-us-israeli-attacks-on-iran-are-civilians?traffic_source=rss"
-      },
-      {
-        "title": "Iranians celebrate as Mojtaba Khamenei named new supreme leader",
-        "published": "Mon, 09 Mar 2026 12:10:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/9/us-israel-war-on-iran-a-brief-history-of-mission-creep-and-false-promises?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
