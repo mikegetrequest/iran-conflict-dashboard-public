@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-09 14:30",
+  "updated_at_gst": "2026-03-09 16:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Bahrain king calls Iranian attacks unjustifiable",
+        "published": "Mon, 09 Mar 2026 11:38:00 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/9/newcastle-united-vs-barcelona-champions-league-team-news-start?traffic_source=rss"
+      },
+      {
+        "title": "‘Reprehensible’: New wave of Iranian missiles, drones target Gulf nations",
+        "published": "Mon, 09 Mar 2026 10:41:33 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/9/moment-building-in-beirut-southern-suburbs-was-targeted-by-israeli-strike?traffic_source=rss"
+      },
       {
         "title": "Iraq coach urges FIFA to delay World Cup playoff amid US-Israel war on Iran",
         "published": "Mon, 09 Mar 2026 10:05:40 +0000",
@@ -34,16 +44,6 @@
         "title": "Body recovered from rubble in Tehran",
         "published": "Mon, 09 Mar 2026 07:51:40 +0000",
         "link": "https://www.aljazeera.com/gallery/2026/3/9/what-asymmetric-warfare-may-tell-us-about-irans-fighting-chances?traffic_source=rss"
-      },
-      {
-        "title": "Bangladesh shuts universities, limits fuel sale as Iran war causes shortage",
-        "published": "Mon, 09 Mar 2026 07:09:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/9/israel-unlawfully-used-white-phosphorus-in-lebanon-hrw?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s IRGC backs Mojtaba Khamenei as new supreme leader",
-        "published": "Mon, 09 Mar 2026 06:16:24 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
