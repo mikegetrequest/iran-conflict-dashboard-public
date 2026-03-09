@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-09 03:45",
+  "updated_at_gst": "2026-03-09 09:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Oil soars past $100 a barrel as US-Israel war on Iran rages",
+        "published": "Mon, 09 Mar 2026 00:52:24 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/3/9/iran-war-live-mojtaba-khamenei-named-supreme-leader-israel-bombs-tehran?traffic_source=rss"
+      },
+      {
         "title": "Iran names Ayatollah Khamenei’s son as new leader after father’s killing",
         "published": "Sun, 08 Mar 2026 22:46:13 +0000",
         "link": "https://www.aljazeera.com/video/inside-story/2026/3/8/whos-in-control-in-iran-and-how-will-gulf-states-react-to?traffic_source=rss"
@@ -31,7 +36,7 @@
         "link": "https://www.aljazeera.com/video/the-stream/2026/3/8/how-do-you-track-a-war-in-real-time?traffic_source=rss"
       },
       {
-        "title": "Trump vows control over Iran leader as US soldiers’ deaths rise to seven",
+        "title": "Trump vows control over Iran leader as death toll of US soldiers rises",
         "published": "Sun, 08 Mar 2026 18:56:10 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/8/two-killed-in-saudi-arabia-after-projectile-falls-on-residential-building?traffic_source=rss"
       },
@@ -39,11 +44,6 @@
         "title": "Why is the conflict with Iran being framed as a ‘holy war’?",
         "published": "Sun, 08 Mar 2026 17:56:50 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/8/t20-world-cup-final-india-defeat-new-zealand-by-96-runs-for-third-title?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s Mossad relies on US cover and security rot for Iran strikes",
-        "published": "Sun, 08 Mar 2026 17:06:37 +0000",
-        "link": "https://www.aljazeera.com/features/2026/3/8/is-israel-reshaping-lebanon-trying-to-separate-hezbollah-from-its-people?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
