@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-10 01:03",
+  "updated_at_gst": "2026-03-10 02:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Qatar releases video of interception of Iranian missiles",
+        "published": "Mon, 09 Mar 2026 20:56:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/9/trump-slams-mojtaba-khameneis-appointment-as-iran-projects-defiance?traffic_source=rss"
+      },
       {
         "title": "Who is Iran’s new supreme leader, Mojtaba Khamenei?",
         "published": "Mon, 09 Mar 2026 20:12:52 +0000",
@@ -36,14 +41,9 @@
         "link": "https://www.aljazeera.com/video/africa-now/2026/3/9/how-the-iran-war-is-affecting-africa?traffic_source=rss"
       },
       {
-        "title": "Trump says Australia has ‘taken care of’ five Iranian women footballers",
+        "title": "Australia grants asylum to five Iranian women footballers",
         "published": "Mon, 09 Mar 2026 17:46:02 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/9/france-preparing-to-escort-ships-in-strait-of-hormuz-when-war-calms-macron?traffic_source=rss"
-      },
-      {
-        "title": "US senators demand probe into ‘appalling’ attack on girls’ school in Iran",
-        "published": "Mon, 09 Mar 2026 16:41:43 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/9/us-military-kills-six-in-strike-on-alleged-drug-boat-in-the-eastern-pacific?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
