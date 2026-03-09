@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-09 09:12",
+  "updated_at_gst": "2026-03-09 11:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,22 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Oil soars past $100 a barrel as US-Israel war on Iran rages",
+        "title": "What asymmetric warfare may tell us about Iran’s fighting chances",
+        "published": "Mon, 09 Mar 2026 07:32:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/9/at-least-42-people-killed-in-days-of-floods-across-kenya?traffic_source=rss"
+      },
+      {
+        "title": "IRGC warns of energy war after US-Israeli strikes on Iranian assets",
+        "published": "Mon, 09 Mar 2026 07:18:29 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/9/bangladesh-shuts-universities-limits-fuel-sale-as-iran-war-causes-shortage?traffic_source=rss"
+      },
+      {
+        "title": "Israel unlawfully used white phosphorus in Lebanon: HRW",
+        "published": "Mon, 09 Mar 2026 06:54:25 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/9/irans-irgc-backs-mojtaba-khamenei-as-new-supreme-leader?traffic_source=rss"
+      },
+      {
+        "title": "Oil soars past $100 a barrel, stocks plunge as US-Israel war on Iran rages",
         "published": "Mon, 09 Mar 2026 00:52:24 +0000",
         "link": "https://www.aljazeera.com/news/liveblog/2026/3/9/iran-war-live-mojtaba-khamenei-named-supreme-leader-israel-bombs-tehran?traffic_source=rss"
       },
@@ -26,24 +41,9 @@
         "link": "https://www.aljazeera.com/video/inside-story/2026/3/8/whos-in-control-in-iran-and-how-will-gulf-states-react-to?traffic_source=rss"
       },
       {
-        "title": "Iran names Khamenei’s son as new supreme leader after father’s killing",
+        "title": "Iran names Mojtaba Khamenei as new supreme leader after father’s killing",
         "published": "Sun, 08 Mar 2026 21:21:28 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/8/explosive-device-thrown-at-protest-outside-nyc-mayor-mamdani-home-nypd?traffic_source=rss"
-      },
-      {
-        "title": "Aftermath in Iran of US and Israeli air strikes",
-        "published": "Sun, 08 Mar 2026 19:56:51 +0000",
-        "link": "https://www.aljazeera.com/video/the-stream/2026/3/8/how-do-you-track-a-war-in-real-time?traffic_source=rss"
-      },
-      {
-        "title": "Trump vows control over Iran leader as death toll of US soldiers rises",
-        "published": "Sun, 08 Mar 2026 18:56:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/8/two-killed-in-saudi-arabia-after-projectile-falls-on-residential-building?traffic_source=rss"
-      },
-      {
-        "title": "Why is the conflict with Iran being framed as a ‘holy war’?",
-        "published": "Sun, 08 Mar 2026 17:56:50 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/8/t20-world-cup-final-india-defeat-new-zealand-by-96-runs-for-third-title?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
