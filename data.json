@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-10 18:35",
+  "updated_at_gst": "2026-03-10 21:34",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Global airlines hike ticket prices as Iran war sends costs soaring",
+        "published": "Tue, 10 Mar 2026 17:14:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/10/women-in-gaza-denied-conditions-to-live-amid-israels-genocide-amnesty?traffic_source=rss"
+      },
+      {
+        "title": "‘Our hearts were shaking’: Tehran residents endure heavy Israel-US bombing",
+        "published": "Tue, 10 Mar 2026 17:07:29 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/10/live-newcastle-united-vs-barcelona-champions-league-last-16?traffic_source=rss"
+      },
+      {
+        "title": "US general says he ‘respects’ Iran’s fight",
+        "published": "Tue, 10 Mar 2026 16:05:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/israeli-air-strike-targets-building-in-south-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Pete Hegseth vows ‘most intense day’ of US strikes against Iran",
+        "published": "Tue, 10 Mar 2026 15:08:32 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/protesters-block-irans-womens-football-team-bus-en-route-to-airport?traffic_source=rss"
+      },
+      {
+        "title": "US defence chief ends Iran war briefing with prayer for troops",
+        "published": "Tue, 10 Mar 2026 14:36:28 +0000",
+        "link": "https://www.aljazeera.com/video/doha-debates/2026/3/10/is-architecture-a-portrait-of-society?traffic_source=rss"
+      },
+      {
         "title": "Qatari spokesman says unchecked escalation has sparked regional war",
         "published": "Tue, 10 Mar 2026 14:15:53 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/10/what-is-the-hezbollah-linked-financial-institution-al-qard-al-hassan?traffic_source=rss"
-      },
-      {
-        "title": "What are the Ukrainian drone interceptors sent to counter Iranian attacks?",
-        "published": "Tue, 10 Mar 2026 13:59:18 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/10/womens-football-team-to-be-welcomed-home-with-open-arms-iran-says?traffic_source=rss"
-      },
-      {
-        "title": "Russia the only ‘winner’ of US-Israel war on Iran: EU Council president",
-        "published": "Tue, 10 Mar 2026 12:40:13 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/rescue-workers-search-rubble-after-strikes-hit-tehran-neighbourhood?traffic_source=rss"
-      },
-      {
-        "title": "Pakistan orders sweeping austerity measures as Iran war triggers oil crisis",
-        "published": "Tue, 10 Mar 2026 12:17:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/10/war-on-iran-fuelling-islamophobic-social-media-surge-in-us-report?traffic_source=rss"
-      },
-      {
-        "title": "Walk down Beirut street shows destruction after Israeli bombing",
-        "published": "Tue, 10 Mar 2026 12:01:43 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/10/real-madrid-vs-man-city-champions-league-team-news-start?traffic_source=rss"
-      },
-      {
-        "title": "Hundreds killed in Haiti drone strikes, including 60 civilians: Report",
-        "published": "Tue, 10 Mar 2026 10:27:38 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/short-term-excursion-what-trump-said-about-the-war-on-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
