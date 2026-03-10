@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-10 14:01",
+  "updated_at_gst": "2026-03-10 15:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iranian missile strikes central Israel amid escalating attacks",
+        "published": "Tue, 10 Mar 2026 10:46:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/10/hundreds-killed-in-haiti-drone-strikes-including-60-civilians-report?traffic_source=rss"
+      },
+      {
+        "title": "‘Short-term excursion’: What Trump said about the war on Iran",
+        "published": "Tue, 10 Mar 2026 10:14:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/10/air-strike-kills-four-iran-linked-fighters-in-iraq?traffic_source=rss"
+      },
+      {
+        "title": "‘If there is peace, I will return’: People flee US-Israeli bombing of Iran",
+        "published": "Tue, 10 Mar 2026 09:58:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/lebanon-stadium-turned-into-shelter-for-forcibly-displaced?traffic_source=rss"
+      },
+      {
         "title": "Could the US-Israel war with Iran fuel global inflation?",
         "published": "Tue, 10 Mar 2026 09:17:45 +0000",
         "link": "https://www.aljazeera.com/economy/2026/3/10/us-investigators-begin-search-of-epsteins-former-ranch-in-new-mexico?traffic_source=rss"
@@ -29,21 +44,6 @@
         "title": "Toddler’s body pulled from the rubble after US-Israeli strikes hit Tehran",
         "published": "Tue, 10 Mar 2026 09:01:29 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/10/indian-cricket-team-to-pocket-14-million-for-historic-t20-world-cup-win?traffic_source=rss"
-      },
-      {
-        "title": "Israel launches new wave of attacks on southern and eastern Lebanon",
-        "published": "Tue, 10 Mar 2026 08:37:18 +0000",
-        "link": "https://www.aljazeera.com/features/2026/3/10/as-israel-intensifies-lebanon-attacks-hezbollah-disarmament-takes-backseat?traffic_source=rss"
-      },
-      {
-        "title": "Iranian strike kills Bahraini woman after hitting residential building",
-        "published": "Tue, 10 Mar 2026 07:36:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/10/trump-threatens-cuba-again-says-island-nation-may-face-friendly-takeover?traffic_source=rss"
-      },
-      {
-        "title": "Woman killed in Bahrain as Gulf states intercept more Iranian missiles",
-        "published": "Tue, 10 Mar 2026 06:32:09 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/10/afghanistan-vs-sri-lanka-cricket-series-called-off-due-to-iran-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
