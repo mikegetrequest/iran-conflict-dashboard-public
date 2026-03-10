@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-10 21:34",
+  "updated_at_gst": "2026-03-10 23:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Five stories you may have missed amid US-Israeli war on Iran",
+        "published": "Tue, 10 Mar 2026 19:14:27 +0000",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/10/america-has-no-narrative-for-victory?traffic_source=rss"
+      },
+      {
+        "title": "Russian attack kills four in Ukraine’s Sloviansk as both sides claim gains",
+        "published": "Tue, 10 Mar 2026 18:40:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/moment-hezbollah-missile-strikes-israeli-radar-station?traffic_source=rss"
+      },
+      {
+        "title": "WHO warns of health risks from ‘black rain’ in Iran",
+        "published": "Tue, 10 Mar 2026 17:32:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/search-efforts-suspended-after-deadly-indonesia-landfill-collapse?traffic_source=rss"
+      },
+      {
         "title": "Global airlines hike ticket prices as Iran war sends costs soaring",
         "published": "Tue, 10 Mar 2026 17:14:15 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/10/women-in-gaza-denied-conditions-to-live-amid-israels-genocide-amnesty?traffic_source=rss"
@@ -29,21 +44,6 @@
         "title": "US general says he ‘respects’ Iran’s fight",
         "published": "Tue, 10 Mar 2026 16:05:05 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/israeli-air-strike-targets-building-in-south-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Pete Hegseth vows ‘most intense day’ of US strikes against Iran",
-        "published": "Tue, 10 Mar 2026 15:08:32 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/protesters-block-irans-womens-football-team-bus-en-route-to-airport?traffic_source=rss"
-      },
-      {
-        "title": "US defence chief ends Iran war briefing with prayer for troops",
-        "published": "Tue, 10 Mar 2026 14:36:28 +0000",
-        "link": "https://www.aljazeera.com/video/doha-debates/2026/3/10/is-architecture-a-portrait-of-society?traffic_source=rss"
-      },
-      {
-        "title": "Qatari spokesman says unchecked escalation has sparked regional war",
-        "published": "Tue, 10 Mar 2026 14:15:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/10/what-is-the-hezbollah-linked-financial-institution-al-qard-al-hassan?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
