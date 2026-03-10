@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-11 01:02",
+  "updated_at_gst": "2026-03-11 01:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US civil rights group documents ‘broad attack on Muslim life’ in 2025",
+        "published": "Tue, 10 Mar 2026 21:15:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/10/around-140-us-service-members-wounded-in-iran-war-pentagon-says?traffic_source=rss"
+      },
       {
         "title": "Unexploded missile extracted from house in western Iran",
         "published": "Tue, 10 Mar 2026 20:07:25 +0000",
@@ -39,11 +44,6 @@
         "title": "WHO warns of health risks from ‘black rain’ in Iran",
         "published": "Tue, 10 Mar 2026 17:32:47 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/search-efforts-suspended-after-deadly-indonesia-landfill-collapse?traffic_source=rss"
-      },
-      {
-        "title": "Global airlines hike ticket prices as Iran war sends costs soaring",
-        "published": "Tue, 10 Mar 2026 17:14:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/10/women-in-gaza-denied-conditions-to-live-amid-israels-genocide-amnesty?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
