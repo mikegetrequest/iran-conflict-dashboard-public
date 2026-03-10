@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-10 03:57",
+  "updated_at_gst": "2026-03-10 09:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Australia to send missiles to UAE, surveillance plane to help Gulf defence",
+        "published": "Tue, 10 Mar 2026 03:55:52 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-claims-iran-planned-to-take-over-middle-east-before-us-attacked?traffic_source=rss"
+      },
+      {
+        "title": "Trump says some sanctions to be lifted on oil producers amid Iran war",
+        "published": "Tue, 10 Mar 2026 02:51:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/iran-says-no-future-negotiations-with-us-after-bitter-experience?traffic_source=rss"
+      },
+      {
+        "title": "Trump threatens to hit Iran harder if it blocks energy supplies",
+        "published": "Tue, 10 Mar 2026 02:21:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/10/iran-war-may-end-pretty-quickly-what-trump-told-republicans?traffic_source=rss"
+      },
+      {
+        "title": "‘No middle ground’: Israelis back Iran war, despite taking mounting hits",
+        "published": "Tue, 10 Mar 2026 00:53:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/iranians-rally-to-welcome-mojtaba-khamenei-as-new-supreme-leader?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Trump says conflict will be over soon; Gulf attacks continue",
+        "published": "Tue, 10 Mar 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/9/trump-says-us-israeli-war-on-iran-will-be-over-very-soon?traffic_source=rss"
+      },
+      {
         "title": "World reacts to appointment of Mojtaba Khamenei as Iran’s supreme leader",
         "published": "Mon, 09 Mar 2026 21:03:44 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/9/qatar-releases-video-of-interception-of-iranian-missiles?traffic_source=rss"
-      },
-      {
-        "title": "Trump slams Mojtaba Khamenei’s appointment as Iran projects defiance",
-        "published": "Mon, 09 Mar 2026 20:52:29 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/3/9/who-is-irans-new-supreme-leader?traffic_source=rss"
-      },
-      {
-        "title": "What is Trump’s endgame in Iran as the US-Israel war escalates?",
-        "published": "Mon, 09 Mar 2026 19:18:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/9/what-to-know-about-irans-new-supreme-leader-mojtaba-khamenei?traffic_source=rss"
-      },
-      {
-        "title": "How the Iran war is affecting Africa",
-        "published": "Mon, 09 Mar 2026 17:58:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/9/trump-says-australia-has-taken-care-of-iranian-women-football-players?traffic_source=rss"
-      },
-      {
-        "title": "US military kills six in strike on alleged drug boat in the Eastern Pacific",
-        "published": "Mon, 09 Mar 2026 16:40:59 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/9/turkiye-says-iranian-ballistic-missile-intercepted-by-nato-air-defences?traffic_source=rss"
-      },
-      {
-        "title": "What defence support could Ukraine offer Middle East states amid Iran war?",
-        "published": "Mon, 09 Mar 2026 15:28:05 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/9/irans-authorities-showcase-continuity-as-they-back-new-leader-during-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
