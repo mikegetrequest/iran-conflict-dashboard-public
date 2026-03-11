@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-11 03:52",
+  "updated_at_gst": "2026-03-11 09:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Around 140 US service members wounded in Iran war, Pentagon says",
-        "published": "Tue, 10 Mar 2026 21:10:50 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/unexploded-missile-extracted-from-house-in-western-iran?traffic_source=rss"
+        "title": "Beirut building ablaze after apparent Israeli strike",
+        "published": "Wed, 11 Mar 2026 04:20:16 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/11/qatars-foreign-minister-says-keeping-strait-of-hormuz-open-is-critical?traffic_source=rss"
       },
       {
-        "title": "Lebanese priest killed by Israeli tank fire",
-        "published": "Tue, 10 Mar 2026 20:05:46 +0000",
-        "link": "https://www.aljazeera.com/video/quotable/2026/3/10/aviation-will-feel-effect-for-the-rest-of-the-year-even-if-conflict-ends-t?traffic_source=rss"
+        "title": "Bodies recovered after US-Israeli strikes hit Tehran",
+        "published": "Wed, 11 Mar 2026 02:58:12 +0000",
+        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/11/qatar-warns-gulf-security-is-tied-to-global-stability?traffic_source=rss"
       },
       {
-        "title": "Could the US-Israel war with Iran fuel global inflation?",
-        "published": "Tue, 10 Mar 2026 19:30:00 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/3/10/is-control-of-irans-natural-resources-a-factor-in-us-strategy?traffic_source=rss"
+        "title": "Iranian women’s football team arrives in Malaysia from Australia",
+        "published": "Wed, 11 Mar 2026 02:39:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/indian-traveller-stranded-in-qatar-takes-long-road-to?traffic_source=rss"
       },
       {
-        "title": "German Chancellor concerned US-Israel have no exit plan for Iran war",
-        "published": "Tue, 10 Mar 2026 19:28:36 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/10/five-stories-you-may-have-missed-amid-us-israeli-war-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Moment ‘Hezbollah missile’ strikes Israeli radar station",
-        "published": "Tue, 10 Mar 2026 18:20:49 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/10/energy-secretary-deletes-claim-us-military-escorted-tanker-through-hormuz?traffic_source=rss"
+        "title": "‘No endgame’: Why US Democrats say Iran war hearing has them worried",
+        "published": "Wed, 11 Mar 2026 01:32:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/11/australia-grants-asylum-to-2-more-members-of-iranian-womens-football-team?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
