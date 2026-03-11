@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-11 11:52",
+  "updated_at_gst": "2026-03-11 14:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Europe’s hard right fractures over US-Israel war on Iran",
+        "published": "Wed, 11 Mar 2026 08:03:28 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/al-jazeera-reports-from-israeli-bombing-of-beirut-apartment-block?traffic_source=rss"
+      },
+      {
+        "title": "Damage caused to buildings in Tehran following US-Israeli strikes",
+        "published": "Wed, 11 Mar 2026 07:28:57 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/11/israel-continues-to-pound-lebanon-hits-dense-area-of-central-beirut?traffic_source=rss"
+      },
+      {
         "title": "Israeli strikes hit Beirut suburbs",
         "published": "Wed, 11 Mar 2026 07:15:20 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/11/iran-fires-missiles-drones-at-gulf-nations-as-ship-hit-in-strait-of-hormuz?traffic_source=rss"
@@ -29,21 +39,6 @@
         "title": "Beirut building ablaze after apparent Israeli strike",
         "published": "Wed, 11 Mar 2026 04:20:16 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/11/qatars-foreign-minister-says-keeping-strait-of-hormuz-open-is-critical?traffic_source=rss"
-      },
-      {
-        "title": "Bodies recovered after US-Israeli strikes hit Tehran",
-        "published": "Wed, 11 Mar 2026 02:58:12 +0000",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/11/qatar-warns-gulf-security-is-tied-to-global-stability?traffic_source=rss"
-      },
-      {
-        "title": "Iranian women’s football team arrives in Malaysia from Australia",
-        "published": "Wed, 11 Mar 2026 02:39:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/indian-traveller-stranded-in-qatar-takes-long-road-to?traffic_source=rss"
-      },
-      {
-        "title": "‘No endgame’: Why US Democrats say Iran war hearing has them worried",
-        "published": "Wed, 11 Mar 2026 01:32:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/11/australia-grants-asylum-to-2-more-members-of-iranian-womens-football-team?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
