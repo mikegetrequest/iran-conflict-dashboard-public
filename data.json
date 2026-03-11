@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-11 14:06",
+  "updated_at_gst": "2026-03-11 15:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,26 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "How much a day of war on Iran costs the US",
+        "published": "Wed, 11 Mar 2026 11:40:52 +0000",
+        "link": "https://www.aljazeera.com/features/2026/3/11/12-days-how-2025-iran-blueprint-trapped-us-israel-in-longer-war?traffic_source=rss"
+      },
+      {
+        "title": "4 day week, fewer car trips in Philippines as Iran fallout bites",
+        "published": "Wed, 11 Mar 2026 11:32:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/11/un-aid-worker-killed-in-dr-congos-rebel-held-goma?traffic_source=rss"
+      },
+      {
+        "title": "Iranian female footballer changes mind on Australian asylum offer",
+        "published": "Wed, 11 Mar 2026 11:14:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/11/iran-declares-us-israeli-economic-banking-interests-in-region-as-targets?traffic_source=rss"
+      },
+      {
+        "title": "Iran reports hospitals, civilians affected during war with US, Israel",
+        "published": "Wed, 11 Mar 2026 10:54:41 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/11/iran-welcome-to-compete-in-fifa-world-cup-trump-tells-infantino?traffic_source=rss"
+      },
+      {
         "title": "Europe’s hard right fractures over US-Israel war on Iran",
         "published": "Wed, 11 Mar 2026 08:03:28 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/al-jazeera-reports-from-israeli-bombing-of-beirut-apartment-block?traffic_source=rss"
@@ -24,21 +44,6 @@
         "title": "Damage caused to buildings in Tehran following US-Israeli strikes",
         "published": "Wed, 11 Mar 2026 07:28:57 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/11/israel-continues-to-pound-lebanon-hits-dense-area-of-central-beirut?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strikes hit Beirut suburbs",
-        "published": "Wed, 11 Mar 2026 07:15:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/11/iran-fires-missiles-drones-at-gulf-nations-as-ship-hit-in-strait-of-hormuz?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What is happening on day 12 of US-Israel attacks?",
-        "published": "Wed, 11 Mar 2026 06:57:13 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/11/lebron-nba-social-media-react-to-bam-adebayos-historic-83-point-game?traffic_source=rss"
-      },
-      {
-        "title": "Beirut building ablaze after apparent Israeli strike",
-        "published": "Wed, 11 Mar 2026 04:20:16 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/11/qatars-foreign-minister-says-keeping-strait-of-hormuz-open-is-critical?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
