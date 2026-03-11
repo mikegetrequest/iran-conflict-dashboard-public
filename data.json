@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-12 02:59",
+  "updated_at_gst": "2026-03-12 03:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Three brothers arrested in Norway over bomb attack on US embassy in Oslo",
-        "published": "Wed, 11 Mar 2026 19:34:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/11/six-die-in-swiss-bus-fire-after-man-thought-to-have-set-himself-alight?traffic_source=rss"
+        "title": "Massive fires on two oil tankers after attack in Iraqi waters",
+        "published": "Wed, 11 Mar 2026 23:19:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/11/new-files-show-british-pm-warned-of-reputational-risks-with-mandelson?traffic_source=rss"
       },
       {
-        "title": "The hidden battlefield: Censorship in the Israel–Iran war",
-        "published": "Wed, 11 Mar 2026 18:45:20 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/ship-crew-film-drone-strike-on-oil-facility-at-omans-salalah-port?traffic_source=rss"
+        "title": "Trump: ‘I don’t know’ about report US at fault in school strike",
+        "published": "Wed, 11 Mar 2026 22:38:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/11/south-africa-summons-new-us-ambassador-over-undiplomatic-remarks?traffic_source=rss"
       },
       {
-        "title": "What’s left in Iran ‘could be taken out in an hour’, says Trump",
-        "published": "Wed, 11 Mar 2026 18:13:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/11/uk-court-rejects-bid-to-reinstate-terrorism-charge-against-kneecap-rapper?traffic_source=rss"
+        "title": "Iran-linked hackers hit medical giant Stryker in retaliatory cyberattack",
+        "published": "Wed, 11 Mar 2026 22:32:40 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/11/valverde-hat-trick-gives-real-madrid-3-0-champions-league-win-over-man-city?traffic_source=rss"
       },
       {
-        "title": "FIFA World Cup: US war on Iran, Mexico violence, visa bans, Iraq qualifier",
-        "published": "Wed, 11 Mar 2026 17:22:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/11/trump-says-iran-war-to-end-soon-as-israel-claims-no-time-limit?traffic_source=rss"
+        "title": "How Trump has addressed the deadly Iran school bombing",
+        "published": "Wed, 11 Mar 2026 21:55:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/un-security-council-adopts-gulf-countries-draft-resolution-2?traffic_source=rss"
+      },
+      {
+        "title": "Ecuador prepares for attack on ‘criminal economy’ with Trump backing",
+        "published": "Wed, 11 Mar 2026 21:10:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/displaced-lebanese-families-seek-refuge-in-school-shelter?traffic_source=rss"
+      },
+      {
+        "title": "Why does Iran war pose more dilemmas for Europe?",
+        "published": "Wed, 11 Mar 2026 20:41:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/11/two-killed-as-tornadoes-sweep-across-us-midwest-in-latest-extreme-weather?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
