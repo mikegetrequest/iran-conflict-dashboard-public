@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-11 21:37",
+  "updated_at_gst": "2026-03-11 23:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,26 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Three brothers arrested in Norway over bomb attack on US embassy in Oslo",
+        "published": "Wed, 11 Mar 2026 19:34:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/11/six-die-in-swiss-bus-fire-after-man-thought-to-have-set-himself-alight?traffic_source=rss"
+      },
+      {
+        "title": "The hidden battlefield: Censorship in the Israel–Iran war",
+        "published": "Wed, 11 Mar 2026 18:45:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/ship-crew-film-drone-strike-on-oil-facility-at-omans-salalah-port?traffic_source=rss"
+      },
+      {
+        "title": "What’s left in Iran ‘could be taken out in an hour’, says Trump",
+        "published": "Wed, 11 Mar 2026 18:13:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/11/uk-court-rejects-bid-to-reinstate-terrorism-charge-against-kneecap-rapper?traffic_source=rss"
+      },
+      {
+        "title": "FIFA World Cup: US war on Iran, Mexico violence, visa bans, Iraq qualifier",
+        "published": "Wed, 11 Mar 2026 17:22:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/11/trump-says-iran-war-to-end-soon-as-israel-claims-no-time-limit?traffic_source=rss"
+      },
+      {
         "title": "UN warns of widening crisis as Israeli attacks displace 750,000 in Lebanon",
         "published": "Wed, 11 Mar 2026 16:41:20 +0000",
         "link": "https://www.aljazeera.com/economy/2026/3/11/shell-declares-force-majeure-on-lng-contracts-from-qatar?traffic_source=rss"
@@ -24,26 +44,6 @@
         "title": "Not ‘a litre of oil’ to pass Strait of Hormuz, expect $200 price tag: Iran",
         "published": "Wed, 11 Mar 2026 15:43:49 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/11/us-military-confirms-use-of-advanced-ai-tools-in-war-against-iran?traffic_source=rss"
-      },
-      {
-        "title": "Oil facilities in Oman’s Salalah port ablaze after drone strikes",
-        "published": "Wed, 11 Mar 2026 15:17:07 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/11/could-the-us-deploy-troops-to-iran-and-how-could-that-play-out?traffic_source=rss"
-      },
-      {
-        "title": "The Israel-Hezbollah ceasefire was built to fail",
-        "published": "Wed, 11 Mar 2026 14:38:26 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/11/sudans-devastating-war-rages-on-as-regional-rivalries-deepen?traffic_source=rss"
-      },
-      {
-        "title": "What happened in Ukraine missile attack in Russia’s Bryansk?",
-        "published": "Wed, 11 Mar 2026 13:32:19 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/11/iran-cannot-participate-in-the-fifa-world-cup-sports-minister-says?traffic_source=rss"
-      },
-      {
-        "title": "Funeral held for top Iranian commanders killed in US-Israeli strikes",
-        "published": "Wed, 11 Mar 2026 13:25:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/11/attacks-from-all-sides-why-iraq-was-dragged-into-us-israel-war-on-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
