@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-11 09:01",
+  "updated_at_gst": "2026-03-11 11:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli strikes hit Beirut suburbs",
+        "published": "Wed, 11 Mar 2026 07:15:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/11/iran-fires-missiles-drones-at-gulf-nations-as-ship-hit-in-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What is happening on day 12 of US-Israel attacks?",
+        "published": "Wed, 11 Mar 2026 06:57:13 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/11/lebron-nba-social-media-react-to-bam-adebayos-historic-83-point-game?traffic_source=rss"
+      },
       {
         "title": "Beirut building ablaze after apparent Israeli strike",
         "published": "Wed, 11 Mar 2026 04:20:16 +0000",
