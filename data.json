@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-12 15:45",
+  "updated_at_gst": "2026-03-12 18:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran’s Mojtaba Khamenei issues first statement as Supreme Leader amid war",
+        "published": "Thu, 12 Mar 2026 13:53:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/12/how-corporations-have-collaborated-with-us-military-over-the-decades?traffic_source=rss"
+      },
+      {
+        "title": "What we know about Iran and Hezbollah’s joint attacks on Israel",
+        "published": "Thu, 12 Mar 2026 13:10:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/massive-destruction-after-israeli-strikes-in-beirut-neighbourhood?traffic_source=rss"
+      },
+      {
         "title": "Qatari-backed fund offers $1.5bn for pizza giant Papa John’s: Report",
         "published": "Thu, 12 Mar 2026 11:23:25 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attack-hits-house-in-suburbs-of-tel-aviv?traffic_source=rss"
@@ -24,26 +34,6 @@
         "title": "The war of signals: How Russia and China help Iran see the battlefield",
         "published": "Thu, 12 Mar 2026 11:09:52 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/dubai-high-rise-building-damaged-in-overnight-drone-hit?traffic_source=rss"
-      },
-      {
-        "title": "Saudi Arabia and UAE condemn Iranian attacks",
-        "published": "Thu, 12 Mar 2026 09:38:07 +0000",
-        "link": "https://www.aljazeera.com/features/2026/3/12/residents-of-this-beirut-neighbourhood-felt-safe-then-israel-attacked-it?traffic_source=rss"
-      },
-      {
-        "title": "France walks ‘fine line’ as US-Israel war on Iran escalates",
-        "published": "Thu, 12 Mar 2026 08:12:29 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/12/analysis-the-war-on-iran-is-at-a-crossroads?traffic_source=rss"
-      },
-      {
-        "title": "‘A US military victory in Iran without a political one is not a victory’",
-        "published": "Thu, 12 Mar 2026 07:53:09 +0000",
-        "link": "https://www.aljazeera.com/video/project-force-2/2026/3/12/in-the-us-israeli-war-on-iran-who-will-run-out-of-missiles-first?traffic_source=rss"
-      },
-      {
-        "title": "Trump admin estimates US war on Iran cost $11.3bn in first 6 days: Report",
-        "published": "Thu, 12 Mar 2026 07:13:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/12/israeli-double-tap-strike-hits-displaced-on-beirut-seafront-kills-eight?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
