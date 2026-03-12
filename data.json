@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-12 14:05",
+  "updated_at_gst": "2026-03-12 15:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Qatari-backed fund offers $1.5bn for pizza giant Papa John’s: Report",
+        "published": "Thu, 12 Mar 2026 11:23:25 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attack-hits-house-in-suburbs-of-tel-aviv?traffic_source=rss"
+      },
+      {
+        "title": "The war of signals: How Russia and China help Iran see the battlefield",
+        "published": "Thu, 12 Mar 2026 11:09:52 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/dubai-high-rise-building-damaged-in-overnight-drone-hit?traffic_source=rss"
+      },
       {
         "title": "Saudi Arabia and UAE condemn Iranian attacks",
         "published": "Thu, 12 Mar 2026 09:38:07 +0000",
@@ -34,16 +44,6 @@
         "title": "Trump admin estimates US war on Iran cost $11.3bn in first 6 days: Report",
         "published": "Thu, 12 Mar 2026 07:13:34 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/12/israeli-double-tap-strike-hits-displaced-on-beirut-seafront-kills-eight?traffic_source=rss"
-      },
-      {
-        "title": "Iran targets Gulf nations with missiles, drones as oil prices soar",
-        "published": "Thu, 12 Mar 2026 06:31:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/12/life-covered-in-soot-gas-shortage-forces-gaza-families-to-cook-over-wood?traffic_source=rss"
-      },
-      {
-        "title": "Students among 17 dead in RSF drone attack in Sudan’s White Nile State",
-        "published": "Thu, 12 Mar 2026 06:04:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/12/chinas-key-npc-meeting-comes-to-a-close-as-lower-growth-target-set?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
