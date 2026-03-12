@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-13 03:02",
+  "updated_at_gst": "2026-03-13 03:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran envoy says Tehran will keep Strait of Hormuz open",
+        "published": "Thu, 12 Mar 2026 23:18:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/12/qatar-rejects-attempts-to-drive-wedge-with-us-over-gas-pause?traffic_source=rss"
+      },
       {
         "title": "Air attacks target bases of Iran-backed forces in Iraq",
         "published": "Thu, 12 Mar 2026 22:01:00 +0000",
@@ -39,11 +44,6 @@
         "title": "Israel attacks central Beirut in escalation of deadly assault on Lebanon",
         "published": "Thu, 12 Mar 2026 17:50:35 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/12/two-in-critical-condition-after-shooting-at-old-dominion-university-in-us?traffic_source=rss"
-      },
-      {
-        "title": "Israel drops charges against soldiers in Palestinian detainee abuse case",
-        "published": "Thu, 12 Mar 2026 17:30:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/12/trump-says-not-appropriate-for-iran-to-participate-in-the-world-cup-in-us?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
