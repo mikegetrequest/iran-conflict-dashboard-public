@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-13 15:45",
+  "updated_at_gst": "2026-03-13 18:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,26 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Destroy, displace, dismantle: Israel’s Gaza doctrine comes to Lebanon",
+        "published": "Fri, 13 Mar 2026 13:12:29 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/13/iea-announces-release-of-400-million-barrels-of-oil-but-is-it-enough?traffic_source=rss"
+      },
+      {
+        "title": "Dozens injured after missile attack hits northern Israel",
+        "published": "Fri, 13 Mar 2026 12:41:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/13/michigan-synagogue-and-virginia-university-shootings-what-we-know?traffic_source=rss"
+      },
+      {
+        "title": "Air attack strikes Tehran during al-Quds Day rally",
+        "published": "Fri, 13 Mar 2026 11:54:07 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/13/turkiye-says-nato-defences-intercepted-third-missile-from-iran?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu wants to ‘create conditions’ for Iran regime change",
+        "published": "Fri, 13 Mar 2026 11:48:53 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/13/iran-hit-back-at-trump-over-fifa-world-cup-exclusion-threat?traffic_source=rss"
+      },
+      {
         "title": "Black smoke seen after blasts in Dubai financial district",
         "published": "Fri, 13 Mar 2026 10:39:40 +0000",
         "link": "https://www.aljazeera.com/opinions/2026/3/13/the-bad-leader-trap?traffic_source=rss"
@@ -24,26 +44,6 @@
         "title": "Sri Lanka to repatriate remains of 84 Iranian sailors killed in US attack",
         "published": "Fri, 13 Mar 2026 10:04:31 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/13/explosions-near-tehran-al-quds-day-march-in-solidarity-with-palestinians?traffic_source=rss"
-      },
-      {
-        "title": "Over two dozen killed across Lebanon as Israel targets Beirut, south, east",
-        "published": "Fri, 13 Mar 2026 07:46:09 +0000",
-        "link": "https://www.aljazeera.com/features/2026/3/13/poor-in-an-oil-rich-country-republic-of-congos-youth-hope-for-change?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What is happening on day 14 of US-Israel attacks?",
-        "published": "Fri, 13 Mar 2026 06:13:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/13/how-israel-us-war-on-iran-puts-50bn-in-indian-remittances-at-risk?traffic_source=rss"
-      },
-      {
-        "title": "Afghanistan accuses Pakistan of air attacks on homes in Kabul, Kandahar",
-        "published": "Fri, 13 Mar 2026 05:52:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/13/french-soldier-killed-others-wounded-in-attack-in-iraq-macron-says?traffic_source=rss"
-      },
-      {
-        "title": "The Palestinians forced to demolish their own homes by Israel",
-        "published": "Fri, 13 Mar 2026 04:49:07 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
