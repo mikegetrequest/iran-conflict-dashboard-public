@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-13 13:58",
+  "updated_at_gst": "2026-03-13 15:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,17 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel attacks Beirut in ‘targeted killing’ attempt, kills several in south",
+        "title": "Black smoke seen after blasts in Dubai financial district",
+        "published": "Fri, 13 Mar 2026 10:39:40 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/3/13/the-bad-leader-trap?traffic_source=rss"
+      },
+      {
+        "title": "Sri Lanka to repatriate remains of 84 Iranian sailors killed in US attack",
+        "published": "Fri, 13 Mar 2026 10:04:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/13/explosions-near-tehran-al-quds-day-march-in-solidarity-with-palestinians?traffic_source=rss"
+      },
+      {
+        "title": "Over two dozen killed across Lebanon as Israel targets Beirut, south, east",
         "published": "Fri, 13 Mar 2026 07:46:09 +0000",
         "link": "https://www.aljazeera.com/features/2026/3/13/poor-in-an-oil-rich-country-republic-of-congos-youth-hope-for-change?traffic_source=rss"
       },
@@ -34,16 +44,6 @@
         "title": "The Palestinians forced to demolish their own homes by Israel",
         "published": "Fri, 13 Mar 2026 04:49:07 +0000",
         "link": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss"
-      },
-      {
-        "title": "Israel drops abuse charges against soldiers",
-        "published": "Fri, 13 Mar 2026 03:39:35 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss"
-      },
-      {
-        "title": "Thousands rally in Athens protesting US-Israeli attacks on Iran",
-        "published": "Fri, 13 Mar 2026 01:51:24 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/netanyahu-says-israeli-strikes-killed-iranian-nuclear-scientists?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
