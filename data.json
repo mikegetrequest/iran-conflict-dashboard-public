@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-13 18:27",
+  "updated_at_gst": "2026-03-13 20:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Thousands march worldwide in solidarity with Palestine, Iran on al-Quds Day",
+        "published": "Fri, 13 Mar 2026 15:26:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/air-attack-hits-as-irans-chief-justice-gives-lives-interview-at-rally?traffic_source=rss"
+      },
       {
         "title": "Destroy, displace, dismantle: Israel’s Gaza doctrine comes to Lebanon",
         "published": "Fri, 13 Mar 2026 13:12:29 +0000",
@@ -34,16 +39,6 @@
         "title": "Netanyahu wants to ‘create conditions’ for Iran regime change",
         "published": "Fri, 13 Mar 2026 11:48:53 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/13/iran-hit-back-at-trump-over-fifa-world-cup-exclusion-threat?traffic_source=rss"
-      },
-      {
-        "title": "Black smoke seen after blasts in Dubai financial district",
-        "published": "Fri, 13 Mar 2026 10:39:40 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/13/the-bad-leader-trap?traffic_source=rss"
-      },
-      {
-        "title": "Sri Lanka to repatriate remains of 84 Iranian sailors killed in US attack",
-        "published": "Fri, 13 Mar 2026 10:04:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/13/explosions-near-tehran-al-quds-day-march-in-solidarity-with-palestinians?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
