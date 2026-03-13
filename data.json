@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-13 22:02",
+  "updated_at_gst": "2026-03-13 23:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Lebanese father buries four daughters killed in Israeli strike",
-        "published": "Fri, 13 Mar 2026 17:28:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/13/success-uncertain-but-israelis-continue-to-back-heroic-war-with-iran?traffic_source=rss"
+        "title": "Qatar’s interior minister says security situation ‘stable’ amid Iran war",
+        "published": "Fri, 13 Mar 2026 19:18:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/13/bolivian-authorities-capture-drug-kingpin-sebastian-marset-in-police-raid?traffic_source=rss"
       },
       {
-        "title": "Air attack hits as Iran’s chief justice gives lives interview at rally",
-        "published": "Fri, 13 Mar 2026 15:25:52 +0000",
-        "link": "https://www.aljazeera.com/news/longform/2026/3/13/a-president-suing-himself-why-experts-say-trumps-10bn-lawsuit-might-fail?traffic_source=rss"
+        "title": "What is Israel’s endgame in Lebanon?",
+        "published": "Fri, 13 Mar 2026 18:21:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/13/brazil-pulls-visa-of-trump-adviser-who-asked-to-visit-bolsonaro-in-prison?traffic_source=rss"
       },
       {
-        "title": "US’s Hegseth claims new Iran Supreme Leader Mojtaba Khamenei injured",
-        "published": "Fri, 13 Mar 2026 14:35:22 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/13/former-arsenal-player-partey-to-plead-not-guilty-to-2-new-charges-of-rape?traffic_source=rss"
+        "title": "Bahrain and Saudi F1 races set to be cancelled due to Middle East conflict",
+        "published": "Fri, 13 Mar 2026 18:06:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/13/israel-destroys-bridge-in-lebanon-and-threatens-gaza-scale-devastation?traffic_source=rss"
       },
       {
-        "title": "What’s happened in Gaza and the West Bank since the start of the Iran war?",
-        "published": "Fri, 13 Mar 2026 12:50:04 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/dozens-injured-after-missile-attack-hits-northern-israel?traffic_source=rss"
+        "title": "What rats do’: US says Iranian leaders hiding as leaders appear in Tehran",
+        "published": "Fri, 13 Mar 2026 17:50:17 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/lebanese-father-buries-four-daughters-killed-in-israeli-strike?traffic_source=rss"
+      },
+      {
+        "title": "Success uncertain, but Israelis continue to back ‘heroic’ war with Iran",
+        "published": "Fri, 13 Mar 2026 17:14:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/13/ukraine-eu-allies-slam-us-decision-to-roll-back-russia-oil-sanctions?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine finds new role as protector of US, Gulf allies amid Iran war",
+        "published": "Fri, 13 Mar 2026 17:03:22 +0000",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/13/who-wins-and-loses-in-the-global-energy-crisis?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
