@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-15 00:55",
+  "updated_at_gst": "2026-03-15 01:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US-Israeli strike kills 15 at Isfahan factory, Iranian media says",
+        "published": "Sat, 14 Mar 2026 21:25:17 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/thousands-in-madrid-protest-forgotten-gaza-warn-iran-war-may-spiral-into?traffic_source=rss"
+      },
+      {
         "title": "Hundreds protest against US-Israeli strikes on Iran in Seoul",
         "published": "Sat, 14 Mar 2026 20:38:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/14/two-more-iranian-women-footballers-pull-australia-asylum-bids-state-media?traffic_source=rss"
+        "link": "https://www.aljazeera.com/sports/2026/3/14/two-more-iranian-women-footballers-pull-australia-asylum-bids-state-media?traffic_source=rss"
       },
       {
         "title": "Turkey on alert as Iran conflict escalates, warns against provocations",
@@ -39,11 +44,6 @@
         "title": "Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade",
         "published": "Sat, 14 Mar 2026 17:38:12 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/14/un-chief-guterres-says-no-military-solution-only-diplomacy-for-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "‘Israel targeting Iran’s security forces may aim to encourage uprising’",
-        "published": "Sat, 14 Mar 2026 17:02:25 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/14/the-iranian-moment-a-leap-into-the-unknown?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
