@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-14 19:52",
+  "updated_at_gst": "2026-03-14 21:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran allows limited Indian shipping through Strait of Hormuz",
+        "published": "Sat, 14 Mar 2026 16:23:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss"
+      },
       {
         "title": "Why is Iran’s Kharg Island important?",
         "published": "Sat, 14 Mar 2026 14:07:05 +0000",
