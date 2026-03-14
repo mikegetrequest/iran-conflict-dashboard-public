@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-14 17:56",
+  "updated_at_gst": "2026-03-14 18:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Why is Iran’s Kharg Island important?",
+        "published": "Sat, 14 Mar 2026 14:07:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/fire-and-damage-after-strike-on-us-embassy-compound-in-baghdad?traffic_source=rss"
+      },
       {
         "title": "Smoke rises from Fujairah oil facility in UAE",
         "published": "Sat, 14 Mar 2026 13:25:52 +0000",
@@ -36,14 +41,9 @@
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/four-killed-in-southern-lebanon-apartment-after-reported-israeli-attack?traffic_source=rss"
       },
       {
-        "title": "Iran continues intensified attacks across Gulf in US-Israel war fallout",
+        "title": "Iran continues intensified attacks across Gulf in US-Israeli war fallout",
         "published": "Sat, 14 Mar 2026 09:12:38 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/14/indian-owned-sunrisers-face-backlash-after-signing-pakistans-abrar-ahmed?traffic_source=rss"
-      },
-      {
-        "title": "‘Israel is targeting civilian infrastructure as a matter of policy’",
-        "published": "Sat, 14 Mar 2026 07:59:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-baghdad-iraq-targeted-with-missile-hits-helipad?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
