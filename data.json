@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-15 02:56",
+  "updated_at_gst": "2026-03-15 03:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Pakistan strikes Afghan base after its president warns ‘red line’ crossed",
+        "published": "Sat, 14 Mar 2026 23:28:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/14/brazils-jailed-ex-president-bolsonaro-hospitalised-with-lung-infection?traffic_source=rss"
+      },
+      {
+        "title": "Bahrain and Saudi Arabia F1 race cancellations confirmed due to Iran war",
+        "published": "Sat, 14 Mar 2026 23:16:05 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/14/man-city-held-at-west-ham-to-lose-ground-on-premier-league-leaders-arsenal?traffic_source=rss"
+      },
       {
         "title": "US-Israeli strike kills 15 at Isfahan factory, Iranian media says",
         "published": "Sat, 14 Mar 2026 21:25:17 +0000",
@@ -34,16 +44,6 @@
         "title": "Six killed in attacks on Ukraine as EU extends sanctions against Russians",
         "published": "Sat, 14 Mar 2026 19:28:58 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/14/trump-administration-threatens-news-outlets-over-critical-coverage-of-iran?traffic_source=rss"
-      },
-      {
-        "title": "Iranian woman explains ‘Allahu Akbar’ to Americans, amid explosion in Iran",
-        "published": "Sat, 14 Mar 2026 19:23:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/14/israeli-settlers-shoot-palestinians-in-west-bank-villages-steal-livestock?traffic_source=rss"
-      },
-      {
-        "title": "Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade",
-        "published": "Sat, 14 Mar 2026 17:38:12 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/14/un-chief-guterres-says-no-military-solution-only-diplomacy-for-lebanon?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
