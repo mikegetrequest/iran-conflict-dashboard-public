@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-14 15:47",
+  "updated_at_gst": "2026-03-14 17:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Smoke rises from Fujairah oil facility in UAE",
+        "published": "Sat, 14 Mar 2026 13:25:52 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/moment-car-slams-into-muslim-woman-in-broad-daylight?traffic_source=rss"
+      },
+      {
+        "title": "Two Indian ships cross Strait of Hormuz as Iran says it allowed passage",
+        "published": "Sat, 14 Mar 2026 12:58:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/14/india-releases-ladakh-activist-sonam-wangchuk-after-six-months-in-jail?traffic_source=rss"
+      },
+      {
+        "title": "Another 5 Palestinians killed in Israel’s genocide in Gaza amid wider war",
+        "published": "Sat, 14 Mar 2026 12:12:07 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/14/kimi-antonelli-becomes-youngest-f1-driver-to-take-grand-prix-pole-position?traffic_source=rss"
+      },
+      {
         "title": "Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran",
         "published": "Sat, 14 Mar 2026 09:53:03 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/four-killed-in-southern-lebanon-apartment-after-reported-israeli-attack?traffic_source=rss"
@@ -29,21 +44,6 @@
         "title": "‘Israel is targeting civilian infrastructure as a matter of policy’",
         "published": "Sat, 14 Mar 2026 07:59:17 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-baghdad-iraq-targeted-with-missile-hits-helipad?traffic_source=rss"
-      },
-      {
-        "title": "Israel kills 12 medics in attack in southern Lebanon as war ravages nation",
-        "published": "Sat, 14 Mar 2026 06:58:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What is happening on day 15 of US-Israel attacks?",
-        "published": "Sat, 14 Mar 2026 05:45:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/smoke-seen-rising-from-us-embassy-in-baghdad?traffic_source=rss"
-      },
-      {
-        "title": "Yemeni ports face shipping fee hike amid Iran conflict",
-        "published": "Sat, 14 Mar 2026 04:37:30 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-posts-bombing-video-after-saying-us-hit-kharg-island?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
