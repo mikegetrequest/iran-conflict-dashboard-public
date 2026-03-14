@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-14 23:56",
+  "updated_at_gst": "2026-03-15 00:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Hundreds protest against US-Israeli strikes on Iran in Seoul",
+        "published": "Sat, 14 Mar 2026 20:38:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/14/two-more-iranian-women-footballers-pull-australia-asylum-bids-state-media?traffic_source=rss"
+      },
+      {
+        "title": "Turkey on alert as Iran conflict escalates, warns against provocations",
+        "published": "Sat, 14 Mar 2026 20:01:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/unesco-condemns-strike-on-minab-girls-school-they-attacked-twice-how?traffic_source=rss"
+      },
       {
         "title": "Six killed in attacks on Ukraine as EU extends sanctions against Russians",
         "published": "Sat, 14 Mar 2026 19:28:58 +0000",
@@ -34,11 +44,6 @@
         "title": "‘Israel targeting Iran’s security forces may aim to encourage uprising’",
         "published": "Sat, 14 Mar 2026 17:02:25 +0000",
         "link": "https://www.aljazeera.com/opinions/2026/3/14/the-iranian-moment-a-leap-into-the-unknown?traffic_source=rss"
-      },
-      {
-        "title": "Iran allows limited Indian shipping through Strait of Hormuz",
-        "published": "Sat, 14 Mar 2026 16:23:24 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
