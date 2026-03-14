@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-14 21:01",
+  "updated_at_gst": "2026-03-14 21:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade",
+        "published": "Sat, 14 Mar 2026 17:38:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/14/un-chief-guterres-says-no-military-solution-only-diplomacy-for-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "‘Israel targeting Iran’s security forces may aim to encourage uprising’",
+        "published": "Sat, 14 Mar 2026 17:02:25 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/3/14/the-iranian-moment-a-leap-into-the-unknown?traffic_source=rss"
+      },
       {
         "title": "Iran allows limited Indian shipping through Strait of Hormuz",
         "published": "Sat, 14 Mar 2026 16:23:24 +0000",
@@ -34,16 +44,6 @@
         "title": "Two Indian ships cross Strait of Hormuz as Iran says it allowed passage",
         "published": "Sat, 14 Mar 2026 12:58:22 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/14/india-releases-ladakh-activist-sonam-wangchuk-after-six-months-in-jail?traffic_source=rss"
-      },
-      {
-        "title": "Another 5 Palestinians killed in Israel’s genocide in Gaza amid wider war",
-        "published": "Sat, 14 Mar 2026 12:12:07 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/14/kimi-antonelli-becomes-youngest-f1-driver-to-take-grand-prix-pole-position?traffic_source=rss"
-      },
-      {
-        "title": "Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran",
-        "published": "Sat, 14 Mar 2026 09:53:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/four-killed-in-southern-lebanon-apartment-after-reported-israeli-attack?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
