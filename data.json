@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-15 14:02",
+  "updated_at_gst": "2026-03-15 15:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump says US may hit Iran’s Kharg Island again ‘just for fun’",
-        "published": "Sun, 15 Mar 2026 09:47:07 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/15/iran-war-what-is-happening-on-day-16-of-us-israel-attacks?traffic_source=rss"
+        "title": "Overnight Israeli attacks kill four people in Lebanon",
+        "published": "Sun, 15 Mar 2026 11:05:21 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/15/live-manchester-united-vs-aston-villa-premier-league?traffic_source=rss"
       },
       {
-        "title": "MotoGP postpones Qatar Grand Prix due to Middle East conflict",
-        "published": "Sun, 15 Mar 2026 08:33:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/activists-rally-outside-white-house-against-war-with-iran?traffic_source=rss"
+        "title": "Thousands in Paris protest military actions in Iran, Lebanon and Palestine",
+        "published": "Sun, 15 Mar 2026 10:21:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/15/us-china-hold-trade-talks-in-paris-to-clear-path-to-trump-xi-summit?traffic_source=rss"
       },
       {
-        "title": "Al-Quds Day rally in Toronto calls for an end to the war in Iran &amp; Lebanon",
-        "published": "Sun, 15 Mar 2026 08:25:30 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/15/minab-when-the-worlds-most-precise-missile-chose-a-classroom?traffic_source=rss"
+        "title": "Iran war: What is happening on day 16 of US-Israel attacks?",
+        "published": "Sun, 15 Mar 2026 08:52:23 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/15/motogp-postpones-qatar-grand-prix-due-to-middle-east-conflict?traffic_source=rss"
       },
       {
-        "title": "Anti-war protest held in Tel Aviv, criticising Israel’s attacks on Iran",
-        "published": "Sun, 15 Mar 2026 07:34:03 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/15/medvedev-ends-alcarazs-winning-run-sets-up-sinner-final-at-indian-wells?traffic_source=rss"
+        "title": "Activists rally outside White House against war with Iran",
+        "published": "Sun, 15 Mar 2026 08:31:43 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/al-quds-day-rally-in-toronto-calls-for-an-end-to-the-war-in-iran-lebanon?traffic_source=rss"
       },
       {
-        "title": "Funeral procession for influential Iranian defence chief",
-        "published": "Sun, 15 Mar 2026 03:56:33 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/barrage-of-us-israeli-strikes-target-isfahan?traffic_source=rss"
-      },
-      {
-        "title": "Former CIA chief reveals early knowledge of Israeli attack plans",
-        "published": "Sun, 15 Mar 2026 03:49:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/irans-space-research-centre-severely-damaged-in-strikes?traffic_source=rss"
+        "title": "Minab: When the world’s most precise missile chose a classroom",
+        "published": "Sun, 15 Mar 2026 07:53:43 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/smoke-rises-over-beiruts-southern-suburbs?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
