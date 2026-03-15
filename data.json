@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-15 17:58",
+  "updated_at_gst": "2026-03-15 18:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Spain v Argentina ‘Finalissima’ match in Qatar cancelled amid conflict",
+        "published": "Sun, 15 Mar 2026 14:19:07 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/15/captain-of-irans-womens-team-withdraws-australia-asylum-bid-state-media?traffic_source=rss"
+      },
       {
         "title": "What do the first two weeks of the war on Iran portend for the future?",
         "published": "Sun, 15 Mar 2026 13:41:53 +0000",
@@ -39,11 +44,6 @@
         "title": "MotoGP postpones Qatar Grand Prix due to Middle East conflict",
         "published": "Sun, 15 Mar 2026 08:33:45 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/activists-rally-outside-white-house-against-war-with-iran?traffic_source=rss"
-      },
-      {
-        "title": "Al-Quds Day rally in Toronto calls for an end to the war in Iran &amp; Lebanon",
-        "published": "Sun, 15 Mar 2026 08:25:30 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/15/minab-when-the-worlds-most-precise-missile-chose-a-classroom?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
