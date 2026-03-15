@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-15 15:41",
+  "updated_at_gst": "2026-03-15 17:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Overnight Israeli attacks kill four people in Lebanon",
-        "published": "Sun, 15 Mar 2026 11:05:21 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/15/live-manchester-united-vs-aston-villa-premier-league?traffic_source=rss"
+        "title": "What do the first two weeks of the war on Iran portend for the future?",
+        "published": "Sun, 15 Mar 2026 13:41:53 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/15/keisuke-honda-loses-us-advertising-deal-over-iran-support-at-world-cup?traffic_source=rss"
       },
       {
-        "title": "Thousands in Paris protest military actions in Iran, Lebanon and Palestine",
-        "published": "Sun, 15 Mar 2026 10:21:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/15/us-china-hold-trade-talks-in-paris-to-clear-path-to-trump-xi-summit?traffic_source=rss"
+        "title": "France offers to broker Lebanon-Israel talks: What do we know?",
+        "published": "Sun, 15 Mar 2026 13:00:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/icc-judge-says-us-sanctions-left-her-without-bank-cards-and-google-accounts?traffic_source=rss"
       },
       {
-        "title": "Iran war: What is happening on day 16 of US-Israel attacks?",
-        "published": "Sun, 15 Mar 2026 08:52:23 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/15/motogp-postpones-qatar-grand-prix-due-to-middle-east-conflict?traffic_source=rss"
+        "title": "Iran claims US and Israel using copycat ‘Lucas’ drones to frame it",
+        "published": "Sun, 15 Mar 2026 11:21:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/15/overnight-israeli-attacks-kill-four-people-in-lebanon?traffic_source=rss"
       },
       {
-        "title": "Activists rally outside White House against war with Iran",
-        "published": "Sun, 15 Mar 2026 08:31:43 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/al-quds-day-rally-in-toronto-calls-for-an-end-to-the-war-in-iran-lebanon?traffic_source=rss"
+        "title": "Trump says US may hit Iran’s Kharg Island again ‘just for fun’",
+        "published": "Sun, 15 Mar 2026 09:47:07 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/15/iran-war-what-is-happening-on-day-16-of-us-israel-attacks?traffic_source=rss"
       },
       {
-        "title": "Minab: When the world’s most precise missile chose a classroom",
-        "published": "Sun, 15 Mar 2026 07:53:43 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/smoke-rises-over-beiruts-southern-suburbs?traffic_source=rss"
+        "title": "MotoGP postpones Qatar Grand Prix due to Middle East conflict",
+        "published": "Sun, 15 Mar 2026 08:33:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/activists-rally-outside-white-house-against-war-with-iran?traffic_source=rss"
+      },
+      {
+        "title": "Al-Quds Day rally in Toronto calls for an end to the war in Iran &amp; Lebanon",
+        "published": "Sun, 15 Mar 2026 08:25:30 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/3/15/minab-when-the-worlds-most-precise-missile-chose-a-classroom?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
