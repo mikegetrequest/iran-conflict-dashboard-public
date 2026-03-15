@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-15 03:53",
+  "updated_at_gst": "2026-03-15 09:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Barrage of US-Israeli strikes target Isfahan",
+        "published": "Sun, 15 Mar 2026 03:53:02 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/former-cia-chief-reveals-early-knowledge-of-israeli-attack-plans?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s Space Research Centre severely damaged in strikes",
+        "published": "Sun, 15 Mar 2026 03:29:57 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/3/15/iran-war-live-trump-urges-world-to-keep-hormuz-strait-open?traffic_source=rss"
+      },
       {
         "title": "Pakistan strikes Afghan base after its president warns ‘red line’ crossed",
         "published": "Sat, 14 Mar 2026 23:28:40 +0000",
@@ -34,16 +44,6 @@
         "title": "Hundreds protest against US-Israeli strikes on Iran in Seoul",
         "published": "Sat, 14 Mar 2026 20:38:26 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/14/two-more-iranian-women-footballers-pull-australia-asylum-bids-state-media?traffic_source=rss"
-      },
-      {
-        "title": "Turkey on alert as Iran conflict escalates, warns against provocations",
-        "published": "Sat, 14 Mar 2026 20:01:20 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/unesco-condemns-strike-on-minab-girls-school-they-attacked-twice-how?traffic_source=rss"
-      },
-      {
-        "title": "Six killed in attacks on Ukraine as EU extends sanctions against Russians",
-        "published": "Sat, 14 Mar 2026 19:28:58 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/14/trump-administration-threatens-news-outlets-over-critical-coverage-of-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
