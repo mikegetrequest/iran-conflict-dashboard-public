@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-16 00:57",
+  "updated_at_gst": "2026-03-16 01:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Why is NYC’s Mamdani facing criticism over response to attacks on wife?",
-        "published": "Sun, 15 Mar 2026 17:45:32 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/15/manchester-united-beat-aston-villa-3-1-to-tighten-hold-on-third-place?traffic_source=rss"
+        "title": "Iran’s ambassador to Saudi Arabia denies attacks on its oil facilities",
+        "published": "Sun, 15 Mar 2026 21:24:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/15/thousands-attend-al-quds-day-rally-in-london?traffic_source=rss"
       },
       {
-        "title": "Spain vs Argentina ‘Finalissima’ match in Qatar cancelled because of war",
-        "published": "Sun, 15 Mar 2026 14:19:07 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/15/captain-of-irans-womens-team-withdraws-australia-asylum-bid-state-media?traffic_source=rss"
+        "title": "Displaced families in Lebanon turn vehicles into rain-soaked shelters",
+        "published": "Sun, 15 Mar 2026 20:37:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/15/money-technology-important-in-return-for-middle-east-support-zelenskyy?traffic_source=rss"
       },
       {
-        "title": "What do the first two weeks of the war on Iran portend for the future?",
-        "published": "Sun, 15 Mar 2026 13:41:53 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/15/keisuke-honda-loses-us-advertising-deal-over-iran-support-at-world-cup?traffic_source=rss"
+        "title": "Two brothers survive after Israeli troops kill family in occupied West Bank",
+        "published": "Sun, 15 Mar 2026 19:07:07 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/different-parties-on-the-rise-within-the-anti-netanyahu-right?traffic_source=rss"
+      },
+      {
+        "title": "Moment Iranian missile hits Tel Aviv",
+        "published": "Sun, 15 Mar 2026 14:49:15 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/15/spain-v-argentina-finalissima-match-in-qatar-cancelled-amid-conflict?traffic_source=rss"
+      },
+      {
+        "title": "Captain of Iran’s women’s team withdraws Australia asylum bid: State media",
+        "published": "Sun, 15 Mar 2026 14:00:10 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/3/15/what-do-the-first-two-weeks-of-the-war-on-iran-portend-for-the-future?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
