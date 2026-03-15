@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-15 13:06",
+  "updated_at_gst": "2026-03-15 14:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump says US may hit Iran’s Kharg Island again ‘just for fun’",
+        "published": "Sun, 15 Mar 2026 09:47:07 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/15/iran-war-what-is-happening-on-day-16-of-us-israel-attacks?traffic_source=rss"
+      },
       {
         "title": "MotoGP postpones Qatar Grand Prix due to Middle East conflict",
         "published": "Sun, 15 Mar 2026 08:33:45 +0000",
@@ -39,11 +44,6 @@
         "title": "Former CIA chief reveals early knowledge of Israeli attack plans",
         "published": "Sun, 15 Mar 2026 03:49:11 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/irans-space-research-centre-severely-damaged-in-strikes?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Trump says not ready for deal; US, Israel pound Isfahan",
-        "published": "Sun, 15 Mar 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/14/pakistan-strikes-afghan-base-after-its-president-warns-red-line-crossed?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
