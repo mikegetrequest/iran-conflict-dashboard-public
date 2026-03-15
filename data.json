@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-16 02:59",
+  "updated_at_gst": "2026-03-16 03:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Top Trump adviser says Iran war price tag at $12bn so far",
+        "published": "Sun, 15 Mar 2026 23:34:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/15/muted-response-as-trump-urges-nations-to-escort-ships-through-hormuz-strait?traffic_source=rss"
+      },
+      {
+        "title": "Israeli attacks kill 13 in Gaza, including 2 children and a pregnant woman",
+        "published": "Sun, 15 Mar 2026 23:26:52 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/3/15/whats-the-impact-of-the-iran-war-on-china?traffic_source=rss"
+      },
+      {
         "title": "Iran’s ambassador to Saudi Arabia denies attacks on its oil facilities",
         "published": "Sun, 15 Mar 2026 21:24:47 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/15/thousands-attend-al-quds-day-rally-in-london?traffic_source=rss"
@@ -29,16 +39,6 @@
         "title": "Two brothers survive after Israeli troops kill family in occupied West Bank",
         "published": "Sun, 15 Mar 2026 19:07:07 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/different-parties-on-the-rise-within-the-anti-netanyahu-right?traffic_source=rss"
-      },
-      {
-        "title": "Moment Iranian missile hits Tel Aviv",
-        "published": "Sun, 15 Mar 2026 14:49:15 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/15/spain-v-argentina-finalissima-match-in-qatar-cancelled-amid-conflict?traffic_source=rss"
-      },
-      {
-        "title": "Captain of Iran’s women’s team withdraws Australia asylum bid: State media",
-        "published": "Sun, 15 Mar 2026 14:00:10 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/15/what-do-the-first-two-weeks-of-the-war-on-iran-portend-for-the-future?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
