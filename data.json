@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-16 23:43",
+  "updated_at_gst": "2026-03-17 01:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli forces in southern Lebanon as ground operation announced",
-        "published": "Mon, 16 Mar 2026 19:14:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/16/trump-says-hormuz-strait-help-on-the-way-as-allies-reject-military-action?traffic_source=rss"
+        "title": "Hezbollah rocket hits a residential building in Israel’s Nahariya",
+        "published": "Mon, 16 Mar 2026 20:27:10 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/israeli-forces-in-southern-lebanon-as-ground-operation-announced?traffic_source=rss"
       },
       {
-        "title": "Civilians pulled from rubble after US-Israeli strikes on Tehran",
-        "published": "Mon, 16 Mar 2026 17:27:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/16/us-responsible-for-deadly-attack-on-iranian-school-amnesty-international?traffic_source=rss"
+        "title": "US responsible for deadly attack on Iranian school: Amnesty International",
+        "published": "Mon, 16 Mar 2026 17:01:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/16/afghanistan-says-children-among-those-killed-in-latest-attacks-by-pakistan?traffic_source=rss"
       },
       {
-        "title": "Afghanistan says children among four killed in latest attacks by Pakistan",
-        "published": "Mon, 16 Mar 2026 17:01:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israel-now-know-what-kind-of-nation-they-are-dealing?traffic_source=rss"
+        "title": "US, Israel now know ‘what kind of nation they are dealing with’",
+        "published": "Mon, 16 Mar 2026 16:00:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/16/the-tell-tale-signs-how-bad-has-the-iran-war-hit-the-global-economy?traffic_source=rss"
       },
       {
-        "title": "How badly has the Iran war hit the global economy? The tell-tale signs",
-        "published": "Mon, 16 Mar 2026 15:54:02 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/is-russia-benefitting-from-the-iran-war?traffic_source=rss"
+        "title": "Is Russia benefitting from the Iran war?",
+        "published": "Mon, 16 Mar 2026 15:49:27 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/16/qatar-airways-announces-limited-flights-to-and-from-doha?traffic_source=rss"
       },
       {
-        "title": "Qatar Airways announces ‘limited’ flights to and from Doha",
-        "published": "Mon, 16 Mar 2026 15:04:56 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/16/iran-officials-tout-trump-burning-celebration-amid-battle-of-narratives?traffic_source=rss"
-      },
-      {
-        "title": "US says it has destroyed Iran missile capacity: How is Iran still shooting?",
-        "published": "Mon, 16 Mar 2026 14:08:43 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/16/qatar-calls-on-iran-to-stop-gulf-attacks-urges-diplomatic-solution?traffic_source=rss"
+        "title": "Iran officials tout ‘Trump-burning’ celebration amid battle of narratives",
+        "published": "Mon, 16 Mar 2026 14:55:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/16/eu-leaders-reject-military-involvement-in-strait-of-hormuz-amid-war-on-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
