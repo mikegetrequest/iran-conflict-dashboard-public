@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-16 13:46",
+  "updated_at_gst": "2026-03-16 16:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Displaced Lebanese shelter in schools, stadiums amid Israeli attacks",
-        "published": "Mon, 16 Mar 2026 09:20:31 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/3/16/how-israel-the-us-and-iran-deploy-covert-ops?traffic_source=rss"
+        "title": "No, MAGA is not divided on the Iran war",
+        "published": "Mon, 16 Mar 2026 11:13:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/16/war-on-iran-can-fuel-rationing-remote-work-short-sleeves-ease-oil-woes?traffic_source=rss"
       },
       {
-        "title": "Map shows how 16 days of attacks have evolved in US-Israel war on Iran",
-        "published": "Mon, 16 Mar 2026 08:43:49 +0000",
-        "link": "https://www.aljazeera.com/video/digital-dilemma/2026/3/16/the-iran-war-picture-blackout?traffic_source=rss"
+        "title": "Israeli military launches ‘ground operations’ in southern Lebanon",
+        "published": "Mon, 16 Mar 2026 09:38:41 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/3/16/displaced-lebanese-shelter-in-schools-stadiums-amid-israeli-attacks?traffic_source=rss"
       },
       {
-        "title": "Drone strike disrupts Dubai flights as Iran continues Gulf attacks",
-        "published": "Mon, 16 Mar 2026 07:52:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/stop-all-these-wars-now-says-oscar-winner?traffic_source=rss"
+        "title": "How Israel, the US and Iran deploy covert ops",
+        "published": "Mon, 16 Mar 2026 08:59:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/muslims-pray-near-closed-al-aqsa-mosque-on-ramadan-holy-night?traffic_source=rss"
       },
       {
-        "title": "Japan begins release of oil reserves as Iran war sparks energy crisis",
-        "published": "Mon, 16 Mar 2026 06:56:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/16/madagascar-names-anticorruption-chief-as-pm-days-after-cabinet-dissolved?traffic_source=rss"
+        "title": "Israeli strike on Gaza police kills officers",
+        "published": "Mon, 16 Mar 2026 08:50:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/16/map-shows-how-16-days-of-attacks-have-evolved-in-us-israel-war-on-iran?traffic_source=rss"
       },
       {
-        "title": "Large protest held in London against US-Israeli war on Iran",
-        "published": "Mon, 16 Mar 2026 04:02:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/stars-at-oscars-2026-call-for-end-to-war-in-gaza-and-iran?traffic_source=rss"
+        "title": "The Iran war picture blackout",
+        "published": "Mon, 16 Mar 2026 08:42:56 +0000",
+        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/16/how-closing-the-strait-of-hormuz-raises-your-grocery-bill?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What is happening on day 17 of US-Israel attacks?",
+        "published": "Mon, 16 Mar 2026 08:01:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/16/drone-strike-disrupts-dubai-flights-as-iran-continues-gulf-attacks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
