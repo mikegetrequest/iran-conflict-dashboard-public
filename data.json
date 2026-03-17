@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-18 02:03",
+  "updated_at_gst": "2026-03-18 03:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Pakistan denies hospital strike in Afghanistan as death toll hits 400",
+        "published": "Tue, 17 Mar 2026 22:06:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/17/tipster-claims-to-have-seen-grave-like-plots-at-epsteins-zorro-ranch?traffic_source=rss"
+      },
+      {
         "title": "FIFA rejects Iran’s request to move World Cup matches from US to Mexico",
         "published": "Tue, 17 Mar 2026 20:57:04 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/17/rubio-says-cuba-needs-to-get-new-people-in-charge-as-us-ratchets-pressure?traffic_source=rss"
@@ -29,21 +34,6 @@
         "title": "US confirms 157 killed in maritime strikes experts call ‘extrajudicial’",
         "published": "Tue, 17 Mar 2026 18:10:11 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/17/starmer-tells-zelenskyy-focus-on-ukraine-as-iran-war-diverts-attention?traffic_source=rss"
-      },
-      {
-        "title": "Video: Man rescued from under rubble after attack in Iran",
-        "published": "Tue, 17 Mar 2026 17:05:28 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/17/belgium-diplomat-ordered-to-stand-trial-over-killing-of-patrice-lumumba?traffic_source=rss"
-      },
-      {
-        "title": "Israel carrying out ‘mass expulsion of Palestinians’ in West Bank, UN warns",
-        "published": "Tue, 17 Mar 2026 17:04:44 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/17/live-manchester-city-vs-real-madrid-champions-league-last-16?traffic_source=rss"
-      },
-      {
-        "title": "Why Iranians are taking to Tehran’s streets during war",
-        "published": "Tue, 17 Mar 2026 16:32:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/video-what-we-know-about-israels-assault-on-southern-lebanon?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
