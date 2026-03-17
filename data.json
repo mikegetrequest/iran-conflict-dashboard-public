@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-17 09:24",
+  "updated_at_gst": "2026-03-17 12:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump claims strikes on Iran prevented nuclear war",
-        "published": "Mon, 16 Mar 2026 22:34:59 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/16/trump-seeks-to-delay-meeting-with-chinas-xi-by-month-or-so-amid-iran-war?traffic_source=rss"
+        "title": "Palestinian refugees face new displacement as Israel’s bombs hit Lebanon",
+        "published": "Tue, 17 Mar 2026 07:33:24 +0000",
+        "link": "https://www.aljazeera.com/video/project-force-2/2026/3/17/iran-is-targeting-ships-in-response-to-us-attacks-can-the-us-stop-them?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What is happening on day 18 of US-Israel attacks?",
+        "published": "Tue, 17 Mar 2026 06:52:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/17/drone-sparks-fire-at-uae-oil-site-as-gulf-takes-more-hits-amid-iran-war?traffic_source=rss"
+      },
+      {
+        "title": "Inside Qeshm, Iran’s underground missile fortress and geological marvel",
+        "published": "Tue, 17 Mar 2026 06:31:41 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/17/twitter-trial-accusing-musk-of-driving-down-stock-set-for-closing-arguments?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s neighbours brace for fallout as war threatens new refugee crisis",
+        "published": "Tue, 17 Mar 2026 06:13:43 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/17/epstein-urged-media-mogul-to-give-up-control-of-affairs-citing-health?traffic_source=rss"
+      },
+      {
+        "title": "Iran negotiating with FIFA to move World Cup 2026 matches from US to Mexico",
+        "published": "Tue, 17 Mar 2026 05:42:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/eu-says-iran-is-not-europes-war?traffic_source=rss"
+      },
+      {
+        "title": "Marine turned anti-war protester says Trump wrong on Israel, Iran",
+        "published": "Tue, 17 Mar 2026 05:00:43 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/17/venezuela-defeats-italy-sets-up-wbc-final-against-us?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
