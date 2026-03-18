@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-18 19:50",
+  "updated_at_gst": "2026-03-18 22:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iranian women’s football team return to Iran",
+        "published": "Wed, 18 Mar 2026 17:51:55 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/18/live-liverpool-vs-galatasaray-champions-league-last-16?traffic_source=rss"
+      },
+      {
+        "title": "Gunshots disperse crowd during Persian New Year festivities in Tehran",
+        "published": "Wed, 18 Mar 2026 16:51:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/18/president-or-congress-who-in-the-us-has-the-power-to-declare-war?traffic_source=rss"
+      },
+      {
         "title": "How the killing of Iran’s Ali Larijani could impact the war",
         "published": "Wed, 18 Mar 2026 14:43:43 +0000",
         "link": "https://www.aljazeera.com/features/2026/3/18/amid-ruins-palestinians-struggle-to-preserve-gazas-historic-markets?traffic_source=rss"
@@ -24,21 +34,6 @@
         "title": "Israel says it killed Iranian intelligence chief Khatib",
         "published": "Wed, 18 Mar 2026 13:15:07 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/18/iran-announces-arrests-says-us-and-israel-suffering?traffic_source=rss"
-      },
-      {
-        "title": "Why did Trump’s counterterrorism chief resign over Iran war?",
-        "published": "Wed, 18 Mar 2026 12:35:47 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/18/how-senegals-afcon-win-was-awarded-to-morocco-and-what-next-all-to-know?traffic_source=rss"
-      },
-      {
-        "title": "Not just energy: How the Iran war could trigger a global food crisis",
-        "published": "Wed, 18 Mar 2026 12:23:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/18/un-revises-kabul-rehab-strike-toll-as-pakistan-denies-targeting-civilians?traffic_source=rss"
-      },
-      {
-        "title": "Turkiye says NATO bringing in more defences after missile interceptions",
-        "published": "Wed, 18 Mar 2026 11:24:40 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/18/iran-womens-football-team-arrive-in-eastern-turkiye-on-home-border?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
