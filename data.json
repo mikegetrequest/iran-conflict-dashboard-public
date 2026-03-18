@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-18 22:39",
+  "updated_at_gst": "2026-03-19 01:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iranian women’s football team return to Iran",
-        "published": "Wed, 18 Mar 2026 17:51:55 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/18/live-liverpool-vs-galatasaray-champions-league-last-16?traffic_source=rss"
+        "title": "Iranians burn Trump, Netanyahu effigies at warship victim rally",
+        "published": "Wed, 18 Mar 2026 20:42:32 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/18/us-fed-keeps-interest-rates-steady-amid-economic-geopolitical-uncertainty?traffic_source=rss"
       },
       {
-        "title": "Gunshots disperse crowd during Persian New Year festivities in Tehran",
-        "published": "Wed, 18 Mar 2026 16:51:05 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/18/president-or-congress-who-in-the-us-has-the-power-to-declare-war?traffic_source=rss"
+        "title": "Israel holding more than half of Palestinian child detainees without charge",
+        "published": "Wed, 18 Mar 2026 20:25:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/18/delcy-rodriguez-replaces-venezuelas-defence-minister-vladimir-padrino?traffic_source=rss"
       },
       {
-        "title": "How the killing of Iran’s Ali Larijani could impact the war",
-        "published": "Wed, 18 Mar 2026 14:43:43 +0000",
-        "link": "https://www.aljazeera.com/features/2026/3/18/amid-ruins-palestinians-struggle-to-preserve-gazas-historic-markets?traffic_source=rss"
+        "title": "Oil prices surge after Israeli strike on Iran’s South Pars gasfield",
+        "published": "Wed, 18 Mar 2026 19:56:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/top-us-spy-accused-of-omitting-iran-intel-that-contradicts-trump?traffic_source=rss"
       },
       {
-        "title": "Israel says it killed Iranian intelligence chief Khatib",
-        "published": "Wed, 18 Mar 2026 13:15:07 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/18/iran-announces-arrests-says-us-and-israel-suffering?traffic_source=rss"
+        "title": "Israel attacks Iran’s major gas field in new escalation",
+        "published": "Wed, 18 Mar 2026 19:38:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/18/us-intel-chief-gabbard-says-iran-was-not-rebuilding-enrichment-prior-to-war?traffic_source=rss"
+      },
+      {
+        "title": "Qatar says Iran missile attack sparks fire, causes damage at gas facility",
+        "published": "Wed, 18 Mar 2026 18:59:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/18/us-to-require-up-to-15000-bond-for-visa-applicants-from-12-new-countries?traffic_source=rss"
+      },
+      {
+        "title": "Could the Iran war trigger a global recession?",
+        "published": "Wed, 18 Mar 2026 18:20:00 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/18/trump-temporarily-waives-century-old-shipping-law-amid-rising-fuel-costs?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
