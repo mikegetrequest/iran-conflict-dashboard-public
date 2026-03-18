@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-18 09:19",
+  "updated_at_gst": "2026-03-18 12:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran war: What is happening on day 19 of US-Israel attacks?",
+        "published": "Wed, 18 Mar 2026 07:06:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/18/iran-launches-revenge-missile-attack-on-israel-after-assassinations?traffic_source=rss"
+      },
+      {
+        "title": "Israeli air strike flattens residential building in Beirut",
+        "published": "Wed, 18 Mar 2026 06:37:06 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/18/qatar-can-keep-goods-flowing-amid-tensions-customs-chief-says?traffic_source=rss"
+      },
+      {
+        "title": "Iran fires missiles, drones across Gulf, region remains in war crosshairs",
+        "published": "Wed, 18 Mar 2026 05:52:26 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/18/venezuela-defeat-usa-win-first-world-baseball-classic-championship?traffic_source=rss"
+      },
+      {
         "title": "Araghchi: Iran’s system holds despite targeted leaders",
         "published": "Wed, 18 Mar 2026 04:15:39 +0000",
         "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/18/this-is-americas-war-irans-foreign-minister-araghchi?traffic_source=rss"
@@ -29,21 +44,6 @@
         "title": "Experts discuss ‘Israeli strategy’ in killing of senior Iran official Ali L",
         "published": "Wed, 18 Mar 2026 02:57:47 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/well-be-doing-something-with-cuba-very-soon-trump-says?traffic_source=rss"
-      },
-      {
-        "title": "Iran allowing more ships through Strait of Hormuz, data suggest",
-        "published": "Wed, 18 Mar 2026 02:22:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/18/over-200-ukrainian-military-experts-in-gulf-region-to-counter-irans-drones?traffic_source=rss"
-      },
-      {
-        "title": "Larijani’s warning to US, Israel before his killing",
-        "published": "Wed, 18 Mar 2026 00:52:29 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/burning-debris-from-missile-interceptions-showers-dubai?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Tehran mourns Larijani, Soleimani; 2 killed in Israel",
-        "published": "Wed, 18 Mar 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/quotable/2026/3/17/israel-killed-larijani-hoping-to-torpedo-chance-of-us-iran-talks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
