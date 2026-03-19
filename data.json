@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-19 11:53",
+  "updated_at_gst": "2026-03-19 14:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump attempts to distance US from Israeli strikes on key Iranian gasfield",
-        "published": "Thu, 19 Mar 2026 07:09:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/19/israeli-air-raids-devastate-southern-lebanon-dozens-killed-in-two-days?traffic_source=rss"
+        "title": "Strikes kill two PMF fighters in northern Iraq amid wider war, group says",
+        "published": "Thu, 19 Mar 2026 09:33:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/19/us-east-asian-allies-in-legal-quandary-as-trump-seeks-help-in-the-middle-east?traffic_source=rss"
       },
       {
-        "title": "Iran war: What is happening on day 20 of US-Israel attacks?",
-        "published": "Thu, 19 Mar 2026 06:48:07 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/19/social-media-making-young-people-less-happy-report-finds?traffic_source=rss"
+        "title": "Iran to ‘boycott’ World Cup in US but will not withdraw from 2026 event",
+        "published": "Thu, 19 Mar 2026 09:06:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/trump-denies-knowledge-of-israeli-gas-field-attack?traffic_source=rss"
       },
       {
-        "title": "Asia’s stock markets dive after attacks on energy facilities in Qatar, Iran",
-        "published": "Thu, 19 Mar 2026 04:46:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/tehran-rescue-workers-pull-survivors-from-rubble?traffic_source=rss"
+        "title": "Iran war: What’s the Jones Act, and why has Trump suspended it for 60 days?",
+        "published": "Thu, 19 Mar 2026 08:19:29 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/19/us-weighs-sending-thousands-of-troops-to-region-as-iran-war-rages-report?traffic_source=rss"
       },
       {
-        "title": "‘Does America have a plan? Israel has a plan. Does America know?’",
-        "published": "Thu, 19 Mar 2026 02:57:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/three-women-killed-in-occupied-west-bank-missile-attack?traffic_source=rss"
+        "title": "War enters new phase as Israel attack on Iran gasfield sparks Gulf response",
+        "published": "Thu, 19 Mar 2026 07:57:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/19/unpleasant-surprises-will-key-french-cities-elect-far-right-mayors?traffic_source=rss"
+      },
+      {
+        "title": "Israeli air raids devastate southern Lebanon, dozens killed in two days",
+        "published": "Thu, 19 Mar 2026 07:05:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/19/iran-war-what-is-happening-on-day-20-of-us-israel-attacks?traffic_source=rss"
+      },
+      {
+        "title": "Iran executes three convicted of killing police in recent pre-war unrest",
+        "published": "Thu, 19 Mar 2026 05:22:28 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/19/luka-doncic-scores-40-points-as-lakers-defeat-rockets-in-nba?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
