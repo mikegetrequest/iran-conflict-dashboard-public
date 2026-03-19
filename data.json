@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-19 23:56",
+  "updated_at_gst": "2026-03-20 01:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israelis protest in Tel Aviv calling for end to Iran war",
+        "published": "Thu, 19 Mar 2026 21:12:48 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/19/israel-fined-by-fifa-citing-racism-and-multiple-discrimination-breaches?traffic_source=rss"
+      },
+      {
+        "title": "US F-35 aircraft makes emergency landing after a combat mission over Iran",
+        "published": "Thu, 19 Mar 2026 21:01:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/trump-compares-iran-strikes-to-pearl-harbor-as-he-meets-japans-pm?traffic_source=rss"
+      },
+      {
+        "title": "US approves $16.5bn arms deal to Gulf states amid rising Iran tensions",
+        "published": "Thu, 19 Mar 2026 20:06:02 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/19/why-the-us-homeland-security-shutdown-is-raising-fears-of-airport-delays?traffic_source=rss"
+      },
+      {
         "title": "Iranians shop for Persian New Year essentials despite war",
         "published": "Thu, 19 Mar 2026 19:32:59 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/smoke-rises-after-iranian-missile-attack-on-israel-oil-refinery-in-haifa?traffic_source=rss"
@@ -29,21 +44,6 @@
         "title": "Who leads Iran? Assassinations leave leadership and command in question",
         "published": "Thu, 19 Mar 2026 18:21:50 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/19/hungarys-orban-continues-to-block-ukraine-loan-at-eu-summit?traffic_source=rss"
-      },
-      {
-        "title": "Israel says Haifa oil refinery hit in Iranian missile attack",
-        "published": "Thu, 19 Mar 2026 18:12:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/19/trump-references-pearl-harbor-during-meeting-with-japanese-pm-on-iran-war?traffic_source=rss"
-      },
-      {
-        "title": "Missile strikes close to reporter during Israeli attacks in Lebanon",
-        "published": "Thu, 19 Mar 2026 17:21:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/19/iran-attacks-cut-17-of-qatars-lng-capacity-for-up-to-5-years-qatarenergy?traffic_source=rss"
-      },
-      {
-        "title": "Death toll surpasses 1,000 in Lebanon as Israeli bombardment continues",
-        "published": "Thu, 19 Mar 2026 15:47:11 +0000",
-        "link": "https://www.aljazeera.com/video/2026/3/19/hegseth-insists-us-is-meeting-iran-war-objectives?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
