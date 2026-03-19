@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-19 14:05",
+  "updated_at_gst": "2026-03-19 15:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Gabbard says Pakistan missiles a future threat to US, but experts push back",
+        "published": "Thu, 19 Mar 2026 10:29:39 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/iran-hits-qatar-gas-operations-in-response-to-israeli-attack?traffic_source=rss"
+      },
       {
         "title": "Strikes kill two PMF fighters in northern Iraq amid wider war, group says",
         "published": "Thu, 19 Mar 2026 09:33:53 +0000",
@@ -39,11 +44,6 @@
         "title": "Israeli air raids devastate southern Lebanon, dozens killed in two days",
         "published": "Thu, 19 Mar 2026 07:05:08 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/19/iran-war-what-is-happening-on-day-20-of-us-israel-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Iran executes three convicted of killing police in recent pre-war unrest",
-        "published": "Thu, 19 Mar 2026 05:22:28 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/19/luka-doncic-scores-40-points-as-lakers-defeat-rockets-in-nba?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
