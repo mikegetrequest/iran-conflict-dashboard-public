@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-19 18:38",
+  "updated_at_gst": "2026-03-19 22:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Missile strikes close to reporter during Israeli attacks in Lebanon",
+        "published": "Thu, 19 Mar 2026 17:21:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/19/iran-attacks-cut-17-of-qatars-lng-capacity-for-up-to-5-years-qatarenergy?traffic_source=rss"
+      },
+      {
+        "title": "Death toll surpasses 1,000 in Lebanon as Israeli bombardment continues",
+        "published": "Thu, 19 Mar 2026 15:47:11 +0000",
+        "link": "https://www.aljazeera.com/video/2026/3/19/hegseth-insists-us-is-meeting-iran-war-objectives?traffic_source=rss"
+      },
+      {
+        "title": "Hegseth says no ‘timeframe’ for war on Iran as Pentagon asks for $200bn",
+        "published": "Thu, 19 Mar 2026 15:37:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/its-time-to-end-the-war-uns-guterres-urges-us-israel-to-cease?traffic_source=rss"
+      },
+      {
         "title": "Child among survivors pulled from rubble of US-Israeli attack in Iran",
         "published": "Thu, 19 Mar 2026 13:31:10 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/19/drone-attack-from-sudan-kills-17-in-chad-as-conflict-spills-over?traffic_source=rss"
@@ -29,21 +44,6 @@
         "title": "Why are Iran’s South Pars gasfield, Qatar’s Ras Laffan, so significant?",
         "published": "Thu, 19 Mar 2026 12:47:57 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/video-why-irans-attack-on-qatars-gas-fields-matters?traffic_source=rss"
-      },
-      {
-        "title": "The US–Israel war with Iran will not end with a clear victor",
-        "published": "Thu, 19 Mar 2026 12:38:18 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/19/irans-dilemma-in-war-and-peace?traffic_source=rss"
-      },
-      {
-        "title": "Conflict shifts to ‘energy war’ as Iran targets Gulf oil and gas",
-        "published": "Thu, 19 Mar 2026 11:44:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/19/what-did-arab-and-muslim-ministers-discuss-in-riyadh-meeting-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Gabbard says Pakistan missiles a future threat to US, but experts push back",
-        "published": "Thu, 19 Mar 2026 10:29:39 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/iran-hits-qatar-gas-operations-in-response-to-israeli-attack?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
