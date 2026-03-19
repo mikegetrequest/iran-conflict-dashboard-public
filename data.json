@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-20 01:48",
+  "updated_at_gst": "2026-03-20 03:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel continues Gaza attacks amid regional war, kills several Palestinians",
+        "published": "Thu, 19 Mar 2026 22:00:17 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/19/fifa-details-infantinos-6m-deal-with-33-club-world-cup-bonus-increase?traffic_source=rss"
+      },
       {
         "title": "Israelis protest in Tel Aviv calling for end to Iran war",
         "published": "Thu, 19 Mar 2026 21:12:48 +0000",
@@ -39,11 +44,6 @@
         "title": "Iran’s strike on Qatar gas facility will reduce supply for 3 to 5 years",
         "published": "Thu, 19 Mar 2026 18:38:04 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/qatar-pm-on-iran-attacks-wisdom-seems-to-be-lacking-these-days?traffic_source=rss"
-      },
-      {
-        "title": "Who leads Iran? Assassinations leave leadership and command in question",
-        "published": "Thu, 19 Mar 2026 18:21:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/19/hungarys-orban-continues-to-block-ukraine-loan-at-eu-summit?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
