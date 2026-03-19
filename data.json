@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-19 09:14",
+  "updated_at_gst": "2026-03-19 11:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Three Palestinian women killed during Iranian missile attack in West Bank",
-        "published": "Thu, 19 Mar 2026 03:58:49 +0000",
-        "link": "https://www.aljazeera.com/video/quotable/2026/3/19/does-america-have-a-plan-israel-has-a-plan-does-america-know?traffic_source=rss"
+        "title": "Trump attempts to distance US from Israeli strikes on key Iranian gasfield",
+        "published": "Thu, 19 Mar 2026 07:09:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/19/israeli-air-raids-devastate-southern-lebanon-dozens-killed-in-two-days?traffic_source=rss"
       },
       {
-        "title": "Three women killed in occupied West Bank missile attack",
-        "published": "Thu, 19 Mar 2026 02:19:28 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/19/saudi-fm-warns-iran-that-patience-in-gulf-not-unlimited-amid-attacks?traffic_source=rss"
+        "title": "Iran war: What is happening on day 20 of US-Israel attacks?",
+        "published": "Thu, 19 Mar 2026 06:48:07 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/19/social-media-making-young-people-less-happy-report-finds?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Qatar, Saudi energy sites attacked; Riyadh says trust gone",
-        "published": "Thu, 19 Mar 2026 00:30:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/qatar-expels-iranian-attaches-after-lng-facility-strike?traffic_source=rss"
+        "title": "Asia’s stock markets dive after attacks on energy facilities in Qatar, Iran",
+        "published": "Thu, 19 Mar 2026 04:46:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/tehran-rescue-workers-pull-survivors-from-rubble?traffic_source=rss"
       },
       {
-        "title": "Funerals held for Afghans killed in Pakistani strike on Kabul hospital",
-        "published": "Thu, 19 Mar 2026 00:14:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/19/at-least-eight-killed-as-brazilian-police-carry-out-lethal-favela-raid?traffic_source=rss"
-      },
-      {
-        "title": "US Fed keeps interest rates steady amid economic uncertainty, Iran war",
-        "published": "Wed, 18 Mar 2026 20:34:19 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/18/israel-holding-more-than-half-of-palestinian-child-detainees-without-charge?traffic_source=rss"
+        "title": "‘Does America have a plan? Israel has a plan. Does America know?’",
+        "published": "Thu, 19 Mar 2026 02:57:54 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/three-women-killed-in-occupied-west-bank-missile-attack?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
