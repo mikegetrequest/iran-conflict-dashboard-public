@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-20 23:29",
+  "updated_at_gst": "2026-03-20 23:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "QatarEnergy CEO says warned US, industry officials against attack on energy",
+        "published": "Fri, 20 Mar 2026 19:34:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/trump-no-iranian-leaders-left-to-talk-to-says-war-going-extremely?traffic_source=rss"
+      },
       {
         "title": "Iranians celebrate Persian New Year in first wartime Nowruz in decades",
         "published": "Fri, 20 Mar 2026 18:41:04 +0000",
@@ -39,11 +44,6 @@
         "title": "US easing ban on Iranian oil would signal ‘beginning of the end of war’",
         "published": "Fri, 20 Mar 2026 15:12:02 +0000",
         "link": "https://www.aljazeera.com/features/2026/3/20/will-russian-oil-be-the-biggest-winner-in-the-us-israel-war-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Iran video said to show US F-35 being hit",
-        "published": "Fri, 20 Mar 2026 13:44:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/20/irans-irgc-says-spokesman-ali-mohammad-naini-killed-in-us-israeli-attack?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
