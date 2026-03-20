@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-20 15:49",
+  "updated_at_gst": "2026-03-20 16:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Slovenia heads to polls with diverging views on Israel in focus",
+        "published": "Fri, 20 Mar 2026 11:51:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/20/israel-says-it-hit-syrian-army-camps-in-the-south-after-druze-attacked?traffic_source=rss"
+      },
       {
         "title": "Refugee Council questions Australia’s Iran strategy at Women’s Asian Cup",
         "published": "Fri, 20 Mar 2026 11:21:01 +0000",
@@ -39,11 +44,6 @@
         "title": "Iran war: What is happening on day 21 of US-Israel attacks?",
         "published": "Fri, 20 Mar 2026 07:28:54 +0000",
         "link": "https://www.aljazeera.com/opinions/2026/3/20/eid-under-siege-little-to-celebrate-in-gaza-as-israel-tightens-chokehold?traffic_source=rss"
-      },
-      {
-        "title": "Iran women’s football team feted in Tehran after asylum battle at Asian Cup",
-        "published": "Fri, 20 Mar 2026 05:51:10 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iranian-football-players-celebrated-in-tehran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
