@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-20 19:32",
+  "updated_at_gst": "2026-03-20 20:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Air raid sirens blare during Eid call to prayer in Kuwait",
+        "published": "Fri, 20 Mar 2026 16:05:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/20/cowards-trump-slams-nato-over-lack-of-support-in-us-israel-war-on?traffic_source=rss"
+      },
+      {
+        "title": "Switzerland announces halt to weapons exports to US amid Iran war",
+        "published": "Fri, 20 Mar 2026 15:29:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/us-easing-ban-on-iranian-oil-would-signal-beginning-of-the-end-of?traffic_source=rss"
+      },
       {
         "title": "Will Russian oil be the biggest winner in the US-Israel war on Iran?",
         "published": "Fri, 20 Mar 2026 14:48:43 +0000",
@@ -34,16 +44,6 @@
         "title": "Slovenia heads to polls with diverging views on Israel in focus",
         "published": "Fri, 20 Mar 2026 11:51:23 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/20/israel-says-it-hit-syrian-army-camps-in-the-south-after-druze-attacked?traffic_source=rss"
-      },
-      {
-        "title": "Refugee Council questions Australia’s Iran strategy at Women’s Asian Cup",
-        "published": "Fri, 20 Mar 2026 11:21:01 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/20/iran-today-africa-tomorrow?traffic_source=rss"
-      },
-      {
-        "title": "Iran does not need to close the Strait of Hormuz to disrupt it",
-        "published": "Fri, 20 Mar 2026 11:05:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/20/iran-developing-a-vetting-system-for-strait-of-hormuz-transit-report?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
