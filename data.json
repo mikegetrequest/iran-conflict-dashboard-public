@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-20 23:55",
+  "updated_at_gst": "2026-03-21 00:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Will Europe be pulled into the Iran war?",
+        "published": "Fri, 20 Mar 2026 20:09:28 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/3/20/what-are-the-risks-of-turning-energy-sites-into-battlefields?traffic_source=rss"
+      },
       {
         "title": "QatarEnergy CEO says warned US, industry officials against attack on energy",
         "published": "Fri, 20 Mar 2026 19:34:34 +0000",
@@ -39,11 +44,6 @@
         "title": "What US-Israeli targets reveal about Iran war goals three weeks in",
         "published": "Fri, 20 Mar 2026 15:35:06 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/20/switzerland-announces-halt-to-weapons-exports-to-us-amid-iran-war?traffic_source=rss"
-      },
-      {
-        "title": "US easing ban on Iranian oil would signal ‘beginning of the end of war’",
-        "published": "Fri, 20 Mar 2026 15:12:02 +0000",
-        "link": "https://www.aljazeera.com/features/2026/3/20/will-russian-oil-be-the-biggest-winner-in-the-us-israel-war-on-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
