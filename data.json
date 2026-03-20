@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-20 18:35",
+  "updated_at_gst": "2026-03-20 19:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran video said to show US F-35 being hit",
-        "published": "Fri, 20 Mar 2026 13:44:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/20/irans-irgc-says-spokesman-ali-mohammad-naini-killed-in-us-israeli-attack?traffic_source=rss"
+        "title": "Will Russian oil be the biggest winner in the US-Israel war on Iran?",
+        "published": "Fri, 20 Mar 2026 14:48:43 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/20/zelenskyy-says-ukraine-wants-timeline-for-next-round-of-russia-talks?traffic_source=rss"
       },
       {
-        "title": "Israel says it hit Syrian army camps in the south after Druze ‘attacked’",
-        "published": "Fri, 20 Mar 2026 11:46:30 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/20/refugee-council-questions-australias-iran-strategy-at-womens-asian-cup?traffic_source=rss"
+        "title": "Who are the Gulf’s military allies, and how are they helping in Iran war?",
+        "published": "Fri, 20 Mar 2026 13:45:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iran-video-said-to-show-us-f-35-being-hit?traffic_source=rss"
       },
       {
-        "title": "Iran today, Africa tomorrow",
-        "published": "Fri, 20 Mar 2026 11:08:08 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/20/iran-does-not-need-to-close-the-strait-of-hormuz-to-disrupt-it?traffic_source=rss"
+        "title": "Iran’s IRGC says spokesman Ali Mohammad Naini killed in US-Israeli attack",
+        "published": "Fri, 20 Mar 2026 12:44:16 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/20/fifa-world-cup-2026-security-concerns-grow-in-us-as-funding-stalls?traffic_source=rss"
       },
       {
-        "title": "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
-        "published": "Fri, 20 Mar 2026 10:13:07 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/3/20/photos-muslims-celebrate-eid-al-fitr-around-the-world-amid-shadow-of-war?traffic_source=rss"
+        "title": "Slovenia heads to polls with diverging views on Israel in focus",
+        "published": "Fri, 20 Mar 2026 11:51:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/20/israel-says-it-hit-syrian-army-camps-in-the-south-after-druze-attacked?traffic_source=rss"
       },
       {
-        "title": "Iran hits Kuwaiti oil refinery as Israel renews attacks on Tehran",
-        "published": "Fri, 20 Mar 2026 08:04:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/20/iran-war-what-is-happening-on-day-21-of-us-israel-attacks?traffic_source=rss"
+        "title": "Refugee Council questions Australia’s Iran strategy at Women’s Asian Cup",
+        "published": "Fri, 20 Mar 2026 11:21:01 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/3/20/iran-today-africa-tomorrow?traffic_source=rss"
+      },
+      {
+        "title": "Iran does not need to close the Strait of Hormuz to disrupt it",
+        "published": "Fri, 20 Mar 2026 11:05:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/20/iran-developing-a-vetting-system-for-strait-of-hormuz-transit-report?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
