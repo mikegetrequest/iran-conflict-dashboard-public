@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-20 20:29",
+  "updated_at_gst": "2026-03-20 21:09",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran’s Khamenei says enemy ‘defeated’ in written Nowruz message",
+        "published": "Fri, 20 Mar 2026 16:38:53 +0000",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/20/could-iran-war-trigger-the-next-global-food-shock?traffic_source=rss"
+      },
       {
         "title": "Air raid sirens blare during Eid call to prayer in Kuwait",
         "published": "Fri, 20 Mar 2026 16:05:39 +0000",
@@ -39,11 +44,6 @@
         "title": "Iran’s IRGC says spokesman Ali Mohammad Naini killed in US-Israeli attack",
         "published": "Fri, 20 Mar 2026 12:44:16 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/20/fifa-world-cup-2026-security-concerns-grow-in-us-as-funding-stalls?traffic_source=rss"
-      },
-      {
-        "title": "Slovenia heads to polls with diverging views on Israel in focus",
-        "published": "Fri, 20 Mar 2026 11:51:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/20/israel-says-it-hit-syrian-army-camps-in-the-south-after-druze-attacked?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
