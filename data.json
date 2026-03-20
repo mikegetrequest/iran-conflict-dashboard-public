@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-21 02:52",
+  "updated_at_gst": "2026-03-21 03:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Pezeshkian says Iran not seeking war with Muslim neighbours",
+        "published": "Fri, 20 Mar 2026 22:58:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/20/colombias-president-gustavo-petro-under-investigation-in-us-for-drug-ties?traffic_source=rss"
+      },
       {
         "title": "Palestinian citizens of Israel demand better protection against missiles",
         "published": "Fri, 20 Mar 2026 21:03:38 +0000",
@@ -34,11 +39,6 @@
         "title": "Iranians celebrate Persian New Year in first wartime Nowruz in decades",
         "published": "Fri, 20 Mar 2026 18:41:04 +0000",
         "link": "https://www.aljazeera.com/video/featured-documentaries/2026/3/20/iran-from-khamenei-to-khamenei?traffic_source=rss"
-      },
-      {
-        "title": "Could Iran war trigger the next global food shock?",
-        "published": "Fri, 20 Mar 2026 16:20:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/air-raid-sirens-blare-during-eid-call-to-prayer-in-kuwait?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
