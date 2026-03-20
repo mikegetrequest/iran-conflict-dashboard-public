@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-20 14:00",
+  "updated_at_gst": "2026-03-20 15:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
+        "published": "Fri, 20 Mar 2026 10:13:07 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/3/20/photos-muslims-celebrate-eid-al-fitr-around-the-world-amid-shadow-of-war?traffic_source=rss"
+      },
       {
         "title": "Iran hits Kuwaiti oil refinery as Israel renews attacks on Tehran",
         "published": "Fri, 20 Mar 2026 08:04:32 +0000",
