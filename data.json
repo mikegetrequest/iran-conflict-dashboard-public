@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-21 01:19",
+  "updated_at_gst": "2026-03-21 01:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Palestinian citizens of Israel demand better protection against missiles",
+        "published": "Fri, 20 Mar 2026 21:03:38 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/irans-supreme-leader-khamenei-says-enemy-defeated-in-audio-message?traffic_source=rss"
+      },
       {
         "title": "Will Europe be pulled into the Iran war?",
         "published": "Fri, 20 Mar 2026 20:09:28 +0000",
@@ -34,16 +39,6 @@
         "title": "Could Iran war trigger the next global food shock?",
         "published": "Fri, 20 Mar 2026 16:20:00 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/air-raid-sirens-blare-during-eid-call-to-prayer-in-kuwait?traffic_source=rss"
-      },
-      {
-        "title": "‘Cowards’: Trump slams NATO over lack of support in US–Israel war on Iran",
-        "published": "Fri, 20 Mar 2026 15:49:05 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/20/guardiola-sidesteps-arsenal-rivalry-while-world-is-going-to-collapse?traffic_source=rss"
-      },
-      {
-        "title": "What US-Israeli targets reveal about Iran war goals three weeks in",
-        "published": "Fri, 20 Mar 2026 15:35:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/20/switzerland-announces-halt-to-weapons-exports-to-us-amid-iran-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
