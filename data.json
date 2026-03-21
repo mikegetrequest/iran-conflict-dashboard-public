@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-21 15:42",
+  "updated_at_gst": "2026-03-21 16:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war: What’s happening on day 22 of US-Israel attacks?",
-        "published": "Sat, 21 Mar 2026 09:07:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/21/iran-says-it-will-allow-japanese-ships-to-transit-the-strait-of-hormuz?traffic_source=rss"
+        "title": "Drone strike near Iraqi intelligence headquarters in Baghdad kills officer",
+        "published": "Sat, 21 Mar 2026 10:41:03 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/21/olympic-champion-lin-yu-ting-cleared-to-return-to-boxing-after-sex-eligibility-review?traffic_source=rss"
       },
       {
-        "title": "Trump hints at ‘winding down’ Iran war as US deploys more troops to region",
-        "published": "Sat, 21 Mar 2026 08:01:15 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/21/live-japan-vs-australia-womens-asian-cup-2026-final?traffic_source=rss"
+        "title": "Israel systematically torturing Palestinians in custody, says UN expert",
+        "published": "Sat, 21 Mar 2026 09:31:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks?traffic_source=rss"
       },
       {
-        "title": "Military movements indicate Trump is considering Iran ground operation",
-        "published": "Fri, 20 Mar 2026 21:05:32 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/palestinian-citizens-of-israel-demand-better-protection-against-missiles?traffic_source=rss"
+        "title": "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
+        "published": "Sat, 21 Mar 2026 08:21:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/21/trump-hints-at-winding-down-iran-war-as-us-deploys-more-troops-to-region?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: US-Israel attack Natanz nuclear site; Diego Garcia targeted",
+        "published": "Sat, 21 Mar 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/20/us-judge-sides-with-new-york-times-against-pentagon-journalism-policies?traffic_source=rss"
+      },
+      {
+        "title": "Pezeshkian says Iran not seeking war with Muslim neighbours",
+        "published": "Fri, 20 Mar 2026 22:58:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/20/colombias-president-gustavo-petro-under-investigation-in-us-for-drug-ties?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
