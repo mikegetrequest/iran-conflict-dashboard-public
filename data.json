@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-22 03:13",
+  "updated_at_gst": "2026-03-22 03:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Saudi Arabia expels Iran military attache and four team members",
+        "published": "Sat, 21 Mar 2026 23:00:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/21/iran-strikes-towns-near-israels-nuclear-site-in-escalating-tit-for-tat?traffic_source=rss"
+      },
       {
         "title": "WHO says attack on Sudan hospital killed 64, including 13 children",
         "published": "Sat, 21 Mar 2026 22:43:25 +0000",
@@ -39,11 +44,6 @@
         "title": "UK says Iran missile attack on Diego Garcia failed",
         "published": "Sat, 21 Mar 2026 15:59:35 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/iranian-womans-video-of-us-israel-attack-ends-as-bomb-hits?traffic_source=rss"
-      },
-      {
-        "title": "Unease in Japan after Trump cites Pearl Harbor to defend Iran war",
-        "published": "Sat, 21 Mar 2026 14:34:12 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/21/japan-beat-australia-to-lift-womens-asian-cup-title?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
