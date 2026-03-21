@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-21 22:20",
+  "updated_at_gst": "2026-03-21 22:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Bahrain says Patriot system intercepted drone over homes",
-        "published": "Sat, 21 Mar 2026 16:02:46 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/21/arab-states-should-beware-of-israels-hegemonic-energy-expansion?traffic_source=rss"
+        "title": "Eid without toys: Israeli restrictions drive up prices in Gaza",
+        "published": "Sat, 21 Mar 2026 18:03:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/21/flash-flooding-swamps-hawaii-prompting-evacuation-orders-for-5500-people?traffic_source=rss"
       },
       {
-        "title": "UK says Iran missile attack on Diego Garcia failed",
-        "published": "Sat, 21 Mar 2026 15:59:35 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/iranian-womans-video-of-us-israel-attack-ends-as-bomb-hits?traffic_source=rss"
+        "title": "Tehran holds Eid prayers as funeral held for IRGC spokesman",
+        "published": "Sat, 21 Mar 2026 16:20:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/21/bahrain-says-patriot-system-intercepted-drone-over-homes?traffic_source=rss"
       },
       {
-        "title": "Unease in Japan after Trump cites Pearl Harbor to defend Iran war",
-        "published": "Sat, 21 Mar 2026 14:34:12 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/21/japan-beat-australia-to-lift-womens-asian-cup-title?traffic_source=rss"
+        "title": "Arab states should beware of Israel’s hegemonic energy expansion",
+        "published": "Sat, 21 Mar 2026 16:01:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/uk-says-iran-missile-attack-on-diego-garcia-failed?traffic_source=rss"
       },
       {
-        "title": "Iran says US and Israel attacked Natanz nuclear facility",
-        "published": "Sat, 21 Mar 2026 11:32:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/21/us-jury-finds-elon-musk-misled-investors-during-twitter-purchase?traffic_source=rss"
+        "title": "Iranian woman’s video of US-Israel attack ends as bomb hits",
+        "published": "Sat, 21 Mar 2026 14:40:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/21/unease-in-japan-after-trump-uses-pearl-harbor-to-defend-iran-war?traffic_source=rss"
       },
       {
-        "title": "Iran war: What’s happening on day 22 of US-Israel attacks?",
-        "published": "Sat, 21 Mar 2026 09:07:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/21/iran-says-it-will-allow-japanese-ships-to-transit-the-strait-of-hormuz?traffic_source=rss"
+        "title": "Drone strike near Iraqi intelligence headquarters in Baghdad kills officer",
+        "published": "Sat, 21 Mar 2026 10:41:03 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/21/olympic-champion-lin-yu-ting-cleared-to-return-to-boxing-after-sex-eligibility-review?traffic_source=rss"
+      },
+      {
+        "title": "Israel systematically torturing Palestinians in custody, says UN expert",
+        "published": "Sat, 21 Mar 2026 09:31:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
