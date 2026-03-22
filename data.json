@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-22 18:50",
+  "updated_at_gst": "2026-03-22 19:15",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Is Greater Israel already happening on the ground?",
-        "published": "Sun, 22 Mar 2026 14:32:36 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/22/canadas-supreme-court-must-strike-down-quebecs-bill-21?traffic_source=rss"
+        "title": "Trump’s changing messages on Iran war: What does it say about US strategy?",
+        "published": "Sun, 22 Mar 2026 14:51:27 +0000",
+        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/22/is-greater-israel-already-happening-on-the-ground?traffic_source=rss"
       },
       {
-        "title": "Hezbollah attack kills one in north Israel as assault on Lebanon continues",
-        "published": "Sun, 22 Mar 2026 13:09:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/22/did-iran-launch-missiles-at-us-uk-base-on-diego-garcia-heres-what-to-know?traffic_source=rss"
+        "title": "Canada’s Supreme Court must strike down Quebec’s Bill 21",
+        "published": "Sun, 22 Mar 2026 14:25:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/puerto-rican-activists-bring-medicine-to-havana-despite-us-blockade?traffic_source=rss"
       },
       {
-        "title": "Moment Iranian strike hits central Tel Aviv",
-        "published": "Sun, 22 Mar 2026 12:37:15 +0000",
-        "link": "https://www.aljazeera.com/video/quotable/2026/3/22/opening-strait-of-hormuz-will-probably-require-us-boots-on-the?traffic_source=rss"
+        "title": "Iran says will hit region’s energy sites if US, Israel target power plants",
+        "published": "Sun, 22 Mar 2026 13:42:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/22/hezbollah-attack-kills-one-in-north-israel-as-assault-on-lebanon-continues?traffic_source=rss"
       },
       {
-        "title": "Iran war is creating ‘heightened risks of instability across countries in A",
-        "published": "Sun, 22 Mar 2026 11:19:46 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/3/22/aftermath-of-iranian-missiles-strikes-near-israels-nuclear-centre?traffic_source=rss"
+        "title": "Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know",
+        "published": "Sun, 22 Mar 2026 13:03:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/moment-iranian-strike-hits-central-tel-aviv?traffic_source=rss"
       },
       {
-        "title": "Woman confronts Ben-Gvir at site of Iranian missile strike",
-        "published": "Sun, 22 Mar 2026 09:09:43 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/22/why-the-world-should-worry-about-israels-nuclear-doctrine?traffic_source=rss"
+        "title": "Aftermath of Iranian missile strikes near Israel’s nuclear facility",
+        "published": "Sun, 22 Mar 2026 10:34:48 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/lebanese-nurse-refuses-to-leave-her-post-at-hospital-despite-loses?traffic_source=rss"
+      },
+      {
+        "title": "Israeli firefighters battle vehicles blaze after missile attack from Lebano",
+        "published": "Sun, 22 Mar 2026 09:54:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/woman-confronts-ben-gvir-at-site-of-iranian-missile-strike?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
