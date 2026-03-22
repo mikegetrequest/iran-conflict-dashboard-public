@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-22 16:24",
+  "updated_at_gst": "2026-03-22 17:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Hezbollah attack kills one in north Israel as assault on Lebanon continues",
+        "published": "Sun, 22 Mar 2026 13:09:57 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/22/did-iran-launch-missiles-at-us-uk-base-on-diego-garcia-heres-what-to-know?traffic_source=rss"
+      },
+      {
+        "title": "Moment Iranian strike hits central Tel Aviv",
+        "published": "Sun, 22 Mar 2026 12:37:15 +0000",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/22/opening-strait-of-hormuz-will-probably-require-us-boots-on-the?traffic_source=rss"
+      },
       {
         "title": "Iran war is creating ‘heightened risks of instability across countries in A",
         "published": "Sun, 22 Mar 2026 11:19:46 +0000",
