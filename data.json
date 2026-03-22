@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-23 00:13",
+  "updated_at_gst": "2026-03-23 00:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Displaced families shelter in tents in Beirut amid Israeli strikes",
+        "published": "Sun, 22 Mar 2026 20:33:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/22/emerging-from-latest-blackout-cuba-says-ready-for-any-potential-us-attack?traffic_source=rss"
+      },
       {
         "title": "Israeli settlers violently storm through occupied West Bank",
         "published": "Sun, 22 Mar 2026 19:35:29 +0000",
@@ -39,11 +44,6 @@
         "title": "Iran claims missile attacks on key Israeli military bases",
         "published": "Sun, 22 Mar 2026 15:40:46 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/moment-israeli-strike-hits-bridge-in-southern-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Iranian authorities taunt US, Israel, EU amid strikes and assassinations",
-        "published": "Sun, 22 Mar 2026 15:25:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/22/trumps-changing-messages-on-iran-war-what-does-it-say-about-us-strategy?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
