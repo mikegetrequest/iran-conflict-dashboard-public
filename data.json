@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-22 03:44",
+  "updated_at_gst": "2026-03-22 05:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,12 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Saudi Arabia expels Iran military attache and four team members",
+        "title": "Iran war live: Trump threatens to attack power plants over Strait of Hormuz",
+        "published": "Sun, 22 Mar 2026 00:00:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/21/they-want-to-colonise-us-brazils-lula-warns-of-foreign-interference?traffic_source=rss"
+      },
+      {
+        "title": "Saudi Arabia expels Iran military attache, four embassy staff",
         "published": "Sat, 21 Mar 2026 23:00:56 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/21/iran-strikes-towns-near-israels-nuclear-site-in-escalating-tit-for-tat?traffic_source=rss"
       },
@@ -39,11 +44,6 @@
         "title": "Bahrain says Patriot system intercepted drone over homes",
         "published": "Sat, 21 Mar 2026 16:02:46 +0000",
         "link": "https://www.aljazeera.com/opinions/2026/3/21/arab-states-should-beware-of-israels-hegemonic-energy-expansion?traffic_source=rss"
-      },
-      {
-        "title": "UK says Iran missile attack on Diego Garcia failed",
-        "published": "Sat, 21 Mar 2026 15:59:35 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/iranian-womans-video-of-us-israel-attack-ends-as-bomb-hits?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
