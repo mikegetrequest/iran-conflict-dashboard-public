@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-22 14:50",
+  "updated_at_gst": "2026-03-22 15:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Aftermath of Iranian missile strikes near Israel’s nuclear facility",
+        "published": "Sun, 22 Mar 2026 10:34:48 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/lebanese-nurse-refuses-to-leave-her-post-at-hospital-despite-loses?traffic_source=rss"
+      },
       {
         "title": "Israeli firefighters battle vehicles blaze after missile attack from Lebano",
         "published": "Sun, 22 Mar 2026 09:54:51 +0000",
@@ -39,11 +44,6 @@
         "title": "Trump threatens to ‘obliterate’ Iran power plants unless Hormuz Strait open",
         "published": "Sun, 22 Mar 2026 05:08:50 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/22/casualties-as-israeli-settlers-set-fire-to-homes-and-cars-in-west-bank?traffic_source=rss"
-      },
-      {
-        "title": "What we know about Iran’s latest attacks on Israel",
-        "published": "Sun, 22 Mar 2026 02:19:22 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/3/22/will-the-houthis-join-iran-in-war-against-israel-and-the-us?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
