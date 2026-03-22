@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-22 15:14",
+  "updated_at_gst": "2026-03-22 15:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Aftermath of Iranian missile strikes near Israel’s nuclear facility",
-        "published": "Sun, 22 Mar 2026 10:34:48 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/lebanese-nurse-refuses-to-leave-her-post-at-hospital-despite-loses?traffic_source=rss"
+        "title": "Iran war is creating ‘heightened risks of instability across countries in A",
+        "published": "Sun, 22 Mar 2026 11:19:46 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/3/22/aftermath-of-iranian-missiles-strikes-near-israels-nuclear-centre?traffic_source=rss"
       },
       {
-        "title": "Israeli firefighters battle vehicles blaze after missile attack from Lebano",
-        "published": "Sun, 22 Mar 2026 09:54:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/woman-confronts-ben-gvir-at-site-of-iranian-missile-strike?traffic_source=rss"
+        "title": "Woman confronts Ben-Gvir at site of Iranian missile strike",
+        "published": "Sun, 22 Mar 2026 09:09:43 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/3/22/why-the-world-should-worry-about-israels-nuclear-doctrine?traffic_source=rss"
       },
       {
-        "title": "Why the world should worry about Israel’s nuclear doctrine",
-        "published": "Sun, 22 Mar 2026 09:01:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/22/slovenias-governing-liberals-face-right-wing-populists-in-tight-election?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What’s happening on day 23 of US-Israel attacks?",
-        "published": "Sun, 22 Mar 2026 08:33:28 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/22/six-killed-as-qatar-army-helicopter-crashes-due-to-technical-malfunction-2?traffic_source=rss"
-      },
-      {
-        "title": "Drone footage shows damage in Arad after overnight Iranian missile attack",
-        "published": "Sun, 22 Mar 2026 08:11:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/22/cant-live-like-this-cuba-hit-by-second-nationwide-blackout-in-a-week?traffic_source=rss"
-      },
-      {
-        "title": "Trump threatens to ‘obliterate’ Iran power plants unless Hormuz Strait open",
-        "published": "Sun, 22 Mar 2026 05:08:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/22/casualties-as-israeli-settlers-set-fire-to-homes-and-cars-in-west-bank?traffic_source=rss"
+        "title": "Six dead as Qatar military helicopter crashes after ‘technical malfunction’",
+        "published": "Sun, 22 Mar 2026 08:27:07 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/ghana-pushes-for-slave-trade-to-be-declared-a-crime-against-humanity?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
