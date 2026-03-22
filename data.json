@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-23 02:48",
+  "updated_at_gst": "2026-03-23 03:16",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Vinicius strikes twice as Real Madrid edge Atletico 3-2 in pulsating derby",
+        "published": "Sun, 22 Mar 2026 22:37:57 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/3/22/whos-left-running-iran?traffic_source=rss"
+      },
       {
         "title": "Emerging from latest blackout, Cuba says ready for any potential US attack",
         "published": "Sun, 22 Mar 2026 20:28:34 +0000",
@@ -39,11 +44,6 @@
         "title": "Moment Israeli strike hits bridge in southern Lebanon",
         "published": "Sun, 22 Mar 2026 15:32:31 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/22/iranian-authorities-taunt-us-israel-eu-amid-strikes-and-assassinations?traffic_source=rss"
-      },
-      {
-        "title": "Trump’s changing messages on Iran war: What does it say about US strategy?",
-        "published": "Sun, 22 Mar 2026 14:51:27 +0000",
-        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/22/is-greater-israel-already-happening-on-the-ground?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
