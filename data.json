@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-22 12:20",
+  "updated_at_gst": "2026-03-22 12:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war: What’s happening on day 23 of US-Israel attacks?",
+        "published": "Sun, 22 Mar 2026 08:33:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/22/six-killed-as-qatar-army-helicopter-crashes-due-to-technical-malfunction-2?traffic_source=rss"
+      },
+      {
+        "title": "Drone footage shows damage in Arad after overnight Iranian missile attack",
+        "published": "Sun, 22 Mar 2026 08:11:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/22/cant-live-like-this-cuba-hit-by-second-nationwide-blackout-in-a-week?traffic_source=rss"
+      },
       {
         "title": "Trump threatens to ‘obliterate’ Iran power plants unless Hormuz Strait open",
         "published": "Sun, 22 Mar 2026 05:08:50 +0000",
@@ -34,16 +44,6 @@
         "title": "Iran strikes towns near Israel’s nuclear site, wounds over 100",
         "published": "Sat, 21 Mar 2026 22:57:24 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/21/who-says-attack-on-sudan-hospital-killed-64-including-13-children?traffic_source=rss"
-      },
-      {
-        "title": "US says it has crippled Iranian threat in Strait of Hormuz",
-        "published": "Sat, 21 Mar 2026 21:37:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/21/tears-and-grief-mothers-day-in-gaza-marked-by-mourning?traffic_source=rss"
-      },
-      {
-        "title": "Joe Kent speaks out against Iran war at prayer event after resigning",
-        "published": "Sat, 21 Mar 2026 19:46:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/21/eu-urges-members-to-start-storing-winter-gas-as-iran-war-causes-price-surge?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
