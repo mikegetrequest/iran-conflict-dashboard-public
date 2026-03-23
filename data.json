@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-23 14:41",
+  "updated_at_gst": "2026-03-23 15:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Has Iran brought down an ‘unkillable’ US F-35 jet?",
+        "published": "Mon, 23 Mar 2026 11:18:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/23/trump-postpones-military-strikes-on-iranian-power-plants?traffic_source=rss"
+      },
+      {
+        "title": "Iraq pulled into Iran war as US targets Iran-aligned groups",
+        "published": "Mon, 23 Mar 2026 11:10:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/23/threats-over-iran-war-bare-trump-efforts-to-transform-free-speech-experts?traffic_source=rss"
+      },
       {
         "title": "Israel’s displacement of civilians in Lebanon is a possible war crime",
         "published": "Mon, 23 Mar 2026 09:21:19 +0000",
@@ -34,11 +44,6 @@
         "title": "Rescue teams brave fire in suspected attack on Gaza City residential area",
         "published": "Mon, 23 Mar 2026 07:34:46 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/kim-jong-un-reappointed-as-president-of-north-korea?traffic_source=rss"
-      },
-      {
-        "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
-        "published": "Mon, 23 Mar 2026 01:56:28 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/3/23/iran-war-live-tehran-vows-to-completely-close-hormuz-if-power-plants-hit?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
