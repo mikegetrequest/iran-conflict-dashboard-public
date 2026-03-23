@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-23 10:56",
+  "updated_at_gst": "2026-03-23 11:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Rescue teams brave fire in suspected attack on Gaza City residential area",
+        "published": "Mon, 23 Mar 2026 07:34:46 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/kim-jong-un-reappointed-as-president-of-north-korea?traffic_source=rss"
+      },
       {
         "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
         "published": "Mon, 23 Mar 2026 01:56:28 +0000",
@@ -39,11 +44,6 @@
         "title": "Israeli air strikes on Gaza kill four Palestinians",
         "published": "Sun, 22 Mar 2026 20:17:33 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israeli-settlers-violently-storm-through-occupied-west-bank?traffic_source=rss"
-      },
-      {
-        "title": "Israel vows to escalate campaign against Hezbollah in Lebanon",
-        "published": "Sun, 22 Mar 2026 19:21:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/22/lebanons-aoun-calls-israel-strikes-on-bridges-prelude-to-ground-invasion?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
