@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-23 05:08",
+  "updated_at_gst": "2026-03-23 08:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Immense damage seen in Iran’s streets after air strikes",
+        "published": "Mon, 23 Mar 2026 03:19:18 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/23/asian-stock-markets-plunge-amid-trumps-ultimatum-on-iran?traffic_source=rss"
+      },
       {
         "title": "Iran war live: Tehran vows to ‘completely close’ Hormuz if power plants hit",
         "published": "Mon, 23 Mar 2026 00:00:00 +0000",
@@ -39,11 +44,6 @@
         "title": "Lebanon’s Aoun warns Israeli attack on bridge ‘prelude to ground invasion’",
         "published": "Sun, 22 Mar 2026 18:48:15 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/22/ukraines-zelenskyy-urges-allies-to-pressure-russia-ahead-of-us-talks?traffic_source=rss"
-      },
-      {
-        "title": "‘We do it together, in confidence’: Netanyahu backs US strikes on Iran",
-        "published": "Sun, 22 Mar 2026 17:09:18 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/22/live-real-madrid-vs-atletico-madrid-la-liga?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
