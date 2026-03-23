@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-23 21:41",
+  "updated_at_gst": "2026-03-23 22:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran denies any talks with US after Trump claims ‘productive’ discussions",
+        "published": "Mon, 23 Mar 2026 18:21:54 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/3/23/why-the-oil-and-gas-price-shock-from-the-iran-war-wont-just-fade-away?traffic_source=rss"
+      },
+      {
+        "title": "How the Iran war is about to hit your wallet",
+        "published": "Mon, 23 Mar 2026 17:56:35 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/3/23/trump-can-declare-victory-in-iran-and-he?traffic_source=rss"
+      },
       {
         "title": "How Israel is reacting to Trump’s  ‘de-escalation’ with Iran",
         "published": "Mon, 23 Mar 2026 17:09:05 +0000",
@@ -34,16 +44,6 @@
         "title": "‘False flag attack’: Iran denies claims it fired missiles at Diego Garcia",
         "published": "Mon, 23 Mar 2026 13:00:11 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/us-israeli-war-on-iran-strains-food-water-and-fuel-prices-in-india?traffic_source=rss"
-      },
-      {
-        "title": "‘NATO joining US-Israel’s war on Iran is between slim and none’",
-        "published": "Mon, 23 Mar 2026 12:46:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/23/substantial-evidence-of-double-tap-strike-in-killing-of-gazas-hind-rajab?traffic_source=rss"
-      },
-      {
-        "title": "Has Iran brought down an ‘unkillable’ US F-35 jet?",
-        "published": "Mon, 23 Mar 2026 11:18:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/23/trump-postpones-military-strikes-on-iranian-power-plants?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
