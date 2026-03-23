@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-23 08:01",
+  "updated_at_gst": "2026-03-23 09:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Brothers search rubble for missing sibling under Tehran rubble after strike",
+        "published": "Mon, 23 Mar 2026 04:54:31 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/23/marco-bezzecchi-dominates-motogp-brazil-for-fourth-straight-victory?traffic_source=rss"
+      },
       {
         "title": "Immense damage seen in Iran’s streets after air strikes",
         "published": "Mon, 23 Mar 2026 03:19:18 +0000",
@@ -39,11 +44,6 @@
         "title": "Israeli settlers violently storm through occupied West Bank",
         "published": "Sun, 22 Mar 2026 19:35:29 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israel-vows-to-escalate-campaign-against-hezbollah-in-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon’s Aoun warns Israeli attack on bridge ‘prelude to ground invasion’",
-        "published": "Sun, 22 Mar 2026 18:48:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/22/ukraines-zelenskyy-urges-allies-to-pressure-russia-ahead-of-us-talks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
