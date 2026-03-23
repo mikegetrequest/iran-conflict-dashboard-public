@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-23 03:47",
+  "updated_at_gst": "2026-03-23 05:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war live: Tehran vows to ‘completely close’ Hormuz if power plants hit",
+        "published": "Mon, 23 Mar 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/kashmiris-donate-gold-and-cash-to-support-iran?traffic_source=rss"
+      },
       {
         "title": "Who’s left running Iran?",
         "published": "Sun, 22 Mar 2026 22:14:08 +0000",
@@ -39,11 +44,6 @@
         "title": "‘We do it together, in confidence’: Netanyahu backs US strikes on Iran",
         "published": "Sun, 22 Mar 2026 17:09:18 +0000",
         "link": "https://www.aljazeera.com/sports/liveblog/2026/3/22/live-real-madrid-vs-atletico-madrid-la-liga?traffic_source=rss"
-      },
-      {
-        "title": "‘Risk of escalation is extremely high as Iran shows it can retaliate’",
-        "published": "Sun, 22 Mar 2026 16:52:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/22/did-israel-miscalculate-iranian-military-capabilities?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
