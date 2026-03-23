@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-23 16:37",
+  "updated_at_gst": "2026-03-23 18:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US-Israeli war on Iran strains food, water and fuel prices in India",
+        "published": "Mon, 23 Mar 2026 12:50:53 +0000",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/23/nato-joining-us-israels-war-on-iran-is-between-slim-and?traffic_source=rss"
+      },
+      {
+        "title": "‘Substantial evidence’ of double-tap strike in killing of Gaza’s Hind Rajab",
+        "published": "Mon, 23 Mar 2026 12:27:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/new-un-climate-report-says-the-past-decade-was-the-hottest-on-record?traffic_source=rss"
+      },
       {
         "title": "UK PM Starmer says no threat from Iran on Britain, calls for de-escalation",
         "published": "Mon, 23 Mar 2026 11:57:25 +0000",
@@ -34,16 +44,6 @@
         "title": "Threats over Iran war bare Trump efforts to transform free speech: Experts",
         "published": "Mon, 23 Mar 2026 11:10:05 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/irgc-spokesman-tells-us-president-donald-trump-youre?traffic_source=rss"
-      },
-      {
-        "title": "Aftermath of Israeli attack in southern Lebanon",
-        "published": "Mon, 23 Mar 2026 09:38:48 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/23/israels-displacement-of-civilians-in-lebanon-is-a-possible-war-crime?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settlers rampage through West Bank towns for second night in a row",
-        "published": "Mon, 23 Mar 2026 08:50:33 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/23/unprecedented-israel-us-carry-out-extensive-strikes-across-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
