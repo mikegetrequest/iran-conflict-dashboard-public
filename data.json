@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-23 18:06",
+  "updated_at_gst": "2026-03-23 19:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump signals off-ramp in Iran war despite no ‘regime change’",
+        "published": "Mon, 23 Mar 2026 15:09:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/trump-speaks-after-announcing-delay-on-iran-attacks?traffic_source=rss"
+      },
       {
         "title": "US-Israeli war on Iran strains food, water and fuel prices in India",
         "published": "Mon, 23 Mar 2026 12:50:53 +0000",
@@ -39,11 +44,6 @@
         "title": "Trump postpones military strikes on Iranian power plants for five days",
         "published": "Mon, 23 Mar 2026 11:13:47 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/23/iraq-pulled-into-iran-war-as-us-targets-iran-aligned-groups?traffic_source=rss"
-      },
-      {
-        "title": "Threats over Iran war bare Trump efforts to transform free speech: Experts",
-        "published": "Mon, 23 Mar 2026 11:10:05 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/irgc-spokesman-tells-us-president-donald-trump-youre?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
