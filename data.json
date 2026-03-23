@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-23 19:31",
+  "updated_at_gst": "2026-03-23 20:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli strike on Lebanon bridge raises fears of ground invasion",
+        "published": "Mon, 23 Mar 2026 16:01:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/23/which-countries-have-strategic-oil-reserves-and-how-much?traffic_source=rss"
+      },
       {
         "title": "Trump signals off-ramp in Iran war despite no ‘regime change’",
         "published": "Mon, 23 Mar 2026 15:09:18 +0000",
@@ -39,11 +44,6 @@
         "title": "Trump shares SNL skit mocking Starmer as he speaks to UK PM over Iran war",
         "published": "Mon, 23 Mar 2026 11:42:09 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/23/uk-police-investigate-jewish-charity-ambulance-arson-as-hate-crime?traffic_source=rss"
-      },
-      {
-        "title": "Trump postpones military strikes on Iranian power plants for five days",
-        "published": "Mon, 23 Mar 2026 11:13:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/23/iraq-pulled-into-iran-war-as-us-targets-iran-aligned-groups?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
