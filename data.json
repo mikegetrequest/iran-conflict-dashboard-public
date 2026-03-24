@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-24 07:44",
+  "updated_at_gst": "2026-03-24 09:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US markets surge after Trump announces he’s postponing strikes on Iran",
+        "published": "Tue, 24 Mar 2026 04:21:56 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/large-pro-government-rallies-held-in-tehran?traffic_source=rss"
+      },
       {
         "title": "‘Israel has been given a licence to torture Palestinians’",
         "published": "Tue, 24 Mar 2026 02:20:00 +0000",
@@ -39,11 +44,6 @@
         "title": "Iranian officials dismiss claims of US talks",
         "published": "Mon, 23 Mar 2026 21:14:07 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/moment-missile-strikes-shortly-after-israeli-presidents-visit?traffic_source=rss"
-      },
-      {
-        "title": "Ukraine strikes key Russian oil port and refinery",
-        "published": "Mon, 23 Mar 2026 20:35:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/what-trump-said-about-iran-after-postponing-military-strikes?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
