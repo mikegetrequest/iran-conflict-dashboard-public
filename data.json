@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-24 19:38",
+  "updated_at_gst": "2026-03-24 20:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Moment rescuers find man alive under the rubble in Tehran",
-        "published": "Tue, 24 Mar 2026 15:16:49 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/24/un-experts-urge-israel-to-free-gaza-doctor-amid-reports-of-severe-torture?traffic_source=rss"
+        "title": "Israeli strike hits Tyre during Al Jazeera report",
+        "published": "Tue, 24 Mar 2026 15:34:43 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/moment-rescuers-find-man-alive-under-the-rubble-in-tehran?traffic_source=rss"
       },
       {
-        "title": "QatarEnergy declares force majeure on some LNG contracts due to Iran war",
-        "published": "Tue, 24 Mar 2026 14:22:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/24/is-the-us-talking-to-irans-mohammad-bagher-ghalibaf-and-who-is-he?traffic_source=rss"
+        "title": "UN experts urge Israel to free Gaza doctor amid reports of ‘severe torture’",
+        "published": "Tue, 24 Mar 2026 15:09:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/who-is-markwayne-mullin-trumps-new-homeland-security-chief?traffic_source=rss"
       },
       {
-        "title": "Pakistan ‘ready to host US-Iran talks’: Can latest peace push work?",
-        "published": "Tue, 24 Mar 2026 13:42:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israels-smotrich-calls-for-new-border-and-occupation-of-south-lebanon?traffic_source=rss"
+        "title": "Keir Starmer’s policy on the Iran war is a recipe for catastrophe",
+        "published": "Tue, 24 Mar 2026 14:26:14 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/24/qatarenergy-declares-force-majeure-on-some-lng-contracts?traffic_source=rss"
+      },
+      {
+        "title": "Is the US talking to Iran’s Mohammad Bagher Ghalibaf, and who is he?",
+        "published": "Tue, 24 Mar 2026 14:16:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/24/why-has-india-arrested-us-ukrainian-nationals-under-anti-terror-laws?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s Smotrich calls for ‘new border’ and occupation of south Lebanon",
+        "published": "Tue, 24 Mar 2026 13:34:38 +0000",
+        "link": "https://www.aljazeera.com/features/2026/3/24/after-setbacks-across-europe-is-the-populist-far-right-losing-ground?traffic_source=rss"
+      },
+      {
+        "title": "What are Iran’s cluster munitions that are penetrating Israeli defences?",
+        "published": "Tue, 24 Mar 2026 13:15:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/the-tragic-toll-of-sudans-destroyed-healthcare?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
