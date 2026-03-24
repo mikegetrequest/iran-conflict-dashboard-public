@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-24 21:45",
+  "updated_at_gst": "2026-03-24 22:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran names successor to security chief killed in US-Israeli attack",
+        "published": "Tue, 24 Mar 2026 18:11:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/24/afghanistan-frees-detained-us-citizen-dennis-coyle-as-gesture-of-goodwill?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strike lands near Roman ruins in Lebanon",
+        "published": "Tue, 24 Mar 2026 18:06:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/kim-jong-un-says-north-korea-will-never-give-up-on-nuclear-weapons?traffic_source=rss"
+      },
       {
         "title": "Israeli defences questioned as Iran continues to cause damage",
         "published": "Tue, 24 Mar 2026 16:31:31 +0000",
@@ -34,11 +44,6 @@
         "title": "QatarEnergy declares force majeure on some LNG contracts due to Iran war",
         "published": "Tue, 24 Mar 2026 14:22:13 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/24/is-the-us-talking-to-irans-mohammad-bagher-ghalibaf-and-who-is-he?traffic_source=rss"
-      },
-      {
-        "title": "Pakistan ‘ready to host US-Iran talks’: Can latest peace push work?",
-        "published": "Tue, 24 Mar 2026 13:42:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israels-smotrich-calls-for-new-border-and-occupation-of-south-lebanon?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
