@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-24 12:37",
+  "updated_at_gst": "2026-03-24 13:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Despite Trump’s peace talk claims, US-Israeli attacks continue to hit Iran",
-        "published": "Tue, 24 Mar 2026 08:14:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/top-eu-official-calls-for-negotiations-with-iran-and-an-end-to-war?traffic_source=rss"
+        "title": "Israel kills two in Beirut as it intensifies attacks across Lebanon",
+        "published": "Tue, 24 Mar 2026 09:10:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/deadly-air-attack-hits-pro-iran-popular-mobilisation-forces-in-iraq?traffic_source=rss"
       },
       {
-        "title": "Palestine weekly wrap: West Bank attacks surge, Israel restricts Gaza aid",
-        "published": "Tue, 24 Mar 2026 06:25:55 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/24/mbappe-fit-and-ready-to-play-every-real-madrid-game-before-world-cup?traffic_source=rss"
+        "title": "Al Jazeera reports from scene of attack on Tehran residential area",
+        "published": "Tue, 24 Mar 2026 08:38:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/24/despite-trumps-peace-talk-claims-us-israeli-attacks-continue-to-hit-iran?traffic_source=rss"
       },
       {
-        "title": "US-Israel war on Iran: What’s happening on day 25 of attacks?",
-        "published": "Tue, 24 Mar 2026 06:17:43 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/24/tiger-woods-eyes-masters-return-with-competitive-golf-outing-at-tgl?traffic_source=rss"
+        "title": "Top EU official calls for negotiations with Iran and an end to war",
+        "published": "Tue, 24 Mar 2026 07:28:53 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/24/eritrea-to-end-18-year-afcon-isolation-by-playing-eswatini-in-qualifier?traffic_source=rss"
       },
       {
-        "title": "Israel bombs petrol station in southern Lebanon",
-        "published": "Tue, 24 Mar 2026 04:28:17 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/us-markets-surge-after-trump-announces-hes-postponing-strikes-on-iran?traffic_source=rss"
+        "title": "Where do reported US-Iran ‘negotiations’ leave Israel?",
+        "published": "Tue, 24 Mar 2026 07:13:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/24/polls-open-in-key-denmark-elections-clouded-by-trumps-greenland-threat?traffic_source=rss"
       },
       {
-        "title": "Large pro-government rallies held in Tehran",
-        "published": "Tue, 24 Mar 2026 03:27:35 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-has-been-given-a-licence-to-torture?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settlers vandalise school, raise Israeli flag in occupied West Bank",
-        "published": "Tue, 24 Mar 2026 00:14:00 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/3/24/iran-war-live-tehran-says-trumps-claims-of-peace-talks-fake?traffic_source=rss"
+        "title": "US markets surge after Trump announces he’s postponing strikes on Iran",
+        "published": "Tue, 24 Mar 2026 04:21:56 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/large-pro-government-rallies-held-in-tehran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
