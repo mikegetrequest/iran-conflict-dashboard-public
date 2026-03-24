@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-24 15:36",
+  "updated_at_gst": "2026-03-24 16:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Moment Israeli soldier throws stun grenade at shop near Ramallah",
+        "published": "Tue, 24 Mar 2026 11:58:09 +0000",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/24/are-middle-east-attacks-pushing-asia-towards-an-energy-crisis?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces blow up mosque minaret in southern Lebanon",
+        "published": "Tue, 24 Mar 2026 11:48:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/24/australia-and-eu-seal-trade-deal-to-cut-reliance-on-chinas-rare-earths?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon declares Iranian ambassador persona non grata amid Israeli attacks",
+        "published": "Tue, 24 Mar 2026 11:44:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/24/how-does-the-current-global-oil-crisis-compare-with-the-1973-oil-embargo?traffic_source=rss"
+      },
+      {
         "title": "Amazon says AWS Bahrain region ‘disrupted’ following drone activity",
         "published": "Tue, 24 Mar 2026 10:39:41 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/24/supporters-group-file-lawsuit-against-fifa-over-world-cup-ticket-prices?traffic_source=rss"
@@ -29,21 +44,6 @@
         "title": "Drone footage shows aftermath of Iranian missile attack in Tel Aviv",
         "published": "Tue, 24 Mar 2026 09:29:59 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/24/mccullum-to-continue-as-englands-all-format-cricket-head-coach?traffic_source=rss"
-      },
-      {
-        "title": "Deadly air attack hits pro-Iran Popular Mobilisation Forces in Iraq",
-        "published": "Tue, 24 Mar 2026 08:43:47 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/al-jazeera-reports-from-scene-of-attack-on-tehran-residential-area?traffic_source=rss"
-      },
-      {
-        "title": "Despite Trump’s peace talk claims, US-Israeli attacks continue to hit Iran",
-        "published": "Tue, 24 Mar 2026 08:14:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/top-eu-official-calls-for-negotiations-with-iran-and-an-end-to-war?traffic_source=rss"
-      },
-      {
-        "title": "Palestine weekly wrap: West Bank attacks surge, Israel restricts Gaza aid",
-        "published": "Tue, 24 Mar 2026 06:25:55 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/24/mbappe-fit-and-ready-to-play-every-real-madrid-game-before-world-cup?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
