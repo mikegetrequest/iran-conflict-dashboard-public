@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-24 14:39",
+  "updated_at_gst": "2026-03-24 15:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Amazon says AWS Bahrain region ‘disrupted’ following drone activity",
+        "published": "Tue, 24 Mar 2026 10:39:41 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/24/supporters-group-file-lawsuit-against-fifa-over-world-cup-ticket-prices?traffic_source=rss"
+      },
       {
         "title": "Iran launches waves of missiles towards Israel",
         "published": "Tue, 24 Mar 2026 10:05:05 +0000",
@@ -39,11 +44,6 @@
         "title": "Palestine weekly wrap: West Bank attacks surge, Israel restricts Gaza aid",
         "published": "Tue, 24 Mar 2026 06:25:55 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/24/mbappe-fit-and-ready-to-play-every-real-madrid-game-before-world-cup?traffic_source=rss"
-      },
-      {
-        "title": "US-Israel war on Iran: What’s happening on day 25 of attacks?",
-        "published": "Tue, 24 Mar 2026 06:17:43 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/24/tiger-woods-eyes-masters-return-with-competitive-golf-outing-at-tgl?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
