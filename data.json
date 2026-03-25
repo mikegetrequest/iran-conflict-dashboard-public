@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-25 09:18",
+  "updated_at_gst": "2026-03-25 10:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Amid US-Israeli attacks, people in Iran struggle to survive ailing economy",
+        "published": "Wed, 25 Mar 2026 05:41:14 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/25/from-pakistan-to-egypt-iran-war-drives-up-fuel-prices-in-the-global-south?traffic_source=rss"
+      },
+      {
         "title": "What we know about the US’s 15-point plan Iran proposal",
         "published": "Wed, 25 Mar 2026 04:10:03 +0000",
         "link": "https://www.aljazeera.com/economy/2026/3/25/us-jury-orders-meta-to-pay-375m-for-endangering-children?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Israeli and Palestinian mothers call for peace on barefoot walk",
         "published": "Wed, 25 Mar 2026 01:18:01 +0000",
         "link": "https://www.aljazeera.com/news/liveblog/2026/3/25/iran-war-live-trump-again-says-talks-underway-12-killed-in-south-tehran?traffic_source=rss"
-      },
-      {
-        "title": "Trump keeps up claims of talks with ‘the right people’ in Iran",
-        "published": "Tue, 24 Mar 2026 23:25:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/explosion-fire-at-erbil-high-rise-amid-iranian-attacks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
