@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-26 00:27",
+  "updated_at_gst": "2026-03-26 00:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US tells Iran to accept defeat or Trump will ‘unleash hell’",
+        "published": "Wed, 25 Mar 2026 20:12:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/25/democrat-alleges-trump-sold-out-us-security-in-classified-documents-case?traffic_source=rss"
+      },
+      {
         "title": "Iran’s state TV outlines five conditions to end war",
         "published": "Wed, 25 Mar 2026 18:41:11 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/25/israel-forcibly-displaces-more-palestinian-families-in-east-jerusalem?traffic_source=rss"
@@ -29,16 +34,6 @@
         "title": "What it would take to end the Iran war",
         "published": "Wed, 25 Mar 2026 16:25:30 +0000",
         "link": "https://www.aljazeera.com/video/the-take-2/2026/3/25/aje-onl-tt_irn_chemicalwarfare_av_v2-240326?traffic_source=rss"
-      },
-      {
-        "title": "War on Iran: What troops is the US moving to the Gulf?",
-        "published": "Wed, 25 Mar 2026 15:59:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/25/iran-calls-us-proposal-to-end-war-maximalist-unreasonable?traffic_source=rss"
-      },
-      {
-        "title": "Missiles overhead, silence below: Israel’s home front holds firm",
-        "published": "Wed, 25 Mar 2026 14:41:47 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/25/anthropics-case-against-the-pentagon-could-open-space-for-ai-regulation?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
