@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-25 19:40",
+  "updated_at_gst": "2026-03-25 20:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "What it would take to end the Iran war",
+        "published": "Wed, 25 Mar 2026 16:25:30 +0000",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/25/aje-onl-tt_irn_chemicalwarfare_av_v2-240326?traffic_source=rss"
+      },
+      {
+        "title": "War on Iran: What troops is the US moving to the Gulf?",
+        "published": "Wed, 25 Mar 2026 15:59:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/25/iran-calls-us-proposal-to-end-war-maximalist-unreasonable?traffic_source=rss"
+      },
       {
         "title": "Missiles overhead, silence below: Israel’s home front holds firm",
         "published": "Wed, 25 Mar 2026 14:41:47 +0000",
@@ -34,16 +44,6 @@
         "title": "Iranian attacks amount to violation of sovereignty, Gulf states tell UN",
         "published": "Wed, 25 Mar 2026 13:00:22 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/25/democrat-captures-florida-house-seat-in-trumps-mar-a-lago-district?traffic_source=rss"
-      },
-      {
-        "title": "Trump’s war on Iran, in his own words",
-        "published": "Wed, 25 Mar 2026 12:36:58 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/dozens-of-bodies-including-children-exhumed-from-mass-grave-in-kenya?traffic_source=rss"
-      },
-      {
-        "title": "Asian Champions League quarterfinal sends Iran’s Tractor FC to Saudi Arabia",
-        "published": "Wed, 25 Mar 2026 12:18:33 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/video-trumps-board-of-peace-pushes-gaza-disarmament-plan-at-un?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
