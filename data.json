@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-25 16:38",
+  "updated_at_gst": "2026-03-25 18:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Asian Champions League quarterfinal sends Iran’s Tractor FC to Saudi Arabia",
-        "published": "Wed, 25 Mar 2026 12:18:33 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/video-trumps-board-of-peace-pushes-gaza-disarmament-plan-at-un?traffic_source=rss"
+        "title": "US-Iran mediation: What are each side’s demands – and is a deal possible?",
+        "published": "Wed, 25 Mar 2026 11:45:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/25/estonia-latvia-report-drone-incursions-from-russian-airspace?traffic_source=rss"
       },
       {
-        "title": "Spain says Israel seeks to repeat ‘Gaza destruction’ in Lebanon",
-        "published": "Wed, 25 Mar 2026 11:56:20 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/25/us-iran-mediation-what-are-each-sides-demands-and-is-a-deal-possible?traffic_source=rss"
+        "title": "Spain’s PM says Israel to inflict on Lebanon same destruction as in Gaza",
+        "published": "Wed, 25 Mar 2026 11:02:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/un-human-rights-chief-warns-war-on-iran-is-spreading?traffic_source=rss"
       },
       {
-        "title": "UN human rights chief warns war on Iran is spreading",
-        "published": "Wed, 25 Mar 2026 10:10:01 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/25/irans-closure-of-the-strait-of-hormuz-is-an-international-crisis?traffic_source=rss"
-      },
-      {
-        "title": "‘A heinous crime’: Air strikes kill seven fighters in Iraq’s Anbar",
-        "published": "Wed, 25 Mar 2026 09:34:59 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/25/belaruss-lukashenko-makes-first-visit-to-north-korea-in-bid-to-deepen-ties?traffic_source=rss"
-      },
-      {
-        "title": "US Democrats condemn war on Iran as Senate resolution fails",
-        "published": "Wed, 25 Mar 2026 09:20:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/25/is-irans-negotiating-position-stronger-than-when-us-israeli-war-started?traffic_source=rss"
-      },
-      {
-        "title": "US talking to itself, says Iran as Trump claims wheels of diplomacy turning",
-        "published": "Wed, 25 Mar 2026 08:09:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/do-not-call-your-defeat-an-agreement-irgc-warns-us-israel?traffic_source=rss"
+        "title": "Iran’s closure of the Strait of Hormuz is an international crisis",
+        "published": "Wed, 25 Mar 2026 10:09:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/25/a-heinous-crime-air-strikes-kill-seven-fighters-in-iraqs-anbar?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
