@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-25 18:08",
+  "updated_at_gst": "2026-03-25 19:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US-Iran mediation: What are each side’s demands – and is a deal possible?",
-        "published": "Wed, 25 Mar 2026 11:45:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/25/estonia-latvia-report-drone-incursions-from-russian-airspace?traffic_source=rss"
+        "title": "Missiles overhead, silence below: Israel’s home front holds firm",
+        "published": "Wed, 25 Mar 2026 14:41:47 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/25/anthropics-case-against-the-pentagon-could-open-space-for-ai-regulation?traffic_source=rss"
       },
       {
-        "title": "Spain’s PM says Israel to inflict on Lebanon same destruction as in Gaza",
-        "published": "Wed, 25 Mar 2026 11:02:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/un-human-rights-chief-warns-war-on-iran-is-spreading?traffic_source=rss"
+        "title": "Hezbollah chief urges unity, no talks with Israel amid Lebanon attacks",
+        "published": "Wed, 25 Mar 2026 14:24:11 +0000",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/25/are-middle-east-attacks-pushing-asia-towards-an-energy-crisis?traffic_source=rss"
       },
       {
-        "title": "Iran’s closure of the Strait of Hormuz is an international crisis",
-        "published": "Wed, 25 Mar 2026 10:09:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/25/a-heinous-crime-air-strikes-kill-seven-fighters-in-iraqs-anbar?traffic_source=rss"
+        "title": "Israel talks up Iranian threats to European cities to justify war",
+        "published": "Wed, 25 Mar 2026 13:54:32 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/25/mohamed-salah-is-liverpool-exit-the-end-or-can-world-cup-spur-egypt-star?traffic_source=rss"
+      },
+      {
+        "title": "Iranian attacks amount to violation of sovereignty, Gulf states tell UN",
+        "published": "Wed, 25 Mar 2026 13:00:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/25/democrat-captures-florida-house-seat-in-trumps-mar-a-lago-district?traffic_source=rss"
+      },
+      {
+        "title": "Trump’s war on Iran, in his own words",
+        "published": "Wed, 25 Mar 2026 12:36:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/dozens-of-bodies-including-children-exhumed-from-mass-grave-in-kenya?traffic_source=rss"
+      },
+      {
+        "title": "Asian Champions League quarterfinal sends Iran’s Tractor FC to Saudi Arabia",
+        "published": "Wed, 25 Mar 2026 12:18:33 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/video-trumps-board-of-peace-pushes-gaza-disarmament-plan-at-un?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
