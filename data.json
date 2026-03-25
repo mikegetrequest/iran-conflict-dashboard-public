@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-25 21:48",
+  "updated_at_gst": "2026-03-25 22:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel forcibly displaces more Palestinian families in East Jerusalem",
+        "published": "Wed, 25 Mar 2026 18:29:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/25/palestine-action-hunger-strikers-to-sue-prisons-over-alleged-mistreatment?traffic_source=rss"
+      },
       {
         "title": "What we know about US attack on Iraqi military site",
         "published": "Wed, 25 Mar 2026 17:10:28 +0000",
@@ -39,11 +44,6 @@
         "title": "Iran calls US proposal to end war ‘maximalist, unreasonable’",
         "published": "Wed, 25 Mar 2026 15:11:36 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/25/missiles-overhead-silence-below-israels-home-front-holds-firm?traffic_source=rss"
-      },
-      {
-        "title": "Are Middle East attacks pushing Asia towards an energy crisis?",
-        "published": "Wed, 25 Mar 2026 14:15:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/israel-talks-up-iranian-threats-to-european-cities-to-justify-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
