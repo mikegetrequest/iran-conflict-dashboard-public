@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-25 10:36",
+  "updated_at_gst": "2026-03-25 11:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran’s new security boss Mohammad Zolghadr: Why his appointment matters",
+        "published": "Wed, 25 Mar 2026 07:15:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/25/us-israel-war-on-iran-whats-happening-on-day-26-of-attacks?traffic_source=rss"
+      },
+      {
         "title": "Amid US-Israeli attacks, people in Iran struggle to survive ailing economy",
         "published": "Wed, 25 Mar 2026 05:41:14 +0000",
         "link": "https://www.aljazeera.com/economy/2026/3/25/from-pakistan-to-egypt-iran-war-drives-up-fuel-prices-in-the-global-south?traffic_source=rss"
-      },
-      {
-        "title": "What we know about the US’s 15-point plan Iran proposal",
-        "published": "Wed, 25 Mar 2026 04:10:03 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/25/us-jury-orders-meta-to-pay-375m-for-endangering-children?traffic_source=rss"
       },
       {
         "title": "Drone attack ignites fuel tank at Kuwait airport",
