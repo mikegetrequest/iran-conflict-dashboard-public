@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-26 00:59",
+  "updated_at_gst": "2026-03-26 01:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US tells Iran to accept defeat or Trump will ‘unleash hell’",
-        "published": "Wed, 25 Mar 2026 20:12:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/25/democrat-alleges-trump-sold-out-us-security-in-classified-documents-case?traffic_source=rss"
+        "title": "Palestine weekly wrap: West Bank attacks surge, Israel restricts Gaza aid",
+        "published": "Wed, 25 Mar 2026 21:07:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/philippines-farmers-feeling-the-pinch-of-the-war-on-iran?traffic_source=rss"
       },
       {
-        "title": "Iran’s state TV outlines five conditions to end war",
-        "published": "Wed, 25 Mar 2026 18:41:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/25/israel-forcibly-displaces-more-palestinian-families-in-east-jerusalem?traffic_source=rss"
+        "title": "Iran releases video claiming to show downing of US jet",
+        "published": "Wed, 25 Mar 2026 20:42:03 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/25/benfica-fined-for-fans-racism-at-real-madrid-game-with-uefa-investigation?traffic_source=rss"
       },
       {
-        "title": "Palestine Action hunger strikers to sue prisons over alleged mistreatment",
-        "published": "Wed, 25 Mar 2026 17:49:47 +0000",
-        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/25/aje-onl-tt_cub_internationalize_av_v2-250326?traffic_source=rss"
+        "title": "Explosions and smoke seen as Iranian missiles hit Israel",
+        "published": "Wed, 25 Mar 2026 20:33:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestinian-family-evicted-from-home-in-occupied-east-jerusalem?traffic_source=rss"
       },
       {
-        "title": "What it would take to end the Iran war",
-        "published": "Wed, 25 Mar 2026 16:25:30 +0000",
-        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/25/aje-onl-tt_irn_chemicalwarfare_av_v2-240326?traffic_source=rss"
+        "title": "Trump to visit Xi Jinping in China on May 14 and 15 after Iran war delay",
+        "published": "Wed, 25 Mar 2026 20:20:16 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-tells-iran-to-accept-defeat-or-trump-will-unleash?traffic_source=rss"
+      },
+      {
+        "title": "What’s Iran’s war strategy and what risks does it pose?",
+        "published": "Wed, 25 Mar 2026 19:22:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/25/un-passes-resolution-naming-slave-trade-gravest-crime-against-humanity?traffic_source=rss"
+      },
+      {
+        "title": "UN chief says ‘high time’ to end ‘out of control’ war on Iran",
+        "published": "Wed, 25 Mar 2026 18:44:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/irans-state-tv-outlines-five-conditions-to-end-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
