@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-25 03:51",
+  "updated_at_gst": "2026-03-25 05:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war live: Trump again says talks under way; 12 killed in south Tehran",
+        "published": "Wed, 25 Mar 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/24/russian-weapons-tactics-seen-in-ukraine-are-shaping-myanmars-civil-war?traffic_source=rss"
+      },
       {
         "title": "Explosion, fire at Erbil high-rise amid Iranian attacks",
         "published": "Tue, 24 Mar 2026 23:00:31 +0000",
@@ -39,11 +44,6 @@
         "title": "Iranian missiles cause injuries and major damage across Israel",
         "published": "Tue, 24 Mar 2026 20:54:37 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/has-iran-brought-down-an-unkillable-us-f-35-jet-3?traffic_source=rss"
-      },
-      {
-        "title": "US says they’re talking, Iran says they’re not. Who’s telling the truth?",
-        "published": "Tue, 24 Mar 2026 19:34:20 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/24/egypts-mohamed-salah-to-leave-liverpool-at-end-of-season-after-9-year-stay?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
