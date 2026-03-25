@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-26 02:59",
+  "updated_at_gst": "2026-03-26 03:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Palestine weekly wrap: West Bank attacks surge, Israel restricts Gaza aid",
-        "published": "Wed, 25 Mar 2026 21:07:47 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/philippines-farmers-feeling-the-pinch-of-the-war-on-iran?traffic_source=rss"
+        "title": "Iranian foreign minister rejects talks with US",
+        "published": "Wed, 25 Mar 2026 23:09:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/25/mexico-will-continue-accepting-cuban-medical-workers-despite-us-pressure?traffic_source=rss"
       },
       {
-        "title": "Iran releases video claiming to show downing of US jet",
-        "published": "Wed, 25 Mar 2026 20:42:03 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/25/benfica-fined-for-fans-racism-at-real-madrid-game-with-uefa-investigation?traffic_source=rss"
+        "title": "Video shows Israeli strike hitting displacement camp in Gaza",
+        "published": "Wed, 25 Mar 2026 22:12:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestine-weekly-wrap-west-bank-attacks-surge-israel-restricts-gaza-aid?traffic_source=rss"
       },
       {
-        "title": "Explosions and smoke seen as Iranian missiles hit Israel",
-        "published": "Wed, 25 Mar 2026 20:33:47 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestinian-family-evicted-from-home-in-occupied-east-jerusalem?traffic_source=rss"
+        "title": "Philippines farmers feeling the pinch of the war on Iran",
+        "published": "Wed, 25 Mar 2026 20:59:41 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/25/barcelona-hammer-real-madrid-in-womens-champions-league-quarterfinals?traffic_source=rss"
       },
       {
-        "title": "Trump to visit Xi Jinping in China on May 14 and 15 after Iran war delay",
-        "published": "Wed, 25 Mar 2026 20:20:16 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-tells-iran-to-accept-defeat-or-trump-will-unleash?traffic_source=rss"
+        "title": "Four killed in latest US attack on alleged drug-smuggling boat in Caribbean",
+        "published": "Wed, 25 Mar 2026 20:47:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/iran-releases-video-claiming-to-show-downing-of-us-jet?traffic_source=rss"
       },
       {
-        "title": "What’s Iran’s war strategy and what risks does it pose?",
-        "published": "Wed, 25 Mar 2026 19:22:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/25/un-passes-resolution-naming-slave-trade-gravest-crime-against-humanity?traffic_source=rss"
-      },
-      {
-        "title": "UN chief says ‘high time’ to end ‘out of control’ war on Iran",
-        "published": "Wed, 25 Mar 2026 18:44:58 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/irans-state-tv-outlines-five-conditions-to-end-war?traffic_source=rss"
+        "title": "US tells Iran to accept defeat or Trump will ‘unleash hell’",
+        "published": "Wed, 25 Mar 2026 20:12:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/25/democrat-alleges-trump-sold-out-us-security-in-classified-documents-case?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
