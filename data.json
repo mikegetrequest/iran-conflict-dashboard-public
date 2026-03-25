@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-25 11:44",
+  "updated_at_gst": "2026-03-25 12:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran’s new security boss Mohammad Zolghadr: Why his appointment matters",
-        "published": "Wed, 25 Mar 2026 07:15:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/25/us-israel-war-on-iran-whats-happening-on-day-26-of-attacks?traffic_source=rss"
+        "title": "Russia, Ukraine tit-for-tat attacks knock out power for over half a million",
+        "published": "Wed, 25 Mar 2026 08:21:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/25/us-talking-to-itself-says-iran-as-trump-claims-wheels-of-diplomacy-turning?traffic_source=rss"
       },
       {
-        "title": "Amid US-Israeli attacks, people in Iran struggle to survive ailing economy",
-        "published": "Wed, 25 Mar 2026 05:41:14 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/25/from-pakistan-to-egypt-iran-war-drives-up-fuel-prices-in-the-global-south?traffic_source=rss"
+        "title": "‘Do not call your defeat an agreement’ IRGC warns US, Israel",
+        "published": "Wed, 25 Mar 2026 08:01:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/25/irans-new-security-boss-mohammad-zolghadr-why-his-appointment-matters?traffic_source=rss"
       },
       {
-        "title": "Drone attack ignites fuel tank at Kuwait airport",
-        "published": "Wed, 25 Mar 2026 03:31:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/25/philippine-president-declares-energy-emergency-as-impact-of-iran-war-felt?traffic_source=rss"
+        "title": "US-Israel war on Iran: What’s happening on day 26 of attacks?",
+        "published": "Wed, 25 Mar 2026 06:56:04 +0000",
+        "link": "https://www.aljazeera.com/features/2026/3/25/amid-us-israeli-attacks-people-in-iran-struggle-to-survive-ailing-economy?traffic_source=rss"
       },
       {
-        "title": "Israeli and Palestinian mothers call for peace on barefoot walk",
-        "published": "Wed, 25 Mar 2026 01:18:01 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/3/25/iran-war-live-trump-again-says-talks-underway-12-killed-in-south-tehran?traffic_source=rss"
+        "title": "From Pakistan to Egypt, Iran war drives up prices in Global South",
+        "published": "Wed, 25 Mar 2026 05:20:18 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/25/openai-pulls-ai-video-app-sora-as-concerns-grow-on-deepfake-videos?traffic_source=rss"
+      },
+      {
+        "title": "New Zealand footballers willing to play Iran World Cup match outside US",
+        "published": "Wed, 25 Mar 2026 04:57:10 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/indonesians-fire-wooden-cannons-in-post-eid-tradition?traffic_source=rss"
+      },
+      {
+        "title": "Canada tells Israel that Lebanon’s sovereignty ‘must not be violated’",
+        "published": "Wed, 25 Mar 2026 04:21:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/what-we-know-about-the-uss-15-point-plan-iran-proposal?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
