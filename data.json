@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-27 00:55",
+  "updated_at_gst": "2026-03-27 01:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran placing messages on missiles as war of narratives intensifies",
+        "published": "Thu, 26 Mar 2026 20:56:21 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/protests-erupt-outside-us-court-over-maduro-case?traffic_source=rss"
+      },
       {
         "title": "Israel sends more troops into southern Lebanon as ground invasion expands",
         "published": "Thu, 26 Mar 2026 20:10:30 +0000",
@@ -34,11 +39,6 @@
         "title": "Tehran’s ‘toll booth’: How Iran picks who to let through Strait of Hormuz",
         "published": "Thu, 26 Mar 2026 15:56:05 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/pakistan-says-it-is-mediating-us-iran-talks?traffic_source=rss"
-      },
-      {
-        "title": "Iranian naval chief killed in attack, Israel says",
-        "published": "Thu, 26 Mar 2026 13:23:30 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/teen-volunteer-paramedic-killed-in-israeli-strike-in-lebanon?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
