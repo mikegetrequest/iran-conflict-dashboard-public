@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-26 14:41",
+  "updated_at_gst": "2026-03-26 15:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iranian naval commander Alireza Tangsiri killed in attack, says Israel",
+        "published": "Thu, 26 Mar 2026 11:10:39 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/video-storms-wash-away-vehicles-and-flood-homes-across-middle-east?traffic_source=rss"
+      },
       {
         "title": "‘Missile hit’ flips car in Israel",
         "published": "Thu, 26 Mar 2026 10:19:08 +0000",
@@ -34,16 +39,6 @@
         "title": "US-Israel war on Iran: What’s happening on day 27 of attacks?",
         "published": "Thu, 26 Mar 2026 06:53:23 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/26/in-u-turn-uk-police-say-palestine-action-protesters-will-be-arrested-again?traffic_source=rss"
-      },
-      {
-        "title": "Deaths and debts: Missiles in Gulf shake millions of South Asian families",
-        "published": "Thu, 26 Mar 2026 06:26:10 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/26/senegal-appeal-to-cas-against-handing-over-of-afcon-title-to-morocco?traffic_source=rss"
-      },
-      {
-        "title": "Oil prices rise higher as Iran denies US talks, dimming deescalation hopes",
-        "published": "Thu, 26 Mar 2026 05:06:02 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/malaysias-prime-minister-says-iran-talks-should-end-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
