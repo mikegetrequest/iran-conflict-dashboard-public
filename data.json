@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-26 10:54",
+  "updated_at_gst": "2026-03-26 11:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US-Israel war on Iran: What’s happening on day 27 of attacks?",
+        "published": "Thu, 26 Mar 2026 06:53:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/26/in-u-turn-uk-police-say-palestine-action-protesters-will-be-arrested-again?traffic_source=rss"
+      },
       {
         "title": "Deaths and debts: Missiles in Gulf shake millions of South Asian families",
         "published": "Thu, 26 Mar 2026 06:26:10 +0000",
@@ -39,11 +44,6 @@
         "title": "Trump says Iranian leaders want deal ‘so badly’ but fear retaliation",
         "published": "Thu, 26 Mar 2026 00:56:32 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/26/sarah-mullally-enthroned-as-first-female-archbishop-of-canterbury?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: US demands Tehran accept defeat; Israel pounds Lebanon",
-        "published": "Thu, 26 Mar 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/3/25/migrants-march-in-southern-mexico-to-denounce-immigration-restrictions?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
