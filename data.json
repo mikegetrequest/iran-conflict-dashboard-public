@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-27 01:50",
+  "updated_at_gst": "2026-03-27 02:16",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump postpones US strikes on Iranian power grid to April 6 amid talks",
+        "published": "Thu, 26 Mar 2026 22:03:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/26/wto-holds-crunch-meeting-amid-collapsing-multilateral-system?traffic_source=rss"
+      },
       {
         "title": "Al Jazeera visits Iran’s UNESCO-listed palace damaged by war",
         "published": "Thu, 26 Mar 2026 21:33:17 +0000",
@@ -39,11 +44,6 @@
         "title": "Iranian missiles cause widespread damage across Israel in latest wave",
         "published": "Thu, 26 Mar 2026 17:58:03 +0000",
         "link": "https://www.aljazeera.com/gallery/2026/3/26/more-than-one-million-displaced-by-israels-evacuations-in-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Tehran’s ‘toll booth’: How Iran picks who to let through Strait of Hormuz",
-        "published": "Thu, 26 Mar 2026 15:56:05 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/pakistan-says-it-is-mediating-us-iran-talks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
