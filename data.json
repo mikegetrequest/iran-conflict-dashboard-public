@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-26 11:53",
+  "updated_at_gst": "2026-03-26 12:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli push for more force ‘not working out very well’",
+        "published": "Thu, 26 Mar 2026 07:59:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/26/us-israel-launch-extensive-strikes-on-central-iran-two-teenagers-killed?traffic_source=rss"
+      },
       {
         "title": "US-Israel war on Iran: What’s happening on day 27 of attacks?",
         "published": "Thu, 26 Mar 2026 06:53:23 +0000",
@@ -39,11 +44,6 @@
         "title": "Russia slams second US-Israeli strike at Iran’s Bushehr nuclear reactor",
         "published": "Thu, 26 Mar 2026 03:31:36 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/26/australia-bans-visitors-from-iran-amid-war-in-the-middle-east?traffic_source=rss"
-      },
-      {
-        "title": "Trump says Iranian leaders want deal ‘so badly’ but fear retaliation",
-        "published": "Thu, 26 Mar 2026 00:56:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/26/sarah-mullally-enthroned-as-first-female-archbishop-of-canterbury?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
