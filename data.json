@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-26 09:54",
+  "updated_at_gst": "2026-03-26 10:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Malaysia’s prime minister says Iran talks should end war",
-        "published": "Thu, 26 Mar 2026 04:36:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/videos-show-wave-of-missiles-fired-from-lebanon-to-israel?traffic_source=rss"
+        "title": "Deaths and debts: Missiles in Gulf shake millions of South Asian families",
+        "published": "Thu, 26 Mar 2026 06:26:10 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/26/senegal-appeal-to-cas-against-handing-over-of-afcon-title-to-morocco?traffic_source=rss"
       },
       {
-        "title": "Australia bans visitors from Iran amid war in the Middle East",
-        "published": "Thu, 26 Mar 2026 03:28:18 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/us-jury-finds-meta-google-liable-in-social-media-addiction-trial?traffic_source=rss"
+        "title": "Oil prices rise higher as Iran denies US talks, dimming deescalation hopes",
+        "published": "Thu, 26 Mar 2026 05:06:02 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/malaysias-prime-minister-says-iran-talks-should-end-war?traffic_source=rss"
       },
       {
-        "title": "Tehran issues warning to regional neighbour if Iranian island occupied",
-        "published": "Thu, 26 Mar 2026 01:24:04 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/trump-says-iranian-leaders-want-deal-so-badly-but-fear-retaliation?traffic_source=rss"
+        "title": "Videos show wave of missiles fired from Lebanon to Israel",
+        "published": "Thu, 26 Mar 2026 03:54:44 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/26/us-lawmakers-push-for-pause-in-data-centres-until-ai-safeguards-in-place?traffic_source=rss"
       },
       {
-        "title": "Iranian foreign minister rejects talks with US",
-        "published": "Wed, 25 Mar 2026 23:09:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/25/mexico-will-continue-accepting-cuban-medical-workers-despite-us-pressure?traffic_source=rss"
+        "title": "Russia slams second US-Israeli strike at Iran’s Bushehr nuclear reactor",
+        "published": "Thu, 26 Mar 2026 03:31:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/26/australia-bans-visitors-from-iran-amid-war-in-the-middle-east?traffic_source=rss"
       },
       {
-        "title": "Video shows Israeli strike hitting displacement camp in Gaza",
-        "published": "Wed, 25 Mar 2026 22:12:18 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestine-weekly-wrap-west-bank-attacks-surge-israel-restricts-gaza-aid?traffic_source=rss"
+        "title": "Trump says Iranian leaders want deal ‘so badly’ but fear retaliation",
+        "published": "Thu, 26 Mar 2026 00:56:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/26/sarah-mullally-enthroned-as-first-female-archbishop-of-canterbury?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: US demands Tehran accept defeat; Israel pounds Lebanon",
+        "published": "Thu, 26 Mar 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/3/25/migrants-march-in-southern-mexico-to-denounce-immigration-restrictions?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
