@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-26 08:07",
+  "updated_at_gst": "2026-03-26 09:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Malaysia’s prime minister says Iran talks should end war",
+        "published": "Thu, 26 Mar 2026 04:36:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/videos-show-wave-of-missiles-fired-from-lebanon-to-israel?traffic_source=rss"
+      },
       {
         "title": "Australia bans visitors from Iran amid war in the Middle East",
         "published": "Thu, 26 Mar 2026 03:28:18 +0000",
@@ -34,11 +39,6 @@
         "title": "Video shows Israeli strike hitting displacement camp in Gaza",
         "published": "Wed, 25 Mar 2026 22:12:18 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestine-weekly-wrap-west-bank-attacks-surge-israel-restricts-gaza-aid?traffic_source=rss"
-      },
-      {
-        "title": "Philippines farmers feeling the pinch of the war on Iran",
-        "published": "Wed, 25 Mar 2026 20:59:41 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/25/barcelona-hammer-real-madrid-in-womens-champions-league-quarterfinals?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
