@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-27 02:16",
+  "updated_at_gst": "2026-03-27 02:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump postpones US strikes on Iranian power grid to April 6 amid talks",
-        "published": "Thu, 26 Mar 2026 22:03:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/26/wto-holds-crunch-meeting-amid-collapsing-multilateral-system?traffic_source=rss"
+        "title": "What are the red lines for Iran and the US in the war?",
+        "published": "Thu, 26 Mar 2026 22:03:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/26/trump-postpones-us-strikes-on-iranian-power-grid-to-april-6-amid-talks?traffic_source=rss"
       },
       {
-        "title": "Al Jazeera visits Iran’s UNESCO-listed palace damaged by war",
-        "published": "Thu, 26 Mar 2026 21:33:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/26/at-least-nine-people-dead-dozens-missing-as-boat-sinks-off-djibouti-coast?traffic_source=rss"
+        "title": "Key takeaways from Trump’s war on Iran meeting",
+        "published": "Thu, 26 Mar 2026 19:19:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/26/as-trump-claims-us-winning-tehran-asserts-legal-right-over-hormuz-strait?traffic_source=rss"
       },
       {
-        "title": "Iran placing messages on missiles as war of narratives intensifies",
-        "published": "Thu, 26 Mar 2026 20:56:21 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/protests-erupt-outside-us-court-over-maduro-case?traffic_source=rss"
-      },
-      {
-        "title": "Israel sends more troops into southern Lebanon as ground invasion expands",
-        "published": "Thu, 26 Mar 2026 20:10:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/26/dutch-court-bans-xais-grok-from-generating-non-consensual-nude-images?traffic_source=rss"
-      },
-      {
-        "title": "Trump says Iran ‘begging’ for deal to end war as Tehran issues new demands",
-        "published": "Thu, 26 Mar 2026 19:02:32 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/kim-jong-un-gifted-gun-after-belarus-friendship-treaty?traffic_source=rss"
-      },
-      {
-        "title": "Iranian missiles cause widespread damage across Israel in latest wave",
-        "published": "Thu, 26 Mar 2026 17:58:03 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/3/26/more-than-one-million-displaced-by-israels-evacuations-in-lebanon?traffic_source=rss"
+        "title": "More than one million displaced by Israel’s evacuations in Lebanon",
+        "published": "Thu, 26 Mar 2026 17:40:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/26/london-police-officer-involved-in-verbal-assault-on-al-jazeera-journalists?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
