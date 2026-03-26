@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-26 22:48",
+  "updated_at_gst": "2026-03-26 23:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Key takeaways from Trump’s war on Iran meeting",
+        "published": "Thu, 26 Mar 2026 19:19:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/26/as-trump-claims-us-winning-tehran-asserts-legal-right-over-hormuz-strait?traffic_source=rss"
+      },
       {
         "title": "More than one million displaced by Israel’s evacuations in Lebanon",
         "published": "Thu, 26 Mar 2026 17:40:31 +0000",
@@ -39,11 +44,6 @@
         "title": "Russian officials meet US counterparts as Moscow denies aiding Iran",
         "published": "Thu, 26 Mar 2026 13:34:37 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/iranian-naval-chief-killed-in-attack-israel-says?traffic_source=rss"
-      },
-      {
-        "title": "Teen volunteer paramedic killed in Israeli strike in Lebanon",
-        "published": "Thu, 26 Mar 2026 13:19:28 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/damage-in-israel-from-iranian-attacks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
