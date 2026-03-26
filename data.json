@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-26 16:45",
+  "updated_at_gst": "2026-03-26 18:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iranian naval commander Alireza Tangsiri killed in attack, Israel says",
-        "published": "Thu, 26 Mar 2026 11:10:39 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/video-storms-wash-away-vehicles-and-flood-homes-across-middle-east?traffic_source=rss"
+        "title": "Russian officials meet US counterparts as Moscow denies aiding Iran",
+        "published": "Thu, 26 Mar 2026 13:34:37 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/iranian-naval-chief-killed-in-attack-israel-says?traffic_source=rss"
       },
       {
-        "title": "‘Missile hit’ flips car in Israel",
-        "published": "Thu, 26 Mar 2026 10:19:08 +0000",
-        "link": "https://www.aljazeera.com/features/2026/3/26/israel-hinders-repair-of-damaged-water-infra-deepening-gazas-health-crisis?traffic_source=rss"
+        "title": "Teen volunteer paramedic killed in Israeli strike in Lebanon",
+        "published": "Thu, 26 Mar 2026 13:19:28 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/damage-in-israel-from-iranian-attacks?traffic_source=rss"
       },
       {
-        "title": "Amid US-Israel war, Iran football team trains in Turkiye before World Cup",
-        "published": "Thu, 26 Mar 2026 09:48:22 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/26/brazil-vs-france-when-and-where-is-the-match-will-mbappe-vinicius-play?traffic_source=rss"
+        "title": "As a Palestinian, I stand in solidarity with the Iranian people. Here’s why",
+        "published": "Thu, 26 Mar 2026 12:26:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/26/north-koreas-kim-meets-lukashenko-slams-pressure-on-belarus-from-west?traffic_source=rss"
+      },
+      {
+        "title": "Iran to Lebanon: Four million people displaced by US-Israeli war",
+        "published": "Thu, 26 Mar 2026 11:40:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/26/germany-warns-of-world-economic-catastrophe-oecd-cuts-uk-growth-forecast?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
