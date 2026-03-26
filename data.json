@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-27 01:21",
+  "updated_at_gst": "2026-03-27 01:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Al Jazeera visits Iran’s UNESCO-listed palace damaged by war",
+        "published": "Thu, 26 Mar 2026 21:33:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/26/at-least-nine-people-dead-dozens-missing-as-boat-sinks-off-djibouti-coast?traffic_source=rss"
+      },
       {
         "title": "Iran placing messages on missiles as war of narratives intensifies",
         "published": "Thu, 26 Mar 2026 20:56:21 +0000",
