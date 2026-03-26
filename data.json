@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-26 15:40",
+  "updated_at_gst": "2026-03-26 16:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,7 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iranian naval commander Alireza Tangsiri killed in attack, says Israel",
+        "title": "Iranian naval commander Alireza Tangsiri killed in attack, Israel says",
         "published": "Thu, 26 Mar 2026 11:10:39 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/video-storms-wash-away-vehicles-and-flood-homes-across-middle-east?traffic_source=rss"
       },
@@ -29,16 +29,6 @@
         "title": "Amid US-Israel war, Iran football team trains in Turkiye before World Cup",
         "published": "Thu, 26 Mar 2026 09:48:22 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/26/brazil-vs-france-when-and-where-is-the-match-will-mbappe-vinicius-play?traffic_source=rss"
-      },
-      {
-        "title": "Israeli push for more force ‘not working out very well’",
-        "published": "Thu, 26 Mar 2026 07:59:58 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/26/us-israel-launch-extensive-strikes-on-central-iran-two-teenagers-killed?traffic_source=rss"
-      },
-      {
-        "title": "US-Israel war on Iran: What’s happening on day 27 of attacks?",
-        "published": "Thu, 26 Mar 2026 06:53:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/26/in-u-turn-uk-police-say-palestine-action-protesters-will-be-arrested-again?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
