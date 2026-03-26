@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-26 12:40",
+  "updated_at_gst": "2026-03-26 13:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli push for more force ‘not working out very well’",
-        "published": "Thu, 26 Mar 2026 07:59:58 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/26/us-israel-launch-extensive-strikes-on-central-iran-two-teenagers-killed?traffic_source=rss"
+        "title": "Helium hitch: Why US-Israel war on Iran could cause MRI scan delays",
+        "published": "Thu, 26 Mar 2026 08:51:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/26/us-seeks-hamas-political-surrender-in-new-gaza-plan?traffic_source=rss"
       },
       {
-        "title": "US-Israel war on Iran: What’s happening on day 27 of attacks?",
-        "published": "Thu, 26 Mar 2026 06:53:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/26/in-u-turn-uk-police-say-palestine-action-protesters-will-be-arrested-again?traffic_source=rss"
+        "title": "German minister calls Iran war an ‘economic catastrophe’",
+        "published": "Thu, 26 Mar 2026 08:21:43 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/israeli-push-for-more-force-not-working-out-very?traffic_source=rss"
       },
       {
-        "title": "Deaths and debts: Missiles in Gulf shake millions of South Asian families",
-        "published": "Thu, 26 Mar 2026 06:26:10 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/26/senegal-appeal-to-cas-against-handing-over-of-afcon-title-to-morocco?traffic_source=rss"
+        "title": "Two teenagers killed in Shiraz, two dead in Abu Dhabi as Iran war expands",
+        "published": "Thu, 26 Mar 2026 07:47:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/26/us-israel-war-on-iran-whats-happening-on-day-27-of-attacks?traffic_source=rss"
       },
       {
-        "title": "Oil prices rise higher as Iran denies US talks, dimming deescalation hopes",
-        "published": "Thu, 26 Mar 2026 05:06:02 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/malaysias-prime-minister-says-iran-talks-should-end-war?traffic_source=rss"
-      },
-      {
-        "title": "Videos show wave of missiles fired from Lebanon to Israel",
-        "published": "Thu, 26 Mar 2026 03:54:44 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/26/us-lawmakers-push-for-pause-in-data-centres-until-ai-safeguards-in-place?traffic_source=rss"
-      },
-      {
-        "title": "Russia slams second US-Israeli strike at Iran’s Bushehr nuclear reactor",
-        "published": "Thu, 26 Mar 2026 03:31:36 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/26/australia-bans-visitors-from-iran-amid-war-in-the-middle-east?traffic_source=rss"
+        "title": "Malaysia’s prime minister says Iran talks should end war",
+        "published": "Thu, 26 Mar 2026 04:36:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/videos-show-wave-of-missiles-fired-from-lebanon-to-israel?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
