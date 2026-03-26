@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-27 02:53",
+  "updated_at_gst": "2026-03-27 03:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "EU’s top diplomat urges US to pressure Russia to stop aiding Iran",
+        "published": "Thu, 26 Mar 2026 23:04:38 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/26/mbappe-nets-for-10-man-france-in-win-against-brazil-in-world-cup-warm-up?traffic_source=rss"
+      },
+      {
         "title": "What are the red lines for Iran and the US in the war?",
         "published": "Thu, 26 Mar 2026 22:03:40 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/26/trump-postpones-us-strikes-on-iranian-power-grid-to-april-6-amid-talks?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Key takeaways from Trump’s war on Iran meeting",
         "published": "Thu, 26 Mar 2026 19:19:11 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/26/as-trump-claims-us-winning-tehran-asserts-legal-right-over-hormuz-strait?traffic_source=rss"
-      },
-      {
-        "title": "More than one million displaced by Israel’s evacuations in Lebanon",
-        "published": "Thu, 26 Mar 2026 17:40:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/26/london-police-officer-involved-in-verbal-assault-on-al-jazeera-journalists?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
