@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-27 10:54",
+  "updated_at_gst": "2026-03-27 11:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran bans sports teams from travelling to ‘hostile’ countries amid war",
+        "published": "Fri, 27 Mar 2026 07:25:59 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/27/italy-to-play-bosnia-in-2026-world-cup-playoff-final-kosovo-face-turkiye?traffic_source=rss"
+      },
       {
         "title": "US-Israel war on Iran: What’s happening on day 28 of attacks?",
         "published": "Fri, 27 Mar 2026 06:35:14 +0000",
