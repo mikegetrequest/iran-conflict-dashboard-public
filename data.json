@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-27 12:37",
+  "updated_at_gst": "2026-03-27 13:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Video: Children’s toys found in rubble of US-Israeli strike in Iran",
+        "published": "Fri, 27 Mar 2026 08:58:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/27/rescuers-search-for-survivors-of-us-israeli-strikes-on-irans-tehran-qom?traffic_source=rss"
+      },
+      {
+        "title": "How extensive is Russia’s military aid to Iran?",
+        "published": "Fri, 27 Mar 2026 08:09:40 +0000",
+        "link": "https://www.aljazeera.com/features/2026/3/27/now-in-power-nepals-rapper-politician-balen-shah-faces-new-challenge?traffic_source=rss"
+      },
       {
         "title": "Israel’s opposition says military forces are ‘in collapse’",
         "published": "Fri, 27 Mar 2026 07:34:24 +0000",
@@ -34,11 +44,6 @@
         "title": "Red Crescent video shows aftermath of strike on homes in Iran’s Urmia",
         "published": "Fri, 27 Mar 2026 03:54:03 +0000",
         "link": "https://www.aljazeera.com/economy/2026/3/27/trumps-signature-to-appear-on-us-currency-in-first-for-sitting-president?traffic_source=rss"
-      },
-      {
-        "title": "Albanese says Australia playing “constructive” role in the war on Iran",
-        "published": "Fri, 27 Mar 2026 03:47:34 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/endangered-monarch-butterfly-population-surges-64-percent?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
