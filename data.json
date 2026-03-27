@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-27 16:35",
+  "updated_at_gst": "2026-03-27 18:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Saudi, UAE, Iraq: Can three pipelines help oil escape Strait of Hormuz?",
+        "published": "Fri, 27 Mar 2026 13:27:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/27/qatari-pm-and-us-officials-discuss-strategic-ties-amid-iran-war?traffic_source=rss"
+      },
+      {
+        "title": "Iran expert says US ground invasion could cause a global economic meltdown",
+        "published": "Fri, 27 Mar 2026 13:13:49 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/nepals-new-pm-gives-message-to-nation-in-rap-ahead-of-swearing-in?traffic_source=rss"
+      },
+      {
         "title": "Yemenis fear economic consequences of being dragged into US-Iran conflict",
         "published": "Fri, 27 Mar 2026 11:24:32 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/27/nepals-youngest-premier-sworn-in-after-releasing-new-rap-song-about-unity?traffic_source=rss"
@@ -29,11 +39,6 @@
         "title": "Iran emergency workers search for survivors after deadly US-Israel attacks",
         "published": "Fri, 27 Mar 2026 08:45:24 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/27/how-extensive-is-russias-military-aid-to-iran?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s opposition says military forces are ‘in collapse’",
-        "published": "Fri, 27 Mar 2026 07:34:24 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/27/iran-bans-sports-teams-from-travelling-to-hostile-countries-amid-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
