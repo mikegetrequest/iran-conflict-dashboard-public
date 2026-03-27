@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-27 09:54",
+  "updated_at_gst": "2026-03-27 10:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US-Israel war on Iran: What’s happening on day 28 of attacks?",
+        "published": "Fri, 27 Mar 2026 06:35:14 +0000",
+        "link": "https://www.aljazeera.com/features/2026/3/27/truly-junk-e-waste-from-rich-nations-floods-local-markets-in-nigeria?traffic_source=rss"
+      },
+      {
         "title": "Palestinians flee tear gas as Israeli settlers arrive in occupied West Bank",
         "published": "Fri, 27 Mar 2026 04:08:37 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/red-crescent-video-shows-aftermath-of-strike-on-homes-in-irans-urmia?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Projectile from Lebanon kills at least one in north Israel",
         "published": "Fri, 27 Mar 2026 00:11:00 +0000",
         "link": "https://www.aljazeera.com/news/liveblog/2026/3/27/iran-war-live-trump-delays-attacks-on-iranian-energy-sector-by-10-days?traffic_source=rss"
-      },
-      {
-        "title": "EU’s top diplomat urges US to pressure Russia to stop aiding Iran",
-        "published": "Thu, 26 Mar 2026 23:04:38 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/26/mbappe-nets-for-10-man-france-in-win-against-brazil-in-world-cup-warm-up?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
