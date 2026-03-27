@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-27 14:36",
+  "updated_at_gst": "2026-03-27 15:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "War on Iran price crisis not just about energy, says analyst",
-        "published": "Fri, 27 Mar 2026 09:45:09 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/video-childrens-toys-found-in-rubble-of-us-israeli-strike-in-iran?traffic_source=rss"
+        "title": "‘My heart burns with pain’: Iranian mother tells UN of Minab school attack",
+        "published": "Fri, 27 Mar 2026 10:48:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/27/wildlife-killed-reefs-damaged-in-active-gulf-of-mexico-oil-spill?traffic_source=rss"
       },
       {
-        "title": "Iran emergency workers search for survivors after deadly US-Israel attacks",
-        "published": "Fri, 27 Mar 2026 08:45:24 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/27/how-extensive-is-russias-military-aid-to-iran?traffic_source=rss"
+        "title": "Video: Children’s toys found in rubble of US-Israeli strike in Iran",
+        "published": "Fri, 27 Mar 2026 08:58:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/27/rescuers-search-for-survivors-of-us-israeli-strikes-on-irans-tehran-qom?traffic_source=rss"
       },
       {
-        "title": "Israel’s opposition says military forces are ‘in collapse’",
-        "published": "Fri, 27 Mar 2026 07:34:24 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/27/iran-bans-sports-teams-from-travelling-to-hostile-countries-amid-war?traffic_source=rss"
+        "title": "How extensive is Russia’s military aid to Iran?",
+        "published": "Fri, 27 Mar 2026 08:09:40 +0000",
+        "link": "https://www.aljazeera.com/features/2026/3/27/now-in-power-nepals-rapper-politician-balen-shah-faces-new-challenge?traffic_source=rss"
       },
       {
-        "title": "Sri Lanka braces for new economic crisis as war on Iran continues",
-        "published": "Fri, 27 Mar 2026 05:34:09 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/27/malaysias-ships-allowed-to-pass-strait-of-hormuz-pm-anwar-says?traffic_source=rss"
+        "title": "Ukraine fends off increased attacks, strikes Russian oil revenue",
+        "published": "Fri, 27 Mar 2026 08:04:34 +0000",
+        "link": "https://www.aljazeera.com/video/the-stream/2026/3/27/how-can-students-in-gaza-continue-to-learn-with-no-universities?traffic_source=rss"
       },
       {
-        "title": "First responders rescue man from Tehran building hit by air strike",
-        "published": "Fri, 27 Mar 2026 04:24:15 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/palestinians-flee-tear-gas-as-israeli-settlers-arrive-in-occupied-west-bank?traffic_source=rss"
+        "title": "Israeli opposition leader rails against ‘multi-front war without strategy’",
+        "published": "Fri, 27 Mar 2026 07:42:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/israels-opposition-says-military-forces-are-in?traffic_source=rss"
+      },
+      {
+        "title": "Iran bans sports teams from travelling to ‘hostile’ countries amid war",
+        "published": "Fri, 27 Mar 2026 07:25:59 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/27/italy-to-play-bosnia-in-2026-world-cup-playoff-final-kosovo-face-turkiye?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
