@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-28 20:19",
+  "updated_at_gst": "2026-03-28 20:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "At least 15 US troops wounded in Iran strike on Saudi airbase: Reports",
-        "published": "Sat, 28 Mar 2026 12:21:53 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/28/iran-footballers-pay-tribute-to-victims-of-school-strike-at-start-of-war?traffic_source=rss"
+        "title": "Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour",
+        "published": "Sat, 28 Mar 2026 16:16:28 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/28/senegal-parade-afcon-trophy-despite-title-being-awarded-to-morocco?traffic_source=rss"
       },
       {
-        "title": "Protests in Yemen against US-Israeli attacks as Houthis warn of action",
-        "published": "Sat, 28 Mar 2026 11:24:33 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/3/28/how-the-us-and-israel-are-making-the-islamic-republic?traffic_source=rss"
+        "title": "Israeli forces intensify attacks on Beirut",
+        "published": "Sat, 28 Mar 2026 15:45:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/28/three-journalists-killed-in-israeli-strike-on-marked-press-car-in-lebanon?traffic_source=rss"
       },
       {
-        "title": "Russian strikes on Ukraine kill 4 as deal to end war dims",
-        "published": "Sat, 28 Mar 2026 11:11:48 +0000",
-        "link": "https://www.aljazeera.com/video/the-listening-post/2026/3/28/the-war-on-iran-faces-a-maga-backlash?traffic_source=rss"
+        "title": "One month in, disapproval high but US lawmakers take no action on Iran war",
+        "published": "Sat, 28 Mar 2026 15:39:46 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/28/morocco-claims-afcon-case-closed-despite-senegal-appeals-to-caf-and-cas?traffic_source=rss"
       },
       {
-        "title": "Philippine transport strikers say Marcos Jr failing to control oil prices",
-        "published": "Sat, 28 Mar 2026 08:31:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks?traffic_source=rss"
+        "title": "Iran warns neighbours not to let ‘enemies run the war’ from their land",
+        "published": "Sat, 28 Mar 2026 13:34:32 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/28/verstappen-calls-his-red-bull-undriveable-after-more-f1-woes-at-japan-gp?traffic_source=rss"
+      },
+      {
+        "title": "Iran footballers pay tribute to victims of school strike at start of war",
+        "published": "Sat, 28 Mar 2026 12:20:59 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/former-us-defence-chief-says-more-war-wont-bring-peace-to-middle-east?traffic_source=rss"
+      },
+      {
+        "title": "How the US and Israel are making the Islamic republic stronger",
+        "published": "Sat, 28 Mar 2026 11:12:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/28/russian-strikes-on-ukraine-cities-kill-4-as-deal-to-end-war-dims?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
