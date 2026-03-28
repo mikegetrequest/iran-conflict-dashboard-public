@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-28 05:05",
+  "updated_at_gst": "2026-03-28 07:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Intense bombing in Tehran, Isfahan",
+        "published": "Sat, 28 Mar 2026 02:27:33 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/tiger-woods-arrested-for-suspected-dui-after-rolling-his?traffic_source=rss"
+      },
       {
         "title": "Trump says US-Israeli war on Iran creating a new Middle East",
         "published": "Sat, 28 Mar 2026 00:05:46 +0000",
@@ -39,11 +44,6 @@
         "title": "Israel attacks major industrial and nuclear sites in Iran",
         "published": "Fri, 27 Mar 2026 19:51:25 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/drone-reveals-extent-of-iranian-missile-damage-in-israeli-city-of-arad?traffic_source=rss"
-      },
-      {
-        "title": "Smoke rises over Beirut suburbs after massive Israeli airstrike",
-        "published": "Fri, 27 Mar 2026 19:38:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/off-duty-london-police-officer-filmed-intimidating-al-jazeera-journalists?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
