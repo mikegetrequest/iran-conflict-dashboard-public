@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-28 03:50",
+  "updated_at_gst": "2026-03-28 05:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump says US-Israeli war on Iran creating a new Middle East",
+        "published": "Sat, 28 Mar 2026 00:05:46 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/3/28/iran-war-live-trump-again-slams-natos-lack-of-support-for-war-on-tehran?traffic_source=rss"
+      },
       {
         "title": "Rescue workers rush to save lives after south Tehran missile strike",
         "published": "Fri, 27 Mar 2026 23:28:03 +0000",
@@ -39,11 +44,6 @@
         "title": "Smoke rises over Beirut suburbs after massive Israeli airstrike",
         "published": "Fri, 27 Mar 2026 19:38:01 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/off-duty-london-police-officer-filmed-intimidating-al-jazeera-journalists?traffic_source=rss"
-      },
-      {
-        "title": "Rubio: US expects Iran war to end in ‘weeks, not months’",
-        "published": "Fri, 27 Mar 2026 18:40:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/27/us-diplomat-marco-rubio-denounces-settler-violence-tolls-in-hormuz-strait?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
