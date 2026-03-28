@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-29 01:19",
+  "updated_at_gst": "2026-03-29 01:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Kuwait airport hit by Iranian drone strikes",
+        "published": "Sat, 28 Mar 2026 20:58:37 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/3/28/could-ukraines-drone-expertise-serve-gulf-countries?traffic_source=rss"
+      },
       {
         "title": "As war rages, Iranian politicians push for exit from nuclear weapons treaty",
         "published": "Sat, 28 Mar 2026 17:48:55 +0000",
@@ -39,11 +44,6 @@
         "title": "Iran warns neighbours not to let ‘enemies run the war’ from their land",
         "published": "Sat, 28 Mar 2026 13:34:32 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/28/verstappen-calls-his-red-bull-undriveable-after-more-f1-woes-at-japan-gp?traffic_source=rss"
-      },
-      {
-        "title": "Iran footballers pay tribute to victims of school strike at start of war",
-        "published": "Sat, 28 Mar 2026 12:20:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/former-us-defence-chief-says-more-war-wont-bring-peace-to-middle-east?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
