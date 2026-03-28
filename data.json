@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-28 16:28",
+  "updated_at_gst": "2026-03-28 17:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "At least 15 US troops wounded in Iran strike on Saudi airbase: Reports",
+        "published": "Sat, 28 Mar 2026 12:21:53 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/28/iran-footballers-pay-tribute-to-victims-of-school-strike-at-start-of-war?traffic_source=rss"
+      },
       {
         "title": "Protests in Yemen against US-Israeli attacks as Houthis warn of action",
         "published": "Sat, 28 Mar 2026 11:24:33 +0000",
@@ -34,16 +39,6 @@
         "title": "Trump claims Iran wants to ‘make a deal’",
         "published": "Sat, 28 Mar 2026 07:34:15 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s unending attacks in Lebanon push country’s population to the brink",
-        "published": "Sat, 28 Mar 2026 04:59:19 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/uproar-in-bahrain-after-detainee-dies-in-police-custody?traffic_source=rss"
-      },
-      {
-        "title": "How the US-Israel war on Iran unfolded in its first four weeks",
-        "published": "Sat, 28 Mar 2026 04:15:55 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-says-cuba-is-next-target-of-us-military?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
