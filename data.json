@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-28 11:26",
+  "updated_at_gst": "2026-03-28 11:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump claims Iran wants to ‘make a deal’",
+        "published": "Sat, 28 Mar 2026 07:34:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2?traffic_source=rss"
+      },
       {
         "title": "Israel’s unending attacks in Lebanon push country’s population to the brink",
         "published": "Sat, 28 Mar 2026 04:59:19 +0000",
@@ -39,11 +44,6 @@
         "title": "Houthis warn ‘fingers on the trigger’ as US-Israel war on Iran continues",
         "published": "Fri, 27 Mar 2026 22:53:23 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/fingers-on-the-trigger-for-military-intervention-houthis-warn?traffic_source=rss"
-      },
-      {
-        "title": "What is the TACO trade and are investors profiting amid war on Iran?",
-        "published": "Fri, 27 Mar 2026 22:06:38 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/27/guns-in-the-streets-as-us-israel-intensify-month-long-attacks-across?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
