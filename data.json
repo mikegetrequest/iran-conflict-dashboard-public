@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-28 21:51",
+  "updated_at_gst": "2026-03-28 22:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "As war rages, Iranian politicians push for exit from nuclear weapons treaty",
+        "published": "Sat, 28 Mar 2026 17:48:55 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/28/france-opens-probe-into-suspected-attack-on-bank-of-america-in-paris?traffic_source=rss"
+      },
       {
         "title": "Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour",
         "published": "Sat, 28 Mar 2026 16:16:28 +0000",
@@ -39,11 +44,6 @@
         "title": "Iran footballers pay tribute to victims of school strike at start of war",
         "published": "Sat, 28 Mar 2026 12:20:59 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/former-us-defence-chief-says-more-war-wont-bring-peace-to-middle-east?traffic_source=rss"
-      },
-      {
-        "title": "How the US and Israel are making the Islamic republic stronger",
-        "published": "Sat, 28 Mar 2026 11:12:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/28/russian-strikes-on-ukraine-cities-kill-4-as-deal-to-end-war-dims?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
