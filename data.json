@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-28 15:21",
+  "updated_at_gst": "2026-03-28 15:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "The war on Iran faces a MAGA backlash",
-        "published": "Sat, 28 Mar 2026 10:31:29 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/severe-floods-hit-makhachkala-capital-of-russias-dagestan-region?traffic_source=rss"
+        "title": "Protests in Yemen against US-Israeli attacks as Houthis warn of action",
+        "published": "Sat, 28 Mar 2026 11:24:33 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/3/28/how-the-us-and-israel-are-making-the-islamic-republic?traffic_source=rss"
       },
       {
-        "title": "US-Israel war on Iran: What’s happening on day 29 of attacks?",
-        "published": "Sat, 28 Mar 2026 08:17:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-claims-iran-wants-to-make-a?traffic_source=rss"
+        "title": "Russian strikes on Ukraine kill 4 as deal to end war dims",
+        "published": "Sat, 28 Mar 2026 11:11:48 +0000",
+        "link": "https://www.aljazeera.com/video/the-listening-post/2026/3/28/the-war-on-iran-faces-a-maga-backlash?traffic_source=rss"
       },
       {
-        "title": "Yemen’s Houthis launch missile attack on Israel as war with Iran intensifies",
-        "published": "Sat, 28 Mar 2026 07:30:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/us-secretary-of-state-says-war-could-conclude-in-weeks-not-months?traffic_source=rss"
+        "title": "Philippine transport strikers say Marcos Jr failing to control oil prices",
+        "published": "Sat, 28 Mar 2026 08:31:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks?traffic_source=rss"
       },
       {
-        "title": "Uproar in Bahrain after detainee dies in police custody",
-        "published": "Sat, 28 Mar 2026 04:54:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/28/how-the-us-israel-war-on-iran-unfolded-in-its-first-four-weeks?traffic_source=rss"
+        "title": "Trump claims Iran wants to ‘make a deal’",
+        "published": "Sat, 28 Mar 2026 07:34:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2?traffic_source=rss"
       },
       {
-        "title": "Intense bombing in Tehran, Isfahan",
-        "published": "Sat, 28 Mar 2026 02:27:33 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/tiger-woods-arrested-for-suspected-dui-after-rolling-his?traffic_source=rss"
+        "title": "Israel’s unending attacks in Lebanon push country’s population to the brink",
+        "published": "Sat, 28 Mar 2026 04:59:19 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/uproar-in-bahrain-after-detainee-dies-in-police-custody?traffic_source=rss"
+      },
+      {
+        "title": "How the US-Israel war on Iran unfolded in its first four weeks",
+        "published": "Sat, 28 Mar 2026 04:15:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-says-cuba-is-next-target-of-us-military?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
