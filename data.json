@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-29 14:59",
+  "updated_at_gst": "2026-03-29 15:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,12 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Pentagon readies for weeks of US ground operations in Iran: Report",
+        "title": "Pakistan hosts four-nation bid to encourage US, Iran towards diplomacy",
+        "published": "Sun, 29 Mar 2026 11:10:43 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/we-will-see-a-new-government-in-venezuela-in-cuba-and-in?traffic_source=rss"
+      },
+      {
+        "title": "Pentagon readies ‘for weeks of US ground operations’ in Iran",
         "published": "Sun, 29 Mar 2026 09:15:57 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/29/us-israel-war-on-iran-whats-happening-on-day-30-of-attacks?traffic_source=rss"
       },
@@ -39,11 +44,6 @@
         "title": "Toddler rescued after US-Israeli strike on Iran",
         "published": "Sun, 29 Mar 2026 07:14:59 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/29/belgium-thrash-usa-5-2-mexico-vs-portugal-ends-0-0-in-football-friendlies?traffic_source=rss"
-      },
-      {
-        "title": "Israel Adesanya knocked out by Joe Pyfer at UFC Fight Night in Seattle",
-        "published": "Sun, 29 Mar 2026 05:57:46 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/29/sabalenka-defeats-gauff-to-win-second-straight-miami-open-title?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
