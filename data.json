@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-29 10:51",
+  "updated_at_gst": "2026-03-29 11:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel Adesanya knocked out by Joe Pyfer at UFC Fight Night in Seattle",
-        "published": "Sun, 29 Mar 2026 05:57:46 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/29/sabalenka-defeats-gauff-to-win-second-straight-miami-open-title?traffic_source=rss"
+        "title": "Thick plumes of smoke rise over Iraq’s Mosul after strikes",
+        "published": "Sun, 29 Mar 2026 07:15:19 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/toddler-rescued-after-us-israeli-strike-on-iran?traffic_source=rss"
       },
       {
-        "title": "What happens in the occupied West Bank under the shadow of the Iran war",
-        "published": "Sun, 29 Mar 2026 04:34:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front?traffic_source=rss"
+        "title": "As war on Iran enters second month, Yemen’s Houthis open new front",
+        "published": "Sun, 29 Mar 2026 00:59:21 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/3/29/iran-war-live-houthis-attack-israel-anti-war-protesters-rally-in-tel-aviv?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Pakistan, Egypt, Turkiye, Saudi diplomats meet in Islamabad",
-        "published": "Sun, 29 Mar 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/28/vice-president-jd-vance-tops-cpacs-straw-poll-to-be-us-president-in-2028?traffic_source=rss"
+        "title": "Air strikes in Iraq kill three PMF fighters, two police",
+        "published": "Sat, 28 Mar 2026 22:32:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/28/reza-pahlavi-pledges-to-make-iran-great-again-at-2026-cpac-conference?traffic_source=rss"
       },
       {
-        "title": "Key moments in first month of US-Israeli war on Iran",
-        "published": "Sat, 28 Mar 2026 22:50:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/28/air-strikes-in-iraq-kill-three-pmf-fighters-and-two-iraqi-police?traffic_source=rss"
-      },
-      {
-        "title": "Reza Pahlavi pledges to ‘make Iran great again’ at 2026 CPAC conference",
-        "published": "Sat, 28 Mar 2026 22:05:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/28/pakistan-secures-iran-deal-to-send-20-ships-through-strait-of-hormuz?traffic_source=rss"
-      },
-      {
-        "title": "Kuwait airport hit by Iranian drone strikes",
-        "published": "Sat, 28 Mar 2026 20:58:37 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/3/28/could-ukraines-drone-expertise-serve-gulf-countries?traffic_source=rss"
+        "title": "Pakistan secures Iran deal to send 20 ships through Strait of Hormuz",
+        "published": "Sat, 28 Mar 2026 21:56:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
