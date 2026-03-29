@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-30 02:55",
+  "updated_at_gst": "2026-03-30 03:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli police bar priest from Jerusalem’s Holy Sepulchre on Palm Sunday",
-        "published": "Sun, 29 Mar 2026 21:01:50 +0000",
-        "link": "https://www.aljazeera.com/video/quotable/2026/3/29/a-premature-ceasefire-risks-another-round-of-conflict-in-future?traffic_source=rss"
+        "title": "Iran accuses US of plotting ground attack, as Israel steps up bombardment",
+        "published": "Sun, 29 Mar 2026 22:36:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/israeli-police-bar-priest-from-jerusalems-holy-sepulchre-on-palm-sunday?traffic_source=rss"
       },
       {
-        "title": "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
-        "published": "Sun, 29 Mar 2026 19:36:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/29/rsf-attack-on-sudans-south-kordofan-kills-at-least-14-including-children?traffic_source=rss"
+        "title": "Qatari TV station hit in Iran",
+        "published": "Sun, 29 Mar 2026 20:11:23 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war?traffic_source=rss"
       },
       {
-        "title": "Iran hits industrial zone in southern Israel",
-        "published": "Sun, 29 Mar 2026 16:06:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/29/israeli-police-block-catholic-cardinal-from-holy-sepulchre-on-palm-sunday?traffic_source=rss"
+        "title": "RSF attack on Sudan’s South Kordofan kills at least 14, including children",
+        "published": "Sun, 29 Mar 2026 19:22:33 +0000",
+        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/29/cuba-is-not-alone-deputy-fm-says-as-us-threats-grow?traffic_source=rss"
       },
       {
-        "title": "Funeral held for Lebanese journalists killed in Israeli strike",
-        "published": "Sun, 29 Mar 2026 15:25:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/29/houthis-open-new-front-in-iran-war-will-yemeni-group-block-bab-al-mandeb?traffic_source=rss"
+        "title": "Republican Mace says Congress must approve any US troop deployment to Iran",
+        "published": "Sun, 29 Mar 2026 18:53:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/29/zelenskyy-arrives-in-jordan-to-bolster-security-ties?traffic_source=rss"
       },
       {
-        "title": "Pakistan maintains ‘delicate balancing act’ as it hosts Iran talks",
-        "published": "Sun, 29 Mar 2026 14:35:58 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/3/29/nowhere-is-really-safe-iranian-dissidents-grapple-with-us-war-in-iran?traffic_source=rss"
+        "title": "Netanyahu orders military to expand invasion of southern Lebanon",
+        "published": "Sun, 29 Mar 2026 17:56:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/we-can-insure-the-ship-but-we-cannot-insure-a-human-life?traffic_source=rss"
+      },
+      {
+        "title": "Houthis open new front against Israel, is Red Sea shipping at risk?",
+        "published": "Sun, 29 Mar 2026 16:47:25 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/iran-hits-industrial-zone-in-southern-israel?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
