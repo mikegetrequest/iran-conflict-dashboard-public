@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-29 23:51",
+  "updated_at_gst": "2026-03-30 00:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Qatari TV station hit in Iran",
+        "published": "Sun, 29 Mar 2026 20:11:23 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war?traffic_source=rss"
+      },
       {
         "title": "RSF attack on Sudan’s South Kordofan kills at least 14, including children",
         "published": "Sun, 29 Mar 2026 19:22:33 +0000",
@@ -39,11 +44,6 @@
         "title": "Israeli police block Catholic cardinal from Holy Sepulchre on Palm Sunday",
         "published": "Sun, 29 Mar 2026 15:26:27 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/funeral-held-for-lebanese-journalists-killed-in-israeli-strike?traffic_source=rss"
-      },
-      {
-        "title": "Houthis open new front in Iran war: Will Yemeni group block Bab al-Mandeb?",
-        "published": "Sun, 29 Mar 2026 15:09:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/29/african-football-chief-will-respect-cas-decision-on-afcon-final-row?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
