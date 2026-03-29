@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-29 22:28",
+  "updated_at_gst": "2026-03-29 23:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Republican Mace says Congress must approve any US troop deployment to Iran",
+        "published": "Sun, 29 Mar 2026 18:53:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/29/zelenskyy-arrives-in-jordan-to-bolster-security-ties?traffic_source=rss"
+      },
       {
         "title": "Netanyahu orders military to expand invasion of southern Lebanon",
         "published": "Sun, 29 Mar 2026 17:56:44 +0000",
@@ -39,11 +44,6 @@
         "title": "How the US memeifies its war on Iran",
         "published": "Sun, 29 Mar 2026 14:44:36 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/29/pakistan-maintains-delicate-balancing-act-as-it-hosts-iran-talks?traffic_source=rss"
-      },
-      {
-        "title": "‘Nowhere is really safe’: Iranian dissidents grapple with US war in Iran",
-        "published": "Sun, 29 Mar 2026 14:26:35 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/29/israeli-footballers-role-in-assault-on-southern-lebanon-sparks-outrage?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
