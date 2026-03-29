@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-30 01:20",
+  "updated_at_gst": "2026-03-30 01:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli police bar priest from Jerusalem’s Holy Sepulchre on Palm Sunday",
+        "published": "Sun, 29 Mar 2026 21:01:50 +0000",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/29/a-premature-ceasefire-risks-another-round-of-conflict-in-future?traffic_source=rss"
+      },
       {
         "title": "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
         "published": "Sun, 29 Mar 2026 19:36:26 +0000",
@@ -34,11 +39,6 @@
         "title": "Pakistan maintains ‘delicate balancing act’ as it hosts Iran talks",
         "published": "Sun, 29 Mar 2026 14:35:58 +0000",
         "link": "https://www.aljazeera.com/features/longform/2026/3/29/nowhere-is-really-safe-iranian-dissidents-grapple-with-us-war-in-iran?traffic_source=rss"
-      },
-      {
-        "title": "Israeli footballer’s role in assault on southern Lebanon sparks outrage",
-        "published": "Sun, 29 Mar 2026 13:42:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/29/iran-hits-us-awacs-air-tankers-what-else-has-it-targeted-in-past-month?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
