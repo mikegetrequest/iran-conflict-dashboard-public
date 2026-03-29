@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-29 15:51",
+  "updated_at_gst": "2026-03-29 16:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Pakistan hosts four-nation bid to encourage US, Iran towards diplomacy",
-        "published": "Sun, 29 Mar 2026 11:10:43 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/we-will-see-a-new-government-in-venezuela-in-cuba-and-in?traffic_source=rss"
+        "title": "The US-Israeli war on humanity",
+        "published": "Sun, 29 Mar 2026 12:08:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/29/pakistan-hosts-four-nation-bid-to-encourage-us-iran-towards-diplomacy?traffic_source=rss"
       },
       {
-        "title": "Pentagon readies ‘for weeks of US ground operations’ in Iran",
-        "published": "Sun, 29 Mar 2026 09:15:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/29/us-israel-war-on-iran-whats-happening-on-day-30-of-attacks?traffic_source=rss"
+        "title": "‘We will see a new government in Venezuela, in Cuba and in Iran’",
+        "published": "Sun, 29 Mar 2026 11:09:04 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/29/olympic-gender-test-a-disrespect-for-women-south-africas-semenya-says?traffic_source=rss"
       },
       {
-        "title": "Analyst says that Iran’s interest is in an extended war",
-        "published": "Sun, 29 Mar 2026 08:44:59 +0000",
-        "link": "https://www.aljazeera.com/features/2026/3/29/living-in-the-dark-gazas-struggle-for-electricity?traffic_source=rss"
+        "title": "US-Israel war on Iran: What’s happening on day 30 of attacks?",
+        "published": "Sun, 29 Mar 2026 08:54:04 +0000",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/29/analyst-says-that-irans-interest-is-in-an-extended-war?traffic_source=rss"
       },
       {
-        "title": "Pakistan hosts top Saudi, Turkish, Egyptian diplomats over war in Iran",
-        "published": "Sun, 29 Mar 2026 08:11:52 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/lebanese-resident-stays-behind-with-pet-monkey-despite-evacuation-orders?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s IRGC claims attacks on UAE, Bahrain aluminium facilities",
-        "published": "Sun, 29 Mar 2026 07:30:22 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/29/kimi-antonelli-wins-japanese-gp-to-become-youngest-f1-title-leader?traffic_source=rss"
-      },
-      {
-        "title": "Toddler rescued after US-Israeli strike on Iran",
-        "published": "Sun, 29 Mar 2026 07:14:59 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/29/belgium-thrash-usa-5-2-mexico-vs-portugal-ends-0-0-in-football-friendlies?traffic_source=rss"
+        "title": "Thick plumes of smoke rise over Iraq’s Mosul after strikes",
+        "published": "Sun, 29 Mar 2026 07:15:19 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/toddler-rescued-after-us-israeli-strike-on-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
