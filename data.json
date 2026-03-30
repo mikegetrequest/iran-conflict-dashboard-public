@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-30 21:42",
+  "updated_at_gst": "2026-03-30 22:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Two more UN peacekeepers killed in southern Lebanon: UNIFIL",
+        "published": "Mon, 30 Mar 2026 18:11:15 +0000",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/30/aje-onl-tt_isr_greaterisrael_av_v2-300326?traffic_source=rss"
+      },
       {
         "title": "Egypt’s president urges Trump to stop war on Iran",
         "published": "Mon, 30 Mar 2026 16:01:02 +0000",
@@ -39,11 +44,6 @@
         "title": "Trump wants to ‘take Iran’s oil’: Can he, and what would that mean?",
         "published": "Mon, 30 Mar 2026 14:20:09 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/30/kenyas-former-new-york-marathon-champion-korir-gets-five-year-doping-ban?traffic_source=rss"
-      },
-      {
-        "title": "War on Iran disrupts Asia’s used-car exports to the Middle East",
-        "published": "Mon, 30 Mar 2026 13:40:59 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/3/30/im-always-watching-a-mothers-vigil-in-mexicos-cancer-system?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
