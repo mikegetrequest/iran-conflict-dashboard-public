@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-30 10:12",
+  "updated_at_gst": "2026-03-30 12:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US-Israel war on Iran: What’s happening on day 31 of attacks",
+        "published": "Mon, 30 Mar 2026 07:15:46 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/30/mohamed-salah-warned-against-us-move-as-mls-clubs-eye-egyptian-footballer?traffic_source=rss"
+      },
+      {
         "title": "Iranian academic describes US-Israeli attacks on Iran’s universities",
         "published": "Mon, 30 Mar 2026 01:24:55 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/netanyahu-orders-deeper-israeli-invasion-into-lebanon?traffic_source=rss"
@@ -29,16 +34,6 @@
         "title": "Iran war live: Trump says wants to take Iran’s oil; Kuwait power site hit",
         "published": "Mon, 30 Mar 2026 00:00:44 +0000",
         "link": "https://www.aljazeera.com/video/inside-story/2026/3/29/how-will-the-houthis-involvement-shape-the-war?traffic_source=rss"
-      },
-      {
-        "title": "European nations criticise Israel’s death penalty plans",
-        "published": "Sun, 29 Mar 2026 22:44:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/29/iran-accuses-us-of-plotting-ground-attack-as-israel-steps-up-bombardment?traffic_source=rss"
-      },
-      {
-        "title": "Israeli police bar priest from Jerusalem’s Holy Sepulchre on Palm Sunday",
-        "published": "Sun, 29 Mar 2026 21:01:50 +0000",
-        "link": "https://www.aljazeera.com/video/quotable/2026/3/29/a-premature-ceasefire-risks-another-round-of-conflict-in-future?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
