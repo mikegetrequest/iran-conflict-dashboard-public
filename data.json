@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-31 01:31",
+  "updated_at_gst": "2026-03-31 02:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UN condemns killing of Indonesian peacekeepers in Lebanon",
-        "published": "Mon, 30 Mar 2026 21:20:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/israeli-knesset-approves-death-penalty-for-palestinians?traffic_source=rss"
+        "title": "‘Dangerous escalation’: World reacts to Israel passing death penalty law",
+        "published": "Mon, 30 Mar 2026 21:29:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/un-condemns-killing-of-indonesian-peacekeepers-in-lebanon?traffic_source=rss"
       },
       {
-        "title": "The war in Iran: Key takeaways from Al Jazeera’s interview with Marco Rubio",
-        "published": "Mon, 30 Mar 2026 21:03:25 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/we-have-to-destroy-irans-ability-to-launch-missiles-rubio-says?traffic_source=rss"
+        "title": "Israeli Knesset approves death penalty for Palestinians",
+        "published": "Mon, 30 Mar 2026 21:10:16 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/30/the-war-in-iran-key-takeaways-from-al-jazeeras-interview-with-marco-rubio?traffic_source=rss"
       },
       {
-        "title": "Israel’s parliament passes death penalty bill targeting Palestinians",
-        "published": "Mon, 30 Mar 2026 20:50:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/rubio-says-nato-must-be-re-examined-after-spain-blocks-us-operation-on-iran?traffic_source=rss"
+        "title": "‘We have to destroy Iran’s ability to launch missiles’, Rubio says",
+        "published": "Mon, 30 Mar 2026 20:56:43 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/30/israel-passes-discriminatory-death-penalty-bill-targeting-palestinians?traffic_source=rss"
       },
       {
-        "title": "What we know about attack on key Israeli oil refinery",
-        "published": "Mon, 30 Mar 2026 19:19:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/30/french-police-make-2-more-arrests-over-suspected-attack-on-bank-of-america?traffic_source=rss"
+        "title": "Rubio says NATO must be re-examined after Spain blocks US operation on Iran",
+        "published": "Mon, 30 Mar 2026 20:32:52 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/us-embassy-reopens-in-venezuela-months-after-maduro-abduction?traffic_source=rss"
       },
       {
-        "title": "Two more UN peacekeepers killed in southern Lebanon: UNIFIL",
-        "published": "Mon, 30 Mar 2026 18:11:15 +0000",
-        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/30/aje-onl-tt_isr_greaterisrael_av_v2-300326?traffic_source=rss"
+        "title": "French police make two more arrests over foiled attack on Bank of America",
+        "published": "Mon, 30 Mar 2026 19:15:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/cuba-waits-for-russian-oil-tanker-to-arrive-amid-us-blockade?traffic_source=rss"
+      },
+      {
+        "title": "What is the ‘Greater Israel’ project?",
+        "published": "Mon, 30 Mar 2026 17:55:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/30/ice-announces-death-of-another-mexican-detainee-in-us-immigration-custody?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
