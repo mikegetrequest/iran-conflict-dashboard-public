@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-30 22:43",
+  "updated_at_gst": "2026-03-30 23:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "What we know about attack on key Israeli oil refinery",
+        "published": "Mon, 30 Mar 2026 19:19:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/30/french-police-make-2-more-arrests-over-suspected-attack-on-bank-of-america?traffic_source=rss"
+      },
       {
         "title": "Two more UN peacekeepers killed in southern Lebanon: UNIFIL",
         "published": "Mon, 30 Mar 2026 18:11:15 +0000",
@@ -34,16 +39,6 @@
         "title": "‘Loyalty campaign’: Iraqi armed groups in Iran as US talks of ground war",
         "published": "Mon, 30 Mar 2026 15:40:26 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/marco-rubio-says-president-trump-prefers-diplomatic-solution-to-war-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "‘Iran will never acquire nuclear weapons’ Rubio tells Al Jazeera",
-        "published": "Mon, 30 Mar 2026 15:29:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/30/rubio-tells-al-jazeera-strait-of-hormuz-will-reopen-one-way-or-another?traffic_source=rss"
-      },
-      {
-        "title": "Trump wants to ‘take Iran’s oil’: Can he, and what would that mean?",
-        "published": "Mon, 30 Mar 2026 14:20:09 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/30/kenyas-former-new-york-marathon-champion-korir-gets-five-year-doping-ban?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
