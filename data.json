@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-30 13:51",
+  "updated_at_gst": "2026-03-30 14:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Smoke rise from Beirut suburbs following Israeli attack",
-        "published": "Mon, 30 Mar 2026 09:24:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/30/trump-wants-to-invade-iran-to-seize-oil-calls-us-objectors-stupid?traffic_source=rss"
+        "title": "Trump wants to invade Iran to seize oil, calls US objectors ‘stupid people’",
+        "published": "Mon, 30 Mar 2026 09:00:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/30/un-peacekeeper-killed-as-israel-hezbollah-fighting-escalates-in-lebanon?traffic_source=rss"
       },
       {
-        "title": "UN peacekeeper killed in southern Lebanon as Israeli invasion intensifies",
-        "published": "Mon, 30 Mar 2026 08:54:46 +0000",
-        "link": "https://www.aljazeera.com/video/quotable/2026/3/30/this-is-a-nightmare-scenario-if-it-escalates-further?traffic_source=rss"
+        "title": "‘We’re killing them, bro’: Israelis correct Iranian online streamer",
+        "published": "Mon, 30 Mar 2026 05:54:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/canadian-youtuber-captures-congestion-of-dozens-of-ships-in-hormuz-strait?traffic_source=rss"
       },
       {
-        "title": "Did Israel miscalculate in launching the war on Iran?",
-        "published": "Mon, 30 Mar 2026 08:13:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/displaced-families-in-sudan-struggle-as-aid-falls-short?traffic_source=rss"
-      },
-      {
-        "title": "US-Israel war on Iran: What’s happening on day 31 of attacks",
-        "published": "Mon, 30 Mar 2026 07:15:46 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/30/mohamed-salah-warned-against-us-move-as-mls-clubs-eye-egyptian-footballer?traffic_source=rss"
+        "title": "Trump says Iran’s ‘had regime change’ as he describes ‘boatloads of oil’",
+        "published": "Mon, 30 Mar 2026 05:20:03 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/30/fakhar-zaman-charged-with-ball%e2%80%91tampering-by-pakistan-board-in-psl?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
