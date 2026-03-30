@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-30 08:20",
+  "updated_at_gst": "2026-03-30 10:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "IAEA says Iran’s Khondab heavy water reactor no longer operational",
-        "published": "Mon, 30 Mar 2026 02:13:21 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/iranian-academic-describes-us-israeli-attacks-on-irans-universities?traffic_source=rss"
+        "title": "Iranian academic describes US-Israeli attacks on Iran’s universities",
+        "published": "Mon, 30 Mar 2026 01:24:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/netanyahu-orders-deeper-israeli-invasion-into-lebanon?traffic_source=rss"
       },
       {
-        "title": "Netanyahu orders deeper Israeli invasion into Lebanon",
-        "published": "Mon, 30 Mar 2026 01:09:32 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/30/oil-rises-above-116-a-barrel-as-iran-accuses-us-of-preparing-invasion?traffic_source=rss"
+        "title": "Oil tops $116 a barrel as Iran accuses US of preparing invasion",
+        "published": "Mon, 30 Mar 2026 00:53:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/30/iranian-attack-damages-kuwait-power-and-desalination-plant-kills-worker?traffic_source=rss"
       },
       {
-        "title": "Iranian attack damages Kuwait power and desalination plant, kills worker",
-        "published": "Mon, 30 Mar 2026 00:52:55 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/3/30/iran-war-live-worker-killed-in-kuwait-israel-intercepts-drones-from-yemen?traffic_source=rss"
+        "title": "Iran war live: Trump says wants to take Iran’s oil; Kuwait power site hit",
+        "published": "Mon, 30 Mar 2026 00:00:44 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/3/29/how-will-the-houthis-involvement-shape-the-war?traffic_source=rss"
       },
       {
-        "title": "Iran accuses US of plotting ground attack, as Israel steps up bombardment",
-        "published": "Sun, 29 Mar 2026 22:36:05 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/israeli-police-bar-priest-from-jerusalems-holy-sepulchre-on-palm-sunday?traffic_source=rss"
+        "title": "European nations criticise Israel’s death penalty plans",
+        "published": "Sun, 29 Mar 2026 22:44:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/29/iran-accuses-us-of-plotting-ground-attack-as-israel-steps-up-bombardment?traffic_source=rss"
       },
       {
-        "title": "Qatari TV station hit in Iran",
-        "published": "Sun, 29 Mar 2026 20:11:23 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war?traffic_source=rss"
-      },
-      {
-        "title": "RSF attack on Sudan’s South Kordofan kills at least 14, including children",
-        "published": "Sun, 29 Mar 2026 19:22:33 +0000",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/29/cuba-is-not-alone-deputy-fm-says-as-us-threats-grow?traffic_source=rss"
+        "title": "Israeli police bar priest from Jerusalem’s Holy Sepulchre on Palm Sunday",
+        "published": "Sun, 29 Mar 2026 21:01:50 +0000",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/29/a-premature-ceasefire-risks-another-round-of-conflict-in-future?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
