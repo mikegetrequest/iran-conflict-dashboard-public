@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-30 16:48",
+  "updated_at_gst": "2026-03-30 18:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Beirut apartment damaged in Israeli strike",
-        "published": "Mon, 30 Mar 2026 11:10:41 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/sirens-heard-across-haifa-port?traffic_source=rss"
+        "title": "Why have the US and Israel bombed more than 75 Iranian police facilities?",
+        "published": "Mon, 30 Mar 2026 12:54:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/palestinian-recalls-brothers-arrest-at-the-rafah-crossing?traffic_source=rss"
       },
       {
-        "title": "Schools, water, industry: What civilian targets have US, Israel, Iran hit?",
-        "published": "Mon, 30 Mar 2026 11:09:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/30/syrian-president-in-berlin-for-talks-with-germanys-merz?traffic_source=rss"
+        "title": "Homes damaged as Iranian missiles trigger sirens across northern Israel",
+        "published": "Mon, 30 Mar 2026 12:38:42 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/irans-foreign-ministry-denies-claims-of-us-iran-negotiations?traffic_source=rss"
       },
       {
-        "title": "Palestine aIly Ireland under fire for allowing weapons transfers to Israel",
-        "published": "Mon, 30 Mar 2026 10:41:45 +0000",
-        "link": "https://www.aljazeera.com/features/2026/3/30/land-day-in-gaza-between-memory-and-the-fight-for-what-remains?traffic_source=rss"
-      },
-      {
-        "title": "Iraq risks Arab ties as Iran-aligned groups strike Gulf nations",
-        "published": "Mon, 30 Mar 2026 09:57:31 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/30/france-beat-colombia-3-1-to-showcase-firepower-and-squad-depth?traffic_source=rss"
-      },
-      {
-        "title": "Smoke rise from Beirut suburbs following Israeli attack",
-        "published": "Mon, 30 Mar 2026 09:24:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/30/trump-wants-to-invade-iran-to-seize-oil-calls-us-objectors-stupid?traffic_source=rss"
-      },
-      {
-        "title": "UN peacekeeper killed in southern Lebanon as Israeli invasion intensifies",
-        "published": "Mon, 30 Mar 2026 08:54:46 +0000",
-        "link": "https://www.aljazeera.com/video/quotable/2026/3/30/this-is-a-nightmare-scenario-if-it-escalates-further?traffic_source=rss"
+        "title": "Trump ‘pretty sure’ of Iran deal, but can Pakistan-led efforts end the war?",
+        "published": "Mon, 30 Mar 2026 12:23:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/germanys-fm-tells-president-al-sharaa-we-stand-with-syria?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
