@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-31 00:32",
+  "updated_at_gst": "2026-03-31 01:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "UN condemns killing of Indonesian peacekeepers in Lebanon",
+        "published": "Mon, 30 Mar 2026 21:20:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/israeli-knesset-approves-death-penalty-for-palestinians?traffic_source=rss"
+      },
+      {
+        "title": "The war in Iran: Key takeaways from Al Jazeera’s interview with Marco Rubio",
+        "published": "Mon, 30 Mar 2026 21:03:25 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/we-have-to-destroy-irans-ability-to-launch-missiles-rubio-says?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s parliament passes death penalty bill targeting Palestinians",
+        "published": "Mon, 30 Mar 2026 20:50:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/rubio-says-nato-must-be-re-examined-after-spain-blocks-us-operation-on-iran?traffic_source=rss"
+      },
+      {
         "title": "What we know about attack on key Israeli oil refinery",
         "published": "Mon, 30 Mar 2026 19:19:50 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/30/french-police-make-2-more-arrests-over-suspected-attack-on-bank-of-america?traffic_source=rss"
@@ -24,16 +39,6 @@
         "title": "Two more UN peacekeepers killed in southern Lebanon: UNIFIL",
         "published": "Mon, 30 Mar 2026 18:11:15 +0000",
         "link": "https://www.aljazeera.com/video/the-take-2/2026/3/30/aje-onl-tt_isr_greaterisrael_av_v2-300326?traffic_source=rss"
-      },
-      {
-        "title": "Egypt’s president urges Trump to stop war on Iran",
-        "published": "Mon, 30 Mar 2026 16:01:02 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/30/fifa-world-cup-will-be-held-amid-human-rights-crisis-in-the-us-amnesty?traffic_source=rss"
-      },
-      {
-        "title": "Trump threatens to ‘blow up’ desalination plants in Iran if no deal reached",
-        "published": "Mon, 30 Mar 2026 15:51:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/30/is-the-us-ready-to-invade-iran-what-trumps-moves-tell-us-so-far?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
