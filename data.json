@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-31 02:22",
+  "updated_at_gst": "2026-03-31 03:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Is a peaceful settlement possible in Iran?",
+        "published": "Mon, 30 Mar 2026 22:16:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/30/us-says-trump-interested-in-asking-arab-countries-to-pay-for-war-on-iran?traffic_source=rss"
+      },
       {
         "title": "‘Dangerous escalation’: World reacts to Israel passing death penalty law",
         "published": "Mon, 30 Mar 2026 21:29:12 +0000",
@@ -39,11 +44,6 @@
         "title": "French police make two more arrests over foiled attack on Bank of America",
         "published": "Mon, 30 Mar 2026 19:15:50 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/cuba-waits-for-russian-oil-tanker-to-arrive-amid-us-blockade?traffic_source=rss"
-      },
-      {
-        "title": "What is the ‘Greater Israel’ project?",
-        "published": "Mon, 30 Mar 2026 17:55:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/30/ice-announces-death-of-another-mexican-detainee-in-us-immigration-custody?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
