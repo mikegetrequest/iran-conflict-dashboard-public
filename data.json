@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-30 19:47",
+  "updated_at_gst": "2026-03-30 20:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Is the US ready to invade Iran? What Trump’s moves tell us so far",
+        "published": "Mon, 30 Mar 2026 15:46:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/30/loyalty-campaign-iraqi-armed-groups-in-iran-as-us-talks-of-ground?traffic_source=rss"
+      },
+      {
+        "title": "Marco Rubio says President Trump prefers diplomatic solution to war on Iran",
+        "published": "Mon, 30 Mar 2026 15:33:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/iran-will-never-acquire-nuclear-weapons-rubio-tells-al-jazeera?traffic_source=rss"
+      },
+      {
         "title": "Why have the US and Israel bombed more than 75 Iranian police facilities?",
         "published": "Mon, 30 Mar 2026 12:54:15 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/palestinian-recalls-brothers-arrest-at-the-rafah-crossing?traffic_source=rss"
@@ -24,11 +34,6 @@
         "title": "Homes damaged as Iranian missiles trigger sirens across northern Israel",
         "published": "Mon, 30 Mar 2026 12:38:42 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/irans-foreign-ministry-denies-claims-of-us-iran-negotiations?traffic_source=rss"
-      },
-      {
-        "title": "Trump ‘pretty sure’ of Iran deal, but can Pakistan-led efforts end the war?",
-        "published": "Mon, 30 Mar 2026 12:23:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/germanys-fm-tells-president-al-sharaa-we-stand-with-syria?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
