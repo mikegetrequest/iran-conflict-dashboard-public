@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-01 03:23",
+  "updated_at_gst": "2026-04-01 03:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump says US will be leaving Iran in two to three weeks",
+        "published": "Tue, 31 Mar 2026 23:47:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/pope-leo-urges-trump-to-end-war-on-iran?traffic_source=rss"
+      },
       {
         "title": "EU warns oil and gas prices won’t quickly return to normal after Iran war",
         "published": "Tue, 31 Mar 2026 22:56:54 +0000",
@@ -34,11 +39,6 @@
         "title": "Israelis attempt to perform Passover sacrifice at Al-Aqsa",
         "published": "Tue, 31 Mar 2026 20:03:53 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/how-pakistan-positioned-itself-at-the-center-of-global-crisis-management?traffic_source=rss"
-      },
-      {
-        "title": "What’s behind Donald Trump’s interest in Iran’s Kharg Island?",
-        "published": "Tue, 31 Mar 2026 19:42:25 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/31/hiring-in-the-us-drops-to-pandemic-lows-as-job-market-under-trump-stagnates?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
