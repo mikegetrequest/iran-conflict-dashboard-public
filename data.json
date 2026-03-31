@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-31 20:45",
+  "updated_at_gst": "2026-03-31 21:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Qatar says ‘ready to help’ with US-Iran negotiations",
+        "published": "Tue, 31 Mar 2026 17:00:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/31/uk-accused-intimidation-tactics-bailed-pro-palestine-activitsts?traffic_source=rss"
+      },
       {
         "title": "UN aid chief warns of new Israeli occupation in southern Lebanon",
         "published": "Tue, 31 Mar 2026 16:24:19 +0000",
@@ -39,11 +44,6 @@
         "title": "War on Iran: US’s history of making other nations pay for conflicts",
         "published": "Tue, 31 Mar 2026 13:56:30 +0000",
         "link": "https://www.aljazeera.com/news/2026/3/31/cancer-drug-facility-religious-site-hit-in-israeli-us-strikes-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Will China join Pakistan-led efforts to mediate US-Iran peace?",
-        "published": "Tue, 31 Mar 2026 13:32:24 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/tyre-hospital-hit-five-times-since-start-of-israels-attacks-on-lebanon?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
