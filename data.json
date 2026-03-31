@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-31 05:13",
+  "updated_at_gst": "2026-03-31 08:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Pentagon denies that Hegseth’s broker sought investment before Iran war",
+        "published": "Tue, 31 Mar 2026 02:32:29 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/intense-us-israeli-attacks-on-iranian-city-of-isfahan-cause-column-of-fire?traffic_source=rss"
+      },
       {
         "title": "At least 70 killed, 30 wounded in Haiti gang attack, rights group says",
         "published": "Tue, 31 Mar 2026 00:02:55 +0000",
@@ -39,11 +44,6 @@
         "title": "‘Dangerous escalation’: World reacts to Israel passing death penalty law",
         "published": "Mon, 30 Mar 2026 21:29:12 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/un-condemns-killing-of-indonesian-peacekeepers-in-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Israeli Knesset approves death penalty for Palestinians",
-        "published": "Mon, 30 Mar 2026 21:10:16 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/30/the-war-in-iran-key-takeaways-from-al-jazeeras-interview-with-marco-rubio?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
