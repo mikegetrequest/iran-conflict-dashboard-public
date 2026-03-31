@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-31 13:52",
+  "updated_at_gst": "2026-03-31 14:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "‘Iranians don’t consider Trump’s 15-point plan as beginning of diplomacy’",
+        "published": "Tue, 31 Mar 2026 09:46:46 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/31/pcb-slaps-hefty-fine-on-naseem-shah-for-social-media-post-on-maryam-nawaz?traffic_source=rss"
+      },
       {
         "title": "Iran war wipes $120bn off Dubai, Abu Dhabi stock markets",
         "published": "Tue, 31 Mar 2026 07:57:42 +0000",
@@ -34,11 +39,6 @@
         "title": "Drone attack sparks fire on Kuwaiti tanker in UAE amid Iran’s Gulf attacks",
         "published": "Tue, 31 Mar 2026 06:45:55 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/31/15-year-old-vaibhav-sooryavanshi-scores-15-ball-fifty-for-rajasthan-royals?traffic_source=rss"
-      },
-      {
-        "title": "Outrage and condemnation over Israel’s death penalty law for Palestinians",
-        "published": "Tue, 31 Mar 2026 04:30:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/uk-pro-palestine-activist-arrested-weeks-after-being-released-on-bail-2?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
