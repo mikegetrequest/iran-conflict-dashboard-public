@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-01 01:27",
+  "updated_at_gst": "2026-04-01 02:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli air attack kills father and two-year-old son in Gaza",
-        "published": "Tue, 31 Mar 2026 20:51:14 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/31/zelenskyy-to-ask-us-mediators-to-pass-on-easter-truce-offer-to-kremlin?traffic_source=rss"
+        "title": "Iran ambassador refuses to leave Lebanon despite expulsion order",
+        "published": "Tue, 31 Mar 2026 21:43:35 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/31/russian-tanker-reaches-cuba-amid-critical-energy-shortage?traffic_source=rss"
       },
       {
-        "title": "UN expert Albanese confronted by pro-Israeli protesters in Germany",
-        "published": "Tue, 31 Mar 2026 20:29:33 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/israelis-attempt-to-perform-passover-sacrifice-at-al-aqsa?traffic_source=rss"
+        "title": "UN aid chief warns of new Israeli occupation in southern Lebanon",
+        "published": "Tue, 31 Mar 2026 21:15:48 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/3/31/turkey-and-sweden-book-world-cup-2026-spots-as-kosovo-and-poland-bow-out?traffic_source=rss"
       },
       {
-        "title": "Iran’s FM confirms contact with US envoy Witkoff, denies talks under way",
-        "published": "Tue, 31 Mar 2026 19:01:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/palestinians-in-occupied-west-bank-protest-israels-death-penalty-law?traffic_source=rss"
+        "title": "Israelis attempt to perform Passover sacrifice at Al-Aqsa",
+        "published": "Tue, 31 Mar 2026 20:03:53 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/how-pakistan-positioned-itself-at-the-center-of-global-crisis-management?traffic_source=rss"
       },
       {
-        "title": "Israeli strike hits building in Beirut’s southern suburbs",
-        "published": "Tue, 31 Mar 2026 18:16:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/3/31/us-israel-launch-major-attacks-as-iranian-authorities-maintain-defiance?traffic_source=rss"
+        "title": "What’s behind Donald Trump’s interest in Iran’s Kharg Island?",
+        "published": "Tue, 31 Mar 2026 19:42:25 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/3/31/hiring-in-the-us-drops-to-pandemic-lows-as-job-market-under-trump-stagnates?traffic_source=rss"
       },
       {
-        "title": "One month of war on Iran cost Arab countries up to $194bn: UNDP",
-        "published": "Tue, 31 Mar 2026 17:48:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/major-explosion-at-russian-petrochemical-plant?traffic_source=rss"
+        "title": "Analysis: Hezbollah backs Iran ambassador as conflict deepens Lebanon rifts",
+        "published": "Tue, 31 Mar 2026 19:37:35 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/31/no-truth-to-us-iranian-negotiations-irans-fm-tells-al-jazeera?traffic_source=rss"
+      },
+      {
+        "title": "Palestinians in occupied West Bank protest Israel’s death penalty law",
+        "published": "Tue, 31 Mar 2026 18:18:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/israeli-strike-hits-building-in-beiruts-southern-suburbs?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
