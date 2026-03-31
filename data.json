@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-31 14:42",
+  "updated_at_gst": "2026-03-31 15:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "‘AI helped pick the first thousand targets in Iran’",
+        "published": "Tue, 31 Mar 2026 11:15:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/31/drones-strike-russias-ust-luga-port-again-as-eu-officials-visit-ukraine?traffic_source=rss"
+      },
+      {
+        "title": "A Gaza mother waits in agony: Did Israel kill her daughter, or arrest her?",
+        "published": "Tue, 31 Mar 2026 10:50:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/italy-denies-the-us-military-use-of-its-air-bases-to-attack-iran?traffic_source=rss"
+      },
       {
         "title": "‘Iranians don’t consider Trump’s 15-point plan as beginning of diplomacy’",
         "published": "Tue, 31 Mar 2026 09:46:46 +0000",
@@ -34,11 +44,6 @@
         "title": "Israel says four soldiers killed as army pushes deeper into south Lebanon",
         "published": "Tue, 31 Mar 2026 07:39:52 +0000",
         "link": "https://www.aljazeera.com/sports/2026/3/31/ghana-fires-football-head-coach-%e2%81%a0otto-addo-72-days-before-world-cup?traffic_source=rss"
-      },
-      {
-        "title": "Drone attack sparks fire on Kuwaiti tanker in UAE amid Iran’s Gulf attacks",
-        "published": "Tue, 31 Mar 2026 06:45:55 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/31/15-year-old-vaibhav-sooryavanshi-scores-15-ball-fifty-for-rajasthan-royals?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
