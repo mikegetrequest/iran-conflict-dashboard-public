@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-03-31 15:39",
+  "updated_at_gst": "2026-03-31 16:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iranian rescuers save two civilians from rubble after US-Israeli strikes",
+        "published": "Tue, 31 Mar 2026 12:01:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/31/hundreds-rally-in-west-bank-against-israeli-death-penalty-for-palestinians?traffic_source=rss"
+      },
       {
         "title": "‘AI helped pick the first thousand targets in Iran’",
         "published": "Tue, 31 Mar 2026 11:15:48 +0000",
@@ -39,11 +44,6 @@
         "title": "Iran war: What is happening on day 32 of US-Israel attacks?",
         "published": "Tue, 31 Mar 2026 07:49:45 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/us-says-cuba-policy-unchanged-despite-allowing-russian-tanker?traffic_source=rss"
-      },
-      {
-        "title": "Israel says four soldiers killed as army pushes deeper into south Lebanon",
-        "published": "Tue, 31 Mar 2026 07:39:52 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/31/ghana-fires-football-head-coach-%e2%81%a0otto-addo-72-days-before-world-cup?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
