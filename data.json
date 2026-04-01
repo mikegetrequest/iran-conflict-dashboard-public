@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-01 23:49",
+  "updated_at_gst": "2026-04-02 00:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Palestinians in West Bank protest, strike against Israeli death penalty law",
-        "published": "Wed, 01 Apr 2026 19:09:05 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/memorial-honours-indonesian-un-peacekeeper-killed-in-lebanon?traffic_source=rss"
+        "title": "Central Israel hit by one of Iran’s largest missile barrages in weeks",
+        "published": "Wed, 01 Apr 2026 19:31:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/palestinians-in-west-bank-protest-strike-against-israeli-death-penalty-law?traffic_source=rss"
       },
       {
-        "title": "Why Iran says its universities are being targeted",
-        "published": "Wed, 01 Apr 2026 18:34:28 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/iraq-coach-says-world-cup-can-help-change-perception-of-country?traffic_source=rss"
+        "title": "Memorial honours Indonesian UN peacekeeper killed in Lebanon",
+        "published": "Wed, 01 Apr 2026 18:42:33 +0000",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/4/1/aje-onl-tt_irn_scholasticide_av_v3-010426?traffic_source=rss"
       },
       {
-        "title": "Iran authorities await war ‘victory’ as supporters mark 1979 anniversary",
-        "published": "Wed, 01 Apr 2026 17:28:24 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/this-is-an-apartheid-regime-critics-decry-israels-new-death-penalty-law?traffic_source=rss"
+        "title": "‘This is an apartheid regime’: Critics decry Israel’s new death penalty law",
+        "published": "Wed, 01 Apr 2026 17:12:41 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/iranian-officials-laugh-at-trumps-claim-iran-wants-a-ceasefire?traffic_source=rss"
       },
       {
-        "title": "Iranian officials ‘laugh’ at Trump’s claim Iran wants a ceasefire",
-        "published": "Wed, 01 Apr 2026 16:29:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/kenyas-tea-industry-suffers-crisis-caused-by-the-us-israeli-war-on-iran?traffic_source=rss"
+        "title": "Kenya’s tea industry suffers crisis caused by the US-Israeli war on Iran",
+        "published": "Wed, 01 Apr 2026 16:25:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/historys-biggest-census-why-indias-new-population-count-is-controversial?traffic_source=rss"
       },
       {
-        "title": "Mojtaba Khamenei’s rumoured injury or death won’t change Iran’s trajectory",
-        "published": "Wed, 01 Apr 2026 15:38:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/iran-war-what-a-marine-expeditionary-unit-is-and-other-us-military-terms?traffic_source=rss"
-      },
-      {
-        "title": "Iran denies Trump’s claim Iranian president requested ceasefire",
-        "published": "Wed, 01 Apr 2026 15:11:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/ali-zafar-wins-defamation-case-against-meesha-shafi-why-it-matters?traffic_source=rss"
+        "title": "Iran War: What a Marine Expeditionary Unit is – and other US military terms",
+        "published": "Wed, 01 Apr 2026 15:13:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/iran-denies-trumps-claim-iranian-president-requested-ceasefire?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
