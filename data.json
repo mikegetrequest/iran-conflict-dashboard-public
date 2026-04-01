@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-01 03:54",
+  "updated_at_gst": "2026-04-01 05:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump says US will be leaving Iran in two to three weeks",
-        "published": "Tue, 31 Mar 2026 23:47:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/pope-leo-urges-trump-to-end-war-on-iran?traffic_source=rss"
+        "title": "Trump tells allies ‘get your own oil’, says Iran war could end in 2-3 weeks",
+        "published": "Wed, 01 Apr 2026 00:14:19 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/1/iran-live-trump-says-no-deal-needed-to-end-war-isfahan-steel-plants-hit?traffic_source=rss"
       },
       {
-        "title": "EU warns oil and gas prices won’t quickly return to normal after Iran war",
-        "published": "Tue, 31 Mar 2026 22:56:54 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/31/tiger-woods-pleads-not-guilty-to-dui-in-car-crash-where-opioids-found?traffic_source=rss"
+        "title": "Pope Leo urges Trump to end war on Iran",
+        "published": "Tue, 31 Mar 2026 23:12:43 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/31/after-strait-of-hormuz-opens-turmoil-would-still-last-months-analysts-say?traffic_source=rss"
       },
       {
-        "title": "Iran ambassador refuses to leave Lebanon despite expulsion order",
-        "published": "Tue, 31 Mar 2026 21:43:35 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/3/31/russian-tanker-reaches-cuba-amid-critical-energy-shortage?traffic_source=rss"
-      },
-      {
-        "title": "UN aid chief warns of new Israeli occupation in southern Lebanon",
-        "published": "Tue, 31 Mar 2026 21:15:48 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/31/turkey-and-sweden-book-world-cup-2026-spots-as-kosovo-and-poland-bow-out?traffic_source=rss"
-      },
-      {
-        "title": "Israelis attempt to perform Passover sacrifice at Al-Aqsa",
-        "published": "Tue, 31 Mar 2026 20:03:53 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/how-pakistan-positioned-itself-at-the-center-of-global-crisis-management?traffic_source=rss"
+        "title": "Israeli air attack kills father and two-year-old son in Gaza",
+        "published": "Tue, 31 Mar 2026 20:51:14 +0000",
+        "link": "https://www.aljazeera.com/news/2026/3/31/zelenskyy-to-ask-us-mediators-to-pass-on-easter-truce-offer-to-kremlin?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
