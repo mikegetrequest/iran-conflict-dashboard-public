@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-01 21:40",
+  "updated_at_gst": "2026-04-01 22:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran authorities await war ‘victory’ as supporters mark 1979 anniversary",
-        "published": "Wed, 01 Apr 2026 17:28:24 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/this-is-an-apartheid-regime-critics-decry-israels-new-death-penalty-law?traffic_source=rss"
+        "title": "‘This is an apartheid regime’: Critics decry Israel’s new death penalty law",
+        "published": "Wed, 01 Apr 2026 17:12:41 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/iranian-officials-laugh-at-trumps-claim-iran-wants-a-ceasefire?traffic_source=rss"
       },
       {
-        "title": "Iranian officials ‘laugh’ at Trump’s claim Iran wants a ceasefire",
-        "published": "Wed, 01 Apr 2026 16:29:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/kenyas-tea-industry-suffers-crisis-caused-by-the-us-israeli-war-on-iran?traffic_source=rss"
+        "title": "Kenya’s tea industry suffers crisis caused by the US-Israeli war on Iran",
+        "published": "Wed, 01 Apr 2026 16:25:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/historys-biggest-census-why-indias-new-population-count-is-controversial?traffic_source=rss"
       },
       {
-        "title": "Mojtaba Khamenei’s rumoured injury or death won’t change Iran’s trajectory",
-        "published": "Wed, 01 Apr 2026 15:38:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/iran-war-what-a-marine-expeditionary-unit-is-and-other-us-military-terms?traffic_source=rss"
+        "title": "Iran War: What a Marine Expeditionary Unit is – and other US military terms",
+        "published": "Wed, 01 Apr 2026 15:13:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/iran-denies-trumps-claim-iranian-president-requested-ceasefire?traffic_source=rss"
       },
       {
-        "title": "Iran denies Trump’s claim Iranian president requested ceasefire",
-        "published": "Wed, 01 Apr 2026 15:11:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/ali-zafar-wins-defamation-case-against-meesha-shafi-why-it-matters?traffic_source=rss"
+        "title": "Russia imposing ban on all gasoline exports due to Iran war",
+        "published": "Wed, 01 Apr 2026 13:24:29 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/1/the-world-cup-curse-outcry-as-italy-miss-out-for-third-time-in-a-row?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon faces growing displacement crisis",
+        "published": "Wed, 01 Apr 2026 13:00:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/minerals-for-aid-are-new-us-health-deals-exploiting-african-countries?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
