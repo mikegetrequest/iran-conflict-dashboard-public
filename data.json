@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-02 00:32",
+  "updated_at_gst": "2026-04-02 01:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Smoke and embers seen over Iran’s Isfahan after strike",
+        "published": "Wed, 01 Apr 2026 21:01:09 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/protesters-gather-to-oppose-changes-to-us-birthright-citizenship-law?traffic_source=rss"
+      },
+      {
+        "title": "‘Which interests being served by war?’ Iran’s Pezeshkian asks US public",
+        "published": "Wed, 01 Apr 2026 20:40:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/ecuador-claims-28-drop-in-homicides-amid-concerns-over-anti-crime-campaign?traffic_source=rss"
+      },
       {
         "title": "Central Israel hit by one of Iran’s largest missile barrages in weeks",
         "published": "Wed, 01 Apr 2026 19:31:13 +0000",
@@ -34,11 +44,6 @@
         "title": "Kenya’s tea industry suffers crisis caused by the US-Israeli war on Iran",
         "published": "Wed, 01 Apr 2026 16:25:47 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/1/historys-biggest-census-why-indias-new-population-count-is-controversial?traffic_source=rss"
-      },
-      {
-        "title": "Iran War: What a Marine Expeditionary Unit is – and other US military terms",
-        "published": "Wed, 01 Apr 2026 15:13:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/iran-denies-trumps-claim-iranian-president-requested-ceasefire?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
