@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-01 11:58",
+  "updated_at_gst": "2026-04-01 12:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war: What is happening on day 33 of US-Israel attacks?",
-        "published": "Wed, 01 Apr 2026 07:01:14 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/1/iraq-defeat-bolivia-2-1-to-qualify-for-fifa-world-cup-2026?traffic_source=rss"
+        "title": "War on Iran: Three key takeaways from Araghchi’s interview with Al Jazeera",
+        "published": "Wed, 01 Apr 2026 08:27:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/israeli-police-inspect-damage-on-the-road-after-missile-impact?traffic_source=rss"
       },
       {
-        "title": "Al-Sharaa says Syria to stay out of war on Iran unless attacked",
-        "published": "Wed, 01 Apr 2026 02:07:14 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/bosnia-fans-celebrate-as-team-qualifies-for-world-cup-knocking-italy-out?traffic_source=rss"
+        "title": "Iran attacks cause fire in Kuwait, Bahrain; kill man in UAE",
+        "published": "Wed, 01 Apr 2026 07:54:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/what-is-nasas-artemis-ii-moon-mission-and-when-will-it-launch?traffic_source=rss"
       },
       {
-        "title": "Emergency workers search for victims of Israeli airstrikes on Beirut",
-        "published": "Wed, 01 Apr 2026 00:56:38 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/a-law-of-death-that-only-applies-to?traffic_source=rss"
+        "title": "Global protests condemning Israel’s new death penalty law for Palestinians",
+        "published": "Wed, 01 Apr 2026 02:51:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/al-sharaa-says-syria-to-stay-out-of-war-on-iran-unless-attacked?traffic_source=rss"
       },
       {
-        "title": "Iran war live: ‘Missile from Iran’ hits oil tanker off Qatar’s coast",
-        "published": "Wed, 01 Apr 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/3/31/dr-congo-beat-jamaica-in-world-cup-intercontinental-qualifying-finals?traffic_source=rss"
-      },
-      {
-        "title": "Trump says US will be leaving Iran in two to three weeks",
-        "published": "Tue, 31 Mar 2026 23:47:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/pope-leo-urges-trump-to-end-war-on-iran?traffic_source=rss"
+        "title": "Trump tells allies ‘get your own oil’, says Iran war could end in 2-3 weeks",
+        "published": "Wed, 01 Apr 2026 00:14:19 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/1/iran-live-trump-says-no-deal-needed-to-end-war-isfahan-steel-plants-hit?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
