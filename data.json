@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-01 16:06",
+  "updated_at_gst": "2026-04-01 18:09",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Russia imposing ban on all gasoline exports due to Iran war",
+        "published": "Wed, 01 Apr 2026 13:24:29 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/1/the-world-cup-curse-outcry-as-italy-miss-out-for-third-time-in-a-row?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon faces growing displacement crisis",
+        "published": "Wed, 01 Apr 2026 13:00:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/minerals-for-aid-are-new-us-health-deals-exploiting-african-countries?traffic_source=rss"
+      },
+      {
+        "title": "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments",
+        "published": "Wed, 01 Apr 2026 12:45:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/pro-palestine-civil-leaders-convicted-for-breaching-protest-rules-in-london?traffic_source=rss"
+      },
+      {
+        "title": "How are NATO allies pushing back against Trump’s Iran war demands?",
+        "published": "Wed, 01 Apr 2026 12:03:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/uk-pm-says-iran-war-will-impact-britains-future?traffic_source=rss"
+      },
+      {
         "title": "West Bank strikes over Palestinian-only death penalty",
         "published": "Wed, 01 Apr 2026 11:42:18 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/1/us-supreme-court-to-hear-constitutional-test-of-birthright-citizenship?traffic_source=rss"
       },
       {
-        "title": "Israel kills 7 people in Beirut, Hezbollah fights invasion in south Lebanon",
-        "published": "Wed, 01 Apr 2026 10:05:17 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/1/which-teams-are-in-the-fifa-world-cup-2026?traffic_source=rss"
-      },
-      {
-        "title": "Houthis claim joint missile attack on Israel with Iran and Hezbollah",
-        "published": "Wed, 01 Apr 2026 09:24:14 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/1/turkiye-beat-kosovo-to-end-24-year-world-cup-wait?traffic_source=rss"
-      },
-      {
-        "title": "Israeli police inspect damage on the road after missile impact",
-        "published": "Wed, 01 Apr 2026 07:55:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/iran-attacks-cause-fire-in-kuwait-bahrain-kill-man-in-uae?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What is happening on day 33 of US-Israel attacks?",
-        "published": "Wed, 01 Apr 2026 07:01:14 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/1/iraq-defeat-bolivia-2-1-to-qualify-for-fifa-world-cup-2026?traffic_source=rss"
+        "title": "‘US attacking Iran’s nuclear facilities is a sign of endgame’",
+        "published": "Wed, 01 Apr 2026 10:33:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/israeli-strikes-on-beirut-kill-7-hezbollah-fights-back-in-southern-lebanon?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
