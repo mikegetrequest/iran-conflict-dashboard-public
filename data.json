@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-02 01:31",
+  "updated_at_gst": "2026-04-02 02:25",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "NASA moon mission a ‘contrast’ to US war on Iran, says US senator",
+        "published": "Wed, 01 Apr 2026 21:20:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/spacex-files-to-go-public-paving-way-to-make-elon-musk-first-trillionaire?traffic_source=rss"
+      },
       {
         "title": "Smoke and embers seen over Iran’s Isfahan after strike",
         "published": "Wed, 01 Apr 2026 21:01:09 +0000",
@@ -39,11 +44,6 @@
         "title": "‘This is an apartheid regime’: Critics decry Israel’s new death penalty law",
         "published": "Wed, 01 Apr 2026 17:12:41 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/iranian-officials-laugh-at-trumps-claim-iran-wants-a-ceasefire?traffic_source=rss"
-      },
-      {
-        "title": "Kenya’s tea industry suffers crisis caused by the US-Israeli war on Iran",
-        "published": "Wed, 01 Apr 2026 16:25:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/historys-biggest-census-why-indias-new-population-count-is-controversial?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
