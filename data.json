@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-01 14:06",
+  "updated_at_gst": "2026-04-01 15:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "‘US attacking Iran’s nuclear facilities is a sign of endgame’",
+        "published": "Wed, 01 Apr 2026 10:33:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/israeli-strikes-on-beirut-kill-7-hezbollah-fights-back-in-southern-lebanon?traffic_source=rss"
+      },
+      {
         "title": "War on Iran: Three key takeaways from Araghchi’s interview with Al Jazeera",
         "published": "Wed, 01 Apr 2026 08:27:51 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/israeli-police-inspect-damage-on-the-road-after-missile-impact?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Iran attacks cause fire in Kuwait, Bahrain; kill man in UAE",
         "published": "Wed, 01 Apr 2026 07:54:12 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/1/what-is-nasas-artemis-ii-moon-mission-and-when-will-it-launch?traffic_source=rss"
-      },
-      {
-        "title": "Global protests condemning Israel’s new death penalty law for Palestinians",
-        "published": "Wed, 01 Apr 2026 02:51:34 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/al-sharaa-says-syria-to-stay-out-of-war-on-iran-unless-attacked?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
