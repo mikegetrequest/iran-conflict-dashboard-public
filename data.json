@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-01 19:48",
+  "updated_at_gst": "2026-04-01 20:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,36 +16,32 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran War: What a Marine Expeditionary Unit is – and other US military terms",
-        "published": "Wed, 01 Apr 2026 15:13:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/iran-denies-trumps-claim-iranian-president-requested-ceasefire?traffic_source=rss"
+        "title": "Mojtaba Khamenei’s rumoured injury or death won’t change Iran’s trajectory",
+        "published": "Wed, 01 Apr 2026 15:38:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/iran-war-what-a-marine-expeditionary-unit-is-and-other-us-military-terms?traffic_source=rss"
       },
       {
-        "title": "Russia imposing ban on all gasoline exports due to Iran war",
-        "published": "Wed, 01 Apr 2026 13:24:29 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/1/the-world-cup-curse-outcry-as-italy-miss-out-for-third-time-in-a-row?traffic_source=rss"
+        "title": "Iran denies Trump’s claim Iranian president requested ceasefire",
+        "published": "Wed, 01 Apr 2026 15:11:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/ali-zafar-wins-defamation-case-against-meesha-shafi-why-it-matters?traffic_source=rss"
       },
       {
-        "title": "Lebanon faces growing displacement crisis",
-        "published": "Wed, 01 Apr 2026 13:00:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/minerals-for-aid-are-new-us-health-deals-exploiting-african-countries?traffic_source=rss"
-      },
-      {
-        "title": "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments",
-        "published": "Wed, 01 Apr 2026 12:45:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/pro-palestine-civil-leaders-convicted-for-breaching-protest-rules-in-london?traffic_source=rss"
-      },
-      {
-        "title": "How are NATO allies pushing back against Trump’s Iran war demands?",
-        "published": "Wed, 01 Apr 2026 12:03:47 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/uk-pm-says-iran-war-will-impact-britains-future?traffic_source=rss"
-      },
-      {
-        "title": "West Bank strikes over Palestinian-only death penalty",
-        "published": "Wed, 01 Apr 2026 11:42:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/us-supreme-court-to-hear-constitutional-test-of-birthright-citizenship?traffic_source=rss"
+        "title": "UK PM says war on Iran will impact Britain’s future",
+        "published": "Wed, 01 Apr 2026 11:57:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/west-bank-strikes-over-palestinian-only-death-penalty?traffic_source=rss"
       }
     ],
-    "monitor_the_situation": []
+    "monitor_the_situation": [
+      {
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "published": "line-1",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      }
+    ]
   }
 }
