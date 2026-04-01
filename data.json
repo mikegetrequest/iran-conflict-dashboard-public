@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-01 20:42",
+  "updated_at_gst": "2026-04-01 21:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran authorities await war ‘victory’ as supporters mark 1979 anniversary",
+        "published": "Wed, 01 Apr 2026 17:28:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/this-is-an-apartheid-regime-critics-decry-israels-new-death-penalty-law?traffic_source=rss"
+      },
+      {
+        "title": "Iranian officials ‘laugh’ at Trump’s claim Iran wants a ceasefire",
+        "published": "Wed, 01 Apr 2026 16:29:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/kenyas-tea-industry-suffers-crisis-caused-by-the-us-israeli-war-on-iran?traffic_source=rss"
+      },
+      {
         "title": "Mojtaba Khamenei’s rumoured injury or death won’t change Iran’s trajectory",
         "published": "Wed, 01 Apr 2026 15:38:50 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/1/iran-war-what-a-marine-expeditionary-unit-is-and-other-us-military-terms?traffic_source=rss"
@@ -24,11 +34,6 @@
         "title": "Iran denies Trump’s claim Iranian president requested ceasefire",
         "published": "Wed, 01 Apr 2026 15:11:31 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/1/ali-zafar-wins-defamation-case-against-meesha-shafi-why-it-matters?traffic_source=rss"
-      },
-      {
-        "title": "UK PM says war on Iran will impact Britain’s future",
-        "published": "Wed, 01 Apr 2026 11:57:12 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/west-bank-strikes-over-palestinian-only-death-penalty?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
