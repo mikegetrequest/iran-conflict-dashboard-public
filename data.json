@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-01 18:09",
+  "updated_at_gst": "2026-04-01 19:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran War: What a Marine Expeditionary Unit is – and other US military terms",
+        "published": "Wed, 01 Apr 2026 15:13:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/iran-denies-trumps-claim-iranian-president-requested-ceasefire?traffic_source=rss"
+      },
       {
         "title": "Russia imposing ban on all gasoline exports due to Iran war",
         "published": "Wed, 01 Apr 2026 13:24:29 +0000",
@@ -39,11 +44,6 @@
         "title": "West Bank strikes over Palestinian-only death penalty",
         "published": "Wed, 01 Apr 2026 11:42:18 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/1/us-supreme-court-to-hear-constitutional-test-of-birthright-citizenship?traffic_source=rss"
-      },
-      {
-        "title": "‘US attacking Iran’s nuclear facilities is a sign of endgame’",
-        "published": "Wed, 01 Apr 2026 10:33:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/israeli-strikes-on-beirut-kill-7-hezbollah-fights-back-in-southern-lebanon?traffic_source=rss"
       }
     ],
     "monitor_the_situation": []
