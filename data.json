@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-02 09:53",
+  "updated_at_gst": "2026-04-02 10:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump’s national address on Iran ’embarrassing, incoherent’",
-        "published": "Thu, 02 Apr 2026 05:01:23 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-claims-success-in-iran-in-just-32-days-compared-to-lengthy-us-wars?traffic_source=rss"
+        "title": "Israel’s death penalty law is not about executing Palestinians",
+        "published": "Thu, 02 Apr 2026 06:11:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/2/how-long-will-artemis-ii-take-to-reach-the-moon-and-what-happens-next?traffic_source=rss"
       },
       {
-        "title": "Trump threatens to bring Iran ‘back to the Stone Ages’",
-        "published": "Thu, 02 Apr 2026 04:57:14 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-urges-countries-get-involved-in-war-on-iran-if-they-cant-get-fuel?traffic_source=rss"
+        "title": "Trump’s primetime speech on Iran war: Key takeaways",
+        "published": "Thu, 02 Apr 2026 05:15:10 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trumps-national-address-on-iran-embarrassing?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’",
-        "published": "Thu, 02 Apr 2026 00:00:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/magnitude-7-4-quake-hits-off-indonesias-ternate-tsunami-warning-triggered?traffic_source=rss"
+        "title": "Trump claims ‘success’ in Iran in just 32 days compared to lengthy US wars",
+        "published": "Thu, 02 Apr 2026 05:00:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-threatens-to-bring-iran-back-to-the-stone?traffic_source=rss"
       },
       {
-        "title": "What are the consequences of Israel’s death penalty law for Palestinians?",
-        "published": "Wed, 01 Apr 2026 20:42:14 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/1/which-interests-being-served-by-war-irans-pezeshkian-asks-us-public?traffic_source=rss"
+        "title": "Trump urges countries ‘get involved’ in war on Iran if they can’t get fuel",
+        "published": "Thu, 02 Apr 2026 04:54:53 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/gambia-police-fire-tear-gas-at-rally-over-rearrest-of-siblings?traffic_source=rss"
+      },
+      {
+        "title": "NASA moon mission a ‘contrast’ to US war on Iran, says US senator",
+        "published": "Wed, 01 Apr 2026 21:20:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/spacex-files-to-go-public-paving-way-to-make-elon-musk-first-trillionaire?traffic_source=rss"
+      },
+      {
+        "title": "Smoke and embers seen over Iran’s Isfahan after strike",
+        "published": "Wed, 01 Apr 2026 21:01:09 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/protesters-gather-to-oppose-changes-to-us-birthright-citizenship-law?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
