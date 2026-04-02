@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-02 21:39",
+  "updated_at_gst": "2026-04-02 22:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "UN experts urge investigation into Israel’s killing of Lebanese journalists",
+        "published": "Thu, 02 Apr 2026 17:47:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pastors-white-house-prayer-claims-iranians-seek-death-of-all-jews?traffic_source=rss"
+      },
+      {
         "title": "World Cup 2026: Iran and Infantino talks progressing as war darkens US trip",
         "published": "Thu, 02 Apr 2026 16:55:34 +0000",
         "link": "https://www.aljazeera.com/video/2026/4/2/us-israeli-strike-hits-newly-opened-b1-bridge-near-tehran-killing-two?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Can the US seize Iran’s enriched uranium – and what are the risks?",
         "published": "Thu, 02 Apr 2026 15:21:51 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-releases-mocking-missile-launch-video-after-trump-threats?traffic_source=rss"
-      },
-      {
-        "title": "Pakistan to continue with Iran-US mediation despite ‘obstacles’",
-        "published": "Thu, 02 Apr 2026 13:19:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/2/bomb-back-to-the-stone-age-us-history-of-threats-and-carpet-bombing?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
