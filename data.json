@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-02 19:31",
+  "updated_at_gst": "2026-04-02 20:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Video: Protests in Gaza against Israel’s Palestinian death penalty law",
+        "published": "Thu, 02 Apr 2026 16:31:38 +0000",
+        "link": "https://www.aljazeera.com/video/quotable/2026/4/2/israel-has-been-avoiding-any-diplomacy-and-pursuing-escalation?traffic_source=rss"
+      },
+      {
+        "title": "Can the US seize Iran’s enriched uranium – and what are the risks?",
+        "published": "Thu, 02 Apr 2026 15:21:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-releases-mocking-missile-launch-video-after-trump-threats?traffic_source=rss"
+      },
+      {
         "title": "Pakistan to continue with Iran-US mediation despite ‘obstacles’",
         "published": "Thu, 02 Apr 2026 13:19:47 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/2/bomb-back-to-the-stone-age-us-history-of-threats-and-carpet-bombing?traffic_source=rss"
@@ -24,16 +34,6 @@
         "title": "Smoke rises over Mashhad, Iran, following strike near airport",
         "published": "Thu, 02 Apr 2026 12:13:10 +0000",
         "link": "https://www.aljazeera.com/sports/2026/4/2/womens-asian-cup-finalists-accuse-governing-body-over-equal-money?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops",
-        "published": "Thu, 02 Apr 2026 11:26:47 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/4/2/how-israels-record-budget-will-finance-expanding-illegal-settlements?traffic_source=rss"
-      },
-      {
-        "title": "Yemen’s Houthis coordinate with Iran, but retain independence, despite war",
-        "published": "Thu, 02 Apr 2026 10:36:37 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/us-israeli-attacks-and-its-impact-on-irans-economy?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
