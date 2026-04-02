@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-02 12:03",
+  "updated_at_gst": "2026-04-02 13:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran’s ex-foreign minister Kharazi ‘gravely wounded’ in attack on his home",
+        "published": "Thu, 02 Apr 2026 08:13:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/2/oil-surges-asian-stocks-plunge-as-trump-vows-to-keep-up-iran-attacks?traffic_source=rss"
+      },
+      {
         "title": "Iran war: What is happening on day 34 of US-Israel attacks?",
         "published": "Thu, 02 Apr 2026 07:50:50 +0000",
         "link": "https://www.aljazeera.com/gallery/2026/4/2/mourners-vow-resistance-as-iran-marks-islamic-republics-47th-anniversary?traffic_source=rss"
@@ -31,7 +36,7 @@
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-urges-countries-get-involved-in-war-on-iran-if-they-cant-get-fuel?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’",
+        "title": "Live: Trump threatens to hit Iran hard; Tehran pledges to ‘fight back’",
         "published": "Thu, 02 Apr 2026 00:00:30 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/1/magnitude-7-4-quake-hits-off-indonesias-ternate-tsunami-warning-triggered?traffic_source=rss"
       }
