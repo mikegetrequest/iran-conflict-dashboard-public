@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-02 22:39",
+  "updated_at_gst": "2026-04-02 23:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "GCC chief urges UN to halt Iranian attacks, protect Gulf waterways",
+        "published": "Thu, 02 Apr 2026 18:40:06 +0000",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/2/can-russia-help-fill-the-global-energy-gap?traffic_source=rss"
+      },
+      {
+        "title": "Children’s hospital in Tehran keeps hopes and smiles alive during war",
+        "published": "Thu, 02 Apr 2026 18:37:35 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/videos-capture-projectile-falling-in-central-israel-after-iran-strike?traffic_source=rss"
+      },
+      {
         "title": "UN experts urge investigation into Israel’s killing of Lebanese journalists",
         "published": "Thu, 02 Apr 2026 17:47:36 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pastors-white-house-prayer-claims-iranians-seek-death-of-all-jews?traffic_source=rss"
@@ -31,9 +41,9 @@
         "link": "https://www.aljazeera.com/video/quotable/2026/4/2/israel-has-been-avoiding-any-diplomacy-and-pursuing-escalation?traffic_source=rss"
       },
       {
-        "title": "Can the US seize Iran’s enriched uranium – and what are the risks?",
-        "published": "Thu, 02 Apr 2026 15:21:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-releases-mocking-missile-launch-video-after-trump-threats?traffic_source=rss"
+        "title": "Iran releases mocking missile launch video after Trump threats",
+        "published": "Thu, 02 Apr 2026 15:21:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/2/european-parliament-member-rima-hassan-taken-into-french-police-custody?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
