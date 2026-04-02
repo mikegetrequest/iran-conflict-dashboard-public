@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-02 08:03",
+  "updated_at_gst": "2026-04-02 09:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump’s national address on Iran ’embarrassing, incoherent’",
+        "published": "Thu, 02 Apr 2026 05:01:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-claims-success-in-iran-in-just-32-days-compared-to-lengthy-us-wars?traffic_source=rss"
+      },
+      {
+        "title": "Trump threatens to bring Iran ‘back to the Stone Ages’",
+        "published": "Thu, 02 Apr 2026 04:57:14 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-urges-countries-get-involved-in-war-on-iran-if-they-cant-get-fuel?traffic_source=rss"
+      },
       {
         "title": "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’",
         "published": "Thu, 02 Apr 2026 00:00:30 +0000",
