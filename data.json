@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-02 15:36",
+  "updated_at_gst": "2026-04-02 16:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Smoke rises over Mashhad, Iran, following strike near airport",
+        "published": "Thu, 02 Apr 2026 12:13:10 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/2/womens-asian-cup-finalists-accuse-governing-body-over-equal-money?traffic_source=rss"
+      },
+      {
         "title": "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops",
         "published": "Thu, 02 Apr 2026 11:26:47 +0000",
         "link": "https://www.aljazeera.com/economy/2026/4/2/how-israels-record-budget-will-finance-expanding-illegal-settlements?traffic_source=rss"
@@ -29,16 +34,6 @@
         "title": "Oil price surges, Asian stocks fall as Trump vows to continue Iran attacks",
         "published": "Thu, 02 Apr 2026 08:07:13 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/2/iran-war-what-is-happening-on-day-34-of-us-israel-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Mourners vow resistance as Iran marks Islamic Republic’s 47th anniversary",
-        "published": "Thu, 02 Apr 2026 07:38:42 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/4/2/it-all-depends-on-the-crop-gulf-crisis-hits-south-asia-farmers?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s death penalty law is not about executing Palestinians",
-        "published": "Thu, 02 Apr 2026 06:11:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/2/how-long-will-artemis-ii-take-to-reach-the-moon-and-what-happens-next?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
