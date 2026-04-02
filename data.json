@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-02 03:53",
+  "updated_at_gst": "2026-04-02 05:09",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran war live: Trump to address nation; Tehran denies seeking ceasefire",
+        "published": "Thu, 02 Apr 2026 00:00:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/1/magnitude-7-4-quake-hits-off-indonesias-ternate-tsunami-warning-triggered?traffic_source=rss"
+      },
+      {
         "title": "What are the consequences of Israel’s death penalty law for Palestinians?",
         "published": "Wed, 01 Apr 2026 20:42:14 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/1/which-interests-being-served-by-war-irans-pezeshkian-asks-us-public?traffic_source=rss"
-      },
-      {
-        "title": "Palestinians in West Bank protest, strike against Israeli death penalty law",
-        "published": "Wed, 01 Apr 2026 19:09:05 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/memorial-honours-indonesian-un-peacekeeper-killed-in-lebanon?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
