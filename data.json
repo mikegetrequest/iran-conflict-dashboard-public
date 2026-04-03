@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-04 00:22",
+  "updated_at_gst": "2026-04-04 00:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
+        "published": "Fri, 03 Apr 2026 20:37:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission?traffic_source=rss"
+      },
+      {
         "title": "More than 20 attacks on Iranian healthcare facilities since March 1: WHO",
         "published": "Fri, 03 Apr 2026 19:16:56 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/monks-hold-easter-prayers-in-deserted-old-city-of-jerusalem?traffic_source=rss"
@@ -31,19 +36,9 @@
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/what-we-know-about-the-us-fighter-jet-shot-down-in-iran?traffic_source=rss"
       },
       {
-        "title": "French-owned container ship transits Hormuz Strait in first since Iran war",
-        "published": "Fri, 03 Apr 2026 16:24:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/drone-footage-shows-a-factory-in-israel-damaged-by-iranian-missile-debris?traffic_source=rss"
-      },
-      {
         "title": "Iran says it downed two US jets as search for one pilot continues",
         "published": "Fri, 03 Apr 2026 15:43:22 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/3/trump-says-with-more-time-us-can-take-the-oil-in-iran?traffic_source=rss"
-      },
-      {
-        "title": "Iran release videos of US aircraft searching for pilots shot down in Iran",
-        "published": "Fri, 03 Apr 2026 15:11:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/3/israel-threatens-to-destroy-more-lebanon-bridges-as-crisis-mounts?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
