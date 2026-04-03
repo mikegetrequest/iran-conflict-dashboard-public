@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-03 11:54",
+  "updated_at_gst": "2026-04-03 12:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "How Israel is destroying healthcare infrastructure in southern Lebanon",
+        "published": "Fri, 03 Apr 2026 07:34:43 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/3/iranian-women-footballers-reveal-enormous-pressure-of-the-asian-cup-saga?traffic_source=rss"
+      },
+      {
         "title": "Iran war live: Ex-FM Zarif says Tehran should ‘declare victory, make deal’",
         "published": "Fri, 03 Apr 2026 05:00:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss"
-      },
-      {
-        "title": "Oil shock triggers global price spikes as Iran war drags on",
-        "published": "Thu, 02 Apr 2026 21:04:35 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-says-army-forces-are-ready-to-repel-us-israeli-attacks?traffic_source=rss"
-      },
-      {
-        "title": "As war drags on, US reiterates Trump open to diplomacy with Iran",
-        "published": "Thu, 02 Apr 2026 20:24:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/2/legal-groups-condemn-arrival-of-a-dozen-deportees-from-us-to-uganda?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
