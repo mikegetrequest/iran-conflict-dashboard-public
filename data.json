@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-03 19:31",
+  "updated_at_gst": "2026-04-03 20:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Drone footage shows a factory in Israel damaged by Iranian missile debris",
+        "published": "Fri, 03 Apr 2026 15:51:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/3/trump-seeks-historic-1-5-trillion-for-military-in-congress-budget-request?traffic_source=rss"
+      },
+      {
+        "title": "Trump says with more time, US can ‘take the oil’ in Iran",
+        "published": "Fri, 03 Apr 2026 15:18:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/panama-papers-10-years-on?traffic_source=rss"
+      },
+      {
+        "title": "Red Crescent supply warehouse attacked in southwest Iran",
+        "published": "Fri, 03 Apr 2026 15:13:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-release-videos-of-us-aircraft-searching-for-pilots-shot-down-in-iran?traffic_source=rss"
+      },
+      {
         "title": "Israel threatens to destroy more Lebanon bridges as crisis mounts",
         "published": "Fri, 03 Apr 2026 14:43:39 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/whats-happening-to-christians-in-their-holy-land?traffic_source=rss"
@@ -24,11 +39,6 @@
         "title": "‘I don’t know how we’ll emerge from this’: How much more can Israelis take?",
         "published": "Fri, 03 Apr 2026 11:24:33 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/3/burkina-faso-military-leader-traore-says-forget-democracy?traffic_source=rss"
-      },
-      {
-        "title": "Iran condemns US-Israeli ‘moral collapse’ after attacks on civilian sites",
-        "published": "Fri, 03 Apr 2026 08:03:04 +0000",
-        "link": "https://www.aljazeera.com/features/2026/4/3/how-israel-is-destroying-healthcare-infrastructure-in-southern-lebanon?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
