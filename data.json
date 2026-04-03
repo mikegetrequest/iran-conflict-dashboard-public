@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-03 15:29",
+  "updated_at_gst": "2026-04-03 16:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "‘I don’t know how we’ll emerge from this’: How much more can Israelis take?",
+        "published": "Fri, 03 Apr 2026 11:24:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/3/burkina-faso-military-leader-traore-says-forget-democracy?traffic_source=rss"
+      },
       {
         "title": "Iran condemns US-Israeli ‘moral collapse’ after attacks on civilian sites",
         "published": "Fri, 03 Apr 2026 08:03:04 +0000",
@@ -34,11 +39,6 @@
         "title": "How China’s ‘teapot’ refineries are cushioning it from Iran war oil crisis",
         "published": "Fri, 03 Apr 2026 05:57:07 +0000",
         "link": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss"
-      },
-      {
-        "title": "How war on Iran turned Pakistan’s LNG surplus into a looming shortage",
-        "published": "Fri, 03 Apr 2026 04:55:17 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/donald-trump-fires-loyalist-attorney-general-pam-bondi?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
