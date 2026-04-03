@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-03 21:01",
+  "updated_at_gst": "2026-04-03 21:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "French-owned container ship transits Hormuz Strait in first since Iran war",
-        "published": "Fri, 03 Apr 2026 16:24:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/drone-footage-shows-a-factory-in-israel-damaged-by-iranian-missile-debris?traffic_source=rss"
+        "title": "What we know about the US fighter jet shot down in Iran",
+        "published": "Fri, 03 Apr 2026 17:14:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war?traffic_source=rss"
       },
       {
-        "title": "Iranian forces launch search for crew of downed US fighter jet",
-        "published": "Fri, 03 Apr 2026 15:43:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/3/trump-says-with-more-time-us-can-take-the-oil-in-iran?traffic_source=rss"
+        "title": "Drone footage shows a factory in Israel damaged by Iranian missile debris",
+        "published": "Fri, 03 Apr 2026 15:51:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/3/trump-seeks-historic-1-5-trillion-for-military-in-congress-budget-request?traffic_source=rss"
       },
       {
-        "title": "Iran release videos of US aircraft searching for pilots shot down in Iran",
-        "published": "Fri, 03 Apr 2026 15:11:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/3/israel-threatens-to-destroy-more-lebanon-bridges-as-crisis-mounts?traffic_source=rss"
+        "title": "Trump says with more time, US can ‘take the oil’ in Iran",
+        "published": "Fri, 03 Apr 2026 15:18:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/panama-papers-10-years-on?traffic_source=rss"
       },
       {
-        "title": "How the US and Israel are waging war on Iran’s medicines, vaccines",
-        "published": "Fri, 03 Apr 2026 12:46:50 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/3/real-madrid-coach-insists-spain-is-not-racist-despite-islamaphobic-chant?traffic_source=rss"
+        "title": "Red Crescent supply warehouse attacked in southwest Iran",
+        "published": "Fri, 03 Apr 2026 15:13:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-release-videos-of-us-aircraft-searching-for-pilots-shot-down-in-iran?traffic_source=rss"
       },
       {
-        "title": "Over 100 US legal experts condemn strikes on Iran as possible ‘war crimes’",
-        "published": "Fri, 03 Apr 2026 10:49:25 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/artemis-ii-mission-fires-up-engines-in-next-step-of-moon-mission?traffic_source=rss"
+        "title": "Israel threatens to destroy more Lebanon bridges as crisis mounts",
+        "published": "Fri, 03 Apr 2026 14:43:39 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/whats-happening-to-christians-in-their-holy-land?traffic_source=rss"
+      },
+      {
+        "title": "‘I don’t know how we’ll emerge from this’: How much more can Israelis take?",
+        "published": "Fri, 03 Apr 2026 11:24:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/3/burkina-faso-military-leader-traore-says-forget-democracy?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
