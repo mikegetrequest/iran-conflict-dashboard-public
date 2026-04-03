@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-03 12:40",
+  "updated_at_gst": "2026-04-03 13:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How Israel is destroying healthcare infrastructure in southern Lebanon",
-        "published": "Fri, 03 Apr 2026 07:34:43 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/3/iranian-women-footballers-reveal-enormous-pressure-of-the-asian-cup-saga?traffic_source=rss"
+        "title": "Iran condemns US-Israeli ‘moral collapse’ after attacks on civilian sites",
+        "published": "Fri, 03 Apr 2026 08:03:04 +0000",
+        "link": "https://www.aljazeera.com/features/2026/4/3/how-israel-is-destroying-healthcare-infrastructure-in-southern-lebanon?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Ex-FM Zarif says Tehran should ‘declare victory, make deal’",
-        "published": "Fri, 03 Apr 2026 05:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss"
+        "title": "Iranian women footballers reveal ‘enormous pressure’ of the Asian Cup saga",
+        "published": "Fri, 03 Apr 2026 07:27:02 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/3/hegseth-fires-us-army-chief-of-staff-in-reported-string-of-dismissals?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What is happening on day 35 of US-Israeli attacks?",
+        "published": "Fri, 03 Apr 2026 06:42:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss"
+      },
+      {
+        "title": "How China’s ‘teapot’ refineries are cushioning it from Iran war oil crisis",
+        "published": "Fri, 03 Apr 2026 05:57:07 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss"
+      },
+      {
+        "title": "How war on Iran turned Pakistan’s LNG surplus into a looming shortage",
+        "published": "Fri, 03 Apr 2026 04:55:17 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/donald-trump-fires-loyalist-attorney-general-pam-bondi?traffic_source=rss"
+      },
+      {
+        "title": "Iran vows retaliation after deadly US strike on bridge in Karaj",
+        "published": "Fri, 03 Apr 2026 02:11:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
