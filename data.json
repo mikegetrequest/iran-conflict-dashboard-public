@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-04 18:23",
+  "updated_at_gst": "2026-04-04 18:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Vehicles burn in Israel after being hit with Iranian projectile debris",
+        "published": "Sat, 04 Apr 2026 14:40:04 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/4/haaland-grabs-hat-trick-as-man-city-thrash-liverpool-to-reach-fa-cup-semis?traffic_source=rss"
+      },
       {
         "title": "Israeli strikes damage hospital in Lebanon’s Tyre; ground invasion advances",
         "published": "Sat, 04 Apr 2026 13:07:25 +0000",
