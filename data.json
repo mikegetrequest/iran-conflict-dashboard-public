@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-04 13:04",
+  "updated_at_gst": "2026-04-04 13:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran executes two convicted members of banned opposition group",
-        "published": "Sat, 04 Apr 2026 08:22:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss"
+        "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
+        "published": "Sat, 04 Apr 2026 03:51:08 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/european-parliaments-rima-hassan-im-a-target-of-political?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
-        "published": "Sat, 04 Apr 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss"
+        "title": "Iranian missile attack hits residential areas in central Israel",
+        "published": "Sat, 04 Apr 2026 02:53:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss"
       },
       {
-        "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
-        "published": "Fri, 03 Apr 2026 20:37:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission?traffic_source=rss"
-      },
-      {
-        "title": "More than 20 attacks on Iranian healthcare facilities since March 1: WHO",
-        "published": "Fri, 03 Apr 2026 19:16:56 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/monks-hold-easter-prayers-in-deserted-old-city-of-jerusalem?traffic_source=rss"
+        "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
+        "published": "Fri, 03 Apr 2026 21:05:17 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
