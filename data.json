@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-04 22:28",
+  "updated_at_gst": "2026-04-04 23:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran’s coastline: architecture of control",
+        "published": "Sat, 04 Apr 2026 18:50:16 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicle-engulfed-in-flames-after-israeli-drone-strike-in-central-gaza?traffic_source=rss"
+      },
       {
         "title": "Italy’s Meloni meets Qatar emir to discuss energy issues amid Iran war",
         "published": "Sat, 04 Apr 2026 17:39:55 +0000",
@@ -39,11 +44,6 @@
         "title": "Witness records Israeli strike on building in Lebanon’s Tyre",
         "published": "Sat, 04 Apr 2026 15:15:39 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicles-burn-in-israel-after-being-hit-with-iranian-projectile-debris?traffic_source=rss"
-      },
-      {
-        "title": "Projectile hits near Iran’s Bushehr nuclear plant, killing one: IAEA",
-        "published": "Sat, 04 Apr 2026 12:19:39 +0000",
-        "link": "https://www.aljazeera.com/video/the-listening-post/2026/4/4/israels-unchecked-war-machine?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
