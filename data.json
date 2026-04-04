@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-04 19:22",
+  "updated_at_gst": "2026-04-04 19:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Three suspects ordered to stay in UK custody over Jewish charity attack",
+        "published": "Sat, 04 Apr 2026 15:19:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/witness-records-israeli-strike-on-building-in-lebanons-tyre?traffic_source=rss"
+      },
       {
         "title": "Vehicles burn in Israel after being hit with Iranian projectile debris",
         "published": "Sat, 04 Apr 2026 14:40:04 +0000",
@@ -39,11 +44,6 @@
         "title": "Iranian missile attack hits residential areas in central Israel",
         "published": "Sat, 04 Apr 2026 02:53:18 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss"
-      },
-      {
-        "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
-        "published": "Fri, 03 Apr 2026 21:05:17 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
