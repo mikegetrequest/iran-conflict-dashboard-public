@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-04 03:55",
+  "updated_at_gst": "2026-04-04 05:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
+        "published": "Sat, 04 Apr 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss"
+      },
       {
         "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
         "published": "Fri, 03 Apr 2026 20:37:44 +0000",
