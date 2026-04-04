@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-05 00:16",
+  "updated_at_gst": "2026-04-05 00:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "How will Pakistan deal with the fallout from Iran war?",
+        "published": "Sat, 04 Apr 2026 20:42:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/4/indonesia-receives-bodies-of-peacekeepers-killed-in-southern-lebanon?traffic_source=rss"
+      },
       {
         "title": "Tehran psychiatric hospital not usable after US-Israeli strike",
         "published": "Sat, 04 Apr 2026 19:48:15 +0000",
@@ -39,11 +44,6 @@
         "title": "What the Iran-Iraq war can tell us about the US-Israeli war on Iran",
         "published": "Sat, 04 Apr 2026 16:32:20 +0000",
         "link": "https://www.aljazeera.com/sports/liveblog/2026/4/4/live-atletico-madrid-vs-barcelona-la-liga?traffic_source=rss"
-      },
-      {
-        "title": "Iran says US, Israel belong in Stone Age after Tehran university strike",
-        "published": "Sat, 04 Apr 2026 15:49:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/4/three-suspects-ordered-to-stay-in-uk-custody-over-jewish-charity-attack?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
