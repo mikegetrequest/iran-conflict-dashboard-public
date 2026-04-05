@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-05 19:55",
+  "updated_at_gst": "2026-04-05 20:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iranian missile strikes industrial area in southern Israel",
+        "published": "Sun, 05 Apr 2026 16:06:15 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/4/5/earth-in-rear-view-of-artemis-ii-astronauts?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s Ben-Gvir details plans for Palestinian ‘death row’",
+        "published": "Sun, 05 Apr 2026 15:41:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/5/trump-threatens-hell-for-iran-over-hormuz-strait-as-deadline-approaches?traffic_source=rss"
+      },
       {
         "title": "Mearsheimer: No signs of quick end to US-Israel war on Iran",
         "published": "Sun, 05 Apr 2026 15:21:39 +0000",
@@ -34,16 +44,6 @@
         "title": "Iran’s ex-FM Zarif proposes peace roadmap; Gulf points at erosion of trust",
         "published": "Sun, 05 Apr 2026 12:44:11 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/italian-pm-says-the-gulf-is-fundamental-for-europes-security?traffic_source=rss"
-      },
-      {
-        "title": "Oman, Iran discuss smooth transit in Strait of Hormuz, Muscat says",
-        "published": "Sun, 05 Apr 2026 12:18:43 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/jeremy-hansen-is-the-first-canadian-to-head-to-the-moon?traffic_source=rss"
-      },
-      {
-        "title": "US pilot from downed F-15E plane rescued in Iran: What we know",
-        "published": "Sun, 05 Apr 2026 10:10:50 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
