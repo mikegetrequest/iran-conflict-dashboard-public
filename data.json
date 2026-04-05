@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-05 05:14",
+  "updated_at_gst": "2026-04-05 08:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,12 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Tehran rejects Trump’s ultimatum; fire at Kuwait oil complex",
+        "title": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
+        "published": "Sun, 05 Apr 2026 02:14:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: US officer from downed F-15E jet ‘recovered’, official says",
         "published": "Sun, 05 Apr 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/4/car-slams-into-louisiana-lao-new-year-parade-injuring-about-15-people?traffic_source=rss"
       },
@@ -39,11 +44,6 @@
         "title": "Universities hit as US, Israel ramp up attacks on Iran’s infrastructure",
         "published": "Sat, 04 Apr 2026 19:17:24 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/irans-coastline-architecture-of-control?traffic_source=rss"
-      },
-      {
-        "title": "Vehicle engulfed in flames after Israeli drone strike in central Gaza",
-        "published": "Sat, 04 Apr 2026 18:43:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/4/italys-meloni-meets-qatar-emir-to-discuss-energy-issues-amid-iran-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
