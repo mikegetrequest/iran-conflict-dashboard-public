@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-05 14:02",
+  "updated_at_gst": "2026-04-05 14:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
+        "published": "Sun, 05 Apr 2026 10:04:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/5/drone-attacks-hit-russian-oil-infrastructure-leak-and-fires-reported?traffic_source=rss"
+      },
       {
         "title": "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states",
         "published": "Sun, 05 Apr 2026 08:52:22 +0000",
@@ -36,14 +41,9 @@
         "link": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump confirms rescue of US officer, says ‘we got him’",
+        "title": "Iran war live: Iran claims new downing of US plane; Hormuz ‘deadline’ looms",
         "published": "Sun, 05 Apr 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/4/car-slams-into-louisiana-lao-new-year-parade-injuring-about-15-people?traffic_source=rss"
-      },
-      {
-        "title": "Israeli measures tighten grip on Hebron’s Ibrahimi Mosque",
-        "published": "Sat, 04 Apr 2026 22:37:35 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/4/lewandowski-claims-late-la-liga-win-for-barcelona-at-atletico?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
