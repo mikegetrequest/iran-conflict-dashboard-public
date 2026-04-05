@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-05 20:23",
+  "updated_at_gst": "2026-04-05 20:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "At least 14 people killed in Israeli strikes across Lebanon",
+        "published": "Sun, 05 Apr 2026 16:15:14 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/pope-warns-world-is-becoming-indifferent-to-violence?traffic_source=rss"
+      },
       {
         "title": "Iranian missile strikes industrial area in southern Israel",
         "published": "Sun, 05 Apr 2026 16:06:15 +0000",
@@ -39,11 +44,6 @@
         "title": "Nepal announces two-day weekends as fuel crisis caused by Iran war deepens",
         "published": "Sun, 05 Apr 2026 14:48:51 +0000",
         "link": "https://www.aljazeera.com/video/quotable/2026/4/5/trump-offers-no-concrete-plan-as-strait-of-hormuz-closure-shocks-europe?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s ex-FM Zarif proposes peace roadmap; Gulf points at erosion of trust",
-        "published": "Sun, 05 Apr 2026 12:44:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/italian-pm-says-the-gulf-is-fundamental-for-europes-security?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
