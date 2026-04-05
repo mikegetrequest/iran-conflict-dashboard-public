@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-05 19:28",
+  "updated_at_gst": "2026-04-05 19:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Mearsheimer: No signs of quick end to US-Israel war on Iran",
+        "published": "Sun, 05 Apr 2026 15:21:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/5/dr-congo-to-receive-third-country-deportees-from-the-us-under-new-deal?traffic_source=rss"
+      },
       {
         "title": "Why an attack on Bushehr nuclear plant would be catastrophic for the Gulf",
         "published": "Sun, 05 Apr 2026 15:05:49 +0000",
@@ -39,11 +44,6 @@
         "title": "US pilot from downed F-15E plane rescued in Iran: What we know",
         "published": "Sun, 05 Apr 2026 10:10:50 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s attack on UNRWA is central to its genocide of the Palestinians",
-        "published": "Sun, 05 Apr 2026 08:40:26 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/5/messi-scores-as-inter-miami-open-new-stadium-with-a-draw-in-the-mls?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
