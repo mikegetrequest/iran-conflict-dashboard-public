@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-07 01:00",
+  "updated_at_gst": "2026-04-07 01:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump says US could charge for Strait of Hormuz passage amid Iran war",
+        "published": "Mon, 06 Apr 2026 21:26:20 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/4/6/why-is-irans-bushehr-nuclear-power-plant-being?traffic_source=rss"
+      },
       {
         "title": "Trump claims Iranians begging US to keep bombing Iran",
         "published": "Mon, 06 Apr 2026 20:05:05 +0000",
@@ -34,11 +39,6 @@
         "title": "Hegseth says strikes on Iran increasing as Hormuz deadline looms",
         "published": "Mon, 06 Apr 2026 18:18:16 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-irans-top-university-hit-in-us-israeli-strikes?traffic_source=rss"
-      },
-      {
-        "title": "Trump warns Hormuz deadline ‘final’ as Iran pushes proposal to end war",
-        "published": "Mon, 06 Apr 2026 17:38:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-praised-airmans-rescue-in-iran-during-white-house-easter-event?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
