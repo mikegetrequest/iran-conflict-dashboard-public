@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-06 15:39",
+  "updated_at_gst": "2026-04-06 16:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,12 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Pakistan offers two-stage truce plan to end US-Israel war: Report",
+        "title": "Has Trump confirmed Iran’s claim that protesters were US-armed?",
+        "published": "Mon, 06 Apr 2026 11:52:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/6/iran-threatens-bab-al-mandeb-closure-how-would-that-affect-world-trade?traffic_source=rss"
+      },
+      {
+        "title": "Pakistan offers ‘two-phased’ truce deal to end US-Israel war on Iran",
         "published": "Mon, 06 Apr 2026 11:25:17 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/6/trumps-bridge-day-threat-can-a-last-ditch-ceasefire-plan-work?traffic_source=rss"
       },
@@ -34,11 +39,6 @@
         "title": "Iran’s top university bombed as US, Israel intensify attacks; 34 killed",
         "published": "Mon, 06 Apr 2026 08:31:35 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/6/iran-war-what-is-happening-on-day-38-of-us-israeli-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war",
-        "published": "Mon, 06 Apr 2026 01:14:00 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
