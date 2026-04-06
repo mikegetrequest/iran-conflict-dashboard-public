@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-06 23:33",
+  "updated_at_gst": "2026-04-07 00:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump claims Iranians begging US to keep bombing Iran",
+        "published": "Mon, 06 Apr 2026 20:05:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-trump-threatens-to-jail-reporter-over-iran-airman-rescue-leak?traffic_source=rss"
+      },
+      {
+        "title": "Renewed Israeli strikes pound Lebanon as ground offensive deepens",
+        "published": "Mon, 06 Apr 2026 19:40:59 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/child-rescued-from-rubble-after-russia-ramps-up-strikes-on-ukraine?traffic_source=rss"
+      },
       {
         "title": "Rescuers search for survivors after strikes hit homes in Iran",
         "published": "Mon, 06 Apr 2026 19:08:23 +0000",
@@ -34,16 +44,6 @@
         "title": "Israeli army fire on WHO vehicle in southern Gaza kills one, medics report",
         "published": "Mon, 06 Apr 2026 15:58:34 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-grandmother-loses-her-family-due-to-israeli-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Where are Iran’s power plants that Trump has threatened to destroy?",
-        "published": "Mon, 06 Apr 2026 14:50:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/6/ukraine-strikes-russian-black-sea-energy-hub-novorossiysk?traffic_source=rss"
-      },
-      {
-        "title": "In maps and photos: Five Iranian civilian bridges at risk of US strikes",
-        "published": "Mon, 06 Apr 2026 14:04:59 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/4/6/the-us-could-still-try-to-play-the-ethnic-card-in-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
