@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-07 08:08",
+  "updated_at_gst": "2026-04-07 10:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump’s threat to strike Iran’s power plants looms",
+        "published": "Tue, 07 Apr 2026 04:33:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss"
+      },
       {
         "title": "Trump says US could charge for Strait of Hormuz passage amid Iran war",
         "published": "Mon, 06 Apr 2026 21:26:20 +0000",
@@ -34,11 +39,6 @@
         "title": "Rescuers search for survivors after strikes hit homes in Iran",
         "published": "Mon, 06 Apr 2026 19:08:23 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/6/north-korea-keeping-iran-at-arms-length-reports-seoul?traffic_source=rss"
-      },
-      {
-        "title": "Hegseth says strikes on Iran increasing as Hormuz deadline looms",
-        "published": "Mon, 06 Apr 2026 18:18:16 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-irans-top-university-hit-in-us-israeli-strikes?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
