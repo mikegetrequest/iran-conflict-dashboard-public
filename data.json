@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-07 22:44",
+  "updated_at_gst": "2026-04-07 23:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "French nationals return home following Iran prison release",
+        "published": "Tue, 07 Apr 2026 19:07:11 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/what-we-know-about-the-shooting-by-istanbuls-israeli-consulate?traffic_source=rss"
+      },
       {
         "title": "Why JD Vance joined Pakistan’s last-ditch US-Iran mediation efforts",
         "published": "Tue, 07 Apr 2026 17:32:05 +0000",
@@ -34,11 +39,6 @@
         "title": "Fire erupts near industrial site in Saudi Arabia after Iranian strikes",
         "published": "Tue, 07 Apr 2026 16:36:57 +0000",
         "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/7/can-africa-tackle-the-oil-shock-from-the-iran-war?traffic_source=rss"
-      },
-      {
-        "title": "Trump on Iran: ‘A whole civilisation will die tonight’",
-        "published": "Tue, 07 Apr 2026 13:53:52 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/7/ice-says-its-agents-dont-carry-guns-in-canada-as-world-cup-approaches?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
