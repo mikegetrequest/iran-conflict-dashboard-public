@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-08 02:26",
+  "updated_at_gst": "2026-04-08 03:04",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "What we know about Pakistan’s proposed Iran war pause",
+        "published": "Tue, 07 Apr 2026 22:24:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranian-musician-stages-protest-at-power-station-over-trump-threats?traffic_source=rss"
+      },
       {
         "title": "Iran warns region and beyond as tension builds ahead of US ultimatum",
         "published": "Tue, 07 Apr 2026 21:48:54 +0000",
