@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-07 11:20",
+  "updated_at_gst": "2026-04-07 12:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "What is driving the Houthis’ decision-making on joining the Iran war",
+        "published": "Tue, 07 Apr 2026 08:07:05 +0000",
+        "link": "https://www.aljazeera.com/features/2026/4/7/how-pakistans-solar-boom-is-shielding-it-from-worst-of-iran-war-crisis?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What is happening on day 39 of US-Israeli attacks?",
+        "published": "Tue, 07 Apr 2026 07:52:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/7/israel-warns-iranians-to-avoid-trains-as-trump-deadline-approaches?traffic_source=rss"
+      },
+      {
         "title": "Trump’s threat to strike Iran’s power plants looms",
         "published": "Tue, 07 Apr 2026 04:33:45 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss"
@@ -24,16 +34,6 @@
         "title": "Trump says US could charge for Strait of Hormuz passage amid Iran war",
         "published": "Mon, 06 Apr 2026 21:26:20 +0000",
         "link": "https://www.aljazeera.com/video/inside-story/2026/4/6/why-is-irans-bushehr-nuclear-power-plant-being?traffic_source=rss"
-      },
-      {
-        "title": "Trump claims Iranians begging US to keep bombing Iran",
-        "published": "Mon, 06 Apr 2026 20:05:05 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-trump-threatens-to-jail-reporter-over-iran-airman-rescue-leak?traffic_source=rss"
-      },
-      {
-        "title": "Renewed Israeli strikes pound Lebanon as ground offensive deepens",
-        "published": "Mon, 06 Apr 2026 19:40:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/child-rescued-from-rubble-after-russia-ramps-up-strikes-on-ukraine?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
