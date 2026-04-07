@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-07 12:41",
+  "updated_at_gst": "2026-04-07 13:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "What is driving the Houthis’ decision-making on joining the Iran war",
-        "published": "Tue, 07 Apr 2026 08:07:05 +0000",
-        "link": "https://www.aljazeera.com/features/2026/4/7/how-pakistans-solar-boom-is-shielding-it-from-worst-of-iran-war-crisis?traffic_source=rss"
+        "title": "USA striker Patrick Agyemang’s World Cup in doubt after stretcher exit",
+        "published": "Tue, 07 Apr 2026 09:28:26 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/7/los-angeles-stadium-workers-urge-fifa-to-bar-ice-from-world-cup?traffic_source=rss"
       },
       {
-        "title": "Iran war: What is happening on day 39 of US-Israeli attacks?",
-        "published": "Tue, 07 Apr 2026 07:52:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/7/israel-warns-iranians-to-avoid-trains-as-trump-deadline-approaches?traffic_source=rss"
+        "title": "Iran releases on bail Japan national jailed amid antigovernment protests",
+        "published": "Tue, 07 Apr 2026 08:44:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/7/synagogue-in-tehran-destroyed-in-us-israeli-strikes-on-iran?traffic_source=rss"
       },
       {
-        "title": "Trump’s threat to strike Iran’s power plants looms",
-        "published": "Tue, 07 Apr 2026 04:33:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss"
+        "title": "Lebanese firefighters respond to aftermath of Israeli strike",
+        "published": "Tue, 07 Apr 2026 08:39:01 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/4/7/what-is-driving-the-houthis-decision-making-on-joining-the-iran-war?traffic_source=rss"
       },
       {
-        "title": "Trump says US could charge for Strait of Hormuz passage amid Iran war",
-        "published": "Mon, 06 Apr 2026 21:26:20 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/4/6/why-is-irans-bushehr-nuclear-power-plant-being?traffic_source=rss"
+        "title": "How Pakistan’s solar boom is shielding it from worst of Iran war crisis",
+        "published": "Tue, 07 Apr 2026 07:52:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/7/iran-war-what-is-happening-on-day-39-of-us-israeli-attacks?traffic_source=rss"
+      },
+      {
+        "title": "Israel threatens Iran’s trains, railways before Trump’s deadline expires",
+        "published": "Tue, 07 Apr 2026 07:39:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/7/australian-soldier-ben-roberts-smith-arrested-over-alleged-war-crimes?traffic_source=rss"
+      },
+      {
+        "title": "Iran says US-Israeli projectile has struck a synagogue in Tehran",
+        "published": "Tue, 07 Apr 2026 06:03:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
