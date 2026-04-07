@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-07 03:55",
+  "updated_at_gst": "2026-04-07 05:15",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump says US could charge for Strait of Hormuz passage amid Iran war",
-        "published": "Mon, 06 Apr 2026 21:26:20 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/4/6/why-is-irans-bushehr-nuclear-power-plant-being?traffic_source=rss"
+        "title": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears",
+        "published": "Tue, 07 Apr 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war?traffic_source=rss"
       },
       {
-        "title": "Trump claims Iranians begging US to keep bombing Iran",
-        "published": "Mon, 06 Apr 2026 20:05:05 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-trump-threatens-to-jail-reporter-over-iran-airman-rescue-leak?traffic_source=rss"
+        "title": "Why is Iran’s Bushehr nuclear power plant being attacked?",
+        "published": "Mon, 06 Apr 2026 21:10:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/protesters-swarm-us-embassy-in-tel-aviv-demanding-end-of-wars?traffic_source=rss"
       },
       {
-        "title": "Renewed Israeli strikes pound Lebanon as ground offensive deepens",
-        "published": "Mon, 06 Apr 2026 19:40:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/child-rescued-from-rubble-after-russia-ramps-up-strikes-on-ukraine?traffic_source=rss"
+        "title": "Israeli soldiers fire tear gas at Palestinian youth during raid in Hebron",
+        "published": "Mon, 06 Apr 2026 21:02:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/6/russia-jails-former-kursk-governor-in-ukraine-incursion-linked-graft-probe?traffic_source=rss"
       },
       {
-        "title": "Rescuers search for survivors after strikes hit homes in Iran",
-        "published": "Mon, 06 Apr 2026 19:08:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/6/north-korea-keeping-iran-at-arms-length-reports-seoul?traffic_source=rss"
+        "title": "Israeli air strike kills at least 10 Palestinians near Gaza school",
+        "published": "Mon, 06 Apr 2026 20:34:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/6/us-supreme-court-clears-path-for-steve-bannon-criminal-case-dismissal?traffic_source=rss"
       },
       {
-        "title": "Hegseth says strikes on Iran increasing as Hormuz deadline looms",
-        "published": "Mon, 06 Apr 2026 18:18:16 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-irans-top-university-hit-in-us-israeli-strikes?traffic_source=rss"
+        "title": "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel",
+        "published": "Mon, 06 Apr 2026 20:22:06 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-claims-iranians-begging-us-to-keep-bombing-iran?traffic_source=rss"
+      },
+      {
+        "title": "Video: Trump threatens to jail reporter over Iran airman rescue leak",
+        "published": "Mon, 06 Apr 2026 20:01:32 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/renewed-israeli-strikes-pound-lebanon-as-ground-offensive-deepens?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
