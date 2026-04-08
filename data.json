@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-08 12:52",
+  "updated_at_gst": "2026-04-08 13:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,12 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Gulf, Arab nations react to Iran-US ceasefire announcement",
+        "title": "Lebanon excluded from ceasefire as Israeli strikes continue",
+        "published": "Wed, 08 Apr 2026 09:29:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/8/us-iran-ceasefire-deal-what-are-the-terms-and-whats-next?traffic_source=rss"
+      },
+      {
+        "title": "GCC, other Middle East nations react to Iran-US ceasefire announcement",
         "published": "Wed, 08 Apr 2026 08:24:31 +0000",
         "link": "https://www.aljazeera.com/sports/2026/4/8/romanian-football-great-mircea-lucescu-dies-aged-80?traffic_source=rss"
       },
@@ -39,11 +44,6 @@
         "title": "Iranians commemorate victims of Minab school strike",
         "published": "Wed, 08 Apr 2026 04:29:15 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/8/world-welcomes-us-iran-ceasefire-urges-lasting-peace-in-the-middle-east?traffic_source=rss"
-      },
-      {
-        "title": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’",
-        "published": "Wed, 08 Apr 2026 03:17:42 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/8/is-artetas-intensity-arsenals-premier-and-champions-league-hope-or-fear?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
