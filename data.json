@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-08 13:57",
+  "updated_at_gst": "2026-04-08 14:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "UAE, Kuwait, Bahrain report attacks despite Iran-US ceasefire",
+        "published": "Wed, 08 Apr 2026 10:43:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/8/were-new-miyas-will-bjp-naming-some-assamese-muslims-indigenous-work?traffic_source=rss"
+      },
       {
         "title": "Lebanon excluded from ceasefire as Israeli strikes continue",
         "published": "Wed, 08 Apr 2026 09:29:33 +0000",
@@ -39,11 +44,6 @@
         "title": "US ceasefire allows negotiations on Iran’s ‘workable’ 10-point plan",
         "published": "Wed, 08 Apr 2026 05:04:37 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/8/caution-relief-as-us-politicians-respond-to-trumps-ceasefire-with-iran?traffic_source=rss"
-      },
-      {
-        "title": "Iranians commemorate victims of Minab school strike",
-        "published": "Wed, 08 Apr 2026 04:29:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/8/world-welcomes-us-iran-ceasefire-urges-lasting-peace-in-the-middle-east?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
