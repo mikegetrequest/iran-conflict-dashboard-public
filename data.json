@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-08 08:35",
+  "updated_at_gst": "2026-04-08 10:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US ceasefire allows negotiations on Iran’s ‘workable’ 10-point plan",
+        "published": "Wed, 08 Apr 2026 05:04:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/8/caution-relief-as-us-politicians-respond-to-trumps-ceasefire-with-iran?traffic_source=rss"
+      },
+      {
+        "title": "Iranians commemorate victims of Minab school strike",
+        "published": "Wed, 08 Apr 2026 04:29:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/8/world-welcomes-us-iran-ceasefire-urges-lasting-peace-in-the-middle-east?traffic_source=rss"
+      },
       {
         "title": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’",
         "published": "Wed, 08 Apr 2026 03:17:42 +0000",
@@ -34,16 +44,6 @@
         "title": "White House confirms two-week suspension of strikes on Iran",
         "published": "Wed, 08 Apr 2026 00:06:56 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss"
-      },
-      {
-        "title": "What we know about Pakistan’s proposed Iran war pause",
-        "published": "Tue, 07 Apr 2026 22:24:13 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranian-musician-stages-protest-at-power-station-over-trump-threats?traffic_source=rss"
-      },
-      {
-        "title": "Iran warns region and beyond as tension builds ahead of US ultimatum",
-        "published": "Tue, 07 Apr 2026 21:48:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/7/pakistan-appeals-to-trump-to-extend-deadline-iran-to-reopen-strait-of-hormuz?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
