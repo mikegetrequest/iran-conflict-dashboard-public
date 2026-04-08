@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-08 20:49",
+  "updated_at_gst": "2026-04-08 21:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump claims victory in Iran — but is this really a win?",
+        "published": "Wed, 08 Apr 2026 17:07:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/8/israeli-attack-kills-al-jazeera-journalist-mohammed-wishah-in-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon PM welcomes US-Iran ceasefire as Israeli strikes hit Beirut",
+        "published": "Wed, 08 Apr 2026 17:03:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/8/nobel-prize-committee-condemns-russian-move-to-criminalise-rights-group?traffic_source=rss"
+      },
       {
         "title": "Hegseth: Iran ‘begged’ for ceasefire, claims ‘historic victory’",
         "published": "Wed, 08 Apr 2026 15:47:24 +0000",
@@ -34,16 +44,6 @@
         "title": "Israel strikes central Beirut without warning",
         "published": "Wed, 08 Apr 2026 15:01:54 +0000",
         "link": "https://www.aljazeera.com/opinions/2026/4/8/did-america-lose-yet-another-war?traffic_source=rss"
-      },
-      {
-        "title": "Israeli attacks across Lebanon kill dozens hours after Iran-US ceasefire",
-        "published": "Wed, 08 Apr 2026 14:39:33 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/8/empty-ships-and-shut-wells-why-the-iran-war-oil-crisis-is-not-over-yet?traffic_source=rss"
-      },
-      {
-        "title": "Lavan refinery blaze continues hours after US-Iran ceasefire agreement",
-        "published": "Wed, 08 Apr 2026 14:18:48 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/israeli-closure-of-al-aqsa-selective?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
