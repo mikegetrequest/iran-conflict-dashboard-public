@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-08 16:52",
+  "updated_at_gst": "2026-04-08 18:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US-Iran ceasefire deal: What are the terms, and what’s next?",
-        "published": "Wed, 08 Apr 2026 09:20:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/8/gulf-arab-nations-react-to-iran-us-ceasefire-announcement?traffic_source=rss"
+        "title": "Scenes of chaos, destruction as Israel bombards Lebanon",
+        "published": "Wed, 08 Apr 2026 13:39:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/8/defeat-from-the-jaws-of-victory-israel-reacts-to-trumps-iran-ceasefire?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump, Tehran declare ceasefire, but some attacks continue",
-        "published": "Wed, 08 Apr 2026 07:00:00 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/8/fearless-teen-sensation-sooryavanshi-aces-bumrah-test-in-ipl-blitz?traffic_source=rss"
+        "title": "UAE, Kuwait, Bahrain report attacks despite Iran-US ceasefire",
+        "published": "Wed, 08 Apr 2026 10:43:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/8/were-new-miyas-will-bjp-naming-some-assamese-muslims-indigenous-work?traffic_source=rss"
       },
       {
-        "title": "In Strait of Hormuz, Iran and China take aim at US dollar hegemony",
-        "published": "Wed, 08 Apr 2026 06:21:06 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/us-ceasefire-allows-negotiations-on-irans-workable-10-point-plan?traffic_source=rss"
+        "title": "Lebanon excluded from ceasefire as Israeli strikes continue",
+        "published": "Wed, 08 Apr 2026 09:29:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/8/us-iran-ceasefire-deal-what-are-the-terms-and-whats-next?traffic_source=rss"
       },
       {
-        "title": "US politicians react to Trump’s Iran ceasefire with caution, relief",
-        "published": "Wed, 08 Apr 2026 04:34:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iranians-commemorate-victims-of-minab-school-strike?traffic_source=rss"
+        "title": "GCC, other Middle East nations react to Iran-US ceasefire announcement",
+        "published": "Wed, 08 Apr 2026 08:24:31 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/8/romanian-football-great-mircea-lucescu-dies-aged-80?traffic_source=rss"
+      },
+      {
+        "title": "Tehran celebrates as Iran, US agree to two-week ceasefire",
+        "published": "Wed, 08 Apr 2026 08:21:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/8/our-geography-is-our-oil-why-djibouti-hosts-many-foreign-military-bases?traffic_source=rss"
+      },
+      {
+        "title": "US-Israeli war on Iran: What is happening on day 40?",
+        "published": "Wed, 08 Apr 2026 07:03:17 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/8/iran-war-live-trump-announces-truce-tehran-agrees-safe-transit-in-hormuz?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
