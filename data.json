@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-08 03:57",
+  "updated_at_gst": "2026-04-08 05:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire",
+        "published": "Wed, 08 Apr 2026 01:29:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/8/iran-says-talks-with-us-will-begin-in-pakistans-islamabad-on-friday?traffic_source=rss"
+      },
+      {
+        "title": "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
+        "published": "Wed, 08 Apr 2026 01:00:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/white-house-confirms-two-week-suspension-of-strikes-on-iran?traffic_source=rss"
+      },
       {
         "title": "Trump agrees to pause attacks on Iran if Strait of Hormuz opens",
         "published": "Tue, 07 Apr 2026 23:25:46 +0000",
@@ -34,16 +44,6 @@
         "title": "Djibouti and the Horn of Africa: new front in the war on Iran",
         "published": "Tue, 07 Apr 2026 21:57:50 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/7/iran-warns-region-and-beyond-as-tension-builds-ahead-of-us-ultimatum?traffic_source=rss"
-      },
-      {
-        "title": "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait",
-        "published": "Tue, 07 Apr 2026 21:35:17 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/7/kane-leads-bayern-to-2-1-win-over-real-madrid-in-champions-league-thriller?traffic_source=rss"
-      },
-      {
-        "title": "Protesters in Iraq swarm Kuwaiti consulate after deadly rocket attack",
-        "published": "Tue, 07 Apr 2026 21:12:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/7/iranians-brace-for-possible-devastation-as-trumps-deadline-looms?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
