@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-09 22:44",
+  "updated_at_gst": "2026-04-09 23:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran says it ‘would be dumb’ for US to let Netanyahu kill diplomacy",
+        "published": "Thu, 09 Apr 2026 18:49:00 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/4/9/iranians-rally-nationwide-to-honor-late-leader-ali-khamenei?traffic_source=rss"
+      },
+      {
         "title": "US Democrats warn Trump that Iran ceasefire must apply to Lebanon",
         "published": "Thu, 09 Apr 2026 17:38:26 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/sidon-residents-recall-horror-of-israeli-strikes-after-iran-ceasefire?traffic_source=rss"
@@ -29,16 +34,6 @@
         "title": "IMF warns of looming inflation crisis on back of US-Israel war on Iran",
         "published": "Thu, 09 Apr 2026 17:23:22 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/9/israels-netanyahu-ready-for-talks-with-lebanon-as-soon-as-possible?traffic_source=rss"
-      },
-      {
-        "title": "Can global supply chains recover from the Iran war?",
-        "published": "Thu, 09 Apr 2026 15:30:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/9/israeli-attacks-on-lebanon-aimed-to-undermine-ceasefire-critics-say?traffic_source=rss"
-      },
-      {
-        "title": "Has Iran’s 10-point plan changed, as JD Vance claims?",
-        "published": "Thu, 09 Apr 2026 14:47:13 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/9/brazil-bowler-cardoso-takes-9-lesotho-wickets-in-record-breaking-t20-win?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
