@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-09 21:34",
+  "updated_at_gst": "2026-04-09 22:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US Democrats warn Trump that Iran ceasefire must apply to Lebanon",
+        "published": "Thu, 09 Apr 2026 17:38:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/sidon-residents-recall-horror-of-israeli-strikes-after-iran-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Does a US-Iran ceasefire mean the end of the war?",
+        "published": "Thu, 09 Apr 2026 17:31:15 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/9/la28-olympics-opens-ticket-sales-globally-after-record-local-demand?traffic_source=rss"
+      },
+      {
+        "title": "IMF warns of looming inflation crisis on back of US-Israel war on Iran",
+        "published": "Thu, 09 Apr 2026 17:23:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/9/israels-netanyahu-ready-for-talks-with-lebanon-as-soon-as-possible?traffic_source=rss"
+      },
+      {
         "title": "Can global supply chains recover from the Iran war?",
         "published": "Thu, 09 Apr 2026 15:30:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/9/israeli-attacks-on-lebanon-aimed-to-undermine-ceasefire-critics-say?traffic_source=rss"
@@ -24,21 +39,6 @@
         "title": "Has Iran’s 10-point plan changed, as JD Vance claims?",
         "published": "Thu, 09 Apr 2026 14:47:13 +0000",
         "link": "https://www.aljazeera.com/sports/2026/4/9/brazil-bowler-cardoso-takes-9-lesotho-wickets-in-record-breaking-t20-win?traffic_source=rss"
-      },
-      {
-        "title": "What is Iran’s Strait of Hormuz protocol and will other nations accept it?",
-        "published": "Thu, 09 Apr 2026 13:23:15 +0000",
-        "link": "https://www.aljazeera.com/video/money-works/2026/4/9/the-economic-cost-of-us-israel-war-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "US-Iran talks in Pakistan: Who’s attending, what’s on the agenda?",
-        "published": "Thu, 09 Apr 2026 13:18:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/9/four-die-dozens-rescued-in-attempted-channel-crossing-from-france-to-uk?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon Latest: Israel kills hundreds in one day",
-        "published": "Thu, 09 Apr 2026 12:54:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/9/energy-crisis-is-the-mother-of-all-crises-turkish-energy-minister?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
