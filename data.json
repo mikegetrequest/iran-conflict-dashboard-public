@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-09 18:48",
+  "updated_at_gst": "2026-04-09 20:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Can global supply chains recover from the Iran war?",
+        "published": "Thu, 09 Apr 2026 15:30:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/9/israeli-attacks-on-lebanon-aimed-to-undermine-ceasefire-critics-say?traffic_source=rss"
+      },
+      {
+        "title": "Has Iran’s 10-point plan changed, as JD Vance claims?",
+        "published": "Thu, 09 Apr 2026 14:47:13 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/9/brazil-bowler-cardoso-takes-9-lesotho-wickets-in-record-breaking-t20-win?traffic_source=rss"
+      },
       {
         "title": "What is Iran’s Strait of Hormuz protocol and will other nations accept it?",
         "published": "Thu, 09 Apr 2026 13:23:15 +0000",
@@ -34,11 +44,6 @@
         "title": "Funeral held for Al Jazeera’s Wishah killed in Israeli strike in Gaza",
         "published": "Thu, 09 Apr 2026 11:54:24 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/9/why-israels-attacks-on-lebanon-could-cripple-us-iran-ceasefire?traffic_source=rss"
-      },
-      {
-        "title": "The war on Iran: Nobody won, everyone paid",
-        "published": "Thu, 09 Apr 2026 09:27:05 +0000",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/9/can-global-supply-chains-recover-from-the-iran-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
