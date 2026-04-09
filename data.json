@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-09 16:54",
+  "updated_at_gst": "2026-04-09 18:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire",
-        "published": "Thu, 09 Apr 2026 10:57:56 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/9/argentinas-lawmakers-approve-bill-allowing-mining-in-glaciers?traffic_source=rss"
+        "title": "What is Iran’s Strait of Hormuz protocol and will other nations accept it?",
+        "published": "Thu, 09 Apr 2026 13:23:15 +0000",
+        "link": "https://www.aljazeera.com/video/money-works/2026/4/9/the-economic-cost-of-us-israel-war-on-iran?traffic_source=rss"
       },
       {
-        "title": "Several people reported killed in fresh Israeli attacks on Lebanon",
-        "published": "Thu, 09 Apr 2026 09:29:04 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/4/9/the-war-on-iran-nobody-won-everyone-paid?traffic_source=rss"
+        "title": "US-Iran talks in Pakistan: Who’s attending, what’s on the agenda?",
+        "published": "Thu, 09 Apr 2026 13:18:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/9/four-die-dozens-rescued-in-attempted-channel-crossing-from-france-to-uk?traffic_source=rss"
       },
       {
-        "title": "Can global supply chains recover from the Iran war?",
-        "published": "Thu, 09 Apr 2026 09:25:19 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/9/ukraines-veterans-theatre-turns-war-wounds-into-catharsis?traffic_source=rss"
+        "title": "Lebanon Latest: Israel kills hundreds in one day",
+        "published": "Thu, 09 Apr 2026 12:54:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/9/energy-crisis-is-the-mother-of-all-crises-turkish-energy-minister?traffic_source=rss"
       },
       {
-        "title": "Thousands of Palestinians pray at Al-Aqsa Mosque after Israel’s 40-day ban",
-        "published": "Thu, 09 Apr 2026 08:09:17 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/4/9/iran-has-been-bloodied-but-it-is-winning-against-the-us-israel-axis?traffic_source=rss"
+        "title": "Funeral held for Al Jazeera’s Wishah killed in Israeli strike in Gaza",
+        "published": "Thu, 09 Apr 2026 11:54:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/9/why-israels-attacks-on-lebanon-could-cripple-us-iran-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "The war on Iran: Nobody won, everyone paid",
+        "published": "Thu, 09 Apr 2026 09:27:05 +0000",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/9/can-global-supply-chains-recover-from-the-iran-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
