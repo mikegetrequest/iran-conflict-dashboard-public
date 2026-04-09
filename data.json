@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-10 02:29",
+  "updated_at_gst": "2026-04-10 03:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Netanyahu: ‘No ceasefire in Lebanon’, Israel open to peace talks",
-        "published": "Thu, 09 Apr 2026 20:45:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/9/gaza-journalists-mourn-al-jazeeras-wishah-killed-by-israel?traffic_source=rss"
+        "title": "Hospitals in Beirut struggle to deal with casualties after Israeli attacks",
+        "published": "Thu, 09 Apr 2026 21:36:43 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/9/caf-president-motsepe-rejects-senegals-corruption-claim-after-afcon-furore?traffic_source=rss"
       },
       {
-        "title": "Khamenei says Tehran ‘astonished the world’ during US-Israeli war on Iran",
-        "published": "Thu, 09 Apr 2026 20:16:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/iran-strait-of-hormuz-open-with-restrictions?traffic_source=rss"
+        "title": "Gaza journalists mourn Al Jazeera’s Wishah, killed by Israel",
+        "published": "Thu, 09 Apr 2026 20:41:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/9/khamenei-says-tehran-astonished-the-world-during-us-israeli-war-on-iran?traffic_source=rss"
       },
       {
-        "title": "Why is Hezbollah a sticking point in the Iran ceasefire?",
-        "published": "Thu, 09 Apr 2026 19:17:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/9/us-led-historic-foreign-aid-decline-in-2025-amid-trump-cuts-oecd?traffic_source=rss"
-      },
-      {
-        "title": "Scale of Beirut destruction revealed after wave of Israeli strikes",
-        "published": "Thu, 09 Apr 2026 18:55:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/9/iran-says-it-would-be-dumb-for-us-to-let-netanyahu-kill-diplomacy?traffic_source=rss"
-      },
-      {
-        "title": "Iranians rally nationwide to honour late leader Ali Khamenei",
-        "published": "Thu, 09 Apr 2026 18:23:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/9/not-some-piece-of-ice-greenland-hits-back-at-trump-insult?traffic_source=rss"
+        "title": "Iran: Strait of Hormuz open with restrictions",
+        "published": "Thu, 09 Apr 2026 20:13:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/9/saudi-arabia-says-operational-activities-halted-at-several-energy-sites?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
