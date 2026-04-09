@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-09 11:57",
+  "updated_at_gst": "2026-04-09 13:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran has been bloodied, but it is winning against the US-Israel axis",
+        "published": "Thu, 09 Apr 2026 08:05:20 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/9/eritreas-afcon-place-in-doubt-after-players-disappear-in-south-africa?traffic_source=rss"
+      },
       {
         "title": "Trump says US forces to stay near Iran, ready for ‘next conquest’",
         "published": "Thu, 09 Apr 2026 07:38:16 +0000",
@@ -39,11 +44,6 @@
         "title": "Iran war live: Trump threatens action if Tehran fails to comply with deal",
         "published": "Thu, 09 Apr 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/israel-must-be-restrained-for-us-iran-ceasefire-to?traffic_source=rss"
-      },
-      {
-        "title": "JD Vance says Iran would be ‘dumb’ to let talks collapse over Lebanon",
-        "published": "Wed, 08 Apr 2026 21:50:36 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/8/prosecutors-move-to-subpoena-tiger-woods-prescription-drug-records?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
