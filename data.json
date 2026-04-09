@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-09 14:37",
+  "updated_at_gst": "2026-04-09 15:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire",
+        "published": "Thu, 09 Apr 2026 10:57:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/9/argentinas-lawmakers-approve-bill-allowing-mining-in-glaciers?traffic_source=rss"
+      },
       {
         "title": "Several people reported killed in fresh Israeli attacks on Lebanon",
         "published": "Thu, 09 Apr 2026 09:29:04 +0000",
@@ -34,16 +39,6 @@
         "title": "For Gulf states, Hormuz uncertainty casts shadow over US-Iran ceasefire",
         "published": "Thu, 09 Apr 2026 05:58:36 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/man-rescued-after-two-weeks-trapped-in-collapsed-mexico-mine?traffic_source=rss"
-      },
-      {
-        "title": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
-        "published": "Thu, 09 Apr 2026 04:46:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/13-year-old-girl-captures-terrifying-moment-israel-bombed-beirut?traffic_source=rss"
-      },
-      {
-        "title": "Turkish convoy condemns ‘lawless aggression’ of the US and Israel",
-        "published": "Thu, 09 Apr 2026 02:26:35 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/protesters-outside-israeli-embassy-in-london-condemn-assault-on-lebanon?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
