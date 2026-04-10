@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-10 03:57",
+  "updated_at_gst": "2026-04-10 06:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war live: Israeli attacks on Lebanon threaten US-Iran ceasefire talks",
+        "published": "Fri, 10 Apr 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/video-shows-explosion-over-erbil-in-suspected-drone-interception?traffic_source=rss"
+      },
       {
         "title": "Hospitals in Beirut struggle to deal with casualties after Israeli attacks",
         "published": "Thu, 09 Apr 2026 21:36:43 +0000",
