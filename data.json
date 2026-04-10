@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-10 18:08",
+  "updated_at_gst": "2026-04-10 19:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,12 +16,17 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel threatens healthcare as it continues to attack Lebanon",
-        "published": "Fri, 10 Apr 2026 13:23:58 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/10/ukraine-says-russia-suffers-record-losses-of-soldiers?traffic_source=rss"
+        "title": "Pakistan sets modest goal for US-Iran summit: A deal to keep talks going",
+        "published": "Fri, 10 Apr 2026 14:26:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/10/artemis-ii-splashdown-when-it-lands-risks-and-how-to-watch-live?traffic_source=rss"
       },
       {
-        "title": "Israel strikes residential areas, destroys homes in southern Lebanon",
+        "title": "Vance expects ‘positive’ Iran talks as he heads to Islamabad",
+        "published": "Fri, 10 Apr 2026 14:07:19 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israel-threatens-healthcare-as-it-continues-to-attack-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "At least 11 killed in Israeli air strikes across southern Lebanon",
         "published": "Fri, 10 Apr 2026 10:17:16 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/senegal-pm-labels-trump-agent-of-global?traffic_source=rss"
       },
