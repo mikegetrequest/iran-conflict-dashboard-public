@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-10 11:04",
+  "updated_at_gst": "2026-04-10 12:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Kuwait blames Iran for drone strike, Iran denies responsibility",
-        "published": "Fri, 10 Apr 2026 04:57:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/uk-pm-keir-starmer-visits-gulf-to-shore-up-fragile-us-iran-ceasefire?traffic_source=rss"
+        "title": "Iran ceasefire: Not an off-ramp for the US but a life-saving ejection seat",
+        "published": "Fri, 10 Apr 2026 08:27:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/10/russia-and-ukraine-agree-to-32-hour-orthodox-easter-ceasefire?traffic_source=rss"
       },
       {
-        "title": "Shipping in Strait of Hormuz at a standstill despite US-Iran ceasefire",
-        "published": "Fri, 10 Apr 2026 02:47:13 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/riot-police-push-back-protesters-demanding-higher-wages-in-venezuela?traffic_source=rss"
+        "title": "Iran war: What is happening on day 42 of US-Israeli attacks?",
+        "published": "Fri, 10 Apr 2026 06:14:38 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/10/energy-prices-may-take-months-to-normalise-despite-ceasefire-analysts?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Israeli attacks on Lebanon threaten US-Iran ceasefire talks",
-        "published": "Fri, 10 Apr 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/video-shows-explosion-over-erbil-in-suspected-drone-interception?traffic_source=rss"
+        "title": "Palestinian journalist describes losing prosthetic eye in Israeli prison",
+        "published": "Fri, 10 Apr 2026 05:00:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/kuwait-blames-iran-for-drone-strike-iran-denies-responsibility?traffic_source=rss"
       },
       {
-        "title": "Hospitals in Beirut struggle to deal with casualties after Israeli attacks",
-        "published": "Thu, 09 Apr 2026 21:36:43 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/9/caf-president-motsepe-rejects-senegals-corruption-claim-after-afcon-furore?traffic_source=rss"
+        "title": "UK PM Keir Starmer visits Gulf to shore up ‘fragile’ US-Iran ceasefire",
+        "published": "Fri, 10 Apr 2026 03:13:44 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s Supreme Leader Mojtaba Khamenei says ‘we seek compensation, not war’",
+        "published": "Thu, 09 Apr 2026 23:16:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/9/police-in-venezuela-block-protesters-calling-for-higher-wages-pensions?traffic_source=rss"
+      },
+      {
+        "title": "US-Iran ceasefire: Uncertainty over what’s next",
+        "published": "Thu, 09 Apr 2026 22:48:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/9/judge-bars-trump-administration-from-nixing-protected-status-for-ethiopians?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
