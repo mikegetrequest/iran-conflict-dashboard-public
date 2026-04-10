@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-11 01:59",
+  "updated_at_gst": "2026-04-11 02:38",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iranian delegation arrives in Islamabad for talks with US",
+        "published": "Fri, 10 Apr 2026 21:59:21 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss"
+      },
+      {
         "title": "Can Iran negotiations lead to peace?",
         "published": "Fri, 10 Apr 2026 19:30:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/10/new-tensions-emerge-before-us-iran-war-ceasefire-talks-in-pakistan?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Israeli settlers turn Passover into celebration of ethnic cleansing",
         "published": "Fri, 10 Apr 2026 16:56:41 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility?traffic_source=rss"
-      },
-      {
-        "title": "JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan",
-        "published": "Fri, 10 Apr 2026 16:05:36 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/10/live-real-madrid-vs-girona-la-liga?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
