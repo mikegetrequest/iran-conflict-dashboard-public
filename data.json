@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-11 02:38",
+  "updated_at_gst": "2026-04-11 03:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Hezbollah rocket attack damages 1,500-year-old Israeli church",
+        "published": "Fri, 10 Apr 2026 22:58:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/10/openai-ceo-sam-altmans-home-targeted-in-molotov-cocktail-attack?traffic_source=rss"
+      },
+      {
         "title": "Iranian delegation arrives in Islamabad for talks with US",
         "published": "Fri, 10 Apr 2026 21:59:21 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "OIC condemns Israeli approval of 34 new West Bank settlements",
         "published": "Fri, 10 Apr 2026 18:01:35 +0000",
         "link": "https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settlers turn Passover into celebration of ethnic cleansing",
-        "published": "Fri, 10 Apr 2026 16:56:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
