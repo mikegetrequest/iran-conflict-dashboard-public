@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-11 18:26",
+  "updated_at_gst": "2026-04-11 19:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal",
+        "published": "Sat, 11 Apr 2026 14:39:38 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/lebanon-mourns-security-forces-killed-in-israeli-strike?traffic_source=rss"
+      },
       {
         "title": "Al Jazeera’s Diplomatic Editor outlines key issues in US-Iran talks",
         "published": "Sat, 11 Apr 2026 13:21:41 +0000",
