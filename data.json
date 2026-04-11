@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-11 14:00",
+  "updated_at_gst": "2026-04-11 14:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel in row with South Korea leader over Palestinian abuse concerns",
+        "published": "Sat, 11 Apr 2026 10:47:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-crucial-talks-says-al-jazeera-reporter-at-us-iran-meeting-venue?traffic_source=rss"
+      },
       {
         "title": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
         "published": "Sat, 11 Apr 2026 07:51:14 +0000",
@@ -39,11 +44,6 @@
         "title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
         "published": "Sat, 11 Apr 2026 03:06:18 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/moment-artemis-ii-splashes-down-after-moon-mission?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strike on government building kills Lebanese officers",
-        "published": "Fri, 10 Apr 2026 23:55:38 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/10/brazil-announces-us-partnership-to-intercept-weapons-drug-trafficking?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
