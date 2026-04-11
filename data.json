@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-11 03:56",
+  "updated_at_gst": "2026-04-11 05:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran war live: US negotiators due to arrive in Pakistan for ceasefire talks",
+        "published": "Sat, 11 Apr 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers?traffic_source=rss"
+      },
+      {
         "title": "Hezbollah rocket attack damages 1,500-year-old Israeli church",
         "published": "Fri, 10 Apr 2026 22:58:09 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/10/openai-ceo-sam-altmans-home-targeted-in-molotov-cocktail-attack?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Can Iran negotiations lead to peace?",
         "published": "Fri, 10 Apr 2026 19:30:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/10/new-tensions-emerge-before-us-iran-war-ceasefire-talks-in-pakistan?traffic_source=rss"
-      },
-      {
-        "title": "OIC condemns Israeli approval of 34 new West Bank settlements",
-        "published": "Fri, 10 Apr 2026 18:01:35 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
