@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-11 11:41",
+  "updated_at_gst": "2026-04-11 12:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
+        "published": "Sat, 11 Apr 2026 07:51:14 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss"
+      },
+      {
+        "title": "Video: Vance arrives in Pakistan for talks with Iran",
+        "published": "Sat, 11 Apr 2026 07:34:16 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/4/11/artemis-ii-marks-historic-lunar-return-with-pacific-splashdown-success?traffic_source=rss"
+      },
       {
         "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
         "published": "Sat, 11 Apr 2026 04:49:17 +0000",
@@ -34,16 +44,6 @@
         "title": "Israeli strike on government building kills Lebanese officers",
         "published": "Fri, 10 Apr 2026 23:55:38 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/10/brazil-announces-us-partnership-to-intercept-weapons-drug-trafficking?traffic_source=rss"
-      },
-      {
-        "title": "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack",
-        "published": "Fri, 10 Apr 2026 22:29:07 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/iranian-delegation-arrives-in-islamabad-for-talks-with-us?traffic_source=rss"
-      },
-      {
-        "title": "Islamabad on lockdown ahead of US-Iran talks",
-        "published": "Fri, 10 Apr 2026 21:58:14 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/10/real-madrid-hand-barcelona-huge-la-liga-title-chance-after-draw-with-girona?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
