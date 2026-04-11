@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-11 14:59",
+  "updated_at_gst": "2026-04-11 15:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel in row with South Korea leader over Palestinian abuse concerns",
-        "published": "Sat, 11 Apr 2026 10:47:55 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-crucial-talks-says-al-jazeera-reporter-at-us-iran-meeting-venue?traffic_source=rss"
+        "title": "Video: ‘Crucial talks’ says Al Jazeera reporter at US-Iran meeting venue",
+        "published": "Sat, 11 Apr 2026 10:24:16 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/nasa-hails-success-of-artemis-moon-mission-but-says-more-work-to-do?traffic_source=rss"
       },
       {
-        "title": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
-        "published": "Sat, 11 Apr 2026 07:51:14 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss"
+        "title": "At least seven Palestinians killed in Israeli attacks on Gaza",
+        "published": "Sat, 11 Apr 2026 08:35:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss"
       },
       {
-        "title": "Video: Vance arrives in Pakistan for talks with Iran",
-        "published": "Sat, 11 Apr 2026 07:34:16 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/4/11/artemis-ii-marks-historic-lunar-return-with-pacific-splashdown-success?traffic_source=rss"
+        "title": "Israeli drone attack kills Palestinians near Gaza mosque",
+        "published": "Sat, 11 Apr 2026 07:51:08 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss"
       },
       {
-        "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
-        "published": "Sat, 11 Apr 2026 04:49:17 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss"
-      },
-      {
-        "title": "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
-        "published": "Sat, 11 Apr 2026 04:02:42 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss"
-      },
-      {
-        "title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
-        "published": "Sat, 11 Apr 2026 03:06:18 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/moment-artemis-ii-splashes-down-after-moon-mission?traffic_source=rss"
+        "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
+        "published": "Sat, 11 Apr 2026 04:15:59 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
