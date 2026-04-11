@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-11 21:53",
+  "updated_at_gst": "2026-04-11 22:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Gaza families mourn loved ones killed in overnight Israeli air strikes",
+        "published": "Sat, 11 Apr 2026 18:02:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/vigil-held-in-madrid-for-victims-of-israeli-strikes-on-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Ceasefire brings some relief for Iranians but economic outlook remains grim",
+        "published": "Sat, 11 Apr 2026 17:29:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president?traffic_source=rss"
+      },
+      {
         "title": "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
         "published": "Sat, 11 Apr 2026 17:15:05 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss"
@@ -29,11 +39,6 @@
         "title": "US-Iran direct talks on ending war under way in Pakistan",
         "published": "Sat, 11 Apr 2026 13:26:53 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/al-jazeeras-diplomatic-editor-outlines-key-issues-in-us-iran-talks?traffic_source=rss"
-      },
-      {
-        "title": "Israel in row with South Korean leader over Palestinian abuse concerns",
-        "published": "Sat, 11 Apr 2026 10:47:55 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-crucial-talks-says-al-jazeera-reporter-at-us-iran-meeting-venue?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
