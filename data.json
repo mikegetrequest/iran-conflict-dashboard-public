@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-12 02:57",
+  "updated_at_gst": "2026-04-12 03:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US President Trump says US ‘wins’ regardless of how Iran talks go",
-        "published": "Sat, 11 Apr 2026 22:09:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/diplomacy-is-not-an-event-its-a-process-it-takes-time?traffic_source=rss"
+        "title": "Israeli strikes kill at least 18 people across southern Lebanon",
+        "published": "Sat, 11 Apr 2026 20:25:29 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/families-gather-to-mourn-victims-of-deadly-shooting-in-afghanistan?traffic_source=rss"
       },
       {
-        "title": "Has Israeli society become conditioned to permanent war?",
-        "published": "Sat, 11 Apr 2026 20:40:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/11/israeli-strikes-kill-at-least-18-people-across-southern-lebanon?traffic_source=rss"
+        "title": "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
+        "published": "Sat, 11 Apr 2026 19:46:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/11/us-says-two-naval-ships-transited-strait-of-hormuz-for-mine-clearing?traffic_source=rss"
       },
       {
-        "title": "Israeli settlers kill Palestinian during raid on occupied West Bank village",
-        "published": "Sat, 11 Apr 2026 18:47:48 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/iranian-rabbi-describes-israels-destruction-of-a-tehran-synagogue?traffic_source=rss"
+        "title": "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire",
+        "published": "Sat, 11 Apr 2026 19:35:54 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/11/barcelona-move-9-clear-of-real-madrid-with-derby-win-as-la-liga-title-nears?traffic_source=rss"
       },
       {
-        "title": "Vigil held in Madrid for victims of Israeli strikes on Lebanon",
-        "published": "Sat, 11 Apr 2026 17:32:24 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/11/ceasefire-brings-some-relief-for-iranians-but-economic-outlook-remains-grim?traffic_source=rss"
+        "title": "Iranian rabbi describes Israel’s destruction of a Tehran synagogue",
+        "published": "Sat, 11 Apr 2026 18:36:39 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/11/live-tyson-fury-vs-arslanbek-makhmudov-heavyweight-boxing-match?traffic_source=rss"
+      },
+      {
+        "title": "Gaza families mourn loved ones killed in overnight Israeli air strikes",
+        "published": "Sat, 11 Apr 2026 18:02:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/vigil-held-in-madrid-for-victims-of-israeli-strikes-on-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Ceasefire brings some relief for Iranians but economic outlook remains grim",
+        "published": "Sat, 11 Apr 2026 17:29:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
