@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-12 15:04",
+  "updated_at_gst": "2026-04-12 15:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli army raids across the occupied West Bank overnight",
+        "published": "Sun, 12 Apr 2026 11:40:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/12/benin-holds-presidential-election-amid-deteriorating-security-situation?traffic_source=rss"
+      },
       {
         "title": "What happened in 40 days of war on Iran",
         "published": "Sun, 12 Apr 2026 08:09:55 +0000",
@@ -34,11 +39,6 @@
         "title": "Watch JD Vance’s full remarks after US-Iran talks end without deal",
         "published": "Sun, 12 Apr 2026 03:32:04 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss"
-      },
-      {
-        "title": "Iran must not charge tolls in Strait of Hormuz, UN maritime chief says",
-        "published": "Sun, 12 Apr 2026 03:20:23 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/netanyahu-next-to-middle-east-map-we-strangled-them-and-have-more-to?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
