@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-12 21:04",
+  "updated_at_gst": "2026-04-12 21:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump announces Strait of Hormuz blockade after US-Iran peace talks end",
-        "published": "Sun, 12 Apr 2026 15:47:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/12/peru-votes-for-ninth-president-in-less-than-decade?traffic_source=rss"
+        "title": "Iranian authorities remain defiant, urge supporters to stay in streets",
+        "published": "Sun, 12 Apr 2026 16:51:29 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/4/12/seven-ways-america-can-win-the-ceasefire-and-end-the-war?traffic_source=rss"
       },
       {
-        "title": "Israeli army raids across the occupied West Bank overnight",
-        "published": "Sun, 12 Apr 2026 11:40:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/12/benin-holds-presidential-election-amid-deteriorating-security-situation?traffic_source=rss"
+        "title": "FIFA rejects Iran’s request to relocate World Cup games amid US-Israel war",
+        "published": "Sun, 12 Apr 2026 15:17:17 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/james-bays-on-trump-blocking-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir",
+        "published": "Sun, 12 Apr 2026 13:42:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/explaining-benins-presidential-election?traffic_source=rss"
+      },
+      {
+        "title": "Lessons from the Iran war",
+        "published": "Sun, 12 Apr 2026 13:10:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/12/ukraine-and-russia-accuse-each-other-of-breaching-easter-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "US-Iran ceasefire talks: What are the key sticking points?",
+        "published": "Sun, 12 Apr 2026 12:47:21 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/12/live-chelsea-vs-manchester-city-premier-league-football?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
