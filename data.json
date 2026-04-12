@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-12 16:34",
+  "updated_at_gst": "2026-04-12 17:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Lessons from the Iran war",
+        "published": "Sun, 12 Apr 2026 13:10:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/12/ukraine-and-russia-accuse-each-other-of-breaching-easter-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "US-Iran ceasefire talks: What are the key sticking points?",
+        "published": "Sun, 12 Apr 2026 12:47:21 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/12/live-chelsea-vs-manchester-city-premier-league-football?traffic_source=rss"
+      },
+      {
         "title": "Saudi Arabia says key oil pipeline back to full capacity after attacks",
         "published": "Sun, 12 Apr 2026 09:47:24 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/12/legendary-bollywood-singer-asha-bhosle-dies-aged-92?traffic_source=rss"
@@ -29,11 +39,6 @@
         "title": "Pakistan urges US and Iran to uphold ceasefire after talks end",
         "published": "Sun, 12 Apr 2026 05:25:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss"
-      },
-      {
-        "title": "Why did US-Iran talks end without an agreement in Pakistan?",
-        "published": "Sun, 12 Apr 2026 04:47:32 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
