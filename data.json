@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-12 17:52",
+  "updated_at_gst": "2026-04-12 18:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir",
+        "published": "Sun, 12 Apr 2026 13:42:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/explaining-benins-presidential-election?traffic_source=rss"
+      },
       {
         "title": "Lessons from the Iran war",
         "published": "Sun, 12 Apr 2026 13:10:22 +0000",
@@ -34,11 +39,6 @@
         "title": "Iran war: What is happening on day 44 of the US-Iran conflict?",
         "published": "Sun, 12 Apr 2026 08:07:31 +0000",
         "link": "https://www.aljazeera.com/sports/2026/4/12/neymar-has-to-prove-his-fitness-for-brazils-world-cup-squad-ancelotti?traffic_source=rss"
-      },
-      {
-        "title": "Pakistan urges US and Iran to uphold ceasefire after talks end",
-        "published": "Sun, 12 Apr 2026 05:25:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
