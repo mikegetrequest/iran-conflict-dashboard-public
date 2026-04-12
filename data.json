@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-12 18:31",
+  "updated_at_gst": "2026-04-12 19:25",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir",
-        "published": "Sun, 12 Apr 2026 13:42:04 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/explaining-benins-presidential-election?traffic_source=rss"
+        "title": "Israeli army raids across the occupied West Bank overnight",
+        "published": "Sun, 12 Apr 2026 11:40:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/12/benin-holds-presidential-election-amid-deteriorating-security-situation?traffic_source=rss"
       },
       {
-        "title": "Lessons from the Iran war",
-        "published": "Sun, 12 Apr 2026 13:10:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/12/ukraine-and-russia-accuse-each-other-of-breaching-easter-ceasefire?traffic_source=rss"
-      },
-      {
-        "title": "US-Iran ceasefire talks: What are the key sticking points?",
-        "published": "Sun, 12 Apr 2026 12:47:21 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/12/live-chelsea-vs-manchester-city-premier-league-football?traffic_source=rss"
-      },
-      {
-        "title": "Saudi Arabia says key oil pipeline back to full capacity after attacks",
-        "published": "Sun, 12 Apr 2026 09:47:24 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/12/legendary-bollywood-singer-asha-bhosle-dies-aged-92?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What is happening on day 44 of the US-Iran conflict?",
-        "published": "Sun, 12 Apr 2026 08:07:31 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/12/neymar-has-to-prove-his-fitness-for-brazils-world-cup-squad-ancelotti?traffic_source=rss"
+        "title": "What happened in 40 days of war on Iran",
+        "published": "Sun, 12 Apr 2026 08:09:55 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/12/iran-war-what-is-happening-on-day-44-of-the-us-iran-conflict?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
