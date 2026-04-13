@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-13 03:35",
+  "updated_at_gst": "2026-04-13 05:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US military threatens to blockade all Iranian ports starting on Monday",
+        "published": "Mon, 13 Apr 2026 00:32:03 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?traffic_source=rss"
+      },
       {
         "title": "Could the Iran war pose lasting risks to global food security?",
         "published": "Sun, 12 Apr 2026 20:44:49 +0000",
@@ -34,11 +39,6 @@
         "title": "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon",
         "published": "Sun, 12 Apr 2026 18:44:30 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/12/dozens-feared-dead-in-air-strike-on-village-in-northeastern-nigeria?traffic_source=rss"
-      },
-      {
-        "title": "Iranian authorities remain defiant, urge supporters to stay in streets",
-        "published": "Sun, 12 Apr 2026 16:51:29 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/4/12/seven-ways-america-can-win-the-ceasefire-and-end-the-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
