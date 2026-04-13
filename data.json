@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-14 02:05",
+  "updated_at_gst": "2026-04-14 03:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Hezbollah leader urges Lebanon’s government to pull out of Israel talks",
+        "published": "Mon, 13 Apr 2026 22:46:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/un-urges-all-parties-to-respect-navigation-in-strait-of-hormuz?traffic_source=rss"
+      },
       {
         "title": "Israel kills three Palestinians in separate Gaza strikes",
         "published": "Mon, 13 Apr 2026 21:06:39 +0000",
@@ -34,11 +39,6 @@
         "title": "Trump says Iran wants ‘peace deal’ but insists on ‘no nukes’",
         "published": "Mon, 13 Apr 2026 19:30:04 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/13/is-magyars-election-win-the-end-of-the-eus-troubles-with-hungary?traffic_source=rss"
-      },
-      {
-        "title": "EU: No peace possible while “Lebanon is in flames”",
-        "published": "Mon, 13 Apr 2026 17:28:22 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-are-the-pros-and-cons-of-trumps-iranian-naval-blockade?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
