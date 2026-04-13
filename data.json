@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-13 14:58",
+  "updated_at_gst": "2026-04-13 16:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "How the US-Iran talks in Islamabad unfolded",
+        "published": "Mon, 13 Apr 2026 11:21:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/13/who-is-peter-magyar-hungarys-new-leader-who-trounced-viktor-orban?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s army says US plan to blockade Hormuz ‘amounts to piracy’",
+        "published": "Mon, 13 Apr 2026 10:52:32 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/israeli-forces-fire-tear-gas-near-palestinian-schoolchildren?traffic_source=rss"
+      },
+      {
         "title": "Ghanaian footballer Dominic Frimpong killed in armed attack on team bus",
         "published": "Mon, 13 Apr 2026 08:30:15 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/13/australia-appoints-female-army-chief-for-the-first-time-in-history?traffic_source=rss"
@@ -24,11 +34,6 @@
         "title": "Who is Yechiel Leiter, Israel’s US envoy leading talks with Lebanon?",
         "published": "Mon, 13 Apr 2026 07:24:30 +0000",
         "link": "https://www.aljazeera.com/sports/2026/4/13/sinner-beats-alcaraz-in-straight-sets-to-win-monte-carlo-reclaim-no-1-spot?traffic_source=rss"
-      },
-      {
-        "title": "‘Terrible for foreign policy’: Trump attacks Pope Leo after peace appeal",
-        "published": "Mon, 13 Apr 2026 05:42:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/viktor-orban-swept-from-power-after-16-years-ruling-hungary?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
