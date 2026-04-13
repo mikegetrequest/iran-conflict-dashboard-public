@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-13 20:51",
+  "updated_at_gst": "2026-04-13 21:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran releases assets of women’s football captain in Australia asylum row",
-        "published": "Mon, 13 Apr 2026 16:23:44 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/13/atletico-madrid-vs-barcelona-champions-league-team-news-start?traffic_source=rss"
+        "title": "What are the pros and cons of Trump’s Iranian naval blockade?",
+        "published": "Mon, 13 Apr 2026 17:15:02 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/13/bahrain-summons-iraqi-envoy-as-pro-iranian-attacks-persist-in-gulf?traffic_source=rss"
       },
       {
-        "title": "Israeli forces kill three Palestinians in Gaza, arrest dozens in West Bank",
-        "published": "Mon, 13 Apr 2026 12:52:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/13/at-least-six-killed-in-israeli-strikes-in-southern-lebanon?traffic_source=rss"
+        "title": "Lebanon Latest: Talks scheduled as Israeli strikes continue",
+        "published": "Mon, 13 Apr 2026 15:41:15 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/13/drinking-arsenal-tears-how-the-gunners-stumble-sparked-a-meme-frenzy?traffic_source=rss"
       },
       {
-        "title": "Israeli forces fire tear gas near Palestinian schoolchildren",
-        "published": "Mon, 13 Apr 2026 10:50:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/13/starmer-says-uk-will-not-support-us-blockade-of-strait-of-hormuz?traffic_source=rss"
+        "title": "Trump says Iranian ships to be ‘eliminated’ as US naval blockade begins",
+        "published": "Mon, 13 Apr 2026 14:36:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/13/trumps-threat-to-blockade-hormuz-why-its-wars-latest-major-escalation?traffic_source=rss"
+      },
+      {
+        "title": "Pakistan eyes narrow window to resuscitate US-Iran talks after breakdown",
+        "published": "Mon, 13 Apr 2026 13:54:35 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/13/israeli-forces-kill-three-palestinians-in-gaza-arrest-dozens-in-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "At least six killed in Israeli strikes in southern Lebanon",
+        "published": "Mon, 13 Apr 2026 12:39:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/cement-company-lafarge-found-guilty-in-syria-terrorism-financing-case?traffic_source=rss"
+      },
+      {
+        "title": "Israel is trying to change Jerusalem’s religious identity",
+        "published": "Mon, 13 Apr 2026 12:02:43 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/13/tear-gas-fired-at-indian-workers-demanding-higher-wage-as-living-costs-rise?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
