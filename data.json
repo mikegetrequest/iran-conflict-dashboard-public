@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-14 01:11",
+  "updated_at_gst": "2026-04-14 02:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel kills three Palestinians in separate Gaza strikes",
+        "published": "Mon, 13 Apr 2026 21:06:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/13/philippines-accuses-china-of-using-cyanide-to-poison-south-china-sea-atoll?traffic_source=rss"
+      },
       {
         "title": "Bernie Sanders vows to push resolution to block US weapons to Israel",
         "published": "Mon, 13 Apr 2026 20:28:48 +0000",
@@ -34,16 +39,6 @@
         "title": "EU: No peace possible while “Lebanon is in flames”",
         "published": "Mon, 13 Apr 2026 17:28:22 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-are-the-pros-and-cons-of-trumps-iranian-naval-blockade?traffic_source=rss"
-      },
-      {
-        "title": "Bahrain summons Iraqi envoy as pro-Iranian attacks persist in Gulf",
-        "published": "Mon, 13 Apr 2026 16:58:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/13/hungary-election?traffic_source=rss"
-      },
-      {
-        "title": "Iran releases assets of women’s football captain in Australia asylum row",
-        "published": "Mon, 13 Apr 2026 16:23:44 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/13/atletico-madrid-vs-barcelona-champions-league-team-news-start?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
