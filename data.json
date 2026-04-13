@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-13 16:00",
+  "updated_at_gst": "2026-04-13 18:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How the US-Iran talks in Islamabad unfolded",
-        "published": "Mon, 13 Apr 2026 11:21:05 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/13/who-is-peter-magyar-hungarys-new-leader-who-trounced-viktor-orban?traffic_source=rss"
+        "title": "Israeli forces kill three Palestinians in Gaza, arrest dozens in West Bank",
+        "published": "Mon, 13 Apr 2026 12:52:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/13/at-least-six-killed-in-israeli-strikes-in-southern-lebanon?traffic_source=rss"
       },
       {
-        "title": "Iran’s army says US plan to blockade Hormuz ‘amounts to piracy’",
-        "published": "Mon, 13 Apr 2026 10:52:32 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/israeli-forces-fire-tear-gas-near-palestinian-schoolchildren?traffic_source=rss"
+        "title": "Israeli forces fire tear gas near Palestinian schoolchildren",
+        "published": "Mon, 13 Apr 2026 10:50:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/13/starmer-says-uk-will-not-support-us-blockade-of-strait-of-hormuz?traffic_source=rss"
       },
       {
-        "title": "Ghanaian footballer Dominic Frimpong killed in armed attack on team bus",
-        "published": "Mon, 13 Apr 2026 08:30:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/13/australia-appoints-female-army-chief-for-the-first-time-in-history?traffic_source=rss"
+        "title": "How a UK military college sought to distance itself from ban on Israelis",
+        "published": "Mon, 13 Apr 2026 10:14:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/13/millions-in-war-ravaged-sudan-surviving-on-one-meal-a-day-say-ngos?traffic_source=rss"
       },
       {
-        "title": "Who is Yechiel Leiter, Israel’s US envoy leading talks with Lebanon?",
-        "published": "Mon, 13 Apr 2026 07:24:30 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/13/sinner-beats-alcaraz-in-straight-sets-to-win-monte-carlo-reclaim-no-1-spot?traffic_source=rss"
+        "title": "US blockade of Iran would worsen global energy crisis, analysts say",
+        "published": "Mon, 13 Apr 2026 09:52:16 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/protesters-rally-in-paris-against-liberty-killing-anti-semitism-bill?traffic_source=rss"
+      },
+      {
+        "title": "What Iran is saying about US plan to blockade ports",
+        "published": "Mon, 13 Apr 2026 08:54:22 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/4/13/cuba-sent-doctors-washington-sent-a-destroyer?traffic_source=rss"
+      },
+      {
+        "title": "Refugee in my own city: Surviving Tehran’s bombing, with my cat for company",
+        "published": "Mon, 13 Apr 2026 08:37:23 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/13/ghanaian-footballer-dominic-frimpong-killed-in-armed-attack-on-team-bus?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
