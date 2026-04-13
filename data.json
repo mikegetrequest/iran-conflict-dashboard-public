@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-14 00:01",
+  "updated_at_gst": "2026-04-14 01:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "What are the pros and cons of Trump’s Iranian naval blockade?",
-        "published": "Mon, 13 Apr 2026 17:15:02 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/13/bahrain-summons-iraqi-envoy-as-pro-iranian-attacks-persist-in-gulf?traffic_source=rss"
+        "title": "Bernie Sanders vows to push resolution to block US weapons to Israel",
+        "published": "Mon, 13 Apr 2026 20:28:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/13/brazilian-ex-intelligence-chief-detained-by-us-immigration-authorities?traffic_source=rss"
       },
       {
-        "title": "Lebanon Latest: Talks scheduled as Israeli strikes continue",
-        "published": "Mon, 13 Apr 2026 15:41:15 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/13/drinking-arsenal-tears-how-the-gunners-stumble-sparked-a-meme-frenzy?traffic_source=rss"
+        "title": "Hezbollah rejects Lebanon’s direct negotiations with Israel",
+        "published": "Mon, 13 Apr 2026 19:56:29 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/trump-doubles-down-in-pope-feud-refuses-to-apologise?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Iran wants ‘peace deal’ but insists on ‘no nukes’",
+        "published": "Mon, 13 Apr 2026 19:30:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/13/is-magyars-election-win-the-end-of-the-eus-troubles-with-hungary?traffic_source=rss"
+      },
+      {
+        "title": "EU: No peace possible while “Lebanon is in flames”",
+        "published": "Mon, 13 Apr 2026 17:28:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-are-the-pros-and-cons-of-trumps-iranian-naval-blockade?traffic_source=rss"
+      },
+      {
+        "title": "Bahrain summons Iraqi envoy as pro-Iranian attacks persist in Gulf",
+        "published": "Mon, 13 Apr 2026 16:58:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/13/hungary-election?traffic_source=rss"
+      },
+      {
+        "title": "Iran releases assets of women’s football captain in Australia asylum row",
+        "published": "Mon, 13 Apr 2026 16:23:44 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/13/atletico-madrid-vs-barcelona-champions-league-team-news-start?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
