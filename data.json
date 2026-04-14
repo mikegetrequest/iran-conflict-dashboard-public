@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-14 15:33",
+  "updated_at_gst": "2026-04-14 16:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Global oil demand to plunge amid disruptions caused by war on Iran: IEA",
-        "published": "Tue, 14 Apr 2026 10:59:11 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/14/ice-hockey-coach-admits-to-faking-covid-certificate-to-enter-china-olympics?traffic_source=rss"
+        "title": "How much will US Hormuz blockade hurt Iran, and does Tehran have an escape?",
+        "published": "Tue, 14 Apr 2026 12:31:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/14/how-many-ships-have-passed-the-strait-of-hormuz-and-how-many-were-attacked?traffic_source=rss"
       },
       {
-        "title": "Israel-Lebanon direct talks in the US: All to know",
-        "published": "Tue, 14 Apr 2026 10:27:12 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/14/iran-slams-youtube-ban-on-pro-iranian-groups-lego-style-ai-videos?traffic_source=rss"
+        "title": "What we know about US-hosted talks between Israel and Lebanon",
+        "published": "Tue, 14 Apr 2026 10:37:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/14/israel-lebanon-direct-talks-in-the-us-all-to-know?traffic_source=rss"
       },
       {
-        "title": "Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade",
-        "published": "Tue, 14 Apr 2026 09:08:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/14/fao-warns-strait-of-hormuz-disruption-risks-triggering-a-global-food-crisis?traffic_source=rss"
+        "title": "Iran slams YouTube ban on pro-Iranian group’s Lego-style AI videos",
+        "published": "Tue, 14 Apr 2026 10:16:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/14/sanctioned-tankers-transit-strait-of-hormuz-despite-blockade?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What is happening on day 46 of the US-Iran conflict?",
+        "published": "Tue, 14 Apr 2026 06:58:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/14/china-dismisses-vice-minister-of-foreign-affairs-sun-weidong?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
