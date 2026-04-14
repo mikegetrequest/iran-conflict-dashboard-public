@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-15 02:35",
+  "updated_at_gst": "2026-04-15 03:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israel and Lebanon hold rare talks in Washington, DC, amid Iran war",
+        "published": "Tue, 14 Apr 2026 23:08:43 +0000",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/4/14/aje-onl-sdn_anniversary26_av_v2-140426?traffic_source=rss"
+      },
+      {
         "title": "Israeli strike on Gaza police car kills child",
         "published": "Tue, 14 Apr 2026 19:16:19 +0000",
         "link": "https://www.aljazeera.com/economy/2026/4/14/imf-cuts-global-growth-forecast-during-hormuz-blockade?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Israeli ambassador: Lebanon wants to be liberated from Hezbollah",
         "published": "Tue, 14 Apr 2026 18:56:28 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/14/aid-groups-bidding-to-boost-relief-shipments-into-iran?traffic_source=rss"
-      },
-      {
-        "title": "Over-sold and under-delivered: Israel’s Netanyahu faces ceasefire backlash",
-        "published": "Tue, 14 Apr 2026 18:39:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/14/drones-iran-war-escalating-horror-as-sudan-war-enters-fourth-year?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
