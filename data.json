@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-14 04:03",
+  "updated_at_gst": "2026-04-14 07:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US military kills two men in new strike on vessel in eastern Pacific",
+        "published": "Tue, 14 Apr 2026 02:47:36 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/14/man-charged-with-attempted-murder-after-attack-on-openai-ceo-altmans-home?traffic_source=rss"
+      },
+      {
+        "title": "Anti-war protesters arrested in New York urging end to Israel weapon sales",
+        "published": "Tue, 14 Apr 2026 02:13:16 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss"
+      },
       {
         "title": "Hezbollah leader urges Lebanon’s government to pull out of Israel talks",
         "published": "Mon, 13 Apr 2026 22:46:50 +0000",
@@ -34,11 +44,6 @@
         "title": "Hezbollah rejects Lebanon’s direct negotiations with Israel",
         "published": "Mon, 13 Apr 2026 19:56:29 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/trump-doubles-down-in-pope-feud-refuses-to-apologise?traffic_source=rss"
-      },
-      {
-        "title": "Trump says Iran wants ‘peace deal’ but insists on ‘no nukes’",
-        "published": "Mon, 13 Apr 2026 19:30:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/13/is-magyars-election-win-the-end-of-the-eus-troubles-with-hungary?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
