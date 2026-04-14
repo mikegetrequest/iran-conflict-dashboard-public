@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-14 23:58",
+  "updated_at_gst": "2026-04-15 00:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "How US blockade on Iran will worsen energy crisis",
+        "published": "Tue, 14 Apr 2026 20:10:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/14/spanish-government-approves-amnesty-programme-for-undocumented-immigrants-2?traffic_source=rss"
+      },
       {
         "title": "Pakistan PM headed to Riyadh and Ankara amid prospect of new US-Iran talks",
         "published": "Tue, 14 Apr 2026 19:21:58 +0000",
