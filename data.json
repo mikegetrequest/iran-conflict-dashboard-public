@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-15 00:50",
+  "updated_at_gst": "2026-04-15 01:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How US blockade on Iran will worsen energy crisis",
-        "published": "Tue, 14 Apr 2026 20:10:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/14/spanish-government-approves-amnesty-programme-for-undocumented-immigrants-2?traffic_source=rss"
+        "title": "Israeli strike on Gaza police car kills child",
+        "published": "Tue, 14 Apr 2026 19:16:19 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/14/imf-cuts-global-growth-forecast-during-hormuz-blockade?traffic_source=rss"
       },
       {
-        "title": "Pakistan PM headed to Riyadh and Ankara amid prospect of new US-Iran talks",
-        "published": "Tue, 14 Apr 2026 19:21:58 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-strike-on-gaza-police-car-kills-child?traffic_source=rss"
+        "title": "Israeli ambassador: Lebanon wants to be liberated from Hezbollah",
+        "published": "Tue, 14 Apr 2026 18:56:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/14/aid-groups-bidding-to-boost-relief-shipments-into-iran?traffic_source=rss"
       },
       {
-        "title": "Aid groups bidding to boost relief shipments into Iran",
-        "published": "Tue, 14 Apr 2026 18:52:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/14/over-sold-and-under-delivered-israels-netanyahu-faces-ceasefire-backlash?traffic_source=rss"
+        "title": "Over-sold and under-delivered: Israel’s Netanyahu faces ceasefire backlash",
+        "published": "Tue, 14 Apr 2026 18:39:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/14/drones-iran-war-escalating-horror-as-sudan-war-enters-fourth-year?traffic_source=rss"
       },
       {
-        "title": "Drones, Iran war escalating horror as Sudan war enters fourth year",
-        "published": "Tue, 14 Apr 2026 18:27:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/video-un-chief-antonio-guterres-says-talks-on-iran-war-likely-to-restart?traffic_source=rss"
-      },
-      {
-        "title": "Video shows drone exploding in northern Israel",
-        "published": "Tue, 14 Apr 2026 17:50:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/14/somalia-reports-hit-on-al-shabab-with-international-support?traffic_source=rss"
+        "title": "Video: UN chief Antonio Guterres says talks on Iran war likely to restart",
+        "published": "Tue, 14 Apr 2026 18:16:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/14/carney-vows-focus-on-affordability-after-winning-canadas-special-election?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
