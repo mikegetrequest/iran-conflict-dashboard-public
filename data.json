@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-14 21:07",
+  "updated_at_gst": "2026-04-14 22:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Video: UN chief Antonio Guterres says talks on Iran war likely to restart",
+        "published": "Tue, 14 Apr 2026 18:16:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/14/carney-vows-focus-on-affordability-after-winning-canadas-special-election?traffic_source=rss"
+      },
+      {
         "title": "Lebanese, Israeli ambassadors begin direct talks in US",
         "published": "Tue, 14 Apr 2026 16:33:11 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/14/ukraine-strikes-drone-production-deal-with-germany?traffic_source=rss"
@@ -29,21 +34,6 @@
         "title": "Why are the US, Iran arguing over duration of uranium enrichment ban?",
         "published": "Tue, 14 Apr 2026 14:52:24 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/we-are-a-stable-predictable-country-spanish-pm-sanchez-in-beijing?traffic_source=rss"
-      },
-      {
-        "title": "Israel ‘wants to reach peace and normalisation with Lebanon’",
-        "published": "Tue, 14 Apr 2026 13:13:53 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/trump-deletes-ai-image-depicting-himself-like-jesus-after-outrage?traffic_source=rss"
-      },
-      {
-        "title": "Italy suspends defence agreement with Israel",
-        "published": "Tue, 14 Apr 2026 12:55:54 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/14/jailed-senegal-fans-deny-wrongdoing-in-afcon-final-chaos-in-morocco?traffic_source=rss"
-      },
-      {
-        "title": "How much will US Hormuz blockade hurt Iran, and does Tehran have an escape?",
-        "published": "Tue, 14 Apr 2026 12:31:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/14/how-many-ships-have-passed-the-strait-of-hormuz-and-how-many-were-attacked?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
