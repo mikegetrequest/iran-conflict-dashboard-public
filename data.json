@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-15 23:08",
+  "updated_at_gst": "2026-04-16 00:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US Senate rejects another war powers resolution to limit Trump on Iran",
+        "published": "Wed, 15 Apr 2026 19:53:49 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/pakistani-army-chief-in-tehran-amid-bid-to-restart-us-talks?traffic_source=rss"
+      },
+      {
+        "title": "Pakistan army chief in Tehran to advance next round of US-Iran talks",
+        "published": "Wed, 15 Apr 2026 19:27:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/15/pope-leo-visits-cameroon-with-message-of-peace-amid-attacks-from-trump?traffic_source=rss"
+      },
       {
         "title": "UN experts urge member states to suspend Israel arms transfers",
         "published": "Wed, 15 Apr 2026 17:07:29 +0000",
@@ -34,11 +44,6 @@
         "title": "Iran warns US naval blockade threatens ceasefire",
         "published": "Wed, 15 Apr 2026 15:29:38 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/15/us-sending-10000-more-troops-to-middle-east-despite-iran-ceasefire?traffic_source=rss"
-      },
-      {
-        "title": "US-Iran talks: What’s the latest on mediation efforts?",
-        "published": "Wed, 15 Apr 2026 13:55:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/what-people-in-lebanon-are-saying-about-talks-with-israel?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
