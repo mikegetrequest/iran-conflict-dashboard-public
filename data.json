@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-15 05:16",
+  "updated_at_gst": "2026-04-15 08:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israel and Lebanon hold direct talks for first time in decades",
+        "published": "Wed, 15 Apr 2026 01:47:29 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/15/israeli-attacks-kill-11-including-two-children-in-day-of-strikes-on-gaza?traffic_source=rss"
+      },
+      {
         "title": "Israel and Lebanon hold rare talks in Washington, DC, amid Iran war",
         "published": "Tue, 14 Apr 2026 23:08:43 +0000",
         "link": "https://www.aljazeera.com/video/the-take-2/2026/4/14/aje-onl-sdn_anniversary26_av_v2-140426?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strike on Gaza police car kills child",
-        "published": "Tue, 14 Apr 2026 19:16:19 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/4/14/imf-cuts-global-growth-forecast-during-hormuz-blockade?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
