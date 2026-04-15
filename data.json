@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-16 01:10",
+  "updated_at_gst": "2026-04-16 02:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Pakistani army chief in Tehran amid bid to restart US talks",
-        "published": "Wed, 15 Apr 2026 19:29:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/15/pakistan-army-chief-in-tehran-to-advance-next-round-of-us-iran-talks?traffic_source=rss"
+        "title": "Israel appoints first ambassador to Somaliland",
+        "published": "Wed, 15 Apr 2026 21:05:27 +0000",
+        "link": "https://www.aljazeera.com/news/longform/2026/4/15/could-the-us-oil-blockade-snuff-out-the-cuban-cigar?traffic_source=rss"
       },
       {
-        "title": "Pope Leo visits Cameroon with message of peace amid attacks from Trump",
-        "published": "Wed, 15 Apr 2026 18:57:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/arab-barghouti-says-rights-groups-must-do-more-for-palestinian-prisoners?traffic_source=rss"
+        "title": "US Senate rejects another war powers resolution to limit Trump on Iran",
+        "published": "Wed, 15 Apr 2026 19:53:49 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/pakistani-army-chief-in-tehran-amid-bid-to-restart-us-talks?traffic_source=rss"
       },
       {
-        "title": "Is Iran beating the US at its own propaganda game?",
-        "published": "Wed, 15 Apr 2026 16:59:42 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israels-high-court-hears-petitions-to-oust-ben-gvir?traffic_source=rss"
+        "title": "Pakistan army chief in Tehran to advance next round of US-Iran talks",
+        "published": "Wed, 15 Apr 2026 19:27:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/15/pope-leo-visits-cameroon-with-message-of-peace-amid-attacks-from-trump?traffic_source=rss"
       },
       {
-        "title": "Netanyahu sees Lebanon as his last chance for a ‘win’",
-        "published": "Wed, 15 Apr 2026 16:38:12 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/15/why-has-italys-giorgia-meloni-suspended-a-defence-pact-with-israel?traffic_source=rss"
+        "title": "UN experts urge member states to suspend Israel arms transfers",
+        "published": "Wed, 15 Apr 2026 17:07:29 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/is-iran-beating-the-us-at-its-own-propaganda-game?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s High Court hears petitions to oust Ben-Gvir",
+        "published": "Wed, 15 Apr 2026 16:46:47 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/4/15/netanyahu-sees-lebanon-as-his-last-chance-for-a?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
