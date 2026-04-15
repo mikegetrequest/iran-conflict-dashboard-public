@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-15 16:54",
+  "updated_at_gst": "2026-04-15 18:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US-Iran talks: What’s the latest on mediation efforts?",
+        "published": "Wed, 15 Apr 2026 13:55:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/what-people-in-lebanon-are-saying-about-talks-with-israel?traffic_source=rss"
+      },
+      {
+        "title": "What are Iran’s $100bn in frozen assets and where are they held?",
+        "published": "Wed, 15 Apr 2026 13:40:53 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/15/as-world-focuses-on-iran-israel-engineering-starvation-policy-in-gaza?traffic_source=rss"
+      },
       {
         "title": "Anger in Lebanon as Israel launches deadly strikes despite diplomatic drive",
         "published": "Wed, 15 Apr 2026 11:52:17 +0000",
@@ -34,16 +44,6 @@
         "title": "Iran citizen held in France over pro-Palestine comments returns home",
         "published": "Wed, 15 Apr 2026 09:16:36 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea?traffic_source=rss"
-      },
-      {
-        "title": "Palestinian leader Barghouti endures ‘violent’ assaults in Israeli prisons",
-        "published": "Wed, 15 Apr 2026 08:42:11 +0000",
-        "link": "https://www.aljazeera.com/features/2026/4/15/food-is-unifying-how-lebanons-migrants-are-feeding-the-war-displaced?traffic_source=rss"
-      },
-      {
-        "title": "Trump turns on Meloni, saying she lacks ‘courage’ over US-Israel war on Iran",
-        "published": "Wed, 15 Apr 2026 07:05:19 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/15/uzbek-chess-grandmaster-sindarov-sets-up-world-title-match-with-gukesh?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
