@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-15 10:14",
+  "updated_at_gst": "2026-04-15 12:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war: What is happening on day 47 of the US-Iran conflict?",
+        "published": "Wed, 15 Apr 2026 07:41:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/15/trump-turns-on-meloni-saying-she-lacks-courage-over-us-israel-war-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Iran says $270bn war loss must be compensated, as fresh talks with US loom",
+        "published": "Wed, 15 Apr 2026 06:28:34 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/15/england-beat-spain-1-0-to-lead-womens-world-cup-2027-qualifying-group?traffic_source=rss"
+      },
       {
         "title": "US military says blockade of Iran ports ‘completely’ halts economic trade",
         "published": "Wed, 15 Apr 2026 05:17:44 +0000",
