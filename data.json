@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-15 15:45",
+  "updated_at_gst": "2026-04-15 16:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Anger in Lebanon as Israel launches deadly strikes despite diplomatic drive",
+        "published": "Wed, 15 Apr 2026 11:52:17 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/15/england-cricket-captain-stokes-lucky-to-be-alive-after-facial-injury?traffic_source=rss"
+      },
+      {
+        "title": "Double standards? Why Iran’s nukes are scrutinised, Israel gets a pass",
+        "published": "Wed, 15 Apr 2026 11:40:33 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/15/maradonas-medical-team-could-have-saved-his-life-prosecutor-says?traffic_source=rss"
+      },
       {
         "title": "What you need to know about Israel’s ambassador to the US",
         "published": "Wed, 15 Apr 2026 10:10:56 +0000",
