@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-16 07:50",
+  "updated_at_gst": "2026-04-16 09:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Pakistan expecting ‘major breakthrough’ tied to Iran’s nuclear programme",
-        "published": "Thu, 16 Apr 2026 02:23:58 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israeli-forces-fire-stun-grenades-at-journalists-in-occupied-nablus?traffic_source=rss"
+        "title": "Trump says Israel and Lebanon’s leaders will speak on Thursday",
+        "published": "Thu, 16 Apr 2026 03:51:27 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates?traffic_source=rss"
       },
       {
-        "title": "Israel bombs homes in southern Lebanon",
-        "published": "Wed, 15 Apr 2026 22:53:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro?traffic_source=rss"
+        "title": "Democrats clash with US Energy Secretary over Iran war and gas prices",
+        "published": "Thu, 16 Apr 2026 03:26:11 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/pakistan-expecting-major-breakthrough-tied-to-irans-nuclear-programme?traffic_source=rss"
       },
       {
-        "title": "Could the EU’s alliance with Israel soon change?",
-        "published": "Wed, 15 Apr 2026 21:09:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss"
+        "title": "Israeli forces fire stun grenades at journalists in occupied Nablus",
+        "published": "Thu, 16 Apr 2026 01:54:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/16/brazils-fugitive-ex-spy-chief-freed-in-the-us-after-ice-detention?traffic_source=rss"
       },
       {
-        "title": "Pakistani army chief in Tehran amid bid to restart US talks",
-        "published": "Wed, 15 Apr 2026 19:29:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/15/pakistan-army-chief-in-tehran-to-advance-next-round-of-us-iran-talks?traffic_source=rss"
+        "title": "Russian attacks on Ukraine kill three, including a 12-year-old child",
+        "published": "Thu, 16 Apr 2026 01:06:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/huge-crowds-greet-pope-leo-in-cameroon-20-years-after-outreach-trip?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Pakistan in push for new round of US-Iran peace negotiations",
+        "published": "Thu, 16 Apr 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/15/el-salvador-publishes-law-allowing-life-sentences-for-minors-as-young-as-12?traffic_source=rss"
+      },
+      {
+        "title": "Israel appoints first ambassador to Somaliland",
+        "published": "Wed, 15 Apr 2026 21:05:27 +0000",
+        "link": "https://www.aljazeera.com/news/longform/2026/4/15/could-the-us-oil-blockade-snuff-out-the-cuban-cigar?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
