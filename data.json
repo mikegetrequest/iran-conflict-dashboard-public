@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-16 21:48",
+  "updated_at_gst": "2026-04-16 22:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "No date set for US-Iran talks, as Pakistan pushes to keep diplomacy alive",
-        "published": "Thu, 16 Apr 2026 17:03:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/us-general-clarifies-iranian-ports-under-blockade-not-strait-of-hormuz?traffic_source=rss"
+        "title": "10-day Lebanon-Israel ceasefire announced by Trump",
+        "published": "Thu, 16 Apr 2026 17:35:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/16/no-date-set-for-us-iran-talks-as-pakistan-pushes-to-keep-diplomacy-alive?traffic_source=rss"
       },
       {
-        "title": "Trump says Israel and Lebanon agree to temporary ceasefire",
-        "published": "Thu, 16 Apr 2026 15:52:19 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/16/israel-says-its-wests-defender-but-cares-little-for-european-critics?traffic_source=rss"
+        "title": "US general clarifies Iranian ports under blockade, not Strait of Hormuz",
+        "published": "Thu, 16 Apr 2026 16:55:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/16/syria-takes-control-of-all-bases-where-us-forces-were-deployed?traffic_source=rss"
       },
       {
-        "title": "Jet fuel shortage: Why Iran war could ground flights in Europe",
-        "published": "Thu, 16 Apr 2026 15:44:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/16/uk-police-arrest-3-after-attempted-arson-at-persian-language-media-centre?traffic_source=rss"
+        "title": "Israel says it’s West’s defender, but cares little for European critics",
+        "published": "Thu, 16 Apr 2026 15:47:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/16/jet-fuel-shortage-why-iran-war-could-ground-flights-in-europe?traffic_source=rss"
       },
       {
-        "title": "Thousands of bees swarm southern Israel",
-        "published": "Thu, 16 Apr 2026 15:39:25 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/us-strike-on-pacific-vessel-kills-three?traffic_source=rss"
-      },
-      {
-        "title": "Pope Leo decries world ruled by ‘tyrants’ after Trump attacks",
-        "published": "Thu, 16 Apr 2026 13:08:34 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/kyiv-hit-by-deadly-missile-attack-amid-shortage-of-interceptors?traffic_source=rss"
+        "title": "US strike on Pacific vessel kills three",
+        "published": "Thu, 16 Apr 2026 15:10:41 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/16/turkiyes-roketsan-eyes-top-10-exporter-rank-amid-middle-east-conflict?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
