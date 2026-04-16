@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-16 18:55",
+  "updated_at_gst": "2026-04-16 20:15",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,17 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Hegseth says US blockade to continue, ready for new attacks on Iran energy",
+        "title": "Israel says it’s West’s defender, but cares little for European critics",
+        "published": "Thu, 16 Apr 2026 15:47:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/16/jet-fuel-shortage-why-iran-war-could-ground-flights-in-europe?traffic_source=rss"
+      },
+      {
+        "title": "US strike on Pacific vessel kills three",
+        "published": "Thu, 16 Apr 2026 15:10:41 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/16/turkiyes-roketsan-eyes-top-10-exporter-rank-amid-middle-east-conflict?traffic_source=rss"
+      },
+      {
+        "title": "Hegseth says US to keep Iran port blockade in Hormuz, ready for new attacks",
         "published": "Thu, 16 Apr 2026 13:56:32 +0000",
         "link": "https://www.aljazeera.com/opinions/2026/4/16/legal-migrants-remain-vulnerable-to-trafficking?traffic_source=rss"
       },
@@ -34,16 +44,6 @@
         "title": "Why the Iran war did not go according to US plans",
         "published": "Thu, 16 Apr 2026 12:29:51 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israeli-strike-destroys-last-working-bridge-over-lebanons-litani-river?traffic_source=rss"
-      },
-      {
-        "title": "Can historic Israel-Lebanon talks lead to ceasefire?",
-        "published": "Thu, 16 Apr 2026 12:04:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/16/who-is-roelf-meyer-south-africas-new-ambassador-to-the-us-2?traffic_source=rss"
-      },
-      {
-        "title": "Ceasefire in Lebanon ‘as important’ as in Iran, says Ghalibaf",
-        "published": "Thu, 16 Apr 2026 11:44:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/16/israeli-army-says-soldiers-accused-of-abusing-palestinian-to-return-to-duty?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
