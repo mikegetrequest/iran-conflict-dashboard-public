@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-16 09:54",
+  "updated_at_gst": "2026-04-16 11:16",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US military kills three in new Eastern Pacific boat strike",
+        "published": "Thu, 16 Apr 2026 06:34:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/16/iran-war-what-is-happening-on-day-48-of-the-us-iran-conflict?traffic_source=rss"
+      },
+      {
         "title": "Trump says Israel and Lebanon’s leaders will speak on Thursday",
         "published": "Thu, 16 Apr 2026 03:51:27 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates?traffic_source=rss"
@@ -31,7 +36,7 @@
         "link": "https://www.aljazeera.com/news/2026/4/16/brazils-fugitive-ex-spy-chief-freed-in-the-us-after-ice-detention?traffic_source=rss"
       },
       {
-        "title": "Russian attacks on Ukraine kill three, including a 12-year-old child",
+        "title": "Russian strikes on Ukraine kill 14, including a child, authorities say",
         "published": "Thu, 16 Apr 2026 01:06:01 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/huge-crowds-greet-pope-leo-in-cameroon-20-years-after-outreach-trip?traffic_source=rss"
       },
@@ -39,11 +44,6 @@
         "title": "Iran war live: Pakistan in push for new round of US-Iran peace negotiations",
         "published": "Thu, 16 Apr 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/15/el-salvador-publishes-law-allowing-life-sentences-for-minors-as-young-as-12?traffic_source=rss"
-      },
-      {
-        "title": "Israel appoints first ambassador to Somaliland",
-        "published": "Wed, 15 Apr 2026 21:05:27 +0000",
-        "link": "https://www.aljazeera.com/news/longform/2026/4/15/could-the-us-oil-blockade-snuff-out-the-cuban-cigar?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
