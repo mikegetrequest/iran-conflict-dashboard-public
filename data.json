@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-16 15:34",
+  "updated_at_gst": "2026-04-16 16:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Fire at key Australian refinery deepens fuel risks amid Iran war shortages",
-        "published": "Thu, 16 Apr 2026 08:04:59 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/16/muslims-the-target-fury-as-millions-lose-voting-rights-in-indias-bengal?traffic_source=rss"
+        "title": "Israeli strike destroys last working bridge over Lebanon’s Litani River",
+        "published": "Thu, 16 Apr 2026 12:21:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/16/can-historic-israel-lebanon-talks-lead-to-ceasefire?traffic_source=rss"
       },
       {
-        "title": "Why many Kashmiris are donating gold, breaking piggy banks for Iran",
-        "published": "Thu, 16 Apr 2026 06:56:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/16/us-military-kills-three-in-new-eastern-pacific-boat-strike?traffic_source=rss"
+        "title": "Israeli army says soldiers accused of abusing Palestinian to return to duty",
+        "published": "Thu, 16 Apr 2026 11:17:51 +0000",
+        "link": "https://www.aljazeera.com/features/2026/4/16/sent-to-be-killed-how-russia-forces-migrants-to-fight-in-ukraine?traffic_source=rss"
       },
       {
-        "title": "Iran war: What is happening on day 48 of the US-Iran conflict?",
-        "published": "Thu, 16 Apr 2026 06:13:28 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/16/warriors-upset-clippers-in-nba-west-play-in-extend-playoff-run?traffic_source=rss"
+        "title": "Is Iran’s economy buckling under war pressure or holding up?",
+        "published": "Thu, 16 Apr 2026 10:19:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/16/drc-and-m23-rebels-eye-peace-monitoring-agreement-in-switzerland?traffic_source=rss"
       },
       {
-        "title": "Israel’s military kills four Lebanese paramedics in consecutive strikes",
-        "published": "Thu, 16 Apr 2026 05:56:25 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/4/16/the-pope-has-shown-the-world-how-to-stand-up-to-trump?traffic_source=rss"
+        "title": "‘Iran has to come’ to the US for the World Cup, FIFA’s Infantino says",
+        "published": "Thu, 16 Apr 2026 09:50:43 +0000",
+        "link": "https://www.aljazeera.com/features/2026/4/16/why-are-fuel-price-protests-sweeping-the-republic-of-ireland?traffic_source=rss"
+      },
+      {
+        "title": "Israeli air attack destroys buildings around south Lebanon hospital",
+        "published": "Thu, 16 Apr 2026 08:55:44 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/4/16/afghan-villagers-turn-to-gold-panning-to-sustain-livelihoods?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
