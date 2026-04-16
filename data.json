@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-17 01:33",
+  "updated_at_gst": "2026-04-17 02:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
+        "published": "Thu, 16 Apr 2026 22:04:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/16/us-state-department-restricts-visas-for-those-who-support-adversaries?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
