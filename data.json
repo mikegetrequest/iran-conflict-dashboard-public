@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-17 00:37",
+  "updated_at_gst": "2026-04-17 01:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,18 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "10-day Lebanon-Israel ceasefire announced by Trump",
-        "published": "Thu, 16 Apr 2026 17:35:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/16/no-date-set-for-us-iran-talks-as-pakistan-pushes-to-keep-diplomacy-alive?traffic_source=rss"
-      },
-      {
-        "title": "US general clarifies Iranian ports under blockade, not Strait of Hormuz",
-        "published": "Thu, 16 Apr 2026 16:55:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/16/syria-takes-control-of-all-bases-where-us-forces-were-deployed?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
