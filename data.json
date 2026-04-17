@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-17 07:48",
+  "updated_at_gst": "2026-04-17 09:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "‘Trump forced Israel into a ceasefire’ with Lebanon",
-        "published": "Fri, 17 Apr 2026 01:52:52 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/celebrations-on-the-road-as-people-begin-returning-to-southern-lebanon?traffic_source=rss"
+        "title": "Trump calls war on Iran a ‘little diversion’",
+        "published": "Fri, 17 Apr 2026 05:03:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/17/australian-ex-soldier-roberts-smith-granted-bail-in-afghan-war-crimes-case?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Ceasefire starts in Lebanon as Trump says Tehran deal close",
-        "published": "Fri, 17 Apr 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/people-in-beirut-wary-of-trusting-israel-will-uphold-lebanon-ceasefire?traffic_source=rss"
+        "title": "France arrests suspect over 1982 attack on Jewish restaurant",
+        "published": "Fri, 17 Apr 2026 04:08:41 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/pentagon-chief-pete-hegseth-reads-fake-bible-verse-from-pulp-fiction?traffic_source=rss"
       },
       {
-        "title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
-        "published": "Thu, 16 Apr 2026 22:04:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/16/us-state-department-restricts-visas-for-those-who-support-adversaries?traffic_source=rss"
+        "title": "Celebrations in Lebanon as 10-day ceasefire with Israel begins",
+        "published": "Fri, 17 Apr 2026 03:41:57 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/17/imf-world-bank-say-they-are-restoring-ties-with-venezuela?traffic_source=rss"
+      },
+      {
+        "title": "How Israel’s war upended daily life in Lebanon",
+        "published": "Fri, 17 Apr 2026 03:21:14 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/trump-forced-israel-into-a-ceasefire-with-lebanon-2?traffic_source=rss"
+      },
+      {
+        "title": "Celebrations on the road as people begin returning to southern Lebanon",
+        "published": "Fri, 17 Apr 2026 01:07:10 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close?traffic_source=rss"
+      },
+      {
+        "title": "People in Beirut wary of trusting Israel will uphold Lebanon ceasefire",
+        "published": "Thu, 16 Apr 2026 22:55:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/16/us-panel-approves-trumps-design-for-massive-arch-in-washington-dc?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
