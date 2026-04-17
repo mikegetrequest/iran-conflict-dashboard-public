@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-17 14:10",
+  "updated_at_gst": "2026-04-17 15:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "What we know about the Israel-Lebanon ceasefire",
+        "published": "Fri, 17 Apr 2026 10:57:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/17/lebanese-return-to-devastated-south-as-fragile-10-day-truce-takes-hold?traffic_source=rss"
+      },
       {
         "title": "Iran war’s big winners: Wall Street, weapons firms, AI and green energy",
         "published": "Fri, 17 Apr 2026 07:42:37 +0000",
@@ -34,16 +39,6 @@
         "title": "‘Vengeance for all’: How Iran’s Lego videos won narrative war against Trump",
         "published": "Fri, 17 Apr 2026 05:43:47 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/17/why-are-anti-war-protests-in-the-west-muted-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Trump calls war on Iran a ‘little diversion’",
-        "published": "Fri, 17 Apr 2026 05:03:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/17/australian-ex-soldier-roberts-smith-granted-bail-in-afghan-war-crimes-case?traffic_source=rss"
-      },
-      {
-        "title": "France arrests suspect over 1982 attack on Jewish restaurant",
-        "published": "Fri, 17 Apr 2026 04:08:41 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/pentagon-chief-pete-hegseth-reads-fake-bible-verse-from-pulp-fiction?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
