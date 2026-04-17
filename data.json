@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-17 21:38",
+  "updated_at_gst": "2026-04-17 22:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Ukraine’s long-range strikes prompt new Russian threat against Europe",
-        "published": "Fri, 17 Apr 2026 15:46:03 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/17/men-caught-competing-in-the-womens-prestigious-south-african-marathon?traffic_source=rss"
+        "title": "What has Trump said ahead of possible US-Iran talks and what could it mean?",
+        "published": "Fri, 17 Apr 2026 18:24:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/17/fifteen-south-american-people-deported-from-the-us-arrive-in-dr-congo?traffic_source=rss"
       },
       {
-        "title": "Controversy as Lebanese banker Sehnaoui is praised for supporting Israel",
-        "published": "Fri, 17 Apr 2026 14:55:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/17/can-pakistan-secure-iran-us-nuclear-compromise-as-trump-says-deal?traffic_source=rss"
+        "title": "Inside Kharg Island, Iran’s oil lifeline under threat",
+        "published": "Fri, 17 Apr 2026 18:07:58 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/17/arsenal-to-embrace-privilege-not-pressure-of-man-city-premier-league-tilt?traffic_source=rss"
       },
       {
-        "title": "Iran foreign minister says Strait of Hormuz ‘completely open’",
-        "published": "Fri, 17 Apr 2026 13:37:00 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/4/17/the-three-clocks-of-the-iran-war?traffic_source=rss"
+        "title": "Macron demands assurances after Iran opens Strait of Hormuz",
+        "published": "Fri, 17 Apr 2026 16:14:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/17/record-number-of-rohingya-refugees-died-at-sea-last-year-unhcr-says?traffic_source=rss"
       },
       {
-        "title": "The Iran war has exposed the limits of neutrality",
-        "published": "Fri, 17 Apr 2026 12:23:19 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/17/tennis-djokovic-pulls-out-of-madrid-open-over-injury-concerns?traffic_source=rss"
+        "title": "Southern Lebanon’s only functioning hospital damaged by Israeli strikes",
+        "published": "Fri, 17 Apr 2026 15:48:30 +0000",
+        "link": "https://www.aljazeera.com/features/2026/4/17/ukraines-long-range-strikes-prompt-new-russian-threat-against-europe?traffic_source=rss"
+      },
+      {
+        "title": "Can Pakistan secure Iran-US nuclear compromise, as Trump says deal ‘close’?",
+        "published": "Fri, 17 Apr 2026 14:54:34 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/17/manchester-city-vs-arsenal-guardiola-says-loss-ends-premier-league-race?traffic_source=rss"
+      },
+      {
+        "title": "The three clocks of the Iran war",
+        "published": "Fri, 17 Apr 2026 13:20:56 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/17/saudi-arabia-sack-coach-herve-renard-ahead-of-fifa-world-cup-2026?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
