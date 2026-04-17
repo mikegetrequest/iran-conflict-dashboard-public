@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-17 16:08",
+  "updated_at_gst": "2026-04-17 18:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "The three clocks of the Iran war",
+        "published": "Fri, 17 Apr 2026 13:20:56 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/17/saudi-arabia-sack-coach-herve-renard-ahead-of-fifa-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "How the Lebanon ceasefire is viewed in Israel",
+        "published": "Fri, 17 Apr 2026 13:19:16 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/17/bulgaria-elections-whos-running-and-whats-at-stake?traffic_source=rss"
+      },
+      {
         "title": "What we know about the Israel-Lebanon ceasefire",
         "published": "Fri, 17 Apr 2026 10:57:23 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/17/lebanese-return-to-devastated-south-as-fragile-10-day-truce-takes-hold?traffic_source=rss"
@@ -24,16 +34,6 @@
         "title": "Iran war’s big winners: Wall Street, weapons firms, AI and green energy",
         "published": "Fri, 17 Apr 2026 07:42:37 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/17/palestinian-prisoners-day-what-happened-in-palestine-on-april-17-1971?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What is happening on day 49 of the US-Iran conflict?",
-        "published": "Fri, 17 Apr 2026 06:23:26 +0000",
-        "link": "https://www.aljazeera.com/features/2026/4/17/young-south-sudanese-models-take-up-space-in-quest-to-showcase-talent?traffic_source=rss"
-      },
-      {
-        "title": "Inside Israel’s prison system",
-        "published": "Fri, 17 Apr 2026 05:54:34 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/17/iran-women-football-players-thank-australian-government-for-protection?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
