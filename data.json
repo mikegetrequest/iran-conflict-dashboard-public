@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-17 19:33",
+  "updated_at_gst": "2026-04-17 20:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Can Pakistan secure Iran-US nuclear compromise, as Trump says deal ‘close’?",
-        "published": "Fri, 17 Apr 2026 14:54:34 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/17/manchester-city-vs-arsenal-guardiola-says-loss-ends-premier-league-race?traffic_source=rss"
+        "title": "Ukraine’s long-range strikes prompt new Russian threat against Europe",
+        "published": "Fri, 17 Apr 2026 15:46:03 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/17/men-caught-competing-in-the-womens-prestigious-south-african-marathon?traffic_source=rss"
       },
       {
-        "title": "The three clocks of the Iran war",
-        "published": "Fri, 17 Apr 2026 13:20:56 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/17/saudi-arabia-sack-coach-herve-renard-ahead-of-fifa-world-cup-2026?traffic_source=rss"
+        "title": "Controversy as Lebanese banker Sehnaoui is praised for supporting Israel",
+        "published": "Fri, 17 Apr 2026 14:55:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/17/can-pakistan-secure-iran-us-nuclear-compromise-as-trump-says-deal?traffic_source=rss"
       },
       {
-        "title": "How the Lebanon ceasefire is viewed in Israel",
-        "published": "Fri, 17 Apr 2026 13:19:16 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/17/bulgaria-elections-whos-running-and-whats-at-stake?traffic_source=rss"
+        "title": "Iran foreign minister says Strait of Hormuz ‘completely open’",
+        "published": "Fri, 17 Apr 2026 13:37:00 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/4/17/the-three-clocks-of-the-iran-war?traffic_source=rss"
       },
       {
-        "title": "What we know about the Israel-Lebanon ceasefire",
-        "published": "Fri, 17 Apr 2026 10:57:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/17/lebanese-return-to-devastated-south-as-fragile-10-day-truce-takes-hold?traffic_source=rss"
+        "title": "The Iran war has exposed the limits of neutrality",
+        "published": "Fri, 17 Apr 2026 12:23:19 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/17/tennis-djokovic-pulls-out-of-madrid-open-over-injury-concerns?traffic_source=rss"
+      },
+      {
+        "title": "Could the Lebanon ceasefire lead to US-Iran talks breakthrough?",
+        "published": "Fri, 17 Apr 2026 11:33:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/lebanese-celebrate-return-to-homes-as-10-day-ceasefire-begins?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
