@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-18 00:33",
+  "updated_at_gst": "2026-04-18 01:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Lebanon president says country is no longer a pawn amid Israel ceasefire",
+        "published": "Fri, 17 Apr 2026 20:45:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/17/starmer-rejects-calls-to-quit-as-pressure-mounts-over-mandelson-vetting?traffic_source=rss"
+      },
       {
         "title": "Will the ceasefire in Lebanon hold?",
         "published": "Fri, 17 Apr 2026 20:20:15 +0000",
@@ -39,11 +44,6 @@
         "title": "Macron demands assurances after Iran opens Strait of Hormuz",
         "published": "Fri, 17 Apr 2026 16:14:23 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/17/record-number-of-rohingya-refugees-died-at-sea-last-year-unhcr-says?traffic_source=rss"
-      },
-      {
-        "title": "Southern Lebanon’s only functioning hospital damaged by Israeli strikes",
-        "published": "Fri, 17 Apr 2026 15:48:30 +0000",
-        "link": "https://www.aljazeera.com/features/2026/4/17/ukraines-long-range-strikes-prompt-new-russian-threat-against-europe?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
