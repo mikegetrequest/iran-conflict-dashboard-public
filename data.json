@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-18 15:07",
+  "updated_at_gst": "2026-04-18 15:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Pakistan PM, army chief wrap up key trips in push for more US-Iran talks",
-        "published": "Sat, 18 Apr 2026 09:27:38 +0000",
-        "link": "https://www.aljazeera.com/video/quotable/2026/4/18/iran-has-learned-that-the-strait-of-hormuz-is-its-strongest-deterrent?traffic_source=rss"
+        "title": "US blockade of Iran needs to end before the Strait of Hormuz is fully reope",
+        "published": "Sat, 18 Apr 2026 11:35:39 +0000",
+        "link": "https://www.aljazeera.com/video/the-listening-post/2026/4/18/hormuz-spin-in-the-strait?traffic_source=rss"
       },
       {
-        "title": "Israeli police destroy children’s footballs at Al-Aqsa mosque",
-        "published": "Sat, 18 Apr 2026 06:52:44 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-says-us-will-start-dropping-bombs-again-if-no-iran-deal-is-reached?traffic_source=rss"
+        "title": "Ambulance crew in south Lebanon describes Israel’s ‘triple-tap’ attack",
+        "published": "Sat, 18 Apr 2026 10:39:22 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/18/as-oil-prices-plunge-below-91-after-weeks-a-new-hormuz-crisis-emerges?traffic_source=rss"
       },
       {
-        "title": "Iran war: What is happening on day 50 of the US-Iran conflict?",
-        "published": "Sat, 18 Apr 2026 06:07:12 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/18/curry-warriors-knocked-out-of-nba-play-in-tournament-by-suns?traffic_source=rss"
+        "title": "Death penalty law proves the EU must treat Israel as an apartheid state",
+        "published": "Sat, 18 Apr 2026 10:07:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/18/pakistan-pm-army-chief-wrap-up-key-trips-in-push-for-more-us-iran-talks?traffic_source=rss"
       },
       {
-        "title": "Lebanese man removes Israeli flag from castle in southern Lebanon",
-        "published": "Sat, 18 Apr 2026 02:14:25 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss"
+        "title": "Iran has learned that the Strait of Hormuz is its strongest deterrent",
+        "published": "Sat, 18 Apr 2026 08:25:24 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/18/man-city-vs-arsenal-all-you-need-to-know-about-title-showdown?traffic_source=rss"
+      },
+      {
+        "title": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
+        "published": "Sat, 18 Apr 2026 06:10:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/18/iran-war-what-is-happening-on-day-50-of-the-us-iran-conflict?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Hormuz Strait shut down again over US ‘piracy’, says Tehran",
+        "published": "Sat, 18 Apr 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/17/pressure-mounts-on-perus-election-authorities-amid-presidential-race-delay?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
