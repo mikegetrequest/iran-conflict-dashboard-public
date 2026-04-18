@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-18 19:27",
+  "updated_at_gst": "2026-04-18 19:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "French soldier serving with UNIFIL killed in Lebanon attack",
+        "published": "Sat, 18 Apr 2026 15:16:08 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/18/as-fentanyl-crisis-evolves-experts-say-us-is-still-behind-the-eight-ball?traffic_source=rss"
+      },
       {
         "title": "UNICEF ‘outraged’ after Israeli forces kill water truck drivers in Gaza",
         "published": "Sat, 18 Apr 2026 14:22:53 +0000",
@@ -34,11 +39,6 @@
         "title": "Pakistan PM, army chief wrap up key trips in push for more US-Iran talks",
         "published": "Sat, 18 Apr 2026 09:27:38 +0000",
         "link": "https://www.aljazeera.com/video/quotable/2026/4/18/iran-has-learned-that-the-strait-of-hormuz-is-its-strongest-deterrent?traffic_source=rss"
-      },
-      {
-        "title": "Israeli police destroy children’s footballs at Al-Aqsa mosque",
-        "published": "Sat, 18 Apr 2026 06:52:44 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-says-us-will-start-dropping-bombs-again-if-no-iran-deal-is-reached?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
