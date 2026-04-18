@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-19 01:35",
+  "updated_at_gst": "2026-04-19 02:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Manchester United beat Chelsea as Cunha strike boosts Champions League hope",
-        "published": "Sat, 18 Apr 2026 21:09:16 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/iran-military-orders-indian-ship-to-abort-strait-of-hormuz-passage?traffic_source=rss"
+        "title": "Iran reasserts control of Hormuz Strait as Trump warns against ‘blackmail’",
+        "published": "Sat, 18 Apr 2026 21:41:06 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/18/manchester-united-beat-chelsea-as-cunha-strike-boosts-champions-league-hope?traffic_source=rss"
       },
       {
-        "title": "Trump claims on Iranian concessions trigger questions, rejections in Tehran",
-        "published": "Sat, 18 Apr 2026 13:03:35 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/4/18/slavery-reparations-are-just-but-who-exactly-owes-whom?traffic_source=rss"
+        "title": "Iran military orders Indian ship to abort Strait of Hormuz passage",
+        "published": "Sat, 18 Apr 2026 21:06:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/18/mexico-spain-and-brazil-call-for-cubas-sovereignty-to-be-protected?traffic_source=rss"
       },
       {
-        "title": "Iran’s supreme leader warns of ‘new bitter defeats’ for US and Israel",
-        "published": "Sat, 18 Apr 2026 12:59:53 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/irans-deputy-fm-says-no-date-for-more-us-talks-until-framework-agreed?traffic_source=rss"
+        "title": "Israel says established a ‘yellow line’ in Lebanon, as it has in Gaza",
+        "published": "Sat, 18 Apr 2026 21:03:33 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/4/18/will-keir-starmer-resign?traffic_source=rss"
+      },
+      {
+        "title": "Mazzucato on the Iran war’s economic shock: Who pays the price?",
+        "published": "Sat, 18 Apr 2026 19:29:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/18/mexico-arrests-suspected-hungarian-drug-trafficker-amid-crime-crackdown?traffic_source=rss"
+      },
+      {
+        "title": "French soldier serving with UNIFIL killed in Lebanon attack",
+        "published": "Sat, 18 Apr 2026 15:16:08 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/18/as-fentanyl-crisis-evolves-experts-say-us-is-still-behind-the-eight-ball?traffic_source=rss"
+      },
+      {
+        "title": "UNICEF ‘outraged’ after Israeli forces kill water truck drivers in Gaza",
+        "published": "Sat, 18 Apr 2026 14:22:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/18/trump-claims-on-iranian-concessions-trigger-questions-rejections-in-tehran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
