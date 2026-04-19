@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-20 01:36",
+  "updated_at_gst": "2026-04-20 02:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Did the US misjudge Iran? A military strategist answers",
-        "published": "Sun, 19 Apr 2026 19:06:46 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/19/man-city-beat-arsenal-2-1-cut-premier-league-race-to-three-points?traffic_source=rss"
+        "title": "US forces attack and seize Iranian ship Touska near Strait of Hormuz",
+        "published": "Sun, 19 Apr 2026 21:53:29 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/argentinas-milei-backs-us-israel-war-on-iran-in-jerusalem-visit?traffic_source=rss"
       },
       {
-        "title": "Iran and Israel: From friends to enemies",
-        "published": "Sun, 19 Apr 2026 18:02:17 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/israeli-attacks-on-healthcare-across-iran-lebanon-and-gaza?traffic_source=rss"
+        "title": "Schools, shops shut in northern Israel to protest the Lebanon ceasefire",
+        "published": "Sun, 19 Apr 2026 21:21:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/protesters-defy-berlin-rain-to-call-for-end-to-global-wars?traffic_source=rss"
       },
       {
-        "title": "What would it take for the Iran-US talks to succeed?",
-        "published": "Sun, 19 Apr 2026 17:20:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/19/met-police-investigate-potential-iran-links-to-london-arson-attacks?traffic_source=rss"
+        "title": "Trump says US seized Iranian ship trying to get past blockade near Hormuz",
+        "published": "Sun, 19 Apr 2026 19:52:20 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/19/salah-scores-in-merseyside-derby-as-liverpool-win-to-boost-european-hopes?traffic_source=rss"
+      },
+      {
+        "title": "Israeli ministers celebrate re-establishment of Sa-Nur West Bank settlement",
+        "published": "Sun, 19 Apr 2026 19:13:55 +0000",
+        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/19/did-the-us-misjudge-iran-a-military-strategist-answers-2?traffic_source=rss"
+      },
+      {
+        "title": "Israeli attacks on healthcare across Iran, Lebanon and Gaza",
+        "published": "Sun, 19 Apr 2026 17:29:17 +0000",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/4/19/what-would-it-take-for-the-iran-us-talks-to-succeed?traffic_source=rss"
+      },
+      {
+        "title": "Met Police investigate potential Iran links to London arson attacks",
+        "published": "Sun, 19 Apr 2026 17:00:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/19/eight-children-killed-in-mass-shooting-in-louisiana-us-media-reports?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
