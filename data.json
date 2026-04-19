@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-19 16:33",
+  "updated_at_gst": "2026-04-19 17:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran warns Hormuz will stay shut unless US lifts siege on its ports",
-        "published": "Sun, 19 Apr 2026 11:31:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/19/does-israels-yellow-line-violate-the-lebanon-ceasefire?traffic_source=rss"
+        "title": "Iran war: 10 frequently used words and their meanings",
+        "published": "Sun, 19 Apr 2026 11:40:06 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/19/live-manchester-city-vs-arsenal-premier-league-2?traffic_source=rss"
       },
       {
-        "title": "Iran war: What is happening on day 51 of the US-Iran conflict?",
-        "published": "Sun, 19 Apr 2026 09:26:26 +0000",
-        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/19/how-the-israeli-military-targets-the-people-who-save-lives?traffic_source=rss"
+        "title": "Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire?",
+        "published": "Sun, 19 Apr 2026 11:30:18 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/19/humanoid-robot-breaks-half-marathon-world-record-in-beijing?traffic_source=rss"
       },
       {
-        "title": "Iran, US still ‘far’ from breakthrough amid Strait of Hormuz impasse",
-        "published": "Sun, 19 Apr 2026 08:49:19 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/19/lionel-messi-scores-twice-as-inter-miami-defeat-rapids-in-mls?traffic_source=rss"
+        "title": "Displaced Lebanese families return home despite Israeli attacks",
+        "published": "Sun, 19 Apr 2026 10:11:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/humanoid-robots-speed-past-humans-in-beijing-half-marathon?traffic_source=rss"
+      },
+      {
+        "title": "How the Israeli military targets the people who save lives",
+        "published": "Sun, 19 Apr 2026 09:12:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/19/iran-us-still-far-from-breakthrough-in-strait-of-hormuz-impasse?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
