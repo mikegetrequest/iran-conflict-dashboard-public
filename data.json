@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-19 15:54",
+  "updated_at_gst": "2026-04-19 16:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran warns Hormuz will stay shut unless US lifts siege on its ports",
+        "published": "Sun, 19 Apr 2026 11:31:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/19/does-israels-yellow-line-violate-the-lebanon-ceasefire?traffic_source=rss"
+      },
+      {
         "title": "Iran war: What is happening on day 51 of the US-Iran conflict?",
         "published": "Sun, 19 Apr 2026 09:26:26 +0000",
         "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/19/how-the-israeli-military-targets-the-people-who-save-lives?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Iran, US still ‘far’ from breakthrough amid Strait of Hormuz impasse",
         "published": "Sun, 19 Apr 2026 08:49:19 +0000",
         "link": "https://www.aljazeera.com/sports/2026/4/19/lionel-messi-scores-twice-as-inter-miami-defeat-rapids-in-mls?traffic_source=rss"
-      },
-      {
-        "title": "North Korea launches ballistic missiles towards sea off its east coast",
-        "published": "Sun, 19 Apr 2026 00:28:45 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
