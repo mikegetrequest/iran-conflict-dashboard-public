@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-19 21:26",
+  "updated_at_gst": "2026-04-19 21:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli attacks on healthcare across Iran, Lebanon and Gaza",
+        "published": "Sun, 19 Apr 2026 17:29:17 +0000",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/4/19/what-would-it-take-for-the-iran-us-talks-to-succeed?traffic_source=rss"
+      },
       {
         "title": "Met Police investigate potential Iran links to London arson attacks",
         "published": "Sun, 19 Apr 2026 17:00:24 +0000",
