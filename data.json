@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-19 12:40",
+  "updated_at_gst": "2026-04-19 13:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "How the Israeli military targets the people who save lives",
+        "published": "Sun, 19 Apr 2026 09:12:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/19/iran-us-still-far-from-breakthrough-in-strait-of-hormuz-impasse?traffic_source=rss"
+      },
       {
         "title": "Iran war live: Tehran says no date set for US talks, Hormuz Strait closed",
         "published": "Sun, 19 Apr 2026 00:00:00 +0000",
