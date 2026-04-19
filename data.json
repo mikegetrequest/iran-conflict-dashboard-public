@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-19 20:38",
+  "updated_at_gst": "2026-04-19 21:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Met Police investigate potential Iran links to London arson attacks",
+        "published": "Sun, 19 Apr 2026 17:00:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/19/eight-children-killed-in-mass-shooting-in-louisiana-us-media-reports?traffic_source=rss"
+      },
       {
         "title": "Satellite images reveal Israel expanding Gaza military sites",
         "published": "Sun, 19 Apr 2026 15:38:52 +0000",
@@ -34,11 +39,6 @@
         "title": "Iran warns Hormuz will stay shut unless US lifts siege on its ports",
         "published": "Sun, 19 Apr 2026 11:31:31 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/19/does-israels-yellow-line-violate-the-lebanon-ceasefire?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What is happening on day 51 of the US-Israeli conflict?",
-        "published": "Sun, 19 Apr 2026 09:26:26 +0000",
-        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/19/how-the-israeli-military-targets-the-people-who-save-lives?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
