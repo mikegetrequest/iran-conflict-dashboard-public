@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-19 23:33",
+  "updated_at_gst": "2026-04-20 00:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump says US seized Iran-flagged ship trying to get past Hormuz blockade",
+        "published": "Sun, 19 Apr 2026 19:52:20 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/19/salah-scores-in-merseyside-derby-as-liverpool-win-to-boost-european-hopes?traffic_source=rss"
+      },
+      {
+        "title": "Israeli ministers celebrate re-establishment of Sa-Nur West Bank settlement",
+        "published": "Sun, 19 Apr 2026 19:13:55 +0000",
+        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/19/did-the-us-misjudge-iran-a-military-strategist-answers-2?traffic_source=rss"
+      },
       {
         "title": "Israeli attacks on healthcare across Iran, Lebanon and Gaza",
         "published": "Sun, 19 Apr 2026 17:29:17 +0000",
@@ -34,16 +44,6 @@
         "title": "What to know about US-Iran standoff over the Strait of Hormuz",
         "published": "Sun, 19 Apr 2026 14:08:20 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/displaced-lebanese-woman-returns-to-find-home-destroyed-after-ceasefire?traffic_source=rss"
-      },
-      {
-        "title": "Trump to send US delegation to Pakistan for possible Iran talks",
-        "published": "Sun, 19 Apr 2026 12:38:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/19/peru-says-presidential-election-results-due-by-mid-may-after-delayed-count?traffic_source=rss"
-      },
-      {
-        "title": "Iran warns Hormuz will stay shut unless US lifts siege on its ports",
-        "published": "Sun, 19 Apr 2026 11:31:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/19/does-israels-yellow-line-violate-the-lebanon-ceasefire?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
