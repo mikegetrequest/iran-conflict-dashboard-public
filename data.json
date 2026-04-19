@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-19 22:43",
+  "updated_at_gst": "2026-04-19 23:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran and Israel: From friends to enemies",
-        "published": "Sun, 19 Apr 2026 18:02:17 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/israeli-attacks-on-healthcare-across-iran-lebanon-and-gaza?traffic_source=rss"
+        "title": "Israeli attacks on healthcare across Iran, Lebanon and Gaza",
+        "published": "Sun, 19 Apr 2026 17:29:17 +0000",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/4/19/what-would-it-take-for-the-iran-us-talks-to-succeed?traffic_source=rss"
       },
       {
-        "title": "What would it take for the Iran-US talks to succeed?",
-        "published": "Sun, 19 Apr 2026 17:20:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/19/met-police-investigate-potential-iran-links-to-london-arson-attacks?traffic_source=rss"
+        "title": "Met Police investigate potential Iran links to London arson attacks",
+        "published": "Sun, 19 Apr 2026 17:00:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/19/eight-children-killed-in-mass-shooting-in-louisiana-us-media-reports?traffic_source=rss"
       },
       {
-        "title": "Iran war: 10 frequently used words and their meanings",
-        "published": "Sun, 19 Apr 2026 11:40:06 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/19/live-manchester-city-vs-arsenal-premier-league-2?traffic_source=rss"
+        "title": "Satellite images reveal Israel expanding Gaza military sites",
+        "published": "Sun, 19 Apr 2026 15:38:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/19/drc-government-m23-rebels-commit-to-protect-civilians-aid-deliveries?traffic_source=rss"
       },
       {
-        "title": "Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire?",
-        "published": "Sun, 19 Apr 2026 11:30:18 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/19/humanoid-robot-breaks-half-marathon-world-record-in-beijing?traffic_source=rss"
+        "title": "What to know about US-Iran standoff over the Strait of Hormuz",
+        "published": "Sun, 19 Apr 2026 14:08:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/displaced-lebanese-woman-returns-to-find-home-destroyed-after-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Trump to send US delegation to Pakistan for possible Iran talks",
+        "published": "Sun, 19 Apr 2026 12:38:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/19/peru-says-presidential-election-results-due-by-mid-may-after-delayed-count?traffic_source=rss"
+      },
+      {
+        "title": "Iran warns Hormuz will stay shut unless US lifts siege on its ports",
+        "published": "Sun, 19 Apr 2026 11:31:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/19/does-israels-yellow-line-violate-the-lebanon-ceasefire?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
