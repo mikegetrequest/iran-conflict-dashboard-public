@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-20 16:05",
+  "updated_at_gst": "2026-04-20 18:17",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran says it has ‘no plans’ for negotiations with the US",
+        "published": "Mon, 20 Apr 2026 12:21:27 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/20/iraqs-ruling-shia-bloc-races-to-choose-pm-as-us-iran-watch?traffic_source=rss"
+      },
+      {
         "title": "The EU must not wait till Israel starts executing Palestinians",
         "published": "Mon, 20 Apr 2026 10:21:29 +0000",
         "link": "https://www.aljazeera.com/features/2026/4/20/second-round-in-islamabad-whos-at-the-us-iran-negotiating-table?traffic_source=rss"
@@ -26,14 +31,9 @@
         "link": "https://www.aljazeera.com/news/2026/4/20/uk-universities-pay-to-spy-on-students-social-media-accounts?traffic_source=rss"
       },
       {
-        "title": "Magnitude 7.5 earthquake strikes northern Japan; tsunami warning issued",
+        "title": "Magnitude 7.5 earthquake strikes northern Japan; tsunami alert downgraded",
         "published": "Mon, 20 Apr 2026 09:26:51 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/20/kyiv-claims-to-hit-russian-landing-ships-as-both-sides-trade-deadly-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What is happening on day 52 of US-Israeli attacks?",
-        "published": "Mon, 20 Apr 2026 07:21:14 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
