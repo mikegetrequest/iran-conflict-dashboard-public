@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-21 00:37",
+  "updated_at_gst": "2026-04-21 01:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Funerals held across Lebanon during 10-day ceasefire",
-        "published": "Mon, 20 Apr 2026 20:13:30 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/rapper-d4vd-charged-with-murder-of-14-year-old-girl?traffic_source=rss"
+        "title": "How is the war on Iran affecting the Russia-Ukraine conflict?",
+        "published": "Mon, 20 Apr 2026 21:15:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/20/fbi-director-kash-patel-sues-atlantic-for-false-reporting-on-drinking?traffic_source=rss"
       },
       {
-        "title": "Ukrainian drone attack hits Russia’s Tuapse port",
-        "published": "Mon, 20 Apr 2026 18:13:14 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/20/uae-reports-dismantling-of-iran-linked-terror-cell?traffic_source=rss"
+        "title": "UAE reports dismantling of Iran-linked ‘terror’ cell",
+        "published": "Mon, 20 Apr 2026 18:00:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/20/germany-summons-russian-ambassador-citing-direct-threats?traffic_source=rss"
       },
       {
-        "title": "‘Everyone must calm down’, Macron urges as US-Iran talks near",
-        "published": "Mon, 20 Apr 2026 17:11:45 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/20/at-least-21-killed-as-bus-skids-off-kashmir-road-into-gorge?traffic_source=rss"
+        "title": "Woman charged in US with trafficking arms to Sudan for Iranian government",
+        "published": "Mon, 20 Apr 2026 17:46:29 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/nothing-left-hong-kong-fire-survivors-return-to-burnt-homes?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon, Israel to meet again Thursday for direct talks, US says",
+        "published": "Mon, 20 Apr 2026 17:15:21 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/everyone-must-calm-down-macron-urges-as-us-iran-talks-near?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
