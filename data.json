@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-20 13:22",
+  "updated_at_gst": "2026-04-20 15:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "The EU must not wait till Israel starts executing Palestinians",
+        "published": "Mon, 20 Apr 2026 10:21:29 +0000",
+        "link": "https://www.aljazeera.com/features/2026/4/20/second-round-in-islamabad-whos-at-the-us-iran-negotiating-table?traffic_source=rss"
+      },
+      {
+        "title": "US captures Iranian ship Touska amid mediation efforts: All we know",
+        "published": "Mon, 20 Apr 2026 10:06:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/20/uk-universities-pay-to-spy-on-students-social-media-accounts?traffic_source=rss"
+      },
+      {
+        "title": "Magnitude 7.5 earthquake strikes northern Japan; tsunami warning issued",
+        "published": "Mon, 20 Apr 2026 09:26:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/20/kyiv-claims-to-hit-russian-landing-ships-as-both-sides-trade-deadly-attacks?traffic_source=rss"
+      },
+      {
         "title": "Iran war: What is happening on day 52 of US-Israeli attacks?",
         "published": "Mon, 20 Apr 2026 07:21:14 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining?traffic_source=rss"
@@ -29,21 +44,6 @@
         "title": "To stay or to go? No good options for Lebanon’s displaced",
         "published": "Mon, 20 Apr 2026 05:41:22 +0000",
         "link": "https://www.aljazeera.com/opinions/2026/4/20/what-is-really-happening-in-northern-nigeria?traffic_source=rss"
-      },
-      {
-        "title": "Outrage after Israeli soldier desecrates statue of Jesus Christ in Lebanon",
-        "published": "Mon, 20 Apr 2026 03:47:28 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/4/20/oil-prices-surge-amid-mixed-signals-on-us-iran-peace-talks?traffic_source=rss"
-      },
-      {
-        "title": "Outrage after photo shows Israeli soldier smashing Jesus statue in Lebanon",
-        "published": "Sun, 19 Apr 2026 23:41:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz?traffic_source=rss"
-      },
-      {
-        "title": "Argentina’s Milei backs US-Israel war on Iran in Jerusalem visit",
-        "published": "Sun, 19 Apr 2026 21:23:19 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/schools-shops-shut-in-northern-israel-to-protest-the-lebanon-ceasefire?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
