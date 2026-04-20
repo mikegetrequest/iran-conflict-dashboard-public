@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-20 21:47",
+  "updated_at_gst": "2026-04-20 22:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Ukrainian drone attack hits Russia’s Tuapse port",
+        "published": "Mon, 20 Apr 2026 18:13:14 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/20/uae-reports-dismantling-of-iran-linked-terror-cell?traffic_source=rss"
+      },
       {
         "title": "‘Everyone must calm down’, Macron urges as US-Iran talks near",
         "published": "Mon, 20 Apr 2026 17:11:45 +0000",
@@ -34,16 +39,6 @@
         "title": "Cloud over US-Iran talks: What are the key sticking points?",
         "published": "Mon, 20 Apr 2026 13:51:57 +0000",
         "link": "https://www.aljazeera.com/opinions/2026/4/20/powerful-states-are-trying-to-sabotage-decarbonisation-of-shipping?traffic_source=rss"
-      },
-      {
-        "title": "Tight security in Islamabad as US-Iran talks set to go ahead",
-        "published": "Mon, 20 Apr 2026 13:09:52 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/20/india-in-extremely-high-doping-risk-bracket-athletics-integrity-unit?traffic_source=rss"
-      },
-      {
-        "title": "What we know about the US capture of Iranian vessel near Hormuz",
-        "published": "Mon, 20 Apr 2026 12:43:02 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/iran-says-it-has-no-plans-for-negotiations-with-the-us?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
