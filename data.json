@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-20 18:17",
+  "updated_at_gst": "2026-04-20 19:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran says it has ‘no plans’ for negotiations with the US",
-        "published": "Mon, 20 Apr 2026 12:21:27 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/20/iraqs-ruling-shia-bloc-races-to-choose-pm-as-us-iran-watch?traffic_source=rss"
+        "title": "‘Israel never talked me into the war with Iran,’ Trump says",
+        "published": "Mon, 20 Apr 2026 15:23:02 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/20/bulgarias-former-president-radev-wins-election-all-you-need-to-know?traffic_source=rss"
       },
       {
-        "title": "The EU must not wait till Israel starts executing Palestinians",
-        "published": "Mon, 20 Apr 2026 10:21:29 +0000",
-        "link": "https://www.aljazeera.com/features/2026/4/20/second-round-in-islamabad-whos-at-the-us-iran-negotiating-table?traffic_source=rss"
+        "title": "Cloud over US-Iran talks: What are the key sticking points?",
+        "published": "Mon, 20 Apr 2026 13:51:57 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/4/20/powerful-states-are-trying-to-sabotage-decarbonisation-of-shipping?traffic_source=rss"
       },
       {
-        "title": "US captures Iranian ship Touska amid mediation efforts: All we know",
-        "published": "Mon, 20 Apr 2026 10:06:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/20/uk-universities-pay-to-spy-on-students-social-media-accounts?traffic_source=rss"
+        "title": "Tight security in Islamabad as US-Iran talks set to go ahead",
+        "published": "Mon, 20 Apr 2026 13:09:52 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/20/india-in-extremely-high-doping-risk-bracket-athletics-integrity-unit?traffic_source=rss"
       },
       {
-        "title": "Magnitude 7.5 earthquake strikes northern Japan; tsunami alert downgraded",
-        "published": "Mon, 20 Apr 2026 09:26:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/20/kyiv-claims-to-hit-russian-landing-ships-as-both-sides-trade-deadly-attacks?traffic_source=rss"
+        "title": "What we know about the US capture of Iranian vessel near Hormuz",
+        "published": "Mon, 20 Apr 2026 12:43:02 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/iran-says-it-has-no-plans-for-negotiations-with-the-us?traffic_source=rss"
+      },
+      {
+        "title": "Iraq’s ruling Shia bloc races to choose PM as US, Iran watch",
+        "published": "Mon, 20 Apr 2026 12:15:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/20/russia-claims-foiled-bomb-plot-involving-german-woman?traffic_source=rss"
+      },
+      {
+        "title": "Second round in Islamabad: Who are the main US-Iran negotiators?",
+        "published": "Mon, 20 Apr 2026 10:06:49 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/20/us-captures-iranian-ship-touska-amid-mediation-efforts-all-we-know?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
