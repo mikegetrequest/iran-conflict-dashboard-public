@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-20 05:21",
+  "updated_at_gst": "2026-04-20 08:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Outrage after Israeli soldier desecrates statue of Jesus Christ in Lebanon",
+        "published": "Mon, 20 Apr 2026 03:47:28 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/20/oil-prices-surge-amid-mixed-signals-on-us-iran-peace-talks?traffic_source=rss"
+      },
       {
         "title": "Outrage after photo shows Israeli soldier smashing Jesus statue in Lebanon",
         "published": "Sun, 19 Apr 2026 23:41:57 +0000",
@@ -34,11 +39,6 @@
         "title": "Iran and Israel: From friends to enemies",
         "published": "Sun, 19 Apr 2026 18:02:17 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/israeli-attacks-on-healthcare-across-iran-lebanon-and-gaza?traffic_source=rss"
-      },
-      {
-        "title": "What would it take for the Iran-US talks to succeed?",
-        "published": "Sun, 19 Apr 2026 17:20:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/19/met-police-investigate-potential-iran-links-to-london-arson-attacks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
