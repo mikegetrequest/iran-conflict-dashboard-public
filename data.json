@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-21 12:13",
+  "updated_at_gst": "2026-04-21 13:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Spain, Slovenia, Ireland push EU to debate Israel pact suspension",
+        "published": "Tue, 21 Apr 2026 09:32:43 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/burn-treatment-for-gaza-children-threatened-by-israeli-restrictions?traffic_source=rss"
+      },
+      {
+        "title": "As Iran crisis drags on, fears of global food crisis grow",
+        "published": "Tue, 21 Apr 2026 09:02:55 +0000",
+        "link": "https://www.aljazeera.com/features/2026/4/21/my-dreams-in-iran-were-already-dead-before-the-ceasefire-came?traffic_source=rss"
+      },
       {
         "title": "US, Iran exchange threats as fragile ceasefire set to expire",
         "published": "Tue, 21 Apr 2026 07:55:38 +0000",
@@ -34,16 +44,6 @@
         "title": "Amnesty International slams ‘predatory world order’ led by US and Israel",
         "published": "Tue, 21 Apr 2026 04:55:31 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/21/japan-lifts-ban-on-lethal-weapons-exports-in-major-shift-of-pacifist-policy?traffic_source=rss"
-      },
-      {
-        "title": "Global Sumud Flotilla disrupts cargo ship bound for Israel",
-        "published": "Tue, 21 Apr 2026 02:05:10 +0000",
-        "link": "https://www.aljazeera.com/video/quotable/2026/4/21/us-is-pretty-far-behind-where-they-started-the-war-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Global fallout grows over Israeli soldier smashing Jesus statue in Lebanon",
-        "published": "Tue, 21 Apr 2026 01:33:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/21/six-women-win-2026-goldman-prize-worlds-top-environmental-award?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
