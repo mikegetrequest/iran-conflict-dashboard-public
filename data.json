@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-21 20:01",
+  "updated_at_gst": "2026-04-21 21:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli sexual violence helping push Palestinians from West Bank: Report",
+        "published": "Tue, 21 Apr 2026 16:38:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/21/eu-court-rules-hungarys-lgbtq-law-violates-human-rights?traffic_source=rss"
+      },
       {
         "title": "Rabbi accused of war crimes selected for Israel’s national celebration",
         "published": "Tue, 21 Apr 2026 15:35:14 +0000",
