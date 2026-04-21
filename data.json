@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-21 18:55",
+  "updated_at_gst": "2026-04-21 20:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Rabbi accused of war crimes selected for Israel’s national celebration",
+        "published": "Tue, 21 Apr 2026 15:35:14 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/video-us-forces-board-sanctioned-tanker-in-asia-pacific?traffic_source=rss"
+      },
+      {
+        "title": "Trump says he opposes extending Iran ceasefire amid talks uncertainty",
+        "published": "Tue, 21 Apr 2026 14:56:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/21/why-is-the-eu-under-pressure-to-suspend-its-trade-agreement-with-israel?traffic_source=rss"
+      },
+      {
         "title": "Israeli soldiers and settlers kill 11 Palestinians across Gaza, West Bank",
         "published": "Tue, 21 Apr 2026 14:01:42 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/21/palestine-weekly-wrap-coordinated-attacks-and-evictions-in-gaza-west-bank?traffic_source=rss"
@@ -29,11 +39,6 @@
         "title": "EU credibility is on the line over Israel, says Spanish foreign minister",
         "published": "Tue, 21 Apr 2026 12:46:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/21/iran-us-war-four-scenarios-for-whats-next-as-talks-stumble?traffic_source=rss"
-      },
-      {
-        "title": "Burn treatment for Gaza children threatened by Israeli restrictions",
-        "published": "Tue, 21 Apr 2026 09:24:35 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/21/usain-bolt-hopes-australian-sprint-sensation-gout-has-strong-support-system?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
