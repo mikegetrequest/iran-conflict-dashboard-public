@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-21 23:57",
+  "updated_at_gst": "2026-04-22 00:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Video: Israeli soldiers sing national anthem on ruins of Lebanese town",
-        "published": "Tue, 21 Apr 2026 19:36:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/21/russian-police-raid-book-publisher-accused-of-pushing-gay-propaganda?traffic_source=rss"
+        "title": "EU eyes options as Iran conflict threatens jet fuel shortages",
+        "published": "Tue, 21 Apr 2026 20:33:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/21/sudan-refugees-returning-home-face-new-struggle-for-survival-un?traffic_source=rss"
       },
       {
-        "title": "Nicaragua’s president says Trump ‘mentally deranged’ over war on Iran",
-        "published": "Tue, 21 Apr 2026 18:47:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/21/us-forces-detain-iran-linked-tanker-tifani-with-ceasefire-talks-on-edge?traffic_source=rss"
+        "title": "Trump announces extending Iran ceasefire but says blockade remains",
+        "published": "Tue, 21 Apr 2026 20:22:17 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/germany-italy-block-bid-to-suspend-eu-israel-trade-agreement?traffic_source=rss"
       },
       {
-        "title": "Israeli sexual violence helping push Palestinians from West Bank: Report",
-        "published": "Tue, 21 Apr 2026 16:38:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/21/eu-court-rules-hungarys-lgbtq-law-violates-human-rights?traffic_source=rss"
+        "title": "Israeli rabbi who bulldozed Gaza honoured as torchbearer",
+        "published": "Tue, 21 Apr 2026 19:43:33 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/video-israeli-soldiers-sing-national-anthem-on-ruins-of-lebanese-town?traffic_source=rss"
       },
       {
-        "title": "Rabbi accused of war crimes selected for Israel’s national celebration",
-        "published": "Tue, 21 Apr 2026 15:35:14 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/video-us-forces-board-sanctioned-tanker-in-asia-pacific?traffic_source=rss"
-      },
-      {
-        "title": "Trump says he opposes extending Iran ceasefire amid talks uncertainty",
-        "published": "Tue, 21 Apr 2026 14:56:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/21/why-is-the-eu-under-pressure-to-suspend-its-trade-agreement-with-israel?traffic_source=rss"
-      },
-      {
-        "title": "Israeli soldiers and settlers kill 11 Palestinians across Gaza, West Bank",
-        "published": "Tue, 21 Apr 2026 14:01:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/21/palestine-weekly-wrap-coordinated-attacks-and-evictions-in-gaza-west-bank?traffic_source=rss"
+        "title": "US forces detain Iran-linked tanker Tifani with ceasefire talks on edge",
+        "published": "Tue, 21 Apr 2026 18:45:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/21/ukraine-says-druzhba-pipeline-running-russian-oil-to-europe-can-resume-work?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
