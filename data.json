@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-21 22:53",
+  "updated_at_gst": "2026-04-21 23:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Video: Israeli soldiers sing national anthem on ruins of Lebanese town",
+        "published": "Tue, 21 Apr 2026 19:36:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/21/russian-police-raid-book-publisher-accused-of-pushing-gay-propaganda?traffic_source=rss"
+      },
+      {
+        "title": "Nicaragua’s president says Trump ‘mentally deranged’ over war on Iran",
+        "published": "Tue, 21 Apr 2026 18:47:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/21/us-forces-detain-iran-linked-tanker-tifani-with-ceasefire-talks-on-edge?traffic_source=rss"
+      },
       {
         "title": "Israeli sexual violence helping push Palestinians from West Bank: Report",
         "published": "Tue, 21 Apr 2026 16:38:13 +0000",
@@ -34,16 +44,6 @@
         "title": "Israeli soldiers and settlers kill 11 Palestinians across Gaza, West Bank",
         "published": "Tue, 21 Apr 2026 14:01:42 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/21/palestine-weekly-wrap-coordinated-attacks-and-evictions-in-gaza-west-bank?traffic_source=rss"
-      },
-      {
-        "title": "Shot by Israeli forces, Hala, 18 and Mohammad, 13 fight for their lives",
-        "published": "Tue, 21 Apr 2026 13:26:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/21/pakistan-races-against-time-to-get-iran-back-to-us-talks-as-truce-end-nears?traffic_source=rss"
-      },
-      {
-        "title": "EU credibility is on the line over Israel, says Spanish foreign minister",
-        "published": "Tue, 21 Apr 2026 12:46:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/21/iran-us-war-four-scenarios-for-whats-next-as-talks-stumble?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
