@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-21 08:23",
+  "updated_at_gst": "2026-04-21 10:17",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war forces job losses, reverse migration in India’s ceramic hub",
+        "published": "Tue, 21 Apr 2026 06:05:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/us-veterans-arrested-in-capitol-during-protest-against-the-war-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Amnesty International slams ‘predatory world order’ led by US and Israel",
+        "published": "Tue, 21 Apr 2026 04:55:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/21/japan-lifts-ban-on-lethal-weapons-exports-in-major-shift-of-pacifist-policy?traffic_source=rss"
+      },
       {
         "title": "Global Sumud Flotilla disrupts cargo ship bound for Israel",
         "published": "Tue, 21 Apr 2026 02:05:10 +0000",
@@ -34,11 +44,6 @@
         "title": "Outcry grows over Israeli soldier smashing Jesus statue in Lebanon",
         "published": "Mon, 20 Apr 2026 22:12:02 +0000",
         "link": "https://www.aljazeera.com/economy/2026/4/20/tim-cook-to-step-down-as-apple-ceo?traffic_source=rss"
-      },
-      {
-        "title": "How is the war on Iran affecting the Russia-Ukraine conflict?",
-        "published": "Mon, 20 Apr 2026 21:15:19 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/20/fbi-director-kash-patel-sues-atlantic-for-false-reporting-on-drinking?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
