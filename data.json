@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-21 10:17",
+  "updated_at_gst": "2026-04-21 12:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US, Iran exchange threats as fragile ceasefire set to expire",
+        "published": "Tue, 21 Apr 2026 07:55:38 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/21/tennis-duo-sabalenka-and-alcaraz-sweep-top-laureus-sports-honours?traffic_source=rss"
+      },
+      {
+        "title": "Trump’s Board of Peace holds Gaza reconstruction talks with UAE’s DP World",
+        "published": "Tue, 21 Apr 2026 07:18:57 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/21/iran-war-what-is-happening-on-day-53-of-the-us-israel-conflict?traffic_source=rss"
+      },
       {
         "title": "Iran war forces job losses, reverse migration in India’s ceramic hub",
         "published": "Tue, 21 Apr 2026 06:05:36 +0000",
@@ -34,16 +44,6 @@
         "title": "Global fallout grows over Israeli soldier smashing Jesus statue in Lebanon",
         "published": "Tue, 21 Apr 2026 01:33:44 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/21/six-women-win-2026-goldman-prize-worlds-top-environmental-award?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Tehran spurns talks under threats; Trump says blockade stays",
-        "published": "Tue, 21 Apr 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/20/predators-amnesty-slams-netanyahu-putin-trump-as-human-rights-decline?traffic_source=rss"
-      },
-      {
-        "title": "Outcry grows over Israeli soldier smashing Jesus statue in Lebanon",
-        "published": "Mon, 20 Apr 2026 22:12:02 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/4/20/tim-cook-to-step-down-as-apple-ceo?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
