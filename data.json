@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-21 05:18",
+  "updated_at_gst": "2026-04-21 08:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "EU eyes Ukraine loan, Israeli settler sanctions, after Hungarian election",
-        "published": "Mon, 20 Apr 2026 21:30:55 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/4/20/how-is-the-iran-war-affecting-the-russia-ukraine-conflict?traffic_source=rss"
+        "title": "Global Sumud Flotilla disrupts cargo ship bound for Israel",
+        "published": "Tue, 21 Apr 2026 02:05:10 +0000",
+        "link": "https://www.aljazeera.com/video/quotable/2026/4/21/us-is-pretty-far-behind-where-they-started-the-war-on-iran?traffic_source=rss"
       },
       {
-        "title": "What to know about the next round of US-Iran talks in Pakistan",
-        "published": "Mon, 20 Apr 2026 20:48:38 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/20/europol-and-partners-trace-45-forcibly-transferred-ukrainian-children?traffic_source=rss"
+        "title": "Global fallout grows over Israeli soldier smashing Jesus statue in Lebanon",
+        "published": "Tue, 21 Apr 2026 01:33:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/21/six-women-win-2026-goldman-prize-worlds-top-environmental-award?traffic_source=rss"
       },
       {
-        "title": "Funerals held across Lebanon during 10-day ceasefire",
-        "published": "Mon, 20 Apr 2026 20:13:30 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/rapper-d4vd-charged-with-murder-of-14-year-old-girl?traffic_source=rss"
+        "title": "Iran war live: Tehran spurns talks under threats; Trump says blockade stays",
+        "published": "Tue, 21 Apr 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/20/predators-amnesty-slams-netanyahu-putin-trump-as-human-rights-decline?traffic_source=rss"
+      },
+      {
+        "title": "Outcry grows over Israeli soldier smashing Jesus statue in Lebanon",
+        "published": "Mon, 20 Apr 2026 22:12:02 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/20/tim-cook-to-step-down-as-apple-ceo?traffic_source=rss"
+      },
+      {
+        "title": "How is the war on Iran affecting the Russia-Ukraine conflict?",
+        "published": "Mon, 20 Apr 2026 21:15:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/20/fbi-director-kash-patel-sues-atlantic-for-false-reporting-on-drinking?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
