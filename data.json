@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-21 17:18",
+  "updated_at_gst": "2026-04-21 18:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israeli soldiers and settlers kill 11 Palestinians across Gaza, West Bank",
+        "published": "Tue, 21 Apr 2026 14:01:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/21/palestine-weekly-wrap-coordinated-attacks-and-evictions-in-gaza-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "Shot by Israeli forces, Hala, 18 and Mohammad, 13 fight for their lives",
+        "published": "Tue, 21 Apr 2026 13:26:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/21/pakistan-races-against-time-to-get-iran-back-to-us-talks-as-truce-end-nears?traffic_source=rss"
+      },
+      {
         "title": "EU credibility is on the line over Israel, says Spanish foreign minister",
         "published": "Tue, 21 Apr 2026 12:46:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/21/iran-us-war-four-scenarios-for-whats-next-as-talks-stumble?traffic_source=rss"
@@ -24,11 +34,6 @@
         "title": "Burn treatment for Gaza children threatened by Israeli restrictions",
         "published": "Tue, 21 Apr 2026 09:24:35 +0000",
         "link": "https://www.aljazeera.com/sports/2026/4/21/usain-bolt-hopes-australian-sprint-sensation-gout-has-strong-support-system?traffic_source=rss"
-      },
-      {
-        "title": "My dreams in Iran were already dead before the ceasefire came",
-        "published": "Tue, 21 Apr 2026 08:21:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/21/us-and-iran-exchange-threats-as-fragile-ceasefire-set-to-expire?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
