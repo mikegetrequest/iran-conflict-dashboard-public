@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-22 23:58",
+  "updated_at_gst": "2026-04-23 00:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israeli forces fire tear gas at funeral of Palestinians killed by settlers",
+        "published": "Wed, 22 Apr 2026 20:30:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/22/trump-calls-for-republicans-to-unify-around-budget-reconciliation-push?traffic_source=rss"
+      },
+      {
         "title": "Iran blames Trump’s blockade for diplomatic impasse as fragile truce holds",
         "published": "Wed, 22 Apr 2026 19:25:38 +0000",
         "link": "https://www.aljazeera.com/features/2026/4/22/bad-optics-israel-jails-soldiers-who-smashed-jesus-statue-in-lebanon?traffic_source=rss"
@@ -29,16 +34,6 @@
         "title": "Iran says ‘fully prepared’ for football team’s World Cup participation",
         "published": "Wed, 22 Apr 2026 16:39:02 +0000",
         "link": "https://www.aljazeera.com/economy/2026/4/22/a-42bn-euro-dilemma-what-is-stopping-eu-from-holding-israel-to-account?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s leaders debate war and peace after Trump ceasefire extension",
-        "published": "Wed, 22 Apr 2026 15:42:19 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/22/trump-calls-irans-leadership-fractured-is-it-and-whos-in-charge?traffic_source=rss"
-      },
-      {
-        "title": "The war on Iran: Breaking down the words you’re hearing",
-        "published": "Wed, 22 Apr 2026 14:50:58 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/4/22/russia-says-will-halt-oil-flow-to-germany-via-druzhba-pipeline?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
