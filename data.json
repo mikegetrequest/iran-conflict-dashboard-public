@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-22 18:54",
+  "updated_at_gst": "2026-04-22 20:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "What is uranium enrichment and how quickly could Iran build a nuclear bomb?",
-        "published": "Wed, 22 Apr 2026 13:52:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/22/will-iraqs-shia-bloc-overcome-obstacles-to-pick-the-next-pm?traffic_source=rss"
+        "title": "Trump calls Iran’s leadership ‘fractured’. Is it, and who’s in charge?",
+        "published": "Wed, 22 Apr 2026 15:26:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/fires-ignited-by-ukrainian-drones-rage-at-russian-oil-refinery?traffic_source=rss"
       },
       {
-        "title": "Iran captures two vessels in Strait of Hormuz after ship comes under fire",
-        "published": "Wed, 22 Apr 2026 09:32:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/22/virginia-redistricting-election-results-key-takeaways-from-democrats-win?traffic_source=rss"
+        "title": "Deadly Israeli settler attack on school kills two in Ramallah",
+        "published": "Wed, 22 Apr 2026 12:41:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/runners-help-collapsed-competitor-at-boston-marathon?traffic_source=rss"
+      },
+      {
+        "title": "Iran calls US ship seizure ‘piracy’: Is it?",
+        "published": "Wed, 22 Apr 2026 12:33:36 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/4/22/on-earth-day-remember-the-people-defending-the-planet?traffic_source=rss"
+      },
+      {
+        "title": "Israeli settlers set Palestinian home on fire in occupied West Bank",
+        "published": "Wed, 22 Apr 2026 11:30:50 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/22/kyrie-irving-changes-instagram-photo-to-show-solidarity-with-palestine?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
