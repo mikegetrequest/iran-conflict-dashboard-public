@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-22 21:03",
+  "updated_at_gst": "2026-04-22 22:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Bad optics? Israel jails soldiers who smashed Jesus statue in Lebanon",
+        "published": "Wed, 22 Apr 2026 18:22:26 +0000",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/4/22/aje-onl-tt_gbr_unispying_av_v2-220426?traffic_source=rss"
+      },
       {
         "title": "A 42bn-euro dilemma: What is stopping EU from holding Israel to account?",
         "published": "Wed, 22 Apr 2026 16:33:22 +0000",
