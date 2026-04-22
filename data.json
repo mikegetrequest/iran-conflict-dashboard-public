@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-22 10:16",
+  "updated_at_gst": "2026-04-22 12:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran’s UN ambassador responds to US ceasefire extension",
+        "published": "Wed, 22 Apr 2026 07:33:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/22/us-halts-iraq-dollar-shipments-in-pressure-campaign-over-iran-linked-groups?traffic_source=rss"
+      },
+      {
         "title": "Iran war: What’s happening on day 54 as Trump extends ceasefire?",
         "published": "Wed, 22 Apr 2026 05:25:57 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/fbi-chief-denies-allegations-of-drinking-and-negligence?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Trump remains ‘in a quandary’ despite Iran war ceasefire extension",
         "published": "Tue, 21 Apr 2026 23:26:57 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/21/paraguay-plans-to-accept-25-third-country-migrant-deportees-from-us?traffic_source=rss"
-      },
-      {
-        "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
-        "published": "Tue, 21 Apr 2026 20:42:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
