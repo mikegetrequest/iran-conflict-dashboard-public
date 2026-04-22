@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-22 12:12",
+  "updated_at_gst": "2026-04-22 13:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran’s gunboat fires on container ship off Oman coast",
+        "published": "Wed, 22 Apr 2026 09:32:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/22/virginia-redistricting-election-results-key-takeaways-from-democrats-win?traffic_source=rss"
+      },
+      {
+        "title": "Russia strikes Ukraine’s Odesa port, kills railway worker in Zaporizhia",
+        "published": "Wed, 22 Apr 2026 09:16:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israel-attacks-mosque-in-lebanon-in-another-ceasefire-violation?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s ‘digital occupation’ of south Lebanon",
+        "published": "Wed, 22 Apr 2026 08:26:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/22/how-china-is-gaining-from-iran-war-by-showing-it-is-different-from-us?traffic_source=rss"
+      },
+      {
         "title": "Iran’s UN ambassador responds to US ceasefire extension",
         "published": "Wed, 22 Apr 2026 07:33:42 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/22/us-halts-iraq-dollar-shipments-in-pressure-campaign-over-iran-linked-groups?traffic_source=rss"
@@ -29,11 +44,6 @@
         "title": "Tehran held military parades as ceasefire was set to end",
         "published": "Wed, 22 Apr 2026 03:21:22 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/argentinas-milei-sings-and-lights-torch-for-israeli-national-day?traffic_source=rss"
-      },
-      {
-        "title": "Trump remains ‘in a quandary’ despite Iran war ceasefire extension",
-        "published": "Tue, 21 Apr 2026 23:26:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/21/paraguay-plans-to-accept-25-third-country-migrant-deportees-from-us?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
