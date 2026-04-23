@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-23 12:14",
+  "updated_at_gst": "2026-04-23 14:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "India to Iran: How two wars shaped the rise of Pakistan’s Asim Munir",
+        "published": "Thu, 23 Apr 2026 09:34:19 +0000",
+        "link": "https://www.aljazeera.com/features/2026/4/23/gazas-second-front-the-battle-against-disease-carrying-rats?traffic_source=rss"
+      },
       {
         "title": "Israeli strike kills five in Gaza, including three children",
         "published": "Thu, 23 Apr 2026 07:53:15 +0000",
