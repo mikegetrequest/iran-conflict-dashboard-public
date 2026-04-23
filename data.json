@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-23 10:21",
+  "updated_at_gst": "2026-04-23 12:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israeli strike kills five in Gaza, including three children",
+        "published": "Thu, 23 Apr 2026 07:53:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/23/will-another-film-star-be-able-to-sway-the-election-in-indias-tamil-nadu?traffic_source=rss"
+      },
+      {
+        "title": "Dozens of Israeli settlers cross into Syria to demand settlement",
+        "published": "Thu, 23 Apr 2026 07:40:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/23/iran-war-whats-happening-on-day-55-after-trump-extended-ceasefire?traffic_source=rss"
+      },
+      {
         "title": "Israel kills journalist and wounds another in south Lebanon targeted attack",
         "published": "Thu, 23 Apr 2026 03:27:32 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss"
@@ -24,11 +34,6 @@
         "title": "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
         "published": "Thu, 23 Apr 2026 00:40:25 +0000",
         "link": "https://www.aljazeera.com/news/liveblog/2026/4/23/iran-war-live-israel-kills-lebanese-journalist-tehran-us-talks-stalled?traffic_source=rss"
-      },
-      {
-        "title": "Israeli forces fire tear gas at funeral of Palestinians killed by settlers",
-        "published": "Wed, 22 Apr 2026 20:30:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/22/trump-calls-for-republicans-to-unify-around-budget-reconciliation-push?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
