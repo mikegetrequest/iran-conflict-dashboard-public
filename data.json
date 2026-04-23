@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-23 03:36",
+  "updated_at_gst": "2026-04-23 05:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
+        "published": "Thu, 23 Apr 2026 00:40:25 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/23/iran-war-live-israel-kills-lebanese-journalist-tehran-us-talks-stalled?traffic_source=rss"
+      },
       {
         "title": "Israeli forces fire tear gas at funeral of Palestinians killed by settlers",
         "published": "Wed, 22 Apr 2026 20:30:10 +0000",
