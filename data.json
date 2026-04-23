@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-23 16:55",
+  "updated_at_gst": "2026-04-23 19:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "How Lebanese journalist Amal Khalil was pursued and killed by Israel",
+        "published": "Thu, 23 Apr 2026 13:26:10 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/two-trains-crash-head-on-in-denmark?traffic_source=rss"
+      },
       {
         "title": "How has Hezbollah shifted its battle tactics?",
         "published": "Thu, 23 Apr 2026 12:26:41 +0000",
@@ -34,16 +39,6 @@
         "title": "How Iran raised Hormuz stakes by capturing ships",
         "published": "Thu, 23 Apr 2026 11:25:44 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-strike-near-mosque-kills-five-in-gaza-including-three-children?traffic_source=rss"
-      },
-      {
-        "title": "Africa’s abandoned workers in Lebanon",
-        "published": "Thu, 23 Apr 2026 10:59:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss"
-      },
-      {
-        "title": "What we know about Israel killing Lebanese journalist Amal Khalil",
-        "published": "Thu, 23 Apr 2026 10:02:58 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-forces-levelling-lebanese-villages-behind-yellow?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
