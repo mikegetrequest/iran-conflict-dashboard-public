@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-23 15:35",
+  "updated_at_gst": "2026-04-23 16:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "How has Hezbollah shifted its battle tactics?",
+        "published": "Thu, 23 Apr 2026 12:26:41 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/why-indian-muslim-voters-say-theyve-been-frozen-out-of-this-state-electio?traffic_source=rss"
+      },
+      {
+        "title": "The economic winners &amp; losers in the US-Israel war on Iran",
+        "published": "Thu, 23 Apr 2026 11:52:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/23/icc-confirms-crimes-against-humanity-trial-of-ex-philippine-leader-duterte?traffic_source=rss"
+      },
+      {
+        "title": "Indian physicists voice solidarity with Iran, Palestine, Lebanon academics",
+        "published": "Thu, 23 Apr 2026 11:48:35 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/23/arsenal-vs-newcastle-premier-league-teams-start-lineup-title-race?traffic_source=rss"
+      },
+      {
         "title": "How Iran raised Hormuz stakes by capturing ships",
         "published": "Thu, 23 Apr 2026 11:25:44 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-strike-near-mosque-kills-five-in-gaza-including-three-children?traffic_source=rss"
@@ -29,11 +44,6 @@
         "title": "What we know about Israel killing Lebanese journalist Amal Khalil",
         "published": "Thu, 23 Apr 2026 10:02:58 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-forces-levelling-lebanese-villages-behind-yellow?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What’s happening on day 55 after Trump extended ceasefire?",
-        "published": "Thu, 23 Apr 2026 07:34:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/pope-leo-visits-prison-in-equatorial-guinea?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
