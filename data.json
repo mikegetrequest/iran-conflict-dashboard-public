@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-23 14:00",
+  "updated_at_gst": "2026-04-23 15:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "India to Iran: How two wars shaped the rise of Pakistan’s Asim Munir",
-        "published": "Thu, 23 Apr 2026 09:34:19 +0000",
-        "link": "https://www.aljazeera.com/features/2026/4/23/gazas-second-front-the-battle-against-disease-carrying-rats?traffic_source=rss"
+        "title": "How Iran raised Hormuz stakes by capturing ships",
+        "published": "Thu, 23 Apr 2026 11:25:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-strike-near-mosque-kills-five-in-gaza-including-three-children?traffic_source=rss"
       },
       {
-        "title": "Israeli strike kills five in Gaza, including three children",
-        "published": "Thu, 23 Apr 2026 07:53:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/23/will-another-film-star-be-able-to-sway-the-election-in-indias-tamil-nadu?traffic_source=rss"
+        "title": "Africa’s abandoned workers in Lebanon",
+        "published": "Thu, 23 Apr 2026 10:59:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss"
       },
       {
-        "title": "Dozens of Israeli settlers cross into Syria to demand settlement",
-        "published": "Thu, 23 Apr 2026 07:40:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/23/iran-war-whats-happening-on-day-55-after-trump-extended-ceasefire?traffic_source=rss"
+        "title": "What we know about Israel killing Lebanese journalist Amal Khalil",
+        "published": "Thu, 23 Apr 2026 10:02:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-forces-levelling-lebanese-villages-behind-yellow?traffic_source=rss"
       },
       {
-        "title": "Israel kills journalist and wounds another in south Lebanon targeted attack",
-        "published": "Thu, 23 Apr 2026 03:27:32 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss"
-      },
-      {
-        "title": "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
-        "published": "Thu, 23 Apr 2026 00:40:25 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/4/23/iran-war-live-israel-kills-lebanese-journalist-tehran-us-talks-stalled?traffic_source=rss"
+        "title": "Iran war: What’s happening on day 55 after Trump extended ceasefire?",
+        "published": "Thu, 23 Apr 2026 07:34:46 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/pope-leo-visits-prison-in-equatorial-guinea?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
