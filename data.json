@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-23 20:55",
+  "updated_at_gst": "2026-04-23 22:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "World Cup 2026: Italy government officials slam idea of taking Iran’s place",
+        "published": "Thu, 23 Apr 2026 17:34:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/pope-leo-ends-africa-tour-with-prison-visit?traffic_source=rss"
+      },
       {
         "title": "US-Israeli war on Iran will push 30 million back into poverty, UN warns",
         "published": "Thu, 23 Apr 2026 16:00:19 +0000",
@@ -34,11 +39,6 @@
         "title": "Makan Nasiri, the only child still missing from the school bombed in Iran",
         "published": "Thu, 23 Apr 2026 13:08:56 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/23/us-senate-passes-70bn-funding-plan-for-ice-border-patrol?traffic_source=rss"
-      },
-      {
-        "title": "Infiltration from Within: Israelis recruited to spy for enemy countries",
-        "published": "Thu, 23 Apr 2026 13:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/protester-hurls-red-fluid-at-reza-pahlavi-during-germany-visit?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
