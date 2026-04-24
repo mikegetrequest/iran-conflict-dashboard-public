@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-25 01:37",
+  "updated_at_gst": "2026-04-25 02:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
+        "published": "Fri, 24 Apr 2026 21:42:22 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/24/real-madrid-stunned-at-betis-as-barcelona-have-chance-to-move-11-clear?traffic_source=rss"
+      },
       {
         "title": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
         "published": "Fri, 24 Apr 2026 20:54:28 +0000",
