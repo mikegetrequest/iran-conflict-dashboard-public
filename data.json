@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-24 10:25",
+  "updated_at_gst": "2026-04-24 12:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How fake AI victims are being used to provide rationale for attacking Iran",
-        "published": "Fri, 24 Apr 2026 05:44:11 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/4/24/chinas-deepseek-unveils-latest-model-a-year-after-upending-global-tech?traffic_source=rss"
+        "title": "US says Iran can play at 2026 World Cup but bars those with ‘IRGC ties’",
+        "published": "Fri, 24 Apr 2026 08:00:57 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/4/24/the-story-tehran-wants-you-to-read?traffic_source=rss"
       },
       {
-        "title": "Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz",
-        "published": "Fri, 24 Apr 2026 02:50:04 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss"
+        "title": "Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire?",
+        "published": "Fri, 24 Apr 2026 06:56:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/24/trumps-may-1-deadline-can-he-continue-war-on-iran-after-that?traffic_source=rss"
       },
       {
-        "title": "Funeral held for journalist killed in targeted Israeli strike",
-        "published": "Thu, 23 Apr 2026 21:11:59 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/23/eu-formally-approves-90bn-euro-ukraine-loan-and-new-sanctions-on-russia?traffic_source=rss"
+        "title": "Iran war: What’s happening on day 56 after Trump extended ceasefire?",
+        "published": "Fri, 24 Apr 2026 06:11:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/how-fake-ai-victims-are-being-used-to-provide-rationale-for-attacking-iran?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side",
+        "published": "Fri, 24 Apr 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/23/us-professors-sue-university-over-arrest-during-pro-palestine-protest?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
