@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-24 16:54",
+  "updated_at_gst": "2026-04-24 18:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iranian FM Araghchi to visit Pakistan in step towards US talks resumption",
+        "published": "Fri, 24 Apr 2026 12:57:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/whats-been-happening-during-the-lebanon-ceasefire?traffic_source=rss"
+      },
+      {
         "title": "How long can Iran survive the US’s Hormuz blockade?",
         "published": "Fri, 24 Apr 2026 11:26:11 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/24/number-of-amputees-set-to-rise-in-gaza-as-israel-blocks-aid-ngo-warns?traffic_source=rss"
@@ -24,16 +29,6 @@
         "title": "Environmental crisis in Russian city after drone attack on refinery",
         "published": "Fri, 24 Apr 2026 09:27:41 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/24/india-denounces-hellhole-remark-shared-by?traffic_source=rss"
-      },
-      {
-        "title": "Baby twins attend their father’s funeral after Israeli settler attack",
-        "published": "Fri, 24 Apr 2026 08:34:27 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/24/south-asias-gold-obsession-faces-soaring-price-challenges-at-weddings?traffic_source=rss"
-      },
-      {
-        "title": "US says Iran can play at 2026 World Cup but bars those with ‘IRGC ties’",
-        "published": "Fri, 24 Apr 2026 08:00:57 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/4/24/the-story-tehran-wants-you-to-read?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
