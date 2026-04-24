@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-24 18:26",
+  "updated_at_gst": "2026-04-24 19:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different",
+        "published": "Fri, 24 Apr 2026 15:00:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/24/israels-benjamin-netanyahu-says-he-received-treatment-for-prostate-cancer?traffic_source=rss"
+      },
+      {
+        "title": "UK to end project tracking potential Israeli violations: Report",
+        "published": "Fri, 24 Apr 2026 14:37:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/us-navy-authorised-to-target-iranian-fast-boats-in-strait-of-hormuz?traffic_source=rss"
+      },
+      {
         "title": "Iranian FM Araghchi to visit Pakistan in step towards US talks resumption",
         "published": "Fri, 24 Apr 2026 12:57:22 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/whats-been-happening-during-the-lebanon-ceasefire?traffic_source=rss"
@@ -24,11 +34,6 @@
         "title": "How long can Iran survive the US’s Hormuz blockade?",
         "published": "Fri, 24 Apr 2026 11:26:11 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/24/number-of-amputees-set-to-rise-in-gaza-as-israel-blocks-aid-ngo-warns?traffic_source=rss"
-      },
-      {
-        "title": "Environmental crisis in Russian city after drone attack on refinery",
-        "published": "Fri, 24 Apr 2026 09:27:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/24/india-denounces-hellhole-remark-shared-by?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
