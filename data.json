@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-24 20:42",
+  "updated_at_gst": "2026-04-24 21:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "How Israel targeted and killed Lebanese journalist Amal Khalil",
+        "published": "Fri, 24 Apr 2026 17:14:03 +0000",
+        "link": "https://www.aljazeera.com/features/2026/4/24/russian-oil-exports-slump-as-ukraine-hammers-ports-and-refineries?traffic_source=rss"
+      },
       {
         "title": "Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different",
         "published": "Fri, 24 Apr 2026 15:00:21 +0000",
