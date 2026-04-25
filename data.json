@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-25 07:36",
+  "updated_at_gst": "2026-04-25 09:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,12 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war: What’s happening on day 57 as US envoys head to Pakistan?",
+        "title": "What’s at stake for Iran and the US in Islamabad?",
+        "published": "Sat, 25 Apr 2026 04:30:43 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What’s happening on day 57 as Trump dispatches negotiating team?",
         "published": "Sat, 25 Apr 2026 02:58:01 +0000",
         "link": "https://www.aljazeera.com/economy/2026/4/25/chkopenaissamaltmanapologises-over-failure-to-report-canadian-mass-shooter?traffic_source=rss"
       },
@@ -39,11 +44,6 @@
         "title": "Israeli attacks on Lebanon may violate international law, UN warns",
         "published": "Fri, 24 Apr 2026 18:24:27 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/24/reality-check-israeli-ambitions-confront-us-dictates-in-iran-and-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Kosovo court jails three Serb separatists over 2023 Banjska attack",
-        "published": "Fri, 24 Apr 2026 17:49:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/24/trump-administration-to-prioritize-seeking-death-penalty-use-firing-squads?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
