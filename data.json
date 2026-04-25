@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-25 13:14",
+  "updated_at_gst": "2026-04-25 14:09",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Mali army says armed groups launch nationwide attacks; gunfire near airport",
+        "published": "Sat, 25 Apr 2026 09:21:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss"
+      },
       {
         "title": "Overnight Russian attacks on Ukraine kill five, injure 30",
         "published": "Sat, 25 Apr 2026 08:44:56 +0000",
