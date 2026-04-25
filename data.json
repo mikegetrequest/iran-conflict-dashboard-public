@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-26 00:34",
+  "updated_at_gst": "2026-04-26 01:25",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,7 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran’s authorities project hardened stance with more talks on horizon",
+        "title": "Trump puts onus on Iran’s authorities as they project hardened stance",
         "published": "Sat, 25 Apr 2026 19:54:57 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/police-arrest-demonstrators-at-pro-palestine-rally-in-berlin?traffic_source=rss"
       },
@@ -31,7 +31,7 @@
         "link": "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico?traffic_source=rss"
       },
       {
-        "title": "Israeli attacks kill four in southern Lebanon",
+        "title": "Israel kills four in Lebanon as it escalates ceasefire breaches",
         "published": "Sat, 25 Apr 2026 13:25:30 +0000",
         "link": "https://www.aljazeera.com/sports/liveblog/2026/4/25/live-arsenal-vs-newcastle-premier-league?traffic_source=rss"
       },
@@ -39,11 +39,6 @@
         "title": "‘Scale and coordination of Mali attacks appear unprecedented’",
         "published": "Sat, 25 Apr 2026 12:40:53 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/indonesian-un-peacekeeper-becomes-sixth-killed-in-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Flights resume at Tehran airport as US-Iran ceasefire holds",
-        "published": "Sat, 25 Apr 2026 12:23:27 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/armed-groups-stage-simultaneous-attacks-across-mali?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
