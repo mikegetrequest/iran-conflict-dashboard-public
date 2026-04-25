@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-25 15:58",
+  "updated_at_gst": "2026-04-25 16:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran’s Infowar: Lego, AI and ever tightening control",
-        "published": "Sat, 25 Apr 2026 10:13:07 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/mali-attacks-live-gunfire-heard-near-bamako-airport-and-in-several-cities?traffic_source=rss"
+        "title": "Flights resume at Tehran airport as US-Iran ceasefire holds",
+        "published": "Sat, 25 Apr 2026 12:23:27 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/armed-groups-stage-simultaneous-attacks-across-mali?traffic_source=rss"
       },
       {
-        "title": "Top Iranian and Pakistani officials meet in Islamabad",
-        "published": "Sat, 25 Apr 2026 08:57:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/25/overnight-russian-attacks-on-ukraine-kill-five-wound-over-30?traffic_source=rss"
+        "title": "Iran resumes commercial flights from Tehran airport",
+        "published": "Sat, 25 Apr 2026 11:58:53 +0000",
+        "link": "https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss"
       },
       {
-        "title": "What’s at stake for Iran and the US in Islamabad?",
-        "published": "Sat, 25 Apr 2026 04:30:43 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss"
+        "title": "Mali attacks live: Gunfire heard near Bamako airport and in several cities",
+        "published": "Sat, 25 Apr 2026 10:04:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss"
       },
       {
-        "title": "Iran war: What’s happening on day 57 as Trump dispatches negotiating team?",
-        "published": "Sat, 25 Apr 2026 02:58:01 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/4/25/chkopenaissamaltmanapologises-over-failure-to-report-canadian-mass-shooter?traffic_source=rss"
+        "title": "Gunmen stage simultaneous attacks across Mali, army says",
+        "published": "Sat, 25 Apr 2026 09:21:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks",
-        "published": "Sat, 25 Apr 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/24/police-raid-perus-election-authorities-after-outcry-over-slow-vote-count?traffic_source=rss"
+        "title": "Overnight Russian attacks on Ukraine kill five, injure 30",
+        "published": "Sat, 25 Apr 2026 08:44:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years?traffic_source=rss"
+      },
+      {
+        "title": "Ireland to demand Israel pay for settler demolition of Palestinian school",
+        "published": "Sat, 25 Apr 2026 08:06:36 +0000",
+        "link": "https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
