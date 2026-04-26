@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-26 13:42",
+  "updated_at_gst": "2026-04-26 14:34",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
+        "published": "Sun, 26 Apr 2026 10:20:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss"
+      },
       {
         "title": "Russian attacks on Ukraine kill at least five, damage ship in port",
         "published": "Sun, 26 Apr 2026 08:41:17 +0000",
