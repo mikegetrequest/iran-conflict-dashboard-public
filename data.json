@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-26 16:36",
+  "updated_at_gst": "2026-04-26 17:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,12 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Mali’s Defence Minister Sadio Camara killed amid coordinated attacks",
+        "title": "What lies ahead for Gaza after ceasefires in Iran and Lebanon?",
+        "published": "Sun, 26 Apr 2026 13:20:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/26/syria-puts-al-assad-era-officials-on?traffic_source=rss"
+      },
+      {
+        "title": "Mali’s Defence Minister Sadio Camara killed during coordinated attacks",
         "published": "Sun, 26 Apr 2026 10:50:12 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/what-we-know-about-the-suspected-assassination-attempt-on-donald-trump?traffic_source=rss"
       },
