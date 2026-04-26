@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-26 03:58",
+  "updated_at_gst": "2026-04-26 06:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
+        "published": "Sun, 26 Apr 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protesters-stage-epstein-protest-before-white-house-correspondents-dinner?traffic_source=rss"
+      },
       {
         "title": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
         "published": "Sat, 25 Apr 2026 17:06:38 +0000",
