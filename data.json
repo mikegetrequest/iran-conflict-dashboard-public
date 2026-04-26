@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-26 09:29",
+  "updated_at_gst": "2026-04-26 11:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war: What’s happening on day 58 as Tehran-Washington talks stall?",
+        "published": "Sun, 26 Apr 2026 06:29:14 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/26/injured-salah-has-played-his-last-game-for-liverpool-egypt-team-official?traffic_source=rss"
+      },
       {
         "title": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
         "published": "Sun, 26 Apr 2026 00:00:00 +0000",
