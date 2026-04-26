@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-26 17:57",
+  "updated_at_gst": "2026-04-26 18:38",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "What lies ahead for Gaza after ceasefires in Iran and Lebanon?",
-        "published": "Sun, 26 Apr 2026 13:20:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/26/syria-puts-al-assad-era-officials-on?traffic_source=rss"
+        "title": "US-Iran conflict: What’s the latest as the Islamabad talks stall?",
+        "published": "Sun, 26 Apr 2026 14:01:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/26/mali-rattled-by-ongoing-armed-attacks-what-to-know?traffic_source=rss"
       },
       {
-        "title": "Mali’s Defence Minister Sadio Camara killed during coordinated attacks",
-        "published": "Sun, 26 Apr 2026 10:50:12 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/what-we-know-about-the-suspected-assassination-attempt-on-donald-trump?traffic_source=rss"
+        "title": "Mali defence minister killed after coordinated attacks",
+        "published": "Sun, 26 Apr 2026 13:42:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/26/what-lies-ahead-for-gaza-after-ceasefires-in-iran-and-lebanon?traffic_source=rss"
       },
       {
-        "title": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
-        "published": "Sun, 26 Apr 2026 10:20:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Russian attacks on Ukraine kill at least five, damage ship in port",
-        "published": "Sun, 26 Apr 2026 08:41:17 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/26/aljamain-sterling-calls-for-featherweight-title-shot-after-ufc-116-win?traffic_source=rss"
+        "title": "Israel destroys solar panels in south Lebanon",
+        "published": "Sun, 26 Apr 2026 10:17:53 +0000",
+        "link": "https://www.aljazeera.com/features/2026/4/26/yemens-landmine-crisis-endures-despite-truce-and-de-mining-efforts?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
