@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-26 14:34",
+  "updated_at_gst": "2026-04-26 15:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Mali’s Defence Minister Sadio Camara killed amid coordinated attacks",
+        "published": "Sun, 26 Apr 2026 10:50:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/what-we-know-about-the-suspected-assassination-attempt-on-donald-trump?traffic_source=rss"
+      },
+      {
         "title": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
         "published": "Sun, 26 Apr 2026 10:20:31 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Russian attacks on Ukraine kill at least five, damage ship in port",
         "published": "Sun, 26 Apr 2026 08:41:17 +0000",
         "link": "https://www.aljazeera.com/sports/2026/4/26/aljamain-sterling-calls-for-featherweight-title-shot-after-ufc-116-win?traffic_source=rss"
-      },
-      {
-        "title": "Hundreds of Israelis rally as US-Iran peace talks stall",
-        "published": "Sun, 26 Apr 2026 02:00:32 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/dramatic-scenes-as-trump-rushed-from-white-house-gala?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
