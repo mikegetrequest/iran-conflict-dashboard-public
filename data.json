@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-28 01:43",
+  "updated_at_gst": "2026-04-28 02:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Who holds the cards in Iran-US talks?",
-        "published": "Mon, 27 Apr 2026 21:00:18 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/iran-fm-in-russia-says-us-has-offered-new-round-of-talks?traffic_source=rss"
+        "title": "Bahrain strips 69 people of citizenship over Iran support",
+        "published": "Mon, 27 Apr 2026 21:51:37 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/leavitt-blames-democrats-for-cult-of-hatred-against-trump?traffic_source=rss"
       },
       {
-        "title": "Hezbollah and Israel swap threats and strikes across Lebanon’s border",
-        "published": "Mon, 27 Apr 2026 19:58:33 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/4/27/elon-musk-trial-against-sam-altman-to-reveal-openai-power-struggle?traffic_source=rss"
+        "title": "Will vote make a difference to Palestinians under Israeli occupation?",
+        "published": "Mon, 27 Apr 2026 21:07:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/who-holds-the-cards-in-iran-us-talks?traffic_source=rss"
       },
       {
-        "title": "Analysis: Bennett-Lapid alliance attempt to unseat Israel’s Netanyahu",
-        "published": "Mon, 27 Apr 2026 16:48:36 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/27/suspected-pirates-steer-cargo-vessel-towards-somalia?traffic_source=rss"
+        "title": "Iran FM in Russia says US has offered new round of talks",
+        "published": "Mon, 27 Apr 2026 20:59:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus?traffic_source=rss"
       },
       {
-        "title": "Will the Iran war push millions back into poverty?",
-        "published": "Mon, 27 Apr 2026 16:23:27 +0000",
-        "link": "https://www.aljazeera.com/video/the-take-2/2026/4/27/what-does-the-us-dinner-shooting-mean-for-trump?traffic_source=rss"
+        "title": "What people in Beirut think about the Lebanon-Israel negotiations",
+        "published": "Mon, 27 Apr 2026 19:17:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/27/iraqi-president-names-shia-bloc-candidate-ali-al-zaidi-as-pm-designate?traffic_source=rss"
+      },
+      {
+        "title": "Ceasefire at risk as Pakistan and Afghanistan report cross-border attacks",
+        "published": "Mon, 27 Apr 2026 17:27:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/27/gunmen-kidnap-23-pupils-from-nigerian-orphanage?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
