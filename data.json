@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-27 20:59",
+  "updated_at_gst": "2026-04-27 22:04",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Ceasefire at risk as Pakistan and Afghanistan report cross-border attacks",
+        "published": "Mon, 27 Apr 2026 17:27:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/27/gunmen-kidnap-23-pupils-from-nigerian-orphanage?traffic_source=rss"
+      },
+      {
         "title": "Germany’s Merz says US has no strategy in Iran war",
         "published": "Mon, 27 Apr 2026 15:41:05 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/27/timeline-how-mali-went-from-democracy-beacon-to-instability?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "NPT summit: Can nuclear pact survive US-Israel war on Iran?",
         "published": "Mon, 27 Apr 2026 14:43:27 +0000",
         "link": "https://www.aljazeera.com/sports/2026/4/27/what-does-trump-shooting-at-white-house-dinner-mean-for-world-cup-security?traffic_source=rss"
-      },
-      {
-        "title": "Have US-Iran talks failed? Why no deal yet doesn’t mean diplomacy is dead",
-        "published": "Mon, 27 Apr 2026 12:47:24 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/4/27/lebanon-cannot-be-bombed-into-sovereignty?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
