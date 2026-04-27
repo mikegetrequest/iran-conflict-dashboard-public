@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-27 04:02",
+  "updated_at_gst": "2026-04-27 08:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Satellite images show scale of Israeli destruction of south Lebanon towns",
+        "published": "Mon, 27 Apr 2026 02:29:58 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Araghchi to meet Putin; Trump says Tehran can call for talks",
+        "published": "Mon, 27 Apr 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-israeli-ceasefire-violations-on-the-rise-in-gaza?traffic_source=rss"
+      },
       {
         "title": "Iran’s foreign minister leaves Pakistan, heads to Russia for more talks",
         "published": "Sun, 26 Apr 2026 20:47:44 +0000",
@@ -34,16 +44,6 @@
         "title": "Israel issues forced evacuation orders for southern Lebanon in escalation",
         "published": "Sun, 26 Apr 2026 19:09:56 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/kenyas-sawe-shatters-two-hour-marathon-barrier?traffic_source=rss"
-      },
-      {
-        "title": "‘State of war’: Why Israel has escalated attacks in Gaza",
-        "published": "Sun, 26 Apr 2026 15:32:20 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/26/will-yamal-salah-and-ekitike-miss-the-world-cup-2026-due-to-injury?traffic_source=rss"
-      },
-      {
-        "title": "Mali rattled by ongoing armed attacks: What to know",
-        "published": "Sun, 26 Apr 2026 13:46:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/40-years-since-the-worlds-worst-nuclear-disaster-in-ukraine?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
