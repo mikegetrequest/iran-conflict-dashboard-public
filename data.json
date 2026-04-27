@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-28 00:48",
+  "updated_at_gst": "2026-04-28 01:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Who holds the cards in Iran-US talks?",
+        "published": "Mon, 27 Apr 2026 21:00:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/iran-fm-in-russia-says-us-has-offered-new-round-of-talks?traffic_source=rss"
+      },
+      {
         "title": "Hezbollah and Israel swap threats and strikes across Lebanon’s border",
         "published": "Mon, 27 Apr 2026 19:58:33 +0000",
         "link": "https://www.aljazeera.com/economy/2026/4/27/elon-musk-trial-against-sam-altman-to-reveal-openai-power-struggle?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Will the Iran war push millions back into poverty?",
         "published": "Mon, 27 Apr 2026 16:23:27 +0000",
         "link": "https://www.aljazeera.com/video/the-take-2/2026/4/27/what-does-the-us-dinner-shooting-mean-for-trump?traffic_source=rss"
-      },
-      {
-        "title": "Iran offers Hormuz deal without nuclear talks, as it seeks broader buy-in",
-        "published": "Mon, 27 Apr 2026 15:50:25 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/germanys-merz-says-us-has-no-strategy-in-iran-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
