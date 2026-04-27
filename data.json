@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-27 19:03",
+  "updated_at_gst": "2026-04-27 20:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "‘Clearly stronger’: Germany’s Merz says Iran ‘humiliated’ US in its war",
-        "published": "Mon, 27 Apr 2026 12:54:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/27/have-us-iran-talks-failed-why-no-deal-yet-doesnt-mean-diplomacy-is-dead?traffic_source=rss"
+        "title": "Germany’s Merz says US has no strategy in Iran war",
+        "published": "Mon, 27 Apr 2026 15:41:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/27/timeline-how-mali-went-from-democracy-beacon-to-instability?traffic_source=rss"
       },
       {
-        "title": "Lebanon cannot be bombed into sovereignty",
-        "published": "Mon, 27 Apr 2026 12:44:30 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/27/psg-vs-bayern-munich-champions-league-preview-team-news-start?traffic_source=rss"
+        "title": "Lebanon Latest: Israel’s deadly attacks amid ceasefire breaches",
+        "published": "Mon, 27 Apr 2026 14:48:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/27/rival-armed-groups-join-forces-against-the-malian-state-what-next?traffic_source=rss"
       },
       {
-        "title": "Iran’s foreign minister in Russia for talks",
-        "published": "Mon, 27 Apr 2026 10:23:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/27/russia-attacks-odesa-claims-ukraine-hit-zaporizhzhia-nuclear-plant?traffic_source=rss"
+        "title": "NPT summit: Can nuclear pact survive US-Israel war on Iran?",
+        "published": "Mon, 27 Apr 2026 14:43:27 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/27/what-does-trump-shooting-at-white-house-dinner-mean-for-world-cup-security?traffic_source=rss"
+      },
+      {
+        "title": "Have US-Iran talks failed? Why no deal yet doesn’t mean diplomacy is dead",
+        "published": "Mon, 27 Apr 2026 12:47:24 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/4/27/lebanon-cannot-be-bombed-into-sovereignty?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
