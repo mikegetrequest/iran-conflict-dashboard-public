@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-27 22:04",
+  "updated_at_gst": "2026-04-27 23:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "What people in Beirut think about the Lebanon-Israel negotiations",
+        "published": "Mon, 27 Apr 2026 19:17:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/27/iraqi-president-names-shia-bloc-candidate-ali-al-zaidi-as-pm-designate?traffic_source=rss"
+      },
+      {
         "title": "Ceasefire at risk as Pakistan and Afghanistan report cross-border attacks",
         "published": "Mon, 27 Apr 2026 17:27:54 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/27/gunmen-kidnap-23-pupils-from-nigerian-orphanage?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Lebanon Latest: Israel’s deadly attacks amid ceasefire breaches",
         "published": "Mon, 27 Apr 2026 14:48:44 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/27/rival-armed-groups-join-forces-against-the-malian-state-what-next?traffic_source=rss"
-      },
-      {
-        "title": "NPT summit: Can nuclear pact survive US-Israel war on Iran?",
-        "published": "Mon, 27 Apr 2026 14:43:27 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/27/what-does-trump-shooting-at-white-house-dinner-mean-for-world-cup-security?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
