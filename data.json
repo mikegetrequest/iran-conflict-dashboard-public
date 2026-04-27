@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-27 13:11",
+  "updated_at_gst": "2026-04-27 15:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Russia attacks Odesa, claims Ukraine hit Zaporizhzhia nuclear plant",
+        "published": "Mon, 27 Apr 2026 09:16:36 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/4/27/north-korea-opens-museum-for-troops-killed-fighting-for-russia?traffic_source=rss"
+      },
       {
         "title": "The war on Iran is eroding nuclear non-proliferation",
         "published": "Mon, 27 Apr 2026 08:43:37 +0000",
@@ -34,16 +39,6 @@
         "title": "From Australia to Vietnam, the Iran war is fuelling demand for EVs",
         "published": "Mon, 27 Apr 2026 04:46:35 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/satellite-images-show-scale-of-israeli-destruction-of-south-lebanon-towns?traffic_source=rss"
-      },
-      {
-        "title": "Oil prices rise amid stalled US-Iran peace talks",
-        "published": "Mon, 27 Apr 2026 02:06:46 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss"
-      },
-      {
-        "title": "Video: Israeli ‘ceasefire’ violations on the rise in Gaza",
-        "published": "Sun, 26 Apr 2026 23:59:43 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
