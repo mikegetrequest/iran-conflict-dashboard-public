@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-28 23:58",
+  "updated_at_gst": "2026-04-29 01:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump scolds Germany’s Merz for criticism of Iran war",
+        "published": "Tue, 28 Apr 2026 19:59:29 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/28/after-60-days-of-war-in-iran-does-us-congress-want-a-say?traffic_source=rss"
+      },
       {
         "title": "Massive explosion from Israeli operation seen in southern Lebanon",
         "published": "Tue, 28 Apr 2026 19:34:04 +0000",
