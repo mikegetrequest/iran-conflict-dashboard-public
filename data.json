@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-28 22:11",
+  "updated_at_gst": "2026-04-28 23:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Massive explosion from Israeli operation seen in southern Lebanon",
+        "published": "Tue, 28 Apr 2026 19:34:04 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/4/28/can-the-nuclear-non-proliferation-treaty-prevent-a-disaster?traffic_source=rss"
+      },
+      {
+        "title": "Austrian pleads guilty to ISIL-planned attack on Taylor Swift concert",
+        "published": "Tue, 28 Apr 2026 19:06:55 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/28/trump-approval-dips-to-record-low-amid-iran-war-inflation-woes-poll?traffic_source=rss"
+      },
+      {
         "title": "Is a US-Iran deal still possible?",
         "published": "Tue, 28 Apr 2026 16:28:13 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/uae-leaves-opec-in-blow-to-oil-cartel-amid-war-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Is Egypt threatening Israel through its military exercises on the border?",
-        "published": "Tue, 28 Apr 2026 14:50:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/28/what-is-the-azawad-liberation-front-part-of-the-mali-attacks?traffic_source=rss"
-      },
-      {
-        "title": "The cost of 76 years of US wars, from Korea to Iran",
-        "published": "Tue, 28 Apr 2026 14:30:27 +0000",
-        "link": "https://www.aljazeera.com/video/doha-debates/2026/4/28/do-conspiracy-theories-hold-value?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
