@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-28 11:42",
+  "updated_at_gst": "2026-04-28 14:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "How Iran has changed, and how it hasn’t, in two months of war",
+        "published": "Tue, 28 Apr 2026 09:15:24 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/28/before-world-cup-fifa-slammed-for-politicising-sport-with-trump-prize?traffic_source=rss"
+      },
+      {
+        "title": "Down but not out: In war with Israel, Hezbollah shows it is still powerful",
+        "published": "Tue, 28 Apr 2026 08:20:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/28/should-be-fired-why-the-trumps-want-jimmy-kimmel-sacked?traffic_source=rss"
+      },
+      {
+        "title": "Trump reviews Iranian proposal aimed at reopening Strait of Hormuz",
+        "published": "Tue, 28 Apr 2026 07:55:25 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/28/athletics-great-allyson-felix-aiming-to-compete-at-2028-los-angeles-games?traffic_source=rss"
+      },
+      {
         "title": "Iran war: What’s happening on day 60 as diplomacy gathers pace?",
         "published": "Tue, 28 Apr 2026 07:06:02 +0000",
         "link": "https://www.aljazeera.com/economy/2026/4/28/trump-administration-fires-all-members-of-us-national-science-board?traffic_source=rss"
-      },
-      {
-        "title": "What’s driving the coordinated attacks across Mali?",
-        "published": "Tue, 28 Apr 2026 01:33:27 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/28/five-killed-in-train-crash-near-indonesias-jakarta-rescue-efforts-ongoing?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settlers attack Palestinians and set house on fire",
-        "published": "Mon, 27 Apr 2026 23:58:10 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/survivors-of-deadly-indonesia-train-crash-pulled-from-wreckage?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
