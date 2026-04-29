@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-30 01:35",
+  "updated_at_gst": "2026-04-30 02:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel intercepts Global Sumud boats, demands activists halt their mission",
+        "published": "Wed, 29 Apr 2026 21:46:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec?traffic_source=rss"
+      },
       {
         "title": "Trump: Putin offered to help settle Iranian nuclear enrichment impasse",
         "published": "Wed, 29 Apr 2026 20:52:47 +0000",
@@ -39,11 +44,6 @@
         "title": "CCTV footage shows moment Israeli strike targets Palestinians",
         "published": "Wed, 29 Apr 2026 19:08:45 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/britains-king-charles-visits-9-11-memorial-in-new?traffic_source=rss"
-      },
-      {
-        "title": "Trump vows to maintain Iran blockade, Tehran threatens ‘practical’ action",
-        "published": "Wed, 29 Apr 2026 19:00:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/29/uks-terrorism-laws-risk-overreach-watchdog-warns?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
