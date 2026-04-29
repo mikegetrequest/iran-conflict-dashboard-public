@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-29 15:11",
+  "updated_at_gst": "2026-04-29 17:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Is Iran’s oil storage nearly full – and will it have to cut production?",
+        "published": "Wed, 29 Apr 2026 12:22:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/29/how-hezbollahs-fibre-optic-drones-test-israels-sophisticated-radar-system?traffic_source=rss"
+      },
+      {
+        "title": "‘No more Mr Nice Guy’: Trump warns Iran to ‘get smart’ over stalled talks",
+        "published": "Wed, 29 Apr 2026 12:15:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/29/at-least-three-killed-more-than-10-injured-in-russian-attacks-on-ukraine?traffic_source=rss"
+      },
+      {
+        "title": "How US and Iran are playing a crypto cat-and-mouse game over sanctions",
+        "published": "Wed, 29 Apr 2026 11:44:44 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/29/iranian-officials-absent-from-pre-world-cup-football-events-in-canada?traffic_source=rss"
+      },
+      {
+        "title": "The UAE’s OPEC exit is not about oil; it is the end of Gulf solidarity",
+        "published": "Wed, 29 Apr 2026 11:22:55 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/29/five-charts-that-show-the-rise-of-global-militarisation?traffic_source=rss"
+      },
+      {
         "title": "Palestinian football body appeals FIFA ruling on Israel at top sports court",
         "published": "Wed, 29 Apr 2026 09:46:47 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/29/ukraine-targets-druzhba-pipeline-to-sever-russian-oil-influence-in-eu?traffic_source=rss"
-      },
-      {
-        "title": "‘Particularly badly exposed’: How the Iran war is hitting the UK",
-        "published": "Wed, 29 Apr 2026 08:25:33 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/29/red-card-for-players-covering-their-mouths-in-world-cup-matches?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What’s happening on day 61 as UAE exits OPEC?",
-        "published": "Wed, 29 Apr 2026 06:58:07 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/29/psg-vs-bayern-munich-football-experts-fans-react-to-champions-league-semi?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
