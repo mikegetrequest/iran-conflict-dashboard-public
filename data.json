@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-30 00:05",
+  "updated_at_gst": "2026-04-30 01:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US lawmakers question Pete Hegseth over budget for war on Iran",
-        "published": "Wed, 29 Apr 2026 19:39:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways?traffic_source=rss"
+        "title": "Trump: Putin offered to help settle Iranian nuclear enrichment impasse",
+        "published": "Wed, 29 Apr 2026 20:52:47 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/4/29/why-is-the-uae-quitting-opec-and-whats-the-impact?traffic_source=rss"
       },
       {
-        "title": "Two Jewish men stabbed in London ‘terrorist attack’",
-        "published": "Wed, 29 Apr 2026 19:32:49 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/indonesian-soldiers-on-trial-after-acid-attack-on-activist?traffic_source=rss"
+        "title": "What’s behind Israel’s plan to move the Bnei Menashe?",
+        "published": "Wed, 29 Apr 2026 20:36:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/29/ukraine-asks-israel-to-seize-ship-carrying-stolen-russian-grain?traffic_source=rss"
       },
       {
-        "title": "UAE quits OPEC: What that means for the Gulf, energy markets and beyond",
-        "published": "Wed, 29 Apr 2026 17:47:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/29/us-top-court-voids-louisiana-voting-map-amid-national-redistricting-fight?traffic_source=rss"
+        "title": "Pentagon chief Hegseth first public hearing on Iran war: Key takeaways",
+        "published": "Wed, 29 Apr 2026 19:38:54 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/two-jewish-men-stabbed-in-london-terrorist?traffic_source=rss"
+      },
+      {
+        "title": "Indonesian soldiers on trial after acid attack on activist",
+        "published": "Wed, 29 Apr 2026 19:24:08 +0000",
+        "link": "https://www.aljazeera.com/video/quotable/2026/4/29/trumps-justice-department-is-on-a-revenge-tour?traffic_source=rss"
+      },
+      {
+        "title": "CCTV footage shows moment Israeli strike targets Palestinians",
+        "published": "Wed, 29 Apr 2026 19:08:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/britains-king-charles-visits-9-11-memorial-in-new?traffic_source=rss"
+      },
+      {
+        "title": "Trump vows to maintain Iran blockade, Tehran threatens ‘practical’ action",
+        "published": "Wed, 29 Apr 2026 19:00:03 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/29/uks-terrorism-laws-risk-overreach-watchdog-warns?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
