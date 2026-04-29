@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-29 19:30",
+  "updated_at_gst": "2026-04-29 21:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran’s currency falls to new low as US blockade, sanctions impact trade",
+        "published": "Wed, 29 Apr 2026 15:30:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/29/us-supreme-court-hears-haiti-syria-tps-case-with-wide-ranging-implications?traffic_source=rss"
+      },
+      {
         "title": "Inside Tehran’s main airport as more flights take off during ceasefire",
         "published": "Wed, 29 Apr 2026 14:30:06 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/young-palestinian-artists-from-gaza-exhibit-work-shaped-by-war?traffic_source=rss"
@@ -29,21 +34,6 @@
         "title": "Israeli strike kills five family members in Lebanon",
         "published": "Wed, 29 Apr 2026 13:28:00 +0000",
         "link": "https://www.aljazeera.com/sports/2026/4/29/world-boxing-allows-russian-belarusian-boxers-to-compete-as-neutrals?traffic_source=rss"
-      },
-      {
-        "title": "Is Iran’s oil storage nearly full – and will it have to cut production?",
-        "published": "Wed, 29 Apr 2026 12:22:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/29/how-hezbollahs-fibre-optic-drones-test-israels-sophisticated-radar-system?traffic_source=rss"
-      },
-      {
-        "title": "‘No more Mr Nice Guy’: Trump warns Iran to ‘get smart’ over stalled talks",
-        "published": "Wed, 29 Apr 2026 12:15:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/29/at-least-three-killed-more-than-10-injured-in-russian-attacks-on-ukraine?traffic_source=rss"
-      },
-      {
-        "title": "How US and Iran are playing a crypto cat-and-mouse game over sanctions",
-        "published": "Wed, 29 Apr 2026 11:44:44 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/29/iranian-officials-absent-from-pre-world-cup-football-events-in-canada?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
