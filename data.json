@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-29 22:52",
+  "updated_at_gst": "2026-04-30 00:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US lawmakers question Pete Hegseth over budget for war on Iran",
+        "published": "Wed, 29 Apr 2026 19:39:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways?traffic_source=rss"
+      },
+      {
+        "title": "Two Jewish men stabbed in London ‘terrorist attack’",
+        "published": "Wed, 29 Apr 2026 19:32:49 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/indonesian-soldiers-on-trial-after-acid-attack-on-activist?traffic_source=rss"
+      },
+      {
         "title": "UAE quits OPEC: What that means for the Gulf, energy markets and beyond",
         "published": "Wed, 29 Apr 2026 17:47:57 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/29/us-top-court-voids-louisiana-voting-map-amid-national-redistricting-fight?traffic_source=rss"
-      },
-      {
-        "title": "Over 1.2m in Lebanon expected to face acute hunger: UN-backed report",
-        "published": "Wed, 29 Apr 2026 15:33:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/29/irans-currency-falls-to-new-low-as-us-blockade-sanctions-impact-trade?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
