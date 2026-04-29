@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-29 04:12",
+  "updated_at_gst": "2026-04-29 08:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "UAE quits OPEC as oil cartel takes blow during war on Iran",
+        "published": "Wed, 29 Apr 2026 03:06:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/malis-military-leader-emerges-after-alleged-coup-attempt?traffic_source=rss"
+      },
+      {
         "title": "Israeli soldier shows Gaza’s Beit Hanoon completely flattened",
         "published": "Tue, 28 Apr 2026 22:50:30 +0000",
         "link": "https://www.aljazeera.com/economy/2026/4/28/musk-testifies-at-openai-trial-its-not-ok-to-loot-a-charity?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "As US-Iran talks remain ‘stalled’, experts warn of ‘long-term disruptions’",
         "published": "Tue, 28 Apr 2026 22:08:54 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/28/former-fbi-director-comey-again-indicted-by-us-justice-department?traffic_source=rss"
-      },
-      {
-        "title": "After 60 days of war in Iran, does US Congress want a say?",
-        "published": "Tue, 28 Apr 2026 19:40:52 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/massive-explosion-from-israeli-operation-seen-in-southern-lebanon?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
