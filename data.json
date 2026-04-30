@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-30 05:46",
+  "updated_at_gst": "2026-04-30 09:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Oil prices soar on fears of long supply disruption, US siege of Iran ports",
+        "published": "Thu, 30 Apr 2026 04:06:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/30/us-charges-sinaloa-state-governor-9-others-over-mexican-drug-cartel-links?traffic_source=rss"
+      },
+      {
+        "title": "Israel seizes Global Sumud Flotilla boats 1,000km away from Gaza",
+        "published": "Thu, 30 Apr 2026 02:10:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/pro-government-rally-in-tehran-demands-end-to-us-threats?traffic_source=rss"
+      },
       {
         "title": "Hundreds of Ultra-Orthodox Jews protest Israel’s military draft",
         "published": "Thu, 30 Apr 2026 01:16:18 +0000",
@@ -34,16 +44,6 @@
         "title": "Why is the UAE quitting OPEC – and what’s the impact?",
         "published": "Wed, 29 Apr 2026 20:51:25 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/whats-behind-israels-plan-to-move-the-bnei-menashe?traffic_source=rss"
-      },
-      {
-        "title": "Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia",
-        "published": "Wed, 29 Apr 2026 20:23:46 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/4/29/musk-accuses-altman-of-betraying-openais-nonprofit-founding-mission?traffic_source=rss"
-      },
-      {
-        "title": "US lawmakers question Pete Hegseth over budget for war on Iran",
-        "published": "Wed, 29 Apr 2026 19:39:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
