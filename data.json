@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-30 19:10",
+  "updated_at_gst": "2026-04-30 20:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Indonesian soldiers accused of acid attack. What happened and why?",
-        "published": "Thu, 30 Apr 2026 13:44:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/30/has-the-us-supreme-court-weakened-the-voting-rights-act-and-how?traffic_source=rss"
+        "title": "Iran, protests, human rights – all to know about the 76th FIFA Congress",
+        "published": "Thu, 30 Apr 2026 14:56:36 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/30/from-railways-to-energy-five-strategic-projects-linking-gulf?traffic_source=rss"
       },
       {
-        "title": "Why are Western feminists silent on the war on Iranian women?",
-        "published": "Thu, 30 Apr 2026 13:00:56 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/30/25bn-or-1-trillion-how-much-has-iran-war-really-cost-the-us?traffic_source=rss"
+        "title": "‘Act of piracy’: World reacts to Israeli interception of Gaza aid flotilla",
+        "published": "Thu, 30 Apr 2026 14:42:30 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/30/vonn-not-ready-to-decide-if-shell-ski-again-after-winter-olympics-crash?traffic_source=rss"
       },
       {
-        "title": "World’s top media outlets urge Israel to allow independent access to Gaza",
-        "published": "Thu, 30 Apr 2026 12:52:52 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/4/30/kenya-gives-heros-welcome-to-marathon-record-breaker-sabastian-sawe?traffic_source=rss"
+        "title": "US military equipment worth billions of dollars destroyed in Iran war",
+        "published": "Thu, 30 Apr 2026 13:47:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/30/indonesian-soldiers-accused-of-acid-attack-what-happened-and-why?traffic_source=rss"
       },
       {
-        "title": "Russia has given Iran something more important than weapons",
-        "published": "Thu, 30 Apr 2026 12:38:43 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/4/30/soaring-fuel-prices-in-pakistan-threaten-economic-and-political-crises?traffic_source=rss"
+        "title": "Was Israeli PM’s Lebanon destruction video a snub to Trump?",
+        "published": "Thu, 30 Apr 2026 13:35:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/30/mali-crisis-who-are-the-key-leaders-to-know-about?traffic_source=rss"
+      },
+      {
+        "title": "Anti-immigrant attacks and protests in South Africa",
+        "published": "Thu, 30 Apr 2026 13:24:34 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/4/30/why-are-western-feminists-silent-on-the-war-on-iranian-women?traffic_source=rss"
+      },
+      {
+        "title": "$25bn or $1 trillion: How much has Iran war really cost the US?",
+        "published": "Thu, 30 Apr 2026 12:53:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/30/media-organisations-call-on-israel-to-allow-independent-access-to-gaza?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
