@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-01 00:48",
+  "updated_at_gst": "2026-05-01 01:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,26 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Palestinians mourn football loving teenager killed by Israeli army",
+        "published": "Thu, 30 Apr 2026 21:24:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/kenyas-sawe-hailed-at-state-house-after-historic-marathon?traffic_source=rss"
+      },
+      {
+        "title": "Palestinian journalist released from Israeli prison unrecognisable",
+        "published": "Thu, 30 Apr 2026 21:13:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/4/30/hegseth-testifies-on-iran-war-before-senate-committee-key-takeaways?traffic_source=rss"
+      },
+      {
+        "title": "Flotilla activist: Israel’s ‘brutal attack’ will not deter us",
+        "published": "Thu, 30 Apr 2026 21:05:11 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/4/30/how-is-israel-replicating-its-gaza-tactics-in-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Trumps says Iran can play at World Cup in US after FIFA confirmation",
+        "published": "Thu, 30 Apr 2026 20:48:59 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/us-venezuela-direct-flights-resume-after-seven-year-suspension?traffic_source=rss"
+      },
+      {
         "title": "Piracy rises off Somalia as US-Israeli war on Iran diverts naval forces",
         "published": "Thu, 30 Apr 2026 18:59:13 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/lebanese-girl-mourns-paramedic-father-killed-in-israeli-strike?traffic_source=rss"
@@ -24,11 +44,6 @@
         "title": "UAE exit signals OPEC’s declining grip on oil markets",
         "published": "Thu, 30 Apr 2026 17:50:50 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/30/us-falls-to-historic-low-in-press-freedom-tracker-rsf?traffic_source=rss"
-      },
-      {
-        "title": "Israel rights group petitions top court to order release of 14 Gaza doctors",
-        "published": "Thu, 30 Apr 2026 17:35:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/30/trump-slams-germanys-merz-again-as-rift-over-iran-war-widens?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
