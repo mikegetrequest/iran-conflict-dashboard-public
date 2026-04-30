@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-04-30 13:55",
+  "updated_at_gst": "2026-04-30 15:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Civilians or Hezbollah: Who did Israel hit on Lebanon’s ‘Black Wednesday’?",
+        "published": "Thu, 30 Apr 2026 09:52:58 +0000",
+        "link": "https://www.aljazeera.com/features/2026/4/30/rise-in-caesarean-section-births-in-gaza-brings-danger-and-infection-risks?traffic_source=rss"
+      },
+      {
         "title": "Pakistan opens up road trade routes into Iran amid Hormuz blockade",
         "published": "Thu, 30 Apr 2026 08:44:51 +0000",
         "link": "https://www.aljazeera.com/news/2026/4/30/myanmar-mass-prison-sentence-cut-trims-aung-san-suu-kyis-sentence?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Iranian officials to miss FIFA Congress over alleged mistreatment in Canada",
         "published": "Thu, 30 Apr 2026 06:22:58 +0000",
         "link": "https://www.aljazeera.com/features/2026/4/30/why-is-india-turning-to-crocodiles-and-snakes-to-fence-bangladesh-border?traffic_source=rss"
-      },
-      {
-        "title": "Pro-government rally in Tehran demands end to US threats",
-        "published": "Thu, 30 Apr 2026 01:37:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/hundreds-of-ultra-orthodox-jews-protest-israels-military-draft?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
