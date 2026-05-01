@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-02 00:50",
+  "updated_at_gst": "2026-05-02 01:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iranian Nobel laureate Narges Mohammadi hospitalised as health deteriorates",
+        "published": "Fri, 01 May 2026 20:59:55 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/1/may-day-rallies-sweep-us-demanding-reforms-for-working-class-rights?traffic_source=rss"
+      },
+      {
+        "title": "Palestinian football boss refuses Israeli handshake at FIFA event",
+        "published": "Fri, 01 May 2026 20:40:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/1/cuban-man-is-18th-person-to-die-in-us-ice-custody-this-year-monitor?traffic_source=rss"
+      },
       {
         "title": "Trump says Iran seeks terms he ‘can’t agree to’ in latest peace proposal",
         "published": "Fri, 01 May 2026 18:46:50 +0000",
