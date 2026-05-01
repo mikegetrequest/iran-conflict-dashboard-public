@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-02 02:38",
+  "updated_at_gst": "2026-05-02 03:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
+        "published": "Fri, 01 May 2026 22:54:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss"
+      },
       {
         "title": "Iranian Nobel laureate Narges Mohammadi hospitalised as health deteriorates",
         "published": "Fri, 01 May 2026 20:59:55 +0000",
