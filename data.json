@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-01 14:51",
+  "updated_at_gst": "2026-05-01 15:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
+        "published": "Fri, 01 May 2026 11:31:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss"
+      },
+      {
         "title": "Who profits big from the war on Iran?",
         "published": "Fri, 01 May 2026 10:13:05 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Why is piracy rising off Somalia again — and is the Iran war responsible?",
         "published": "Fri, 01 May 2026 06:10:45 +0000",
         "link": "https://www.aljazeera.com/sports/2026/5/1/timberwolves-eliminate-nuggets-as-knicks-demolish-hawks-in-nba-playoffs?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What’s happening on day 63 as Trump signals possible attacks",
-        "published": "Fri, 01 May 2026 05:37:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-backs-fifa-letting-iran-play-at-world-cup-in-us?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
