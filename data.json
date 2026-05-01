@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-01 03:40",
+  "updated_at_gst": "2026-05-01 05:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Palestinians mourn football loving teenager killed by Israeli army",
-        "published": "Thu, 30 Apr 2026 21:24:23 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/kenyas-sawe-hailed-at-state-house-after-historic-marathon?traffic_source=rss"
+        "title": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
+        "published": "Fri, 01 May 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/30/arsenal-vs-fulham-premier-league-teams-start-lineups-title-race?traffic_source=rss"
       },
       {
-        "title": "Palestinian journalist released from Israeli prison unrecognisable",
-        "published": "Thu, 30 Apr 2026 21:13:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/4/30/hegseth-testifies-on-iran-war-before-senate-committee-key-takeaways?traffic_source=rss"
+        "title": "Palestine FA chief hits out at Israel federation VP at FIFA Congress",
+        "published": "Thu, 30 Apr 2026 21:53:27 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/4/30/first-us-venezuela-flight-lands-in-caracas-after-seven-year-suspension?traffic_source=rss"
       },
       {
-        "title": "Flotilla activist: Israel’s ‘brutal attack’ will not deter us",
-        "published": "Thu, 30 Apr 2026 21:05:11 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/4/30/how-is-israel-replicating-its-gaza-tactics-in-lebanon?traffic_source=rss"
+        "title": "US gas reaches $4.30 per gallon; Trump says prices will drop after Iran war",
+        "published": "Thu, 30 Apr 2026 21:31:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinians-mourn-football-loving-teenager-killed-by-israeli-army?traffic_source=rss"
       },
       {
-        "title": "Trump says Iran can play at World Cup in US after FIFA confirmation",
-        "published": "Thu, 30 Apr 2026 20:48:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/us-venezuela-direct-flights-resume-after-seven-year-suspension?traffic_source=rss"
+        "title": "Hegseth testifies on Iran war before Senate committee: Key takeaways",
+        "published": "Thu, 30 Apr 2026 21:09:21 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/flotilla-activist-israels-brutal-attack-will-not-deter-us?traffic_source=rss"
       },
       {
-        "title": "Piracy rises off Somalia as US-Israeli war on Iran diverts naval forces",
-        "published": "Thu, 30 Apr 2026 18:59:13 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/lebanese-girl-mourns-paramedic-father-killed-in-israeli-strike?traffic_source=rss"
+        "title": "How is Israel replicating its Gaza tactics in Lebanon?",
+        "published": "Thu, 30 Apr 2026 20:49:18 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/4/30/trumps-says-iran-can-play-at-world-cup-in-us-after-fifa-confirmation?traffic_source=rss"
+      },
+      {
+        "title": "Iran will play World Cup games in US according to FIFA chief Infantino",
+        "published": "Thu, 30 Apr 2026 19:10:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/piracy-rises-off-somalia-as-us-israeli-war-on-iran-diverts-naval-forces?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
