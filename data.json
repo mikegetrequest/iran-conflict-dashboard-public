@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-01 20:32",
+  "updated_at_gst": "2026-05-01 21:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
-        "published": "Fri, 01 May 2026 11:31:33 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss"
+        "title": "UAE exit from OPEC signals closer alignment with US interests, experts say",
+        "published": "Fri, 01 May 2026 16:32:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect?traffic_source=rss"
       },
       {
-        "title": "Who profits big from the war on Iran?",
-        "published": "Fri, 01 May 2026 10:13:05 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss"
+        "title": "Woman killed, children injured as Israel attacks Lebanon",
+        "published": "Fri, 01 May 2026 13:26:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/1/trumps-threat-why-cutting-us-troops-in-europe-wont-be-easy?traffic_source=rss"
+      },
+      {
+        "title": "Greek Orthodox Church sounds alarm over attacks on Christians in Jerusalem",
+        "published": "Fri, 01 May 2026 12:22:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss"
+      },
+      {
+        "title": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
+        "published": "Fri, 01 May 2026 10:56:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/1/riots-erupt-over-australian-aboriginal-girls-murder-as-suspect-arrested?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
