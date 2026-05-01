@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-01 16:50",
+  "updated_at_gst": "2026-05-01 18:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Greek Orthodox Church sounds alarm over attacks on Christians in Jerusalem",
-        "published": "Fri, 01 May 2026 12:22:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss"
+        "title": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
+        "published": "Fri, 01 May 2026 11:31:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss"
       },
       {
-        "title": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
-        "published": "Fri, 01 May 2026 10:56:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/1/riots-erupt-over-australian-aboriginal-girls-murder-as-suspect-arrested?traffic_source=rss"
-      },
-      {
-        "title": "Oil prices rise again with little sign of war on Iran ending",
-        "published": "Fri, 01 May 2026 10:11:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/1/despite-growth-and-pay-rises-greek-workers-are-among-the-poorest-in-europe?traffic_source=rss"
-      },
-      {
-        "title": "More than 40 Iranian seafarers killed during US-Israeli war: Union leader",
-        "published": "Fri, 01 May 2026 09:49:28 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/1/rallies-under-way-as-workers-gather-for-international-labour-day?traffic_source=rss"
-      },
-      {
-        "title": "Commercial flights from Tehran’s main airport resume amid cautious normalcy",
-        "published": "Fri, 01 May 2026 08:47:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/1/ukraine-begins-to-flex-muscle-as-an-emerging-air-power-angering-russia?traffic_source=rss"
+        "title": "Who profits big from the war on Iran?",
+        "published": "Fri, 01 May 2026 10:13:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
