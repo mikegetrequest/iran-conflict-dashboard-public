@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-02 23:30",
+  "updated_at_gst": "2026-05-03 00:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Ukraine eyes Belarus border activities as Russian strikes persist",
+        "published": "Sat, 02 May 2026 19:54:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/syria-becomes-alternative-energy-corridor-for-oil-as-hormuz-effectively-blo?traffic_source=rss"
+      },
       {
         "title": "Israel’s expanding ‘orange line’ tightens deadly no-go zones in Gaza",
         "published": "Sat, 02 May 2026 19:11:33 +0000",
@@ -39,11 +44,6 @@
         "title": "Mali probes soldiers suspected of involvement in military base attacks",
         "published": "Sat, 02 May 2026 13:03:28 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Flotilla activists return to Istanbul after Israel detains them at sea",
-        "published": "Sat, 02 May 2026 12:46:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/rallies-under-way-as-workers-gather-for-international-labour-day-2?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
