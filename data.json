@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-02 05:27",
+  "updated_at_gst": "2026-05-02 08:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
+        "published": "Sat, 02 May 2026 04:17:09 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss"
+      },
+      {
         "title": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
         "published": "Sat, 02 May 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "At least 12 killed in latest Israeli attacks on Lebanon",
         "published": "Fri, 01 May 2026 21:10:15 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/1/iranian-nobel-laureate-narges-mohammadi-hospitalised-as-health-deteriorates?traffic_source=rss"
-      },
-      {
-        "title": "UAE exit from OPEC signals closer alignment with US interests, experts say",
-        "published": "Fri, 01 May 2026 16:32:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
