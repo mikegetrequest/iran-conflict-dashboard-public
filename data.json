@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-02 19:08",
+  "updated_at_gst": "2026-05-02 20:04",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel’s ‘two-tier’ policing and the crime epidemic in Palestinian towns",
-        "published": "Sat, 02 May 2026 14:23:45 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/2/live-arsenal-vs-fulham-premier-league?traffic_source=rss"
+        "title": "Israeli air strikes kill 41 people in Lebanon in 24-hour window",
+        "published": "Sat, 02 May 2026 12:55:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/flotilla-activists-return-to-istanbul-after-israel-detains-them-at-sea?traffic_source=rss"
       },
       {
-        "title": "Mali probes soldiers suspected of involvement in military base attacks",
-        "published": "Sat, 02 May 2026 13:03:28 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Flotilla activists return to Istanbul after Israel detains them at sea",
-        "published": "Sat, 02 May 2026 12:46:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/rallies-under-way-as-workers-gather-for-international-labour-day-2?traffic_source=rss"
-      },
-      {
-        "title": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
-        "published": "Sat, 02 May 2026 06:47:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss"
+        "title": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
+        "published": "Sat, 02 May 2026 11:34:12 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/2/ex-formula-one-driver-turned-paralympic-champion-alex-zanardi-dies-aged-59?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
