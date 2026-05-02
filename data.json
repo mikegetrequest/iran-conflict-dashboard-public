@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-02 08:36",
+  "updated_at_gst": "2026-05-02 10:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
+        "published": "Sat, 02 May 2026 06:27:32 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/2/pistons-and-raptors-survive-while-la-lakers-progress-in-nba-playoffs?traffic_source=rss"
+      },
       {
         "title": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
         "published": "Sat, 02 May 2026 04:17:09 +0000",
