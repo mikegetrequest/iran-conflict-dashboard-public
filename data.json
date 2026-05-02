@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-02 22:05",
+  "updated_at_gst": "2026-05-02 23:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel’s expanding ‘orange line’ tightens deadly no-go zones in Gaza",
+        "published": "Sat, 02 May 2026 19:11:33 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/2/arsenal-thrash-fulham-to-pull-6-points-clear-of-manchester-city?traffic_source=rss"
+      },
+      {
+        "title": "Spain demands Israel release arrested Gaza flotilla crew member",
+        "published": "Sat, 02 May 2026 18:12:35 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss"
+      },
       {
         "title": "Prices surge, jobs disappear as war strains Iran’s economy",
         "published": "Sat, 02 May 2026 16:58:30 +0000",
