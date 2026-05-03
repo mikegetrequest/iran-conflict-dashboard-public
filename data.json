@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-03 15:33",
+  "updated_at_gst": "2026-05-03 16:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel approves purchase of fighter jets from the US",
+        "published": "Sun, 03 May 2026 12:36:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/3/us-military-says-two-service-members-taking-part-in-morocco-drills-missing?traffic_source=rss"
+      },
+      {
+        "title": "Gaza aid flotilla activists appear in Israeli court after abduction",
+        "published": "Sun, 03 May 2026 11:41:35 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/3/live-manchester-united-vs-liverpool-premier-league?traffic_source=rss"
+      },
       {
         "title": "Ukraine drone attack hits Russian Baltic port, governor says",
         "published": "Sun, 03 May 2026 09:57:31 +0000",
