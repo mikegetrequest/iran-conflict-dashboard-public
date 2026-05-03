@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-03 22:06",
+  "updated_at_gst": "2026-05-03 23:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Who are the two Gaza flotilla activists abducted by Israel?",
-        "published": "Sun, 03 May 2026 14:00:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/us-to-cut-troops-in-germany-as-iran-war-spat-deepens?traffic_source=rss"
+        "title": "Israeli forces kill Palestinian man in raid on Nablus in occupied West Ban",
+        "published": "Sun, 03 May 2026 17:52:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/3/investigators-say-trump-assassination-suspect-shot-officer-at-press-gala?traffic_source=rss"
       },
       {
-        "title": "Netanyahu boasts of Israel’s billion-dollar military investments",
-        "published": "Sun, 03 May 2026 13:27:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/3/was-the-iran-war-the-final-blow-in-the-collapse-of-spirit-airlines?traffic_source=rss"
+        "title": "Bulk carrier attacked by multiple small craft off Iran, UKMTO says",
+        "published": "Sun, 03 May 2026 16:47:24 +0000",
+        "link": "https://www.aljazeera.com/video/reframe/2026/5/3/the-us-v-latin-america-varsha-gandikota-susana-muhamad?traffic_source=rss"
+      },
+      {
+        "title": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
+        "published": "Sun, 03 May 2026 15:40:46 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/5/3/zelenskyy-has-no-cards-to-play-against-russia-or-the-west?traffic_source=rss"
+      },
+      {
+        "title": "US to cut troops in Germany as Iran war spat deepens",
+        "published": "Sun, 03 May 2026 13:38:56 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/3/usa-vs-paraguay-among-world-cup-games-with-unsold-exorbitant-tickets?traffic_source=rss"
+      },
+      {
+        "title": "Was the Iran war the final blow in the collapse of Spirit Airlines?",
+        "published": "Sun, 03 May 2026 13:03:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/3/opec-announces-symbolic-oil-output-rise-during-strait-of-hormuz-closure?traffic_source=rss"
+      },
+      {
+        "title": "Israel approves purchase of fighter jets from the US",
+        "published": "Sun, 03 May 2026 12:36:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/3/us-military-says-two-service-members-taking-part-in-morocco-drills-missing?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
