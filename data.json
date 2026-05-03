@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-03 10:44",
+  "updated_at_gst": "2026-05-03 12:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
+        "published": "Sun, 03 May 2026 07:02:09 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss"
+      },
+      {
         "title": "Trump expresses doubt that Iran’s peace proposal is ‘acceptable’",
         "published": "Sun, 03 May 2026 02:37:38 +0000",
         "link": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Spirit Airlines collapses amid rising fuel costs from war on Iran",
-        "published": "Sat, 02 May 2026 20:28:12 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/2/at-least-six-dead-in-heavy-rains-in-northeast-brazil-thousands-displaced?traffic_source=rss"
-      },
-      {
-        "title": "Khartoum drone strike kills five in Sudan, NGO reports",
-        "published": "Sat, 02 May 2026 19:59:16 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/2/ukraine-eyes-belarus-border-activities-as-russian-strikes-persist?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
