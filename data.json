@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-03 12:28",
+  "updated_at_gst": "2026-05-03 13:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-        "published": "Sun, 03 May 2026 07:02:09 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss"
+        "title": "Israel issues new forced displacement orders in southern Lebanon",
+        "published": "Sun, 03 May 2026 08:35:43 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/3/gretchen-walsh-lowers-own-100m-butterfly-world-record-for-fourth-time?traffic_source=rss"
       },
       {
-        "title": "Trump expresses doubt that Iran’s peace proposal is ‘acceptable’",
-        "published": "Sun, 03 May 2026 02:37:38 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss"
+        "title": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
+        "published": "Sun, 03 May 2026 04:35:26 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss"
+      },
+      {
+        "title": "UAE lifts all air traffic restrictions introduced since Iran war",
+        "published": "Sun, 03 May 2026 03:29:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Trump to review 14-point plan; Israel pounds Lebanon",
+        "published": "Sun, 03 May 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/philippines-volcano-erupts-blanketing-ash-across-the-sky?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
