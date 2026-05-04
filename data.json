@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-04 08:13",
+  "updated_at_gst": "2026-05-04 11:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
+        "published": "Mon, 04 May 2026 06:45:13 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/4/north-korean-womens-club-to-play-rare-football-match-in-the-south?traffic_source=rss"
+      },
+      {
         "title": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
         "published": "Sun, 03 May 2026 20:51:57 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/3/trump-says-us-will-help-free-up-ships-stuck-in-hormuz-strait?traffic_source=rss"
-      },
-      {
-        "title": "Israeli forces kill Palestinian man in raid on Nablus in occupied West Ban",
-        "published": "Sun, 03 May 2026 17:52:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/3/investigators-say-trump-assassination-suspect-shot-officer-at-press-gala?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
