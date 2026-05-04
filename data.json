@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-04 17:07",
+  "updated_at_gst": "2026-05-04 19:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Russian strikes kill at least eight in Ukraine, while drones hit Moscow",
+        "published": "Mon, 04 May 2026 13:41:50 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/4/which-premier-league-teams-can-still-qualify-for-the-champions-league?traffic_source=rss"
+      },
+      {
+        "title": "War preparations under way in Iran as Hormuz tensions with US escalate",
+        "published": "Mon, 04 May 2026 13:12:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/4/trumps-project-freedom-can-us-navy-guide-stuck-ships-out-of-hormuz?traffic_source=rss"
+      },
+      {
         "title": "‘Israel is not implementing the ceasefire agreement in Gaza’",
         "published": "Mon, 04 May 2026 11:44:25 +0000",
         "link": "https://www.aljazeera.com/sports/2026/5/4/tennis-stars-sinner-sabalenka-and-gauff-criticise-roland-garros-prize-money?traffic_source=rss"
@@ -24,21 +34,6 @@
         "title": "Iran says it fired missiles at US warship to prevent it entering Hormuz",
         "published": "Mon, 04 May 2026 10:55:19 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence?traffic_source=rss"
-      },
-      {
-        "title": "‘I can’t feel my leg’: Israeli gunfire disables teenagers in West Bank",
-        "published": "Mon, 04 May 2026 09:44:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss"
-      },
-      {
-        "title": "Crew of Iranian ship seized by US forces evacuated to Pakistan, gov’t says",
-        "published": "Mon, 04 May 2026 07:36:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/4/former-nyc-mayor-giuliani-hospitalised-in-critical-condition-spokesman?traffic_source=rss"
-      },
-      {
-        "title": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
-        "published": "Mon, 04 May 2026 06:45:13 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/4/north-korean-womens-club-to-play-rare-football-match-in-the-south?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
