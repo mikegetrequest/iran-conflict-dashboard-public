@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-04 11:29",
+  "updated_at_gst": "2026-05-04 13:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
-        "published": "Mon, 04 May 2026 06:45:13 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/4/north-korean-womens-club-to-play-rare-football-match-in-the-south?traffic_source=rss"
+        "title": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
+        "published": "Mon, 04 May 2026 09:11:08 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/japan-pm-hormuz-closure-inflicting-enormous-impact-on-asia-pacific?traffic_source=rss"
       },
       {
-        "title": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
-        "published": "Sun, 03 May 2026 20:51:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/3/trump-says-us-will-help-free-up-ships-stuck-in-hormuz-strait?traffic_source=rss"
+        "title": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
+        "published": "Mon, 04 May 2026 08:20:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/4/seized-iranian-ships-crew-repatriated-to-pakistan-says-foreign-ministry?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Iranian military warns US of attacks over Hormuz mission",
+        "published": "Mon, 04 May 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/thousands-in-indias-manipur-mark-three-years-since-ethnic-clashes-began?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
