@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-04 21:09",
+  "updated_at_gst": "2026-05-04 23:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UAE reports missile and drone strikes incoming from Iran",
-        "published": "Mon, 04 May 2026 15:37:11 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/4/satellite-imagery-reveals-how-sudans-war-scorched-its-breadbasket?traffic_source=rss"
+        "title": "Lebanon Latest",
+        "published": "Mon, 04 May 2026 16:05:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/4/us-releases-touska-container-ship-crew-why-it-matters?traffic_source=rss"
       },
       {
-        "title": "Does Trump hold ‘all the cards’ against Iran in the Strait of Hormuz?",
-        "published": "Mon, 04 May 2026 14:56:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/4/india-loses-its-last-left-wing-government-after-five-decades?traffic_source=rss"
+        "title": "US official says China is ‘funding’ Iran, urges Beijing to help open Hormuz",
+        "published": "Mon, 04 May 2026 15:55:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran?traffic_source=rss"
+      },
+      {
+        "title": "Russian strikes kill at least eight in Ukraine, drones hit Moscow",
+        "published": "Mon, 04 May 2026 13:41:50 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/4/which-premier-league-teams-can-still-qualify-for-the-champions-league?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
