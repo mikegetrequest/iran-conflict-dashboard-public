@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-04 15:29",
+  "updated_at_gst": "2026-05-04 17:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "‘Israel is not implementing the ceasefire agreement in Gaza’",
+        "published": "Mon, 04 May 2026 11:44:25 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/4/tennis-stars-sinner-sabalenka-and-gauff-criticise-roland-garros-prize-money?traffic_source=rss"
+      },
       {
         "title": "Iran says it fired missiles at US warship to prevent it entering Hormuz",
         "published": "Mon, 04 May 2026 10:55:19 +0000",
