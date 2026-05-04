@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-04 13:35",
+  "updated_at_gst": "2026-05-04 15:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
-        "published": "Mon, 04 May 2026 09:11:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/japan-pm-hormuz-closure-inflicting-enormous-impact-on-asia-pacific?traffic_source=rss"
+        "title": "Iran says it fired missiles at US warship to prevent it entering Hormuz",
+        "published": "Mon, 04 May 2026 10:55:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence?traffic_source=rss"
       },
       {
-        "title": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
-        "published": "Mon, 04 May 2026 08:20:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/4/seized-iranian-ships-crew-repatriated-to-pakistan-says-foreign-ministry?traffic_source=rss"
+        "title": "‘I can’t feel my leg’: Israeli gunfire disables teenagers in West Bank",
+        "published": "Mon, 04 May 2026 09:44:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Iranian military warns US of attacks over Hormuz mission",
-        "published": "Mon, 04 May 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/thousands-in-indias-manipur-mark-three-years-since-ethnic-clashes-began?traffic_source=rss"
+        "title": "Crew of Iranian ship seized by US forces evacuated to Pakistan, gov’t says",
+        "published": "Mon, 04 May 2026 07:36:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/4/former-nyc-mayor-giuliani-hospitalised-in-critical-condition-spokesman?traffic_source=rss"
+      },
+      {
+        "title": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
+        "published": "Mon, 04 May 2026 06:45:13 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/4/north-korean-womens-club-to-play-rare-football-match-in-the-south?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
