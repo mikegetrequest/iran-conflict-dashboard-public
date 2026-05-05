@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-05 23:55",
+  "updated_at_gst": "2026-05-06 00:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel kills one boy, injures officers in strike on Gaza police station",
+        "published": "Tue, 05 May 2026 20:45:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/5/centcom-says-project-freedom-has-just-2?traffic_source=rss"
+      },
       {
         "title": "Sudan recalls Ethiopia ambassador after strikes on Khartoum",
         "published": "Tue, 05 May 2026 18:57:58 +0000",
@@ -39,11 +44,6 @@
         "title": "What’s happening in Mali one week after attack by armed groups? All we know",
         "published": "Tue, 05 May 2026 15:25:59 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/5/sudan-accuses-ethiopia-uae-of-being-behind-recent-drone-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Hegseth says US ‘hasn’t capitulated on anything’ regarding Iran",
-        "published": "Tue, 05 May 2026 15:21:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/5/us-iran-ceasefire-holds-despite-hormuz-standoff-pentagon-chief-hegseth?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
