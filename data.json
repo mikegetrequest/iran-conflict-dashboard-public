@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-05 08:40",
+  "updated_at_gst": "2026-05-05 11:09",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "‘Dangerous escalation’: World condemns Iran after attacks on UAE",
-        "published": "Tue, 05 May 2026 03:38:53 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz?traffic_source=rss"
+        "title": "Iran war: What’s happening on day 67 as Hormuz crisis deepens?",
+        "published": "Tue, 05 May 2026 06:31:34 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/5/fifa-bans-former-guyana-official-alves-for-5-years-over-sexual-harassment?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Washington, Tehran trade threats over Strait of Hormuz",
-        "published": "Tue, 05 May 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/4/extensive-brutality-rebel-attacks-reap-hell-on-congolese-civilians?traffic_source=rss"
+        "title": "Iran says US military killed five civilians in attacks on passenger boats",
+        "published": "Tue, 05 May 2026 05:52:08 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/5/man-city-have-lost-control-of-the-premier-league-title-race-guardiola?traffic_source=rss"
       },
       {
-        "title": "For Christians in Israel and Jerusalem, intolerance is becoming normal",
-        "published": "Mon, 04 May 2026 22:14:02 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/4/brazils-lula-to-travel-to-us-to-meet-with-trump-later-this-week?traffic_source=rss"
+        "title": "Israeli strike sparks fire in northern Gaza City",
+        "published": "Tue, 05 May 2026 01:57:59 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/alabama-lawmakers-adjourn-after-protests-over-redistricting?traffic_source=rss"
       },
       {
-        "title": "Hormuz tensions push ceasefire to the brink as Trump threatens Iran",
-        "published": "Mon, 04 May 2026 21:08:35 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/5/4/is-israels-interception-of-the-global-sumud-flotilla-legal?traffic_source=rss"
+        "title": "Newborn born in Nablus a day after his father was killed in Israeli raid",
+        "published": "Tue, 05 May 2026 00:11:43 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/5/5/iran-war-live-washington-tehran-trade-threats-over-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "‘Extensive brutality’: Rebel attacks reap hell on Congolese civilians",
+        "published": "Mon, 04 May 2026 23:37:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/4/for-christians-israel-jerusalem-intolerance-becoming-normal?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
