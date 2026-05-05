@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-05 11:09",
+  "updated_at_gst": "2026-05-05 13:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Russian air attacks kill five at Ukraine’s Naftogaz gas facilities",
+        "published": "Tue, 05 May 2026 09:14:14 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/taiwan-has-right-to-engage-with-the-world-after-eswatini-visit?traffic_source=rss"
+      },
+      {
+        "title": "Palestine weekly wrap: Israeli security agencies sound alarm on settlers",
+        "published": "Tue, 05 May 2026 07:44:04 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/5/no-fifa-world-cup-2026-broadcast-deals-signed-in-india-china?traffic_source=rss"
+      },
+      {
         "title": "Iran war: What’s happening on day 67 as Hormuz crisis deepens?",
         "published": "Tue, 05 May 2026 06:31:34 +0000",
         "link": "https://www.aljazeera.com/sports/2026/5/5/fifa-bans-former-guyana-official-alves-for-5-years-over-sexual-harassment?traffic_source=rss"
@@ -24,21 +34,6 @@
         "title": "Iran says US military killed five civilians in attacks on passenger boats",
         "published": "Tue, 05 May 2026 05:52:08 +0000",
         "link": "https://www.aljazeera.com/sports/2026/5/5/man-city-have-lost-control-of-the-premier-league-title-race-guardiola?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strike sparks fire in northern Gaza City",
-        "published": "Tue, 05 May 2026 01:57:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/alabama-lawmakers-adjourn-after-protests-over-redistricting?traffic_source=rss"
-      },
-      {
-        "title": "Newborn born in Nablus a day after his father was killed in Israeli raid",
-        "published": "Tue, 05 May 2026 00:11:43 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/5/5/iran-war-live-washington-tehran-trade-threats-over-strait-of-hormuz?traffic_source=rss"
-      },
-      {
-        "title": "‘Extensive brutality’: Rebel attacks reap hell on Congolese civilians",
-        "published": "Mon, 04 May 2026 23:37:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/4/for-christians-israel-jerusalem-intolerance-becoming-normal?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
