@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-05 15:55",
+  "updated_at_gst": "2026-05-05 17:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russian air attacks kill five at Ukraine’s Naftogaz gas facilities",
-        "published": "Tue, 05 May 2026 09:14:14 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/taiwan-has-right-to-engage-with-the-world-after-eswatini-visit?traffic_source=rss"
+        "title": "Israel extends detention of Gaza flotilla activists, lawyers say",
+        "published": "Tue, 05 May 2026 12:56:33 +0000",
+        "link": "https://www.aljazeera.com/video/digital-dilemma/2026/5/5/how-uk-universities-spy-on-pro-palestine-students?traffic_source=rss"
       },
       {
-        "title": "Palestine weekly wrap: Israeli security agencies sound alarm on settlers",
-        "published": "Tue, 05 May 2026 07:44:04 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/5/no-fifa-world-cup-2026-broadcast-deals-signed-in-india-china?traffic_source=rss"
+        "title": "UK counterterrorism police investigate arson attack at former synagogue",
+        "published": "Tue, 05 May 2026 12:00:51 +0000",
+        "link": "https://www.aljazeera.com/video/doha-debates/2026/5/5/has-social-justice-become-the-new-religion-of-the-west?traffic_source=rss"
+      },
+      {
+        "title": "What Iran is saying about attack on UAE",
+        "published": "Tue, 05 May 2026 08:29:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/5/afghanistan-accuses-pakistan-of-killing-three-civilians-in-war-crime?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
