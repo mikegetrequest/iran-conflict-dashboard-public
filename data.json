@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-06 23:08",
+  "updated_at_gst": "2026-05-07 00:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Shoot Palestinians, not settlers: Israeli general exposes double standard",
-        "published": "Wed, 06 May 2026 18:18:12 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/iran-has-attained-an-elevated-international-standing-says-fm?traffic_source=rss"
+        "title": "Israeli strike kills colonel in Gaza police force, say Palestinian medics",
+        "published": "Wed, 06 May 2026 19:31:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/6/indiana-ohio-primaries-draw-midterm-battle-lines-reinforce-trumps-pull?traffic_source=rss"
       },
       {
-        "title": "Israel bombs Beirut’s southern suburb as it targets Hezbollah commander",
-        "published": "Wed, 06 May 2026 17:35:39 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss"
+        "title": "Why are Pentagon officials talking about Iran’s ‘deadly dolphins’?",
+        "published": "Wed, 06 May 2026 18:25:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/6/shoot-palestinians-not-settlers-israeli-general-exposes-double-standard?traffic_source=rss"
       },
       {
-        "title": "UN demands Israel release Gaza flotilla activists, investigate abuse claims",
-        "published": "Wed, 06 May 2026 14:06:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/6/follow-the-money-how-far-right-reform-uk-built-a-global-network?traffic_source=rss"
+        "title": "Iran ‘has attained an elevated international standing’ says FM",
+        "published": "Wed, 06 May 2026 17:56:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander?traffic_source=rss"
+      },
+      {
+        "title": "UN demands Israel immediately releases flotilla activists",
+        "published": "Wed, 06 May 2026 16:09:39 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/6/its-not-cricket-pakistan-athletes-allowed-in-india-for-multilateral-sport?traffic_source=rss"
+      },
+      {
+        "title": "Pro-Palestine group protests outside Israeli real estate event in New York",
+        "published": "Wed, 06 May 2026 14:07:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/6/un-demands-israel-release-gaza-flotilla-activists-investigate-abuse-claims?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
