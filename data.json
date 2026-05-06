@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-06 11:29",
+  "updated_at_gst": "2026-05-06 13:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
-        "published": "Wed, 06 May 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/thai-temples-launch-rockets-in-friendly-festival-rivalry?traffic_source=rss"
+        "title": "US petrol prices 50 percent higher than before war on Iran",
+        "published": "Wed, 06 May 2026 08:52:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on?traffic_source=rss"
       },
       {
-        "title": "Buses block off roads in Bolivia as transport workers strike over fuel",
-        "published": "Tue, 05 May 2026 23:44:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss"
+        "title": "Shopping centre fire kills at least eight people in Iran",
+        "published": "Wed, 06 May 2026 08:26:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/6/australian-women-with-alleged-isil-ties-returning-from-syria-minister-says?traffic_source=rss"
       },
       {
-        "title": "Before Vatican trip, Rubio defends Trump remarks on Pope Leo over Iran",
-        "published": "Tue, 05 May 2026 20:53:35 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss"
+        "title": "US must not insult IRGC during the World Cup: Iran’s football chief",
+        "published": "Wed, 06 May 2026 07:37:22 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/6/top-tennis-players-could-boycott-french-open-over-prize-money-sabalenka?traffic_source=rss"
+      },
+      {
+        "title": "Iran war day 68: Trump talks about progress in talks; Rubio says war ‘over’",
+        "published": "Wed, 06 May 2026 07:25:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/6/manipurs-unknown-killers-three-years-of-indias-bloody-ethnic-conflict?traffic_source=rss"
+      },
+      {
+        "title": "US military releases video of strike on alleged drug boat",
+        "published": "Wed, 06 May 2026 07:12:55 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/6/airlines-hike-fares-cut-millions-of-seats-as-iran-war-drives-up-fuel-costs?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
