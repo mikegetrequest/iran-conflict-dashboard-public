@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-06 19:39",
+  "updated_at_gst": "2026-05-06 21:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UN demands Israel release Gaza flotilla activists, investigate abuse claims",
-        "published": "Wed, 06 May 2026 14:06:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/6/follow-the-money-how-far-right-reform-uk-built-a-global-network?traffic_source=rss"
+        "title": "UN demands Israel immediately releases flotilla activists",
+        "published": "Wed, 06 May 2026 16:09:39 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/6/its-not-cricket-pakistan-athletes-allowed-in-india-for-multilateral-sport?traffic_source=rss"
       },
       {
-        "title": "Iran says Strait of Hormuz passage to be ensured after US pauses operation",
-        "published": "Wed, 06 May 2026 12:41:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/6/what-is-the-fdd-the-pro-israel-think-tank-shaping-trumps-iran-policy?traffic_source=rss"
+        "title": "Pro-Palestine group protests outside Israeli real estate event in New York",
+        "published": "Wed, 06 May 2026 14:07:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/6/un-demands-israel-release-gaza-flotilla-activists-investigate-abuse-claims?traffic_source=rss"
+      },
+      {
+        "title": "Araghchi in Beijing: How China could shape the direction of the US-Iran war",
+        "published": "Wed, 06 May 2026 13:47:54 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/russian-drone-hits-kindergarten-in-ukraine?traffic_source=rss"
+      },
+      {
+        "title": "Elderly man rescued from rubble after Israeli strike on Lebanon",
+        "published": "Wed, 06 May 2026 13:31:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/ben-gvir-dreams-of-nooses-in-video-posted-to-tiktok?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
