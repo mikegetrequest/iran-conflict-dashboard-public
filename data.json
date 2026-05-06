@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-07 00:50",
+  "updated_at_gst": "2026-05-07 01:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Russia tells diplomats to leave Kyiv in case Moscow launches mass strikes",
+        "published": "Wed, 06 May 2026 21:30:05 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit?traffic_source=rss"
+      },
+      {
+        "title": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal",
+        "published": "Wed, 06 May 2026 21:17:47 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/6/holders-psg-beat-bayern-munich-to-reach-champions-league-final-with-arsenal?traffic_source=rss"
+      },
       {
         "title": "Israeli strike kills colonel in Gaza police force, say Palestinian medics",
         "published": "Wed, 06 May 2026 19:31:42 +0000",
@@ -34,11 +44,6 @@
         "title": "UN demands Israel immediately releases flotilla activists",
         "published": "Wed, 06 May 2026 16:09:39 +0000",
         "link": "https://www.aljazeera.com/sports/2026/5/6/its-not-cricket-pakistan-athletes-allowed-in-india-for-multilateral-sport?traffic_source=rss"
-      },
-      {
-        "title": "Pro-Palestine group protests outside Israeli real estate event in New York",
-        "published": "Wed, 06 May 2026 14:07:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/6/un-demands-israel-release-gaza-flotilla-activists-investigate-abuse-claims?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
