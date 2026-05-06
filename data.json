@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-06 03:37",
+  "updated_at_gst": "2026-05-06 05:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
+        "published": "Wed, 06 May 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/thai-temples-launch-rockets-in-friendly-festival-rivalry?traffic_source=rss"
+      },
+      {
+        "title": "Buses block off roads in Bolivia as transport workers strike over fuel",
+        "published": "Tue, 05 May 2026 23:44:03 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss"
+      },
       {
         "title": "Before Vatican trip, Rubio defends Trump remarks on Pope Leo over Iran",
         "published": "Tue, 05 May 2026 20:53:35 +0000",
@@ -34,11 +44,6 @@
         "title": "UAE comes under Iranian attacks for second consecutive day: Ministry",
         "published": "Tue, 05 May 2026 16:50:48 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/ukraine-russia-exchange-drone-strikes-ahead-of-v-day?traffic_source=rss"
-      },
-      {
-        "title": "Boko Haram attack kills 23 soldiers in Chad’s Lake Chad region",
-        "published": "Tue, 05 May 2026 15:47:31 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/5/live-arsenal-vs-atletico-madrid-champions-league-semifinal?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
