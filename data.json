@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-06 05:27",
+  "updated_at_gst": "2026-05-06 08:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
-        "published": "Wed, 06 May 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/thai-temples-launch-rockets-in-friendly-festival-rivalry?traffic_source=rss"
+        "title": "Trump pauses US operation in Strait of Hormuz in push for deal with Iran",
+        "published": "Tue, 05 May 2026 23:40:09 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss"
       },
       {
-        "title": "Buses block off roads in Bolivia as transport workers strike over fuel",
-        "published": "Tue, 05 May 2026 23:44:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss"
+        "title": "Israel kills one boy, injures officers in strike on Gaza police station",
+        "published": "Tue, 05 May 2026 20:45:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/5/centcom-says-project-freedom-has-just-2?traffic_source=rss"
       },
       {
-        "title": "Before Vatican trip, Rubio defends Trump remarks on Pope Leo over Iran",
-        "published": "Tue, 05 May 2026 20:53:35 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss"
+        "title": "Sudan recalls Ethiopia ambassador after strikes on Khartoum",
+        "published": "Tue, 05 May 2026 18:57:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/video-trump-says-iran-should-wave-the-white-flag?traffic_source=rss"
       },
       {
-        "title": "Video: Trump says Iran should ‘wave the white flag’",
-        "published": "Tue, 05 May 2026 18:48:10 +0000",
-        "link": "https://www.aljazeera.com/features/2026/5/5/us-push-for-lebanon-and-israel-leaders-to-meet-could-inflame-tensions?traffic_source=rss"
-      },
-      {
-        "title": "UK convicts four Palestine Action activists over break-in at Israeli firm",
-        "published": "Tue, 05 May 2026 17:36:42 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/5/microsoft-google-xai-give-us-access-to-ai-models-for-security-testing?traffic_source=rss"
-      },
-      {
-        "title": "UAE comes under Iranian attacks for second consecutive day: Ministry",
-        "published": "Tue, 05 May 2026 16:50:48 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/ukraine-russia-exchange-drone-strikes-ahead-of-v-day?traffic_source=rss"
+        "title": "US push for Lebanon and Israel leaders to meet could inflame tensions",
+        "published": "Tue, 05 May 2026 18:38:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/5/uk-convicts-four-palestine-action-activists-over-break-in-at-israeli-firm?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
