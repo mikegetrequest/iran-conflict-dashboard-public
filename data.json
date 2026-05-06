@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-07 02:37",
+  "updated_at_gst": "2026-05-07 03:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russia tells diplomats to leave Kyiv in case Moscow launches mass strikes",
-        "published": "Wed, 06 May 2026 21:30:05 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit?traffic_source=rss"
+        "title": "Israeli strikes kill five Palestinians across Gaza in one day",
+        "published": "Wed, 06 May 2026 23:20:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/6/argentina-investigates-link-to-deadly-hantavirus-outbreak-on-cruise-ship?traffic_source=rss"
       },
       {
-        "title": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal",
-        "published": "Wed, 06 May 2026 21:17:47 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/6/holders-psg-beat-bayern-munich-to-reach-champions-league-final-with-arsenal?traffic_source=rss"
+        "title": "In rare push, US lawmakers demand transparency on Israel nuclear capability",
+        "published": "Wed, 06 May 2026 22:05:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/6/russia-tells-diplomats-to-leave-kyiv-in-case-moscow-launches-mass-strikes?traffic_source=rss"
       },
       {
-        "title": "Israeli strike kills colonel in Gaza police force, say Palestinian medics",
-        "published": "Wed, 06 May 2026 19:31:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/6/indiana-ohio-primaries-draw-midterm-battle-lines-reinforce-trumps-pull?traffic_source=rss"
+        "title": "Israel bombs Beirut’s southern suburbs",
+        "published": "Wed, 06 May 2026 21:01:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/russia-cuts-mobile-internet-in-moscow-citing-drone-security-concerns?traffic_source=rss"
       },
       {
-        "title": "Why are Pentagon officials talking about Iran’s ‘deadly dolphins’?",
-        "published": "Wed, 06 May 2026 18:25:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/6/shoot-palestinians-not-settlers-israeli-general-exposes-double-standard?traffic_source=rss"
+        "title": "Shoot Palestinians, not settlers: Israeli general exposes double standard",
+        "published": "Wed, 06 May 2026 18:18:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/iran-has-attained-an-elevated-international-standing-says-fm?traffic_source=rss"
       },
       {
-        "title": "Iran ‘has attained an elevated international standing’ says FM",
-        "published": "Wed, 06 May 2026 17:56:45 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander?traffic_source=rss"
-      },
-      {
-        "title": "UN demands Israel immediately releases flotilla activists",
-        "published": "Wed, 06 May 2026 16:09:39 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/6/its-not-cricket-pakistan-athletes-allowed-in-india-for-multilateral-sport?traffic_source=rss"
+        "title": "Israel bombs Beirut’s southern suburb as it targets Hezbollah commander",
+        "published": "Wed, 06 May 2026 17:35:39 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
