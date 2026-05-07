@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-08 00:44",
+  "updated_at_gst": "2026-05-08 01:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Inside the Israeli bloc that could topple Netanyahu",
-        "published": "Thu, 07 May 2026 18:51:22 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/isil-linked-australian-women-arrested-at-airports?traffic_source=rss"
+        "title": "Explosions heard in Iran as state media reports clashes with US Navy",
+        "published": "Thu, 07 May 2026 21:11:00 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/7/trump-sets-july-4-deadline-for-eu-tariff-hike-decision?traffic_source=rss"
       },
       {
-        "title": "Israel’s attacks and pressure sowing seeds for division in tense Lebanon",
-        "published": "Thu, 07 May 2026 18:41:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/7/brazils-lula-meets-trump-amid-efforts-to-avert-new-us-trade-tariffs?traffic_source=rss"
+        "title": "Senators press US military on Israel’s displacement campaign in Lebanon",
+        "published": "Thu, 07 May 2026 20:53:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/7/armed-fighters-kill-at-least-30-people-in-attacks-in-central-mali?traffic_source=rss"
       },
       {
-        "title": "US pushing Israeli de-escalation ahead of new talks: Lebanese official",
-        "published": "Thu, 07 May 2026 16:26:18 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/lebanon-latest-israeli-strikes-beirut-despite?traffic_source=rss"
+        "title": "Palestinians expose torture and sexual violence in Israeli detention",
+        "published": "Thu, 07 May 2026 20:37:46 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/kenyan-villagers-sue-bp-over-pollution-from-1980s-oil-exploration?traffic_source=rss"
+      },
+      {
+        "title": "Palestinian boy mourns father killed in Israeli strike on security post",
+        "published": "Thu, 07 May 2026 20:10:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/7/us-issues-new-cuba-sanctions-as-un-experts-warn-of-energy-starvation?traffic_source=rss"
+      },
+      {
+        "title": "Can China help end the Iran war?",
+        "published": "Thu, 07 May 2026 19:02:17 +0000",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/5/7/aje-onl-isr_bibipressure_av_v1-070526?traffic_source=rss"
+      },
+      {
+        "title": "US sanctions Iraqi minister accused of aiding Iran oil sales",
+        "published": "Thu, 07 May 2026 18:19:00 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/7/protests-in-bolivia-escalate-amid-economic-turmoil-and-policy-demands?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
