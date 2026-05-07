@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-07 16:23",
+  "updated_at_gst": "2026-05-07 19:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Irish footballers and celebrities urge boycott of Israel matches",
-        "published": "Thu, 07 May 2026 11:42:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/7/turkiye-unveils-its-first-intercontinental-ballistic-missile-what-we-know?traffic_source=rss"
+        "title": "MSF accuses Israel of manufacturing a malnutrition crisis in Gaza",
+        "published": "Thu, 07 May 2026 12:21:54 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/7/irish-footballers-and-celebrities-urge-boycott-of-israel-match?traffic_source=rss"
       },
       {
-        "title": "Can Asian economies cope with the fallout from the Iran war?",
-        "published": "Thu, 07 May 2026 11:35:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/7/africa-sees-winners-and-losers-as-iran-war-pushes-up-oil-prices?traffic_source=rss"
+        "title": "Turkiye unveils its first intercontinental ballistic missile: What we know",
+        "published": "Thu, 07 May 2026 11:40:38 +0000",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/7/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss"
       },
       {
-        "title": "Rubio arrives at Vatican to meet Pope Leo amid Trump attacks",
-        "published": "Thu, 07 May 2026 09:22:35 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/iran-releases-video-said-to-show-us-drone-shot-down-over-hormuz?traffic_source=rss"
-      },
-      {
-        "title": "Israeli attack on Gaza kills son of Hamas leader Khalil al-Hayya",
-        "published": "Thu, 07 May 2026 06:37:03 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/7/toronto-world-cup-tickets-to-be-resold-for-face-value-on-fifa-marketplace?traffic_source=rss"
+        "title": "Africa sees winners and losers as Iran war pushes up oil prices",
+        "published": "Thu, 07 May 2026 11:29:43 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/passenger-from-hantavirus-hit-ship-speaks-to-al-jazeera-from-isolation?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
