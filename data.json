@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-07 14:37",
+  "updated_at_gst": "2026-05-07 16:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran’s stance on US war negotiations explained",
-        "published": "Thu, 07 May 2026 09:37:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/7/rubio-arrives-at-vatican-to-meet-pope-leo-amid-trump-attacks?traffic_source=rss"
+        "title": "Irish footballers and celebrities urge boycott of Israel matches",
+        "published": "Thu, 07 May 2026 11:42:03 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/7/turkiye-unveils-its-first-intercontinental-ballistic-missile-what-we-know?traffic_source=rss"
       },
       {
-        "title": "Iran releases video said to show US drone shot down over Hormuz",
-        "published": "Thu, 07 May 2026 09:21:31 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/7/neymar-apologises-to-robinhos-son-after-slapping-him-in-training?traffic_source=rss"
+        "title": "Can Asian economies cope with the fallout from the Iran war?",
+        "published": "Thu, 07 May 2026 11:35:57 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/7/africa-sees-winners-and-losers-as-iran-war-pushes-up-oil-prices?traffic_source=rss"
       },
       {
-        "title": "Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut",
-        "published": "Thu, 07 May 2026 08:01:07 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/5/7/aid-cuts-drought-and-conflict-leave-somalis-desperate?traffic_source=rss"
+        "title": "Rubio arrives at Vatican to meet Pope Leo amid Trump attacks",
+        "published": "Thu, 07 May 2026 09:22:35 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/iran-releases-video-said-to-show-us-drone-shot-down-over-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Israeli attack on Gaza kills son of Hamas leader Khalil al-Hayya",
+        "published": "Thu, 07 May 2026 06:37:03 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/7/toronto-world-cup-tickets-to-be-resold-for-face-value-on-fifa-marketplace?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
