@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-07 09:20",
+  "updated_at_gst": "2026-05-07 12:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "What are China’s surprise gains in the war on Iran?",
-        "published": "Wed, 06 May 2026 23:43:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israeli-strikes-kill-five-palestinians-across-gaza-in-one-day?traffic_source=rss"
+        "title": "Israeli attack on Gaza kills one person, wounds son of Hamas’s al-Hayya",
+        "published": "Thu, 07 May 2026 06:37:03 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/7/toronto-world-cup-tickets-to-be-resold-for-face-value-on-fifa-marketplace?traffic_source=rss"
       },
       {
-        "title": "Russia tells diplomats to leave Kyiv in case Moscow launches mass strikes",
-        "published": "Wed, 06 May 2026 21:30:05 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit?traffic_source=rss"
+        "title": "Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon",
+        "published": "Thu, 07 May 2026 04:48:38 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/france-introduces-one%e2%80%91euro-canteen-meals-for-all-students?traffic_source=rss"
       },
       {
-        "title": "Trump says war will be ‘over quickly’ as Iran reviews US peace proposal",
-        "published": "Wed, 06 May 2026 21:17:47 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/6/holders-psg-beat-bayern-munich-to-reach-champions-league-final-with-arsenal?traffic_source=rss"
+        "title": "Israeli soldier caught desecrating statue of Virgin Mary in Lebanon",
+        "published": "Thu, 07 May 2026 03:15:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/bts-draws-50000-fans-in-less-than-five-hours-to-mexico-city-palace?traffic_source=rss"
+      },
+      {
+        "title": "US says Hezbollah is ‘trying to derail talks’ with Israel",
+        "published": "Thu, 07 May 2026 02:13:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/rising-fuel-costs-overshadowing-agenda-for-asean-summit-in-the-philippines?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Trump says deal with Tehran ‘possible’; Israel bombs Beirut",
+        "published": "Thu, 07 May 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strikes kill five Palestinians across Gaza in one day",
+        "published": "Wed, 06 May 2026 23:20:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/6/argentina-investigates-link-to-deadly-hantavirus-outbreak-on-cruise-ship?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
