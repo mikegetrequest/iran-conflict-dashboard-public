@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-09 02:42",
+  "updated_at_gst": "2026-05-09 03:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
-        "published": "Fri, 08 May 2026 18:07:49 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/8/olympic-waterpolo-coach-players-resign-over-belittling-and-lack-of-respect?traffic_source=rss"
+        "title": "Pentagon releases video of strikes on Iranian oil tankers",
+        "published": "Fri, 08 May 2026 22:31:37 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/celebrated-naturalist-david-attenborough-marks-100th-birthday?traffic_source=rss"
+      },
+      {
+        "title": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
+        "published": "Fri, 08 May 2026 19:20:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/protests-in-the-canary-islands-as-virus-stricken-ship-heads-for-port?traffic_source=rss"
+      },
+      {
+        "title": "More than a dozen reported killed in Israeli attacks on south Lebanon",
+        "published": "Fri, 08 May 2026 17:18:33 +0000",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/5/8/aje-onl-tt_rr_pal_shireeninvest_av_v1-080526?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
