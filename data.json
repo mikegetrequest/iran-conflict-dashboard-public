@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-08 12:03",
+  "updated_at_gst": "2026-05-08 13:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "FBI’s lack of progress on Israeli killing of journalist ‘troubling’: CPJ",
+        "published": "Fri, 08 May 2026 09:28:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/8/us-iran-clash-in-hormuz-as-war-escalates-what-happened-why-it-matters?traffic_source=rss"
+      },
+      {
         "title": "Southeast Asia’s leaders confront fallout from Iran war at ASEAN summit",
         "published": "Fri, 08 May 2026 07:11:41 +0000",
         "link": "https://www.aljazeera.com/opinions/2026/5/8/migration-is-getting-riskier-even-as-progress-is-made?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Trump says ceasefire still in effect, but Iran ‘better sign agreement fast’",
         "published": "Fri, 08 May 2026 04:25:03 +0000",
         "link": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss"
-      },
-      {
-        "title": "Seafarers trapped in limbo as US and Iran clash in Strait of Hormuz",
-        "published": "Fri, 08 May 2026 01:45:17 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
