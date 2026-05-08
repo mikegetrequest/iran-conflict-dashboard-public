@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-08 15:13",
+  "updated_at_gst": "2026-05-08 16:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Sexual violence against Palestinians in Israeli prisons is ‘systematic’",
+        "published": "Fri, 08 May 2026 11:45:28 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/8/miami-host-committee-assured-ice-will-not-be-at-world-cup-games?traffic_source=rss"
+      },
+      {
+        "title": "After 18 months of mourning, a Gaza son is found alive in an Israeli prison",
+        "published": "Fri, 08 May 2026 11:15:02 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/8/trump-says-he-would-not-pay-1000-to-watch-us-at-world-cup?traffic_source=rss"
+      },
+      {
         "title": "FBI’s lack of progress on Israeli killing of journalist ‘troubling’: CPJ",
         "published": "Fri, 08 May 2026 09:28:31 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/8/us-iran-clash-in-hormuz-as-war-escalates-what-happened-why-it-matters?traffic_source=rss"
-      },
-      {
-        "title": "Southeast Asia’s leaders confront fallout from Iran war at ASEAN summit",
-        "published": "Fri, 08 May 2026 07:11:41 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/5/8/migration-is-getting-riskier-even-as-progress-is-made?traffic_source=rss"
-      },
-      {
-        "title": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
-        "published": "Fri, 08 May 2026 06:32:57 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/8/thunder-pull-away-from-lakers-in-nba-playoffs-while-pistons-down-cavs?traffic_source=rss"
-      },
-      {
-        "title": "Trump says ceasefire still in effect, but Iran ‘better sign agreement fast’",
-        "published": "Fri, 08 May 2026 04:25:03 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
