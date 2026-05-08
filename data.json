@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-08 03:41",
+  "updated_at_gst": "2026-05-08 05:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash",
+        "published": "Fri, 08 May 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/are-global-alliances-fracturing?traffic_source=rss"
+      },
+      {
         "title": "Videos show interceptions over the skies of Tehran",
         "published": "Thu, 07 May 2026 22:20:34 +0000",
         "link": "https://www.aljazeera.com/sports/2026/5/7/real-madrids-valverde-hospitalised-with-head-injury-after-tchouameni-clash?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Armed fighters kill at least 30 people in attacks in central Mali",
         "published": "Thu, 07 May 2026 20:48:03 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/7/palestinians-expose-torture-and-sexual-violence-in-israeli-detention?traffic_source=rss"
-      },
-      {
-        "title": "Inside the Israeli bloc that could topple Netanyahu",
-        "published": "Thu, 07 May 2026 18:51:22 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/isil-linked-australian-women-arrested-at-airports?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
