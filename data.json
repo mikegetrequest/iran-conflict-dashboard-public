@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-09 21:26",
+  "updated_at_gst": "2026-05-09 22:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli attacks across Lebanon kill at least 19",
-        "published": "Sat, 09 May 2026 17:07:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/peter-magyar-takes-office-marking-the-official-end-of-the-orban-era-2?traffic_source=rss"
+        "title": "Syria and Lebanon make ‘significant progress’ at talks on joint interests",
+        "published": "Sat, 09 May 2026 17:50:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/9/parent-company-of-trumps-truth-social-site-reports-400m-loss-this-year?traffic_source=rss"
       },
       {
-        "title": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
-        "published": "Sat, 09 May 2026 16:35:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/9/niger-suspends-nine-french-media-bodies-watchdog-slams-abusive-decision?traffic_source=rss"
+        "title": "“Nowhere left to go”: Gaza residents return to rubble after Israeli strike",
+        "published": "Sat, 09 May 2026 17:21:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss"
       },
       {
-        "title": "Israel to release two detained Gaza flotilla activists",
-        "published": "Sat, 09 May 2026 14:06:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc?traffic_source=rss"
+        "title": "Bahrain rounds up dozens over alleged links to Iran’s IRGC",
+        "published": "Sat, 09 May 2026 13:53:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/9/peter-magyar-sworn-in-as-hungarys-pm-ending-orbans-16-years-in-power?traffic_source=rss"
+      },
+      {
+        "title": "Iran says it will play at 2026 World Cup if hosts address ‘concerns’",
+        "published": "Sat, 09 May 2026 12:40:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/trump-says-hantavirus-is-under-control-as-who-tracks-cruise-outbreak?traffic_source=rss"
+      },
+      {
+        "title": "US military kills two people in new eastern Pacific Ocean attack",
+        "published": "Sat, 09 May 2026 10:32:48 +0000",
+        "link": "https://www.aljazeera.com/features/2026/5/9/gaza-at-the-venice-biennale-where-language-falls-short-threads-take-over?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
