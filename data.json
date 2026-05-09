@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-09 11:04",
+  "updated_at_gst": "2026-05-09 12:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli settlers set fire to homes and cars in violent West Bank raids",
+        "published": "Sat, 09 May 2026 07:18:27 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/9/financial-struggles-haunt-yemens-army-as-wage-payments-stall?traffic_source=rss"
+      },
       {
         "title": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
         "published": "Sat, 09 May 2026 00:00:00 +0000",
