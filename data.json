@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-09 22:10",
+  "updated_at_gst": "2026-05-09 23:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli settlers force Palestinian family to exhume and rebury their father",
+        "published": "Sat, 09 May 2026 19:16:19 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/missing-singaporeans-located-near-mt-dukono-crater-rim?traffic_source=rss"
+      },
       {
         "title": "Syria and Lebanon make ‘significant progress’ at talks on joint interests",
         "published": "Sat, 09 May 2026 17:50:18 +0000",
@@ -34,11 +39,6 @@
         "title": "Iran says it will play at 2026 World Cup if hosts address ‘concerns’",
         "published": "Sat, 09 May 2026 12:40:04 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/trump-says-hantavirus-is-under-control-as-who-tracks-cruise-outbreak?traffic_source=rss"
-      },
-      {
-        "title": "US military kills two people in new eastern Pacific Ocean attack",
-        "published": "Sat, 09 May 2026 10:32:48 +0000",
-        "link": "https://www.aljazeera.com/features/2026/5/9/gaza-at-the-venice-biennale-where-language-falls-short-threads-take-over?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
