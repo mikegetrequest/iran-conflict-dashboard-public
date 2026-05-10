@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-10 11:37",
+  "updated_at_gst": "2026-05-10 13:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Deadly car bomb attack hits checkpoint in northwest Pakistan",
+        "published": "Sun, 10 May 2026 08:21:02 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/10/iran-war-day-72-tehran-yet-to-reply-to-us-plan-israel-bombs-lebanon?traffic_source=rss"
+      },
+      {
         "title": "Satellite images show likely oil slick off Iran’s Kharg Island",
         "published": "Sun, 10 May 2026 01:23:32 +0000",
         "link": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settlers force Palestinian family to exhume and rebury their father",
-        "published": "Sat, 09 May 2026 19:16:19 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/missing-singaporeans-located-near-mt-dukono-crater-rim?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
