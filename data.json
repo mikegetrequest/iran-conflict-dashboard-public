@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-10 21:27",
+  "updated_at_gst": "2026-05-10 22:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran may ‘give assurances on the use of nuclear facilities’",
+        "published": "Sun, 10 May 2026 17:29:35 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss"
+      },
       {
         "title": "Food inflation hammers households in war-hit Iran",
         "published": "Sun, 10 May 2026 16:37:10 +0000",
