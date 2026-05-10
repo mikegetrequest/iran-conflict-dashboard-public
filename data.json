@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-11 01:36",
+  "updated_at_gst": "2026-05-11 02:34",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
-        "published": "Sun, 10 May 2026 21:12:50 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/israeli-weapon-fires-tiny-metal-cubes-into-people-in-lebanon-like-gaza?traffic_source=rss"
+        "title": "Israeli weapon fires tiny metal cubes into people in Lebanon, like Gaza",
+        "published": "Sun, 10 May 2026 21:10:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/10/us-jewish-leader-israel-advocate-abe-foxman-dies-at-86?traffic_source=rss"
       },
       {
-        "title": "US Jewish leader, Israel advocate Abe Foxman dies at 86",
-        "published": "Sun, 10 May 2026 20:52:48 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/indian-film-star-vijay-becomes-chief-minister-of-tamil-nadu-2?traffic_source=rss"
+        "title": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
+        "published": "Sun, 10 May 2026 19:01:09 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss"
       },
       {
-        "title": "Iran may ‘give assurances on the use of nuclear facilities’",
-        "published": "Sun, 10 May 2026 17:29:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss"
+        "title": "Trump says US will not allow Iran to reach enriched uranium",
+        "published": "Sun, 10 May 2026 17:22:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss"
       },
       {
-        "title": "Food inflation hammers households in war-hit Iran",
-        "published": "Sun, 10 May 2026 16:37:10 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/10/live-barcelona-vs-real-madrid-el-clasico-la-liga?traffic_source=rss"
+        "title": "Iran sends response to US ceasefire proposal via Pakistan",
+        "published": "Sun, 10 May 2026 15:39:50 +0000",
+        "link": "https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss"
+      },
+      {
+        "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
+        "published": "Sun, 10 May 2026 13:52:07 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/10/jorge-martin-wins-his-first-aprilia-grand-prix-at-french-motogp?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
