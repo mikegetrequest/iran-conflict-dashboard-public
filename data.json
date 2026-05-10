@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-10 19:28",
+  "updated_at_gst": "2026-05-10 20:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Why is Iran taking time to respond to the US proposal to end the war?",
-        "published": "Sun, 10 May 2026 10:56:07 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-military-warns-of-surprising-methods-of-warfare-if-attacked-again?traffic_source=rss"
+        "title": "Iran sends response to US ceasefire proposal via Pakistan",
+        "published": "Sun, 10 May 2026 15:39:50 +0000",
+        "link": "https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss"
+      },
+      {
+        "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
+        "published": "Sun, 10 May 2026 13:52:07 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/10/jorge-martin-wins-his-first-aprilia-grand-prix-at-french-motogp?traffic_source=rss"
+      },
+      {
+        "title": "Can Asian economies cope with the fallout from the Iran war?",
+        "published": "Sun, 10 May 2026 13:11:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/10/atef-najib-faces-at-least-10-charges-in-landmark-syria-trial?traffic_source=rss"
+      },
+      {
+        "title": "Iran sends response to US proposal to end war via mediator Pakistan",
+        "published": "Sun, 10 May 2026 12:40:50 +0000",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-central-banks-curb-inflation-as-energy-costs-rise?traffic_source=rss"
+      },
+      {
+        "title": "US-Iran ceasefire under strain as Gulf states report drone attacks",
+        "published": "Sun, 10 May 2026 12:16:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/10/why-is-being-a-mother-so-expensive-in-the-united-states?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
