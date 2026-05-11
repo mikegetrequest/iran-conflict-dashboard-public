@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-11 23:14",
+  "updated_at_gst": "2026-05-12 00:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UK sanctions network accused of planning attacks for Iran",
-        "published": "Mon, 11 May 2026 18:25:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war?traffic_source=rss"
+        "title": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders",
+        "published": "Mon, 11 May 2026 19:10:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss"
       },
       {
-        "title": "Trump says ceasefire is on ‘life support’ after rejecting Iran’s proposal",
-        "published": "Mon, 11 May 2026 17:44:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/tragedy-at-sea-mv-hondius-captain-praises-unity-amid-hantavirus-outbreak-2?traffic_source=rss"
+        "title": "How impunity in Shireen Abu Akleh’s case fuels Israeli attacks on the press",
+        "published": "Mon, 11 May 2026 18:12:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss"
       },
       {
-        "title": "Israeli attacks kill at least four in southern Lebanon",
-        "published": "Mon, 11 May 2026 16:39:23 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-denies-proposal-sent-to-us-contains-excessive-demands?traffic_source=rss"
+        "title": "Trump says ceasefire on ‘life support’, slams Iran response to US proposal",
+        "published": "Mon, 11 May 2026 17:22:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/11/israeli-attacks-kill-at-least-four-in-southern-lebanon?traffic_source=rss"
       },
       {
-        "title": "Iran war effect: Why is Modi asking Indians to avoid foreign trips, gold?",
-        "published": "Mon, 11 May 2026 14:30:26 +0000",
-        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/11/is-the-us-empire-in-the-middle-of-a-long-decline?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon Latest",
-        "published": "Mon, 11 May 2026 14:27:06 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/lebanese-civil-defence-worker-captures-moment-of-israeli-strike?traffic_source=rss"
-      },
-      {
-        "title": "Israel pushes for hangings and ‘show trials’ for ‘October 7 detainees’",
-        "published": "Mon, 11 May 2026 14:17:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/11/suspect-pleads-not-guilty-to-attempted-assassination-of-us-president?traffic_source=rss"
+        "title": "Iran denies proposal sent to US contains ‘excessive demands’",
+        "published": "Mon, 11 May 2026 16:00:27 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/11/who-could-challenge-keir-starmer-for-the-uk-pms-job-meet-the-candidates?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
