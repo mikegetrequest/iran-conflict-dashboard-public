@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-12 00:57",
+  "updated_at_gst": "2026-05-12 02:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders",
-        "published": "Mon, 11 May 2026 19:10:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss"
+        "title": "EU sanctions violent Israeli settlers after months of deadlock",
+        "published": "Mon, 11 May 2026 20:31:54 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/barcelona-player-lamine-yamal-waves-palestinian-flag-at-parade-2?traffic_source=rss"
       },
       {
-        "title": "How impunity in Shireen Abu Akleh’s case fuels Israeli attacks on the press",
-        "published": "Mon, 11 May 2026 18:12:55 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss"
+        "title": "UK sanctions network accused of planning attacks for Iran",
+        "published": "Mon, 11 May 2026 18:25:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war?traffic_source=rss"
       },
       {
-        "title": "Trump says ceasefire on ‘life support’, slams Iran response to US proposal",
-        "published": "Mon, 11 May 2026 17:22:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/11/israeli-attacks-kill-at-least-four-in-southern-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Iran denies proposal sent to US contains ‘excessive demands’",
-        "published": "Mon, 11 May 2026 16:00:27 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/11/who-could-challenge-keir-starmer-for-the-uk-pms-job-meet-the-candidates?traffic_source=rss"
+        "title": "Trump says ceasefire is on ‘life support’ after rejecting Iran’s proposal",
+        "published": "Mon, 11 May 2026 17:44:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/tragedy-at-sea-mv-hondius-captain-praises-unity-amid-hantavirus-outbreak-2?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
