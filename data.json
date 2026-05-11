@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-11 15:54",
+  "updated_at_gst": "2026-05-11 21:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,26 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran denies proposal sent to US contains ‘excessive demands’",
+        "published": "Mon, 11 May 2026 16:00:27 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/11/who-could-challenge-keir-starmer-for-the-uk-pms-job-meet-the-candidates?traffic_source=rss"
+      },
+      {
+        "title": "Israeli killings in Lebanon rise: Is even the pretence of a ceasefire over?",
+        "published": "Mon, 11 May 2026 15:02:07 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/11/iran-war-effect-why-is-modi-asking-indians-to-avoid-foreign-trips-gold?traffic_source=rss"
+      },
+      {
+        "title": "Lebanese civil defence worker captures moment of Israeli strike",
+        "published": "Mon, 11 May 2026 14:25:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/11/israel-pushes-for-death-penalty-and-show-trials-for-oct-7-detainees?traffic_source=rss"
+      },
+      {
+        "title": "Iran says its demands were seeking peace, while the US’s are ‘unreasonable’",
+        "published": "Mon, 11 May 2026 12:04:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-to-restore-full-trade-ties-with-syria?traffic_source=rss"
+      },
       {
         "title": "Former Qatar PM: Netanyahu using Iran war to reshape Middle East",
         "published": "Mon, 11 May 2026 10:37:19 +0000",
