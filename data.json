@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-12 14:21",
+  "updated_at_gst": "2026-05-12 16:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli military kills six in Lebanon, issues more displacement threats",
-        "published": "Tue, 12 May 2026 09:40:29 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/5/12/live-first-uk-minister-resigns-amid-calls-for-pm-stamers-resignation?traffic_source=rss"
-      },
-      {
-        "title": "Why is Israel allowed to take part in the Eurovision song contest?",
-        "published": "Tue, 12 May 2026 07:03:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/12/iran-war-whats-happening-on-day-74-as-tehran-says-ready-for-aggression?traffic_source=rss"
+        "title": "Palestine weekly wrap: Israeli settlers rampage through West Bank villages",
+        "published": "Tue, 12 May 2026 07:33:16 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/12/palantir?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
