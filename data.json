@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-12 08:52",
+  "updated_at_gst": "2026-05-12 11:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Trump slams Iranian proposal as ceasefire hangs by a thread",
-        "published": "Tue, 12 May 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/11/hundreds-displaced-medical-services-suspended-amid-gang-violence-in-haiti?traffic_source=rss"
+        "title": "Why is Israel allowed to take part in the Eurovision song contest?",
+        "published": "Tue, 12 May 2026 07:03:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/12/iran-war-whats-happening-on-day-74-as-tehran-says-ready-for-aggression?traffic_source=rss"
+      },
+      {
+        "title": "Israel approves law on public trials, death penalty for October 7 detainees",
+        "published": "Tue, 12 May 2026 05:03:09 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/hundreds-more-displaced-as-gang-violence-escalates-in-haitis-capital?traffic_source=rss"
+      },
+      {
+        "title": "Lebanese in south refuse to flee again despite escalating Israeli strikes",
+        "published": "Tue, 12 May 2026 03:26:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/12/bolivia-issues-warrant-for-evo-moraless-arrest-after-court-no-show?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
