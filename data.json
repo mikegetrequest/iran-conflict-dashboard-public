@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-13 02:00",
+  "updated_at_gst": "2026-05-13 03:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump backs Pakistan as Iran mediator after criticism from Lindsey Graham",
-        "published": "Tue, 12 May 2026 20:24:30 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/5/12/why-have-peace-efforts-failed-to-end-conflict-in-sudan?traffic_source=rss"
+        "title": "Trump downplays US-Iran differences as he heads to Beijing to meet with Xi",
+        "published": "Tue, 12 May 2026 21:02:19 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/12/us-court-pauses-decision-blocking-trumps-10-percent-global-tariff?traffic_source=rss"
       },
       {
-        "title": "Ukraine hits Russia’s distant gas facilities after Moscow’s attacks kill 6",
-        "published": "Tue, 12 May 2026 19:36:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/moment-taxi-driver-wrestles-armed-man-during-police-chase-in-turkey?traffic_source=rss"
+        "title": "Why is Iran increasingly targeting the UAE in its war messaging?",
+        "published": "Tue, 12 May 2026 19:37:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/12/russia-ukraine-latest?traffic_source=rss"
       },
       {
-        "title": "Israel sent Iron Dome anti-missile batteries and personnel to UAE: US envoy",
-        "published": "Tue, 12 May 2026 17:49:22 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher?traffic_source=rss"
+        "title": "Trump skirts question on US ‘red lines’ for Iran ceasefire",
+        "published": "Tue, 12 May 2026 19:01:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/12/cotton-picking-us-lawmaker-condemned-for-racist-comment-about-jeffries?traffic_source=rss"
+      },
+      {
+        "title": "US faces rising costs with Iran war driving energy prices, inflation higher",
+        "published": "Tue, 12 May 2026 17:37:54 +0000",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/5/12/aje-onl-tt_usa_palandthedemocrats_av_v3-110526?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
