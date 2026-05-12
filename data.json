@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-12 23:16",
+  "updated_at_gst": "2026-05-13 00:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Trump backs Pakistan as Iran mediator after criticism from Lindsey Graham",
+        "published": "Tue, 12 May 2026 20:24:30 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/5/12/why-have-peace-efforts-failed-to-end-conflict-in-sudan?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine hits Russia’s distant gas facilities after Moscow’s attacks kill 6",
+        "published": "Tue, 12 May 2026 19:36:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/moment-taxi-driver-wrestles-armed-man-during-police-chase-in-turkey?traffic_source=rss"
+      },
+      {
         "title": "Israel sent Iron Dome anti-missile batteries and personnel to UAE: US envoy",
         "published": "Tue, 12 May 2026 17:49:22 +0000",
         "link": "https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher?traffic_source=rss"
       },
       {
-        "title": "Kuwait says it foils infiltration operation by Iran’s IRGC",
+        "title": "Kuwait says it foiled infiltration operation by Iran’s IRGC",
         "published": "Tue, 12 May 2026 16:26:35 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/12/pentagon-gives-new-29bn-iran-war-price-tag-downplays-munitions-concerns?traffic_source=rss"
-      },
-      {
-        "title": "Israel kills, injures average of 4 children daily amid Lebanon ‘ceasefire’",
-        "published": "Tue, 12 May 2026 16:12:43 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/12/what-to-know-about-curacao-at-the-fifa-world-cup-2026?traffic_source=rss"
-      },
-      {
-        "title": "Israel killing at least one child a week in occupied West Bank, UN says",
-        "published": "Tue, 12 May 2026 15:23:04 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/how-one-palestinian-teens-life-changed-forever-after-israeli-gunfire?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
