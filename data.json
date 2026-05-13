@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-14 00:15",
+  "updated_at_gst": "2026-05-14 01:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,17 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Netanyahu visited UAE in ‘secret’ during US-Israel war on Iran, office says",
+        "title": "Funeral held for two Lebanese paramedics killed in Israeli attack",
+        "published": "Wed, 13 May 2026 21:15:59 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/13/as-trump-readies-to-meet-xi-experts-say-he-is-desperate-for-a-win?traffic_source=rss"
+      },
+      {
+        "title": "Crowds gather in Tehran to send off Iran’s World Cup team",
+        "published": "Wed, 13 May 2026 20:54:04 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/13/us-waives-visa-bonds-of-up-to-15000-for-fifa-world-cup-ticket-holders?traffic_source=rss"
+      },
+      {
+        "title": "UAE denies Netanyahu visited in ‘secret’ during US-Israel war on Iran",
         "published": "Wed, 13 May 2026 19:06:55 +0000",
         "link": "https://www.aljazeera.com/features/2026/5/13/theres-an-app-for-that-gazas-developers-use-tech-to-solve-war-problems?traffic_source=rss"
       },
@@ -24,11 +34,6 @@
         "title": "How US donor bodies were sold for Israeli military training",
         "published": "Wed, 13 May 2026 18:30:35 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/13/us-senator-cassidys-vote-to-convict-trump-looms-over-louisiana-primary?traffic_source=rss"
-      },
-      {
-        "title": "Trump-Xi summit: China’s help in Iran may require US concessions",
-        "published": "Wed, 13 May 2026 17:27:09 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/church-leaders-killed-in-latest-ethnic-violence-in-indias-manipur?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
