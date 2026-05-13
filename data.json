@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-13 17:33",
+  "updated_at_gst": "2026-05-13 20:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "12 killed by a series of Israeli strikes on cars in Lebanon",
+        "published": "Wed, 13 May 2026 14:59:19 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/what-trump-and-xi-want-from-china-visit?traffic_source=rss"
+      },
+      {
+        "title": "‘Most powerful’: What’s the Sarmat missile Russia has test-launched?",
+        "published": "Wed, 13 May 2026 14:25:53 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/13/which-teams-have-won-the-fifa-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Amid US-Israel war on Iran, Arizona awaits Iranian team before World Cup",
+        "published": "Wed, 13 May 2026 14:05:49 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/13/japan-suspends-australian-rugby-coach-jones-for-verbally-abusing-officials?traffic_source=rss"
+      },
+      {
         "title": "Activist confronts Iran’s former crown prince over war on Iran",
         "published": "Wed, 13 May 2026 12:42:49 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report?traffic_source=rss"
@@ -24,16 +39,6 @@
         "title": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
         "published": "Wed, 13 May 2026 11:42:19 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/13/un-urges-independent-probes-into-deadly-nigeria-chad-air-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
-        "published": "Wed, 13 May 2026 11:03:45 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/5/13/gang-violence-displaces-hundreds-in-haitis-capital?traffic_source=rss"
-      },
-      {
-        "title": "Video: Putin hails test launch of ‘world’s most powerful missile’",
-        "published": "Wed, 13 May 2026 10:57:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
