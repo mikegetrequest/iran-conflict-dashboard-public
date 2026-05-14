@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-14 21:16",
+  "updated_at_gst": "2026-05-14 23:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli minister blasts Barcelona’s Lamine Yamal for Palestinian flag wave",
-        "published": "Thu, 14 May 2026 14:25:02 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/14/trump-xi-discuss-strait-of-hormuz-as-chinese-vessels-transit-key-waterway?traffic_source=rss"
+        "title": "What does the US hope to achieve from Lebanon-Israel talks?",
+        "published": "Thu, 14 May 2026 19:00:50 +0000",
+        "link": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss"
       },
       {
-        "title": "Iran still waiting for US visas less than a month before World Cup",
-        "published": "Thu, 14 May 2026 13:37:05 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/russian-drone-attack-hits-kyiv-apartment-block-during-ceasefire?traffic_source=rss"
+        "title": "Israeli ultranationalists chant racist slogans during Jerusalem Day march",
+        "published": "Thu, 14 May 2026 18:41:50 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/14/fifa-warned-gruelling-heat-could-impact-quarter-of-world-cup-games?traffic_source=rss"
       },
       {
-        "title": "What is on the table during Lebanon-Israel direct negotiations?",
-        "published": "Thu, 14 May 2026 13:17:28 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/14/serie-a-fixtures-in-chaos-for-final-weekend-extending-italy-football-crisis?traffic_source=rss"
+        "title": "Israel’s Ben Gvir storms Al-Aqsa during Jerusalem Day march",
+        "published": "Thu, 14 May 2026 18:39:13 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/14/jerome-powell-steering-the-us-fed-through-covid-19-and-political-pressures?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s Netanyahu says suing New York Times over Palestinian rape article",
+        "published": "Thu, 14 May 2026 16:16:29 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/latvian-pm-resigns-over-handling-of-stray-ukrainian-drones?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
