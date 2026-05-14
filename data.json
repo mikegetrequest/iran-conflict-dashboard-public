@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-14 23:14",
+  "updated_at_gst": "2026-05-15 00:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
+        "published": "Thu, 14 May 2026 20:25:19 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss"
+      },
+      {
+        "title": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing",
+        "published": "Thu, 14 May 2026 19:34:25 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/us-air-force-rescues-11-after-plane-crashes-into-waters-off-florida-coast?traffic_source=rss"
+      },
+      {
         "title": "What does the US hope to achieve from Lebanon-Israel talks?",
         "published": "Thu, 14 May 2026 19:00:50 +0000",
         "link": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss"
@@ -29,11 +39,6 @@
         "title": "Israel’s Ben Gvir storms Al-Aqsa during Jerusalem Day march",
         "published": "Thu, 14 May 2026 18:39:13 +0000",
         "link": "https://www.aljazeera.com/economy/2026/5/14/jerome-powell-steering-the-us-fed-through-covid-19-and-political-pressures?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s Netanyahu says suing New York Times over Palestinian rape article",
-        "published": "Thu, 14 May 2026 16:16:29 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/latvian-pm-resigns-over-handling-of-stray-ukrainian-drones?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
