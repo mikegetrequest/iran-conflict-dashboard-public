@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-14 05:56",
+  "updated_at_gst": "2026-05-14 09:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump-Xi summit live: US, China leaders to hold talks on trade, tech, Iran",
+        "title": "Kyiv building collapses after Russian strike, reportedly trapping residents",
+        "published": "Thu, 14 May 2026 04:52:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/trump-xi-speak-ahead-of-talks-to-make-relations-better-than?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: Why the BRICS foreign ministers meeting in India matters",
+        "published": "Thu, 14 May 2026 03:00:33 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/families-demand-release-of-pakistani-crew-captured-by-somali-pirates?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran slams ‘collusion’ as Netanyahu ‘secretly’ visits UAE",
         "published": "Thu, 14 May 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/5/14/iran-war-live-tehran-slams-collusion-as-netanyahu-secretly-visits-uae?traffic_source=rss"
+        "link": "https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran?traffic_source=rss"
       },
       {
         "title": "Funeral held for two Lebanese paramedics killed in Israeli attack",
@@ -29,11 +39,6 @@
         "title": "Crowds gather in Tehran to send off Iran’s World Cup team",
         "published": "Wed, 13 May 2026 20:54:04 +0000",
         "link": "https://www.aljazeera.com/sports/2026/5/13/us-waives-visa-bonds-of-up-to-15000-for-fifa-world-cup-ticket-holders?traffic_source=rss"
-      },
-      {
-        "title": "UAE denies Netanyahu visited in ‘secret’ during US-Israel war on Iran",
-        "published": "Wed, 13 May 2026 19:06:55 +0000",
-        "link": "https://www.aljazeera.com/features/2026/5/13/theres-an-app-for-that-gazas-developers-use-tech-to-solve-war-problems?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
