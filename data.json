@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-15 17:11",
+  "updated_at_gst": "2026-05-15 19:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "India hikes fuel prices as Iran crisis bites",
-        "published": "Fri, 15 May 2026 10:14:47 +0000",
-        "link": "https://www.aljazeera.com/features/2026/5/15/three-years-of-the-west-banks-third-nakba?traffic_source=rss"
+        "title": "Nakba: Jewish voices are challenging the stories Israel tells about itself",
+        "published": "Fri, 15 May 2026 14:32:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/15/historical-reckoning-the-push-for-the-us-to-acknowledge-the-nakba?traffic_source=rss"
+      },
+      {
+        "title": "Israeli settler attacks activist during tour on settler violence",
+        "published": "Fri, 15 May 2026 12:49:21 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/15/lukaku-included-in-belgiums-world-cup-squad-despite-injury-plagued-season?traffic_source=rss"
+      },
+      {
+        "title": "Why the Iran conflict is becoming a problem for BRICS",
+        "published": "Fri, 15 May 2026 12:21:12 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/15/david-beckham-becomes-first-british-billionaire-sportsman?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
