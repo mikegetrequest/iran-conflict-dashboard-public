@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-16 00:36",
+  "updated_at_gst": "2026-05-16 01:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
+        "published": "Fri, 15 May 2026 21:05:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2?traffic_source=rss"
+      },
+      {
         "title": "Trump calls journalist’s Iran reporting ‘treasonous’",
         "published": "Fri, 15 May 2026 20:01:44 +0000",
         "link": "https://www.aljazeera.com/sports/2026/5/15/pakistans-fatima-sana-breaks-record-for-fastest-50-in-womens-t20is?traffic_source=rss"
@@ -29,16 +34,6 @@
         "title": "UAE to accelerate oil pipeline project to bypass Strait of Hormuz",
         "published": "Fri, 15 May 2026 16:48:22 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss"
-      },
-      {
-        "title": "Iran says lack of trust is the main obstacle in US negotiations",
-        "published": "Fri, 15 May 2026 16:31:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/15/california-county-scam-ad-lawsuit-adds-to-mounting-meta-legal-woes?traffic_source=rss"
-      },
-      {
-        "title": "India and UAE sign defence pacts, as Iran war tensions simmer",
-        "published": "Fri, 15 May 2026 15:44:47 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/5/15/how-the-far-right-got-its-name?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
