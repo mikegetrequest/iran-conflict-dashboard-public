@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-15 05:54",
+  "updated_at_gst": "2026-05-15 09:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Top US admiral: Strikes severely degraded Iran’s military, defence",
+        "published": "Fri, 15 May 2026 04:26:53 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/15/after-trumps-pledge-to-open-up-china-low-expectations-for-summit-deal?traffic_source=rss"
+      },
+      {
         "title": "Eurovision braces for new protests over Israel’s participation",
         "published": "Fri, 15 May 2026 00:35:47 +0000",
         "link": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Iran’s FM urges BRICS states to condemn US-Israeli aggression",
         "published": "Thu, 14 May 2026 20:20:48 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/14/palestinian-president-abbas-pledges-elections-reform-at-fatah-conference?traffic_source=rss"
-      },
-      {
-        "title": "Iran expands tiered internet access amid continued online blackout",
-        "published": "Thu, 14 May 2026 19:00:34 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/5/14/israeli-ultranationalists-chant-racist-slogans-during-jerusalem-day-march?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
