@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-15 21:19",
+  "updated_at_gst": "2026-05-15 23:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
+        "published": "Fri, 15 May 2026 18:08:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss"
+      },
+      {
         "title": "UAE to accelerate oil pipeline project to bypass Strait of Hormuz",
         "published": "Fri, 15 May 2026 16:48:22 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "India and UAE sign defence pacts, as Iran war tensions simmer",
         "published": "Fri, 15 May 2026 15:44:47 +0000",
         "link": "https://www.aljazeera.com/features/longform/2026/5/15/how-the-far-right-got-its-name?traffic_source=rss"
-      },
-      {
-        "title": "Nakba: Jewish voices are challenging the stories Israel tells about itself",
-        "published": "Fri, 15 May 2026 14:32:24 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/15/historical-reckoning-the-push-for-the-us-to-acknowledge-the-nakba?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
