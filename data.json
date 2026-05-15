@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-15 03:43",
+  "updated_at_gst": "2026-05-15 05:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UN aid convoy hit by drone strikes in Ukraine’s Kherson",
-        "published": "Thu, 14 May 2026 23:22:38 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/14/cubas-diaz-canel-open-to-us-aid-amid-worsening-fuel-crisis-blackouts?traffic_source=rss"
+        "title": "Eurovision braces for new protests over Israel’s participation",
+        "published": "Fri, 15 May 2026 00:35:47 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss"
       },
       {
-        "title": "‘China is gaining from what the US is doing in Iran’",
-        "published": "Thu, 14 May 2026 20:56:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/14/border-patrol-chief-mike-banks-resigns-in-latest-trump-immigration-shakeup?traffic_source=rss"
+        "title": "Could Iran war trigger a hunger crisis?",
+        "published": "Thu, 14 May 2026 21:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss"
       },
       {
-        "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
-        "published": "Thu, 14 May 2026 20:25:19 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss"
+        "title": "Iran’s FM urges BRICS states to condemn US-Israeli aggression",
+        "published": "Thu, 14 May 2026 20:20:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/14/palestinian-president-abbas-pledges-elections-reform-at-fatah-conference?traffic_source=rss"
       },
       {
-        "title": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing",
-        "published": "Thu, 14 May 2026 19:34:25 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/us-air-force-rescues-11-after-plane-crashes-into-waters-off-florida-coast?traffic_source=rss"
-      },
-      {
-        "title": "What does the US hope to achieve from Lebanon-Israel talks?",
-        "published": "Thu, 14 May 2026 19:00:50 +0000",
-        "link": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss"
-      },
-      {
-        "title": "Israeli ultranationalists chant racist slogans during Jerusalem Day march",
-        "published": "Thu, 14 May 2026 18:41:50 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/14/fifa-warned-gruelling-heat-could-impact-quarter-of-world-cup-games?traffic_source=rss"
+        "title": "Iran expands tiered internet access amid continued online blackout",
+        "published": "Thu, 14 May 2026 19:00:34 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/5/14/israeli-ultranationalists-chant-racist-slogans-during-jerusalem-day-march?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
