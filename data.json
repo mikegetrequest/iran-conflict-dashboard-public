@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-16 09:17",
+  "updated_at_gst": "2026-05-16 11:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,12 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
+        "title": "Man killed in great white shark attack in western Australia",
+        "published": "Sat, 16 May 2026 07:13:16 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/16/aston-villa-thrash-liverpool-4-2-to-seal-champions-league-place?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Israel continues Lebanon attacks after ‘ceasefire’ extended",
         "published": "Sat, 16 May 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/activists-hang-palestinian-flag-on-the-eiffel-tower-for-nakba-day?traffic_source=rss"
       },
@@ -29,11 +34,6 @@
         "title": "Trump calls journalist’s Iran reporting ‘treasonous’",
         "published": "Fri, 15 May 2026 20:01:44 +0000",
         "link": "https://www.aljazeera.com/sports/2026/5/15/pakistans-fatima-sana-breaks-record-for-fastest-50-in-womens-t20is?traffic_source=rss"
-      },
-      {
-        "title": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
-        "published": "Fri, 15 May 2026 18:08:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
