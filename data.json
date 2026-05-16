@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-16 19:31",
+  "updated_at_gst": "2026-05-16 20:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Ultra-Orthodox conscription dispute pushes Israeli government to brink",
-        "published": "Sat, 16 May 2026 12:06:33 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/5/16/amid-the-fertiliser-crisis-africa-has-a-chemical-free-option?traffic_source=rss"
+        "title": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
+        "published": "Sat, 16 May 2026 16:02:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/16/abu-bilal-al-minuki-isils-shadow-commander-in-west-africa?traffic_source=rss"
       },
       {
-        "title": "Israeli settler blindfolds and detains Palestinian in occupied West Bank",
-        "published": "Sat, 16 May 2026 09:37:13 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/5/16/britain-is-losing-the-ability-to-tell-anti-semitism-from-dissent?traffic_source=rss"
+        "title": "Iran warns of readiness for war and economic costs as US talks falter",
+        "published": "Sat, 16 May 2026 15:33:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/16/how-thomas-massie-came-to-represent-republican-dissent-in-age-of-trump?traffic_source=rss"
       },
       {
-        "title": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
-        "published": "Sat, 16 May 2026 08:02:43 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/16/gunmen-kidnap-dozens-of-students-in-nigerias-borno-state?traffic_source=rss"
+        "title": "Israeli army kills Palestinian man, raids homes in occupied West Bank",
+        "published": "Sat, 16 May 2026 15:16:14 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss"
       },
       {
-        "title": "Spain PM defends Eurovision boycott over Israel",
-        "published": "Sat, 16 May 2026 07:31:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss"
+        "title": "Israel’s Image Crisis: Becoming Too Big to Spin?",
+        "published": "Sat, 16 May 2026 11:24:43 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/16/live-chelsea-vs-manchester-city-fa-cup-final?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
+        "published": "Sat, 16 May 2026 10:34:53 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
