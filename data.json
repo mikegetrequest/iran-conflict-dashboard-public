@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-16 03:42",
+  "updated_at_gst": "2026-05-16 05:47",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump departs China touting deals, but little clarity on Iran or Taiwan",
-        "published": "Fri, 15 May 2026 17:46:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/15/russia-pounds-kyiv-as-its-war-machine-grinds-to-a-near-standstill?traffic_source=rss"
+        "title": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
+        "published": "Sat, 16 May 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/activists-hang-palestinian-flag-on-the-eiffel-tower-for-nakba-day?traffic_source=rss"
       },
       {
-        "title": "BRICS talks end without joint statement as divisions over Iran war deepen",
-        "published": "Fri, 15 May 2026 16:39:44 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/15/fa-cup-final-chelsea-vs-manchester-city-teams-start-lineups?traffic_source=rss"
+        "title": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
+        "published": "Fri, 15 May 2026 21:05:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2?traffic_source=rss"
+      },
+      {
+        "title": "Trump calls journalist’s Iran reporting ‘treasonous’",
+        "published": "Fri, 15 May 2026 20:01:44 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/15/pakistans-fatima-sana-breaks-record-for-fastest-50-in-womens-t20is?traffic_source=rss"
+      },
+      {
+        "title": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
+        "published": "Fri, 15 May 2026 18:08:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss"
+      },
+      {
+        "title": "UAE to accelerate oil pipeline project to bypass Strait of Hormuz",
+        "published": "Fri, 15 May 2026 16:48:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
