@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-17 02:33",
+  "updated_at_gst": "2026-05-17 03:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,18 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Thousands protest at Eurovision final as five countries boycott over Israel",
-        "published": "Sat, 16 May 2026 20:31:57 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss"
-      },
-      {
-        "title": "Francesca Albanese on Israeli sexual violence suffered by Palestinians",
-        "published": "Sat, 16 May 2026 18:46:54 +0000",
-        "link": "https://www.aljazeera.com/video/upfront/2026/5/16/spanish-foreign-minister-on-spains-clash-with-the-trump-administration?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
