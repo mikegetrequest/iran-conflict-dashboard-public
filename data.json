@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-17 14:02",
+  "updated_at_gst": "2026-05-17 15:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "The strike that changed the geometry of war",
+        "published": "Sun, 17 May 2026 10:13:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/17/two-nepali-sherpa-climbers-break-own-records-on-mount-everest?traffic_source=rss"
+      },
       {
         "title": "At least four killed in Ukrainian drone attacks on Russia",
         "published": "Sun, 17 May 2026 09:14:31 +0000",
