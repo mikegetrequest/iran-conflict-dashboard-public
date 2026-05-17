@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-18 02:40",
+  "updated_at_gst": "2026-05-18 03:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
-        "published": "Sun, 17 May 2026 20:16:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss"
+        "title": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
+        "published": "Sun, 17 May 2026 20:16:14 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/drc-struggling-to-contain-ebola-outbreak-as-cases-spread?traffic_source=rss"
       },
       {
-        "title": "Three community kitchen workers among eight killed by Israel in Gaza",
-        "published": "Sun, 17 May 2026 16:31:20 +0000",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/17/canadian-fm-is-the-us-still-a-reliable-ally?traffic_source=rss"
+        "title": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
+        "published": "Sun, 17 May 2026 19:15:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/17/peruvian-authorities-confirm-fujimori-and-sanchez-advance-to-runoff?traffic_source=rss"
+      },
+      {
+        "title": "Italy’s leaders visit victims of Modena car-ramming, stabbing attacks",
+        "published": "Sun, 17 May 2026 17:17:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Iranian civilians get defence training",
+        "published": "Sun, 17 May 2026 16:08:46 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
