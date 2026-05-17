@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-17 03:39",
+  "updated_at_gst": "2026-05-17 05:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Iran war live: Tehran plans tolls in Hormuz; Trump warns of ‘very bad time’",
+        "published": "Sun, 17 May 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/5/16/bolivia-launches-early-morning-crackdown-on-roadblocks-outside-la-paz?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
