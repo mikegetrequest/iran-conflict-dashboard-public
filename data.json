@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-19 00:50",
+  "updated_at_gst": "2026-05-19 01:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Trump pauses possible Iran strike after Gulf intervention",
+        "published": "Mon, 18 May 2026 21:11:48 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/18/arsenal-have-one-hand-on-premier-league-title-after-beating-burnley?traffic_source=rss"
+      },
+      {
         "title": "Trump delays ‘scheduled attack’ on Iran, crediting ‘serious negotiations’",
         "published": "Mon, 18 May 2026 20:12:45 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/18/four-reported-killed-30-injured-in-kenyan-fuel-price-protests?traffic_source=rss"
-      },
-      {
-        "title": "First Somaliland ambassador to Israel presents his credentials",
-        "published": "Mon, 18 May 2026 19:26:28 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protests-over-fuel-price-hikes-turn-deadly-in-kenya?traffic_source=rss"
-      },
-      {
-        "title": "Could the Iran war trigger the next debt shock?",
-        "published": "Mon, 18 May 2026 19:17:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/18/iranian-nobel-laureate-narges-mohammadi-returns-home-after-hospital-release?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s World Cup team arrives in Turkiye amid US visa uncertainty",
-        "published": "Mon, 18 May 2026 17:42:26 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/18/trump-drops-irs-lawsuit-sets-up-1-7bn-us-anti-weaponisation-fund?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
