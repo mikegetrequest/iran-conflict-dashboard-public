@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-18 10:34",
+  "updated_at_gst": "2026-05-18 14:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Pakistan interior minister holds talks with Iranian president in Tehran",
-        "published": "Sun, 17 May 2026 23:28:25 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/5/17/trump-holds-prayer-rally-to-rededicate-us-as-one-nation-under-god?traffic_source=rss"
+        "title": "Video: US calls on G7 to impose US-led sanctions on Iran",
+        "published": "Mon, 18 May 2026 09:46:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/18/us-military-carries-out-more-strikes-against-isil-fighters-in-nigeria?traffic_source=rss"
       },
       {
-        "title": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
-        "published": "Sun, 17 May 2026 20:16:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss"
+        "title": "Israeli settlers run over livestock in occupied West Bank",
+        "published": "Mon, 18 May 2026 09:09:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu says Israel controls 60 percent of Gaza",
+        "published": "Mon, 18 May 2026 08:35:14 +0000",
+        "link": "https://www.aljazeera.com/features/2026/5/18/hindu-order-runs-india-court-declares-another-medieval-mosque-a-temple?traffic_source=rss"
+      },
+      {
+        "title": "Al Jazeera reports from Hormuz Island as Iran says it controls the strait",
+        "published": "Mon, 18 May 2026 08:28:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/18/israeli-forces-intercept-gaza-bound-aid-flotilla?traffic_source=rss"
+      },
+      {
+        "title": "Mali drone strikes kill at least 10 civilians at wedding",
+        "published": "Mon, 18 May 2026 07:51:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss"
+      },
+      {
+        "title": "Growing bread queues in Gaza as Israel restricts fuel, flour imports",
+        "published": "Mon, 18 May 2026 06:49:01 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/18/sinner-wins-italian-open-to-complete-career-golden-masters?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
