@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-18 06:01",
+  "updated_at_gst": "2026-05-18 10:34",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks",
-        "published": "Mon, 18 May 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss"
+        "title": "Pakistan interior minister holds talks with Iranian president in Tehran",
+        "published": "Sun, 17 May 2026 23:28:25 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/5/17/trump-holds-prayer-rally-to-rededicate-us-as-one-nation-under-god?traffic_source=rss"
       },
       {
-        "title": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
-        "published": "Sun, 17 May 2026 20:16:14 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/drc-struggling-to-contain-ebola-outbreak-as-cases-spread?traffic_source=rss"
-      },
-      {
-        "title": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
-        "published": "Sun, 17 May 2026 19:15:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/17/peruvian-authorities-confirm-fujimori-and-sanchez-advance-to-runoff?traffic_source=rss"
-      },
-      {
-        "title": "Italy’s leaders visit victims of Modena car-ramming, stabbing attacks",
-        "published": "Sun, 17 May 2026 17:17:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Iranian civilians get defence training",
-        "published": "Sun, 17 May 2026 16:08:46 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss"
+        "title": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
+        "published": "Sun, 17 May 2026 20:16:35 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
