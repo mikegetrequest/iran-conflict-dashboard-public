@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-18 03:45",
+  "updated_at_gst": "2026-05-18 06:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks",
+        "published": "Mon, 18 May 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss"
+      },
       {
         "title": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
         "published": "Sun, 17 May 2026 20:16:14 +0000",
