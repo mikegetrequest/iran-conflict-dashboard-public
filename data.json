@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-19 02:52",
+  "updated_at_gst": "2026-05-19 03:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump pauses possible Iran strike after Gulf intervention",
-        "published": "Mon, 18 May 2026 21:11:48 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/18/arsenal-have-one-hand-on-premier-league-title-after-beating-burnley?traffic_source=rss"
+        "title": "Protest in Greece after Israeli forces storm Gaza aid flotilla",
+        "published": "Mon, 18 May 2026 21:13:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss"
       },
       {
-        "title": "Trump delays ‘scheduled attack’ on Iran, crediting ‘serious negotiations’",
-        "published": "Mon, 18 May 2026 20:12:45 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/18/four-reported-killed-30-injured-in-kenyan-fuel-price-protests?traffic_source=rss"
+        "title": "Iraq launches desert sweep after reports of secret Israeli bases",
+        "published": "Mon, 18 May 2026 21:09:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/indian-court-declares-another-historical-mosque-a-temple?traffic_source=rss"
+      },
+      {
+        "title": "Croatian president rejects new Israeli ambassador",
+        "published": "Mon, 18 May 2026 21:03:49 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/18/us-drops-fraud-charges-after-billionaire-adani-pledges-10bn-investment?traffic_source=rss"
+      },
+      {
+        "title": "Massie race breaks spending record as pro-Israel groups target Trump critic",
+        "published": "Mon, 18 May 2026 20:28:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
