@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-18 21:14",
+  "updated_at_gst": "2026-05-18 23:09",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Somaliland marks first Independence Day following Israeli recognition",
+        "published": "Mon, 18 May 2026 18:25:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/18/what-to-know-about-the-primary-elections-in-the-us-state-of-pennsylvania?traffic_source=rss"
+      },
+      {
+        "title": "UN calls on Israel to prevent Gaza ‘genocide’",
+        "published": "Mon, 18 May 2026 17:49:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/irans-world-cup-team-arrives-in-turkiye-amid-us-visa-uncertainty?traffic_source=rss"
+      },
+      {
         "title": "Former US negotiator with Iran: Trump falling into Vietnam trap",
         "published": "Mon, 18 May 2026 15:31:21 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/18/tata-asml-deal-how-significant-is-it-for-indias-semiconductor-push?traffic_source=rss"
-      },
-      {
-        "title": "What is the UAE’s Barakah nuclear plant, nearly hit by a drone?",
-        "published": "Mon, 18 May 2026 14:09:47 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/5/18/the-world-cannot-afford-to-fail-women-children-and-adolescents?traffic_source=rss"
-      },
-      {
-        "title": "Iran sends response to US proposal to end war via mediator Pakistan",
-        "published": "Mon, 18 May 2026 12:44:20 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/drc-health-minister-visits-hotspot-for-ebola-outbreak?traffic_source=rss"
-      },
-      {
-        "title": "Iran plans to offer insurance for Hormuz transit: Will it work?",
-        "published": "Mon, 18 May 2026 11:57:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iran-says-nuclear-enrichment-rights-cannot-be-negotiated?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
