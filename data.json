@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-19 17:39",
+  "updated_at_gst": "2026-05-19 20:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "The US, Israel and the normalisation of scandal",
-        "published": "Tue, 19 May 2026 09:46:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/19/khartoums-slow-recovery-amid-cautious-return?traffic_source=rss"
+        "title": "Qatar says US-Iran negotiations need ‘more time’",
+        "published": "Tue, 19 May 2026 15:41:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/19/at-least-one-killed-21-wounded-in-car-bomb-explosion-in-syrias-damascus?traffic_source=rss"
+      },
+      {
+        "title": "Flight to Argentina: How significant is it for Israel’s LatAm outreach?",
+        "published": "Tue, 19 May 2026 14:22:59 +0000",
+        "link": "https://www.aljazeera.com/video/doha-debates/2026/5/19/resistance-who-gets-to-decide?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
