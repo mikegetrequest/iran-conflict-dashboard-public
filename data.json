@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-20 16:17",
+  "updated_at_gst": "2026-05-20 20:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US and Israel planned to install Ahmadinejad as Iranian leader, NYT says",
-        "published": "Wed, 20 May 2026 10:27:25 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/5/20/kenya-transport-strike-paused-after-deadly-protests?traffic_source=rss"
+        "title": "At least eight killed in Israel’s air attacks on southern Lebanon",
+        "published": "Wed, 20 May 2026 15:47:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/oscar-winning-director-calls-trump-netanyahu-and-putin?traffic_source=rss"
       },
       {
-        "title": "At least 87 Gaza aid flotilla activists abducted by Israel on hunger strike",
-        "published": "Wed, 20 May 2026 08:36:58 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/putin-hails-unshakable-foundations-in-meeting-with-chinas-xi?traffic_source=rss"
+        "title": "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
+        "published": "Wed, 20 May 2026 15:34:01 +0000",
+        "link": "https://www.aljazeera.com/features/2026/5/20/what-is-the-power-of-siberia-2-pipeline-that-russia-china-are-planning?traffic_source=rss"
       },
       {
-        "title": "Chinese supertankers exit Hormuz as Trump and Vance talk up Iran deal",
-        "published": "Wed, 20 May 2026 07:47:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline?traffic_source=rss"
+        "title": "Families demand justice for victims killed in Israeli strikes on Beirut",
+        "published": "Wed, 20 May 2026 15:24:38 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/20/why-is-trumps-gaza-board-of-peace-facing-a-funding-shortfall?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s ambassador to Christians gives rose-coloured spiel",
+        "published": "Wed, 20 May 2026 13:46:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israels-ben-gvir-publishes-video-taunting-detained-flotilla-activists?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
