@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-20 20:02",
+  "updated_at_gst": "2026-05-20 22:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Controlled reopening ends Iran’s lengthy stock market shutdown",
+        "published": "Wed, 20 May 2026 17:18:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/20/trump-administration-indicts-cubas-raul-castro-over-1996-plane-shootdown?traffic_source=rss"
+      },
+      {
+        "title": "Trump jokes about running for Israeli prime minister",
+        "published": "Wed, 20 May 2026 16:51:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz?traffic_source=rss"
+      },
       {
         "title": "At least eight killed in Israel’s air attacks on southern Lebanon",
         "published": "Wed, 20 May 2026 15:47:58 +0000",
