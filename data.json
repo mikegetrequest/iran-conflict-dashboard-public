@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-20 10:09",
+  "updated_at_gst": "2026-05-20 13:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US Senate advances resolution to curb Trump’s power to wage war on Iran",
-        "published": "Wed, 20 May 2026 00:49:06 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes?traffic_source=rss"
+        "title": "Kenya transport strike paused after deadly protests",
+        "published": "Wed, 20 May 2026 09:28:16 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/20/womens-football-coach-who-secretly-filmed-players-banned-for-life?traffic_source=rss"
+      },
+      {
+        "title": "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
+        "published": "Wed, 20 May 2026 07:16:18 +0000",
+        "link": "https://www.aljazeera.com/video/africa-now/2026/5/20/foreign-fishing-vessels-empty-mauritanian-waters?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
