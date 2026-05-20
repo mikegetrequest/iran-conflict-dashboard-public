@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-20 03:52",
+  "updated_at_gst": "2026-05-20 06:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "High prices in Iran’s stunted housing market leave tenants with few options",
-        "published": "Tue, 19 May 2026 18:50:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/19/trumps-board-of-peace-urges-fix-to-gap-in-funding?traffic_source=rss"
+        "title": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
+        "published": "Wed, 20 May 2026 01:49:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran warns of ‘many more surprises’ if conflict resumes",
+        "published": "Wed, 20 May 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/19/putin-meets-xi-why-russia-and-china-need-each-other?traffic_source=rss"
+      },
+      {
+        "title": "Video shows oil spill on Iranian island after refinery attack last month",
+        "published": "Tue, 19 May 2026 21:04:01 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/19/arsenals-arteta-claims-premier-league-to-step-from-guardiolas-shadow?traffic_source=rss"
+      },
+      {
+        "title": "Mansour Kaziha, Nader Awad identified as victims in San Diego Mosque attack",
+        "published": "Tue, 19 May 2026 19:48:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/moment-neymar-brought-to-tears-after-surprise-world-cup-call-up?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces fire ‘rubber bullets’ at activists on Gaza aid flotilla",
+        "published": "Tue, 19 May 2026 18:55:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/19/high-prices-in-iran-stunted-housing-market-leave-tenants-with-few-options?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
