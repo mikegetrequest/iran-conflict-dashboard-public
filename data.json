@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-22 02:57",
+  "updated_at_gst": "2026-05-22 03:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Flotilla activists recount Israeli violence as they arrive in Turkiye",
-        "published": "Thu, 21 May 2026 20:39:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss"
+        "title": "At least 16 people killed in two attacks in northern Honduras",
+        "published": "Thu, 21 May 2026 22:46:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss"
       },
       {
-        "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
-        "published": "Thu, 21 May 2026 19:01:24 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/is-islamophobia-being-re-packaged-as-feminism?traffic_source=rss"
+        "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
+        "published": "Thu, 21 May 2026 20:09:10 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/21/fans-create-ai-generated-team-songs-ahead-of-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "Trump shifts between diplomacy and threats in Iran standoff",
+        "published": "Thu, 21 May 2026 19:11:17 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s World Cup hopes hit US visa hurdles",
+        "published": "Thu, 21 May 2026 18:19:25 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/21/who-are-the-10-best-fifa-world-cup-players-of-all-time?traffic_source=rss"
+      },
+      {
+        "title": "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
+        "published": "Thu, 21 May 2026 18:05:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/displaced-lebanese-woman-bakes-3000-loaves-daily-for-war-hit-community?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
