@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-21 17:40",
+  "updated_at_gst": "2026-05-21 20:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel begins deporting Gaza aid flotilla activists amid global outcry",
-        "published": "Thu, 21 May 2026 12:12:32 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/5/21/this-is-the-face-of-israel?traffic_source=rss"
+        "title": "US-Iran diplomacy picks up: What’s the latest?",
+        "published": "Thu, 21 May 2026 15:10:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/21/french-court-finds-airbus-air-france-guilty-of-manslaughter-in-2009-crash?traffic_source=rss"
       },
       {
-        "title": "Dropped Sardar Azmoun asserts his love for Iran, backs World Cup squad",
-        "published": "Thu, 21 May 2026 10:03:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/what-options-do-the-us-and-iran-have-left-to-bring-war-to-an-end?traffic_source=rss"
+        "title": "Israel’s arrogance is becoming the evidence in the case against it",
+        "published": "Thu, 21 May 2026 14:44:09 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/21/germany-make-neuer-first-choice-world-cup-keeper-to-cap-retirement-u-turn?traffic_source=rss"
+      },
+      {
+        "title": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
+        "published": "Thu, 21 May 2026 13:31:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/21/whats-trumps-anti-weaponisation-fund-and-why-are-legal-experts-alarmed?traffic_source=rss"
+      },
+      {
+        "title": "Iran World Cup squad members apply for US, Canada visas in Turkiye",
+        "published": "Thu, 21 May 2026 13:01:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/21/mauritanias-female-islamic-guides-leading-the-fight-against-extremism?traffic_source=rss"
+      },
+      {
+        "title": "How Ben-Gvir’s flotilla video shattered Israel’s multimillion ‘Hasbara’",
+        "published": "Thu, 21 May 2026 12:25:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/21/israel-begins-deporting-gaza-aid-flotilla-activists-amid-global-outcry?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
