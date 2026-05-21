@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-21 22:49",
+  "updated_at_gst": "2026-05-22 00:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Top UN court rules workers’ right to strike ‘protected’ in key treaty",
-        "published": "Thu, 21 May 2026 17:05:50 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/21/french-open-to-reject-prize-money-increase-despite-tennis-stars-complaints?traffic_source=rss"
+        "title": "Trump shifts between diplomacy and threats in Iran standoff",
+        "published": "Thu, 21 May 2026 19:11:17 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s World Cup hopes hit US visa hurdles",
+        "published": "Thu, 21 May 2026 18:19:25 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/21/who-are-the-10-best-fifa-world-cup-players-of-all-time?traffic_source=rss"
+      },
+      {
+        "title": "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
+        "published": "Thu, 21 May 2026 18:05:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/displaced-lebanese-woman-bakes-3000-loaves-daily-for-war-hit-community?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
