@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-22 19:28",
+  "updated_at_gst": "2026-05-22 21:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Western nations warn Israel to end illegal settlement expansion, violence",
+        "published": "Fri, 22 May 2026 15:58:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/22/economic-confidence-plummets-in-us-amid-iran-war-poll-shows?traffic_source=rss"
+      },
       {
         "title": "Ukrainian strike on dormitory in Russian-occupied Starobilsk kills four",
         "published": "Fri, 22 May 2026 14:51:32 +0000",
