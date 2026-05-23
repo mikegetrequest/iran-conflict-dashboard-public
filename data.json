@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-24 00:52",
+  "updated_at_gst": "2026-05-24 01:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
+        "published": "Sat, 23 May 2026 21:14:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss"
+      },
       {
         "title": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
         "published": "Sat, 23 May 2026 17:56:27 +0000",
