@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-23 18:24",
+  "updated_at_gst": "2026-05-23 19:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Five police officers, 13 year-old boy killed in Israeli attack on Gaza",
+        "published": "Sat, 23 May 2026 15:00:30 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/23/french-open-has-positive-meeting-with-players-over-tennis-dispute?traffic_source=rss"
+      },
       {
         "title": "France bans far-right Israeli minister Ben-Gvir over abuse of activists",
         "published": "Sat, 23 May 2026 13:18:01 +0000",
