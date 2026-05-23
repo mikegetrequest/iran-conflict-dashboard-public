@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-23 19:36",
+  "updated_at_gst": "2026-05-23 20:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran sends ‘mixed’ messages as Pakistani mediators depart Tehran",
+        "published": "Sat, 23 May 2026 16:06:07 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces arrest two children in occupied West Bank village",
+        "published": "Sat, 23 May 2026 15:42:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/23/more-than-500-children-killed-in-measles-outbreak-in-bangladesh?traffic_source=rss"
+      },
       {
         "title": "Five police officers, 13 year-old boy killed in Israeli attack on Gaza",
         "published": "Sat, 23 May 2026 15:00:30 +0000",
