@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-23 21:51",
+  "updated_at_gst": "2026-05-23 22:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
+        "published": "Sat, 23 May 2026 17:56:27 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/23/morocco-king-pardons-jailed-senegal-football-fans-for-humanitarian-reasons?traffic_source=rss"
+      },
       {
         "title": "Overnight Israeli strikes on Gaza leave behind heavy destruction",
         "published": "Sat, 23 May 2026 15:53:50 +0000",
