@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-23 20:45",
+  "updated_at_gst": "2026-05-23 21:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran sends ‘mixed’ messages as Pakistani mediators depart Tehran",
-        "published": "Sat, 23 May 2026 16:06:07 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss"
+        "title": "Overnight Israeli strikes on Gaza leave behind heavy destruction",
+        "published": "Sat, 23 May 2026 15:53:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house?traffic_source=rss"
       },
       {
-        "title": "Israeli forces arrest two children in occupied West Bank village",
-        "published": "Sat, 23 May 2026 15:42:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/23/more-than-500-children-killed-in-measles-outbreak-in-bangladesh?traffic_source=rss"
-      },
-      {
-        "title": "Five police officers, 13 year-old boy killed in Israeli attack on Gaza",
-        "published": "Sat, 23 May 2026 15:00:30 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/23/french-open-has-positive-meeting-with-players-over-tennis-dispute?traffic_source=rss"
-      },
-      {
-        "title": "France bans far-right Israeli minister Ben-Gvir over abuse of activists",
-        "published": "Sat, 23 May 2026 13:18:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-air-strike-pounds-southern-lebanon-leaving-many-injured?traffic_source=rss"
+        "title": "Israeli air strike pounds southern Lebanon leaving many injured",
+        "published": "Sat, 23 May 2026 12:54:34 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/5/23/the-pollution-that-outlives-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
