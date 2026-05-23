@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-23 14:09",
+  "updated_at_gst": "2026-05-23 15:38",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
-        "published": "Sat, 23 May 2026 07:56:12 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss"
+        "title": "Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’",
+        "published": "Sat, 23 May 2026 09:30:24 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss"
       },
       {
-        "title": "Israeli forces attack central Gaza despite ceasefire agreement",
-        "published": "Sat, 23 May 2026 06:40:10 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/23/gilgeous-alexander-leads-thunder-past-spurs-for-2-1-nba-playoff-lead?traffic_source=rss"
+        "title": "Missiles to munitions: Does the US risk running out of key weapons?",
+        "published": "Sat, 23 May 2026 09:22:58 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/23/mohamed-salah-liverpool-final-match-legacy?traffic_source=rss"
       },
       {
-        "title": "Why are anti-migrant attacks increasing in South Africa?",
-        "published": "Sat, 23 May 2026 04:01:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/23/some-fear-us-philippines-war-games-are-drawing-conflict-closer-to-home?traffic_source=rss"
+        "title": "Iran weighs US peace proposal despite ‘deep and significant’ disagreements",
+        "published": "Sat, 23 May 2026 08:16:38 +0000",
+        "link": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss"
+      },
+      {
+        "title": "Iran war day 85: Tehran says major gaps remain in US talks",
+        "published": "Sat, 23 May 2026 06:51:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
