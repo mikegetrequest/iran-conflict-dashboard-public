@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-24 22:57",
+  "updated_at_gst": "2026-05-25 00:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "How will Iran war fallout impact upcoming US elections?",
+        "published": "Sun, 24 May 2026 19:30:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss"
+      },
       {
         "title": "Zelenskyy speaks to Al Jazeera at site of major Russian attacks in Kyiv",
         "published": "Sun, 24 May 2026 18:22:54 +0000",
