@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-24 12:24",
+  "updated_at_gst": "2026-05-24 14:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US, Iran inch closer to deal to end the war: What to know",
+        "published": "Sun, 24 May 2026 09:37:52 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/russia-pounds-ukraines-capital-with-hypersonic-missile?traffic_source=rss"
+      },
+      {
+        "title": "Trump says US and Iran deal to end war is ‘largely negotiated’",
+        "published": "Sun, 24 May 2026 09:10:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/24/gunman-shot-dead-by-secret-service-agents-near-white-house-what-we-know?traffic_source=rss"
+      },
+      {
+        "title": "Rubio says ‘significant progress’ made in US-Iran negotiations",
+        "published": "Sun, 24 May 2026 08:51:09 +0000",
+        "link": "https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss"
+      },
+      {
+        "title": "Suicide car bomb attack on train in Pakistan kills at least 24",
+        "published": "Sun, 24 May 2026 08:21:58 +0000",
+        "link": "https://www.aljazeera.com/features/longform/2026/5/24/they-dont-like-each-other-is-russia-and-irans-alliance-falling-apart?traffic_source=rss"
+      },
+      {
         "title": "Man dies in northeast Australia after shark attack",
         "published": "Sun, 24 May 2026 07:13:57 +0000",
         "link": "https://www.aljazeera.com/sports/2026/5/24/usyk-avoids-shock-defeat-with-11th-round-stoppage-of-verhoeven?traffic_source=rss"
-      },
-      {
-        "title": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
-        "published": "Sat, 23 May 2026 21:09:42 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/violence-and-overcrowding-hampers-ebola-response-in-drc?traffic_source=rss"
-      },
-      {
-        "title": "Iran move World Cup base from US to Mexico with FIFA approval",
-        "published": "Sat, 23 May 2026 19:18:02 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/23/tens-of-thousands-rally-in-serbia-for-antigovernment-demonstrations?traffic_source=rss"
-      },
-      {
-        "title": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
-        "published": "Sat, 23 May 2026 18:37:37 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
