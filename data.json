@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-24 14:14",
+  "updated_at_gst": "2026-05-24 15:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US, Iran inch closer to deal to end the war: What to know",
-        "published": "Sun, 24 May 2026 09:37:52 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/russia-pounds-ukraines-capital-with-hypersonic-missile?traffic_source=rss"
+        "title": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
+        "published": "Sun, 24 May 2026 10:25:43 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/24/senegal-football-fans-return-home-after-royal-pardon-in-morocco?traffic_source=rss"
       },
       {
-        "title": "Trump says US and Iran deal to end war is ‘largely negotiated’",
-        "published": "Sun, 24 May 2026 09:10:45 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/24/gunman-shot-dead-by-secret-service-agents-near-white-house-what-we-know?traffic_source=rss"
+        "title": "Marco Rubio says ‘significant progress’ made in US-Iran talks to end war",
+        "published": "Sun, 24 May 2026 10:01:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss"
       },
       {
-        "title": "Rubio says ‘significant progress’ made in US-Iran negotiations",
-        "published": "Sun, 24 May 2026 08:51:09 +0000",
-        "link": "https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss"
+        "title": "Russia pounds Ukraine’s capital with hypersonic missile",
+        "published": "Sun, 24 May 2026 09:20:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss"
       },
       {
-        "title": "Suicide car bomb attack on train in Pakistan kills at least 24",
-        "published": "Sun, 24 May 2026 08:21:58 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/5/24/they-dont-like-each-other-is-russia-and-irans-alliance-falling-apart?traffic_source=rss"
+        "title": "Russian attacks on Ukraine’s Kyiv kill at least four people",
+        "published": "Sun, 24 May 2026 08:22:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people?traffic_source=rss"
       },
       {
-        "title": "Man dies in northeast Australia after shark attack",
-        "published": "Sun, 24 May 2026 07:13:57 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/24/usyk-avoids-shock-defeat-with-11th-round-stoppage-of-verhoeven?traffic_source=rss"
+        "title": "“They don’t like each other:” Is Russia and Iran’s alliance falling apart?",
+        "published": "Sun, 24 May 2026 08:10:30 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/24/knicks-beat-cavaliers-to-reach-brink-of-nba-finals?traffic_source=rss"
+      },
+      {
+        "title": "Attacks on Ebola centres intensify in eastern DRC amid outbreak fears",
+        "published": "Sun, 24 May 2026 07:29:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
