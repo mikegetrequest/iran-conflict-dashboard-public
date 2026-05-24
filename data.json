@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-24 19:39",
+  "updated_at_gst": "2026-05-24 20:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran recounts historic battles in response to Trump’s talk of agreement",
+        "published": "Sun, 24 May 2026 16:18:19 +0000",
+        "link": "https://www.aljazeera.com/features/2026/5/24/a-paper-city-new-york-library-hosts-3-5-million-pages-of-epstein-files?traffic_source=rss"
+      },
+      {
         "title": "France bans Ben-Gvir: Which other Israeli leaders have been penalised?",
         "published": "Sun, 24 May 2026 14:01:27 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/24/for-third-year-in-a-row-israel-blocks-hajj-pilgrimage-for-gaza-muslims?traffic_source=rss"
@@ -31,14 +36,9 @@
         "link": "https://www.aljazeera.com/sports/2026/5/24/senegal-football-fans-return-home-after-royal-pardon-in-morocco?traffic_source=rss"
       },
       {
-        "title": "Trump says no rush on Iran deal as Tehran asserts Hormuz ‘legal right’",
+        "title": "Trump: No rush on Iran deal, as Netanyahu demands end to nuclear threat",
         "published": "Sun, 24 May 2026 10:01:44 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss"
-      },
-      {
-        "title": "Russia pounds Ukraine’s capital with hypersonic missile",
-        "published": "Sun, 24 May 2026 09:20:47 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
