@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-24 20:48",
+  "updated_at_gst": "2026-05-24 21:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran recounts historic battles in response to Trump’s talk of agreement",
-        "published": "Sun, 24 May 2026 16:18:19 +0000",
-        "link": "https://www.aljazeera.com/features/2026/5/24/a-paper-city-new-york-library-hosts-3-5-million-pages-of-epstein-files?traffic_source=rss"
+        "title": "Iran team trains through World Cup uncertainty",
+        "published": "Sun, 24 May 2026 16:40:39 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/turkish-police-storm-main-opposition-chps-party-headquarters?traffic_source=rss"
       },
       {
-        "title": "France bans Ben-Gvir: Which other Israeli leaders have been penalised?",
-        "published": "Sun, 24 May 2026 14:01:27 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/24/for-third-year-in-a-row-israel-blocks-hajj-pilgrimage-for-gaza-muslims?traffic_source=rss"
+        "title": "Bahrain jails nine defendants for life for ‘cooperating’ with Iran’s IRGC",
+        "published": "Sun, 24 May 2026 14:16:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/24/france-bans-ben-gvir-which-other-israeli-leaders-have-been-penalised?traffic_source=rss"
       },
       {
-        "title": "Suicide car bombing attack on a train in Pakistan kills dozens",
-        "published": "Sun, 24 May 2026 12:35:51 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/5/24/blast-hits-train-in-pakistans-balochistan-killing-at-least-24-people?traffic_source=rss"
+        "title": "For third year in a row, Israel blocks Hajj pilgrimage for Gaza Muslims",
+        "published": "Sun, 24 May 2026 14:00:23 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/5/24/syria-cannot-heal-without-a-rebuilt-health?traffic_source=rss"
       },
       {
-        "title": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
-        "published": "Sun, 24 May 2026 10:25:43 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/24/senegal-football-fans-return-home-after-royal-pardon-in-morocco?traffic_source=rss"
+        "title": "‘We won’t know who won until final outcome of US-Iran ceasefire’",
+        "published": "Sun, 24 May 2026 13:45:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/24/will-the-texas-primary-run-off-give-democrats-a-chance-to-flip-the-state?traffic_source=rss"
       },
       {
-        "title": "Trump: No rush on Iran deal, as Netanyahu demands end to nuclear threat",
-        "published": "Sun, 24 May 2026 10:01:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss"
+        "title": "Iran hints US will end war in ‘Persian-style’ peace on Tehran’s terms",
+        "published": "Sun, 24 May 2026 13:26:07 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/suicide-car-bombing-attack-on-a-train-in-pakistan-kills-dozens?traffic_source=rss"
+      },
+      {
+        "title": "Israeli attack on Gaza kills three family members, including infant",
+        "published": "Sun, 24 May 2026 11:41:58 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/5/24/the-gcc-should-insure-itself-against-the-next-strait-of-hormuz-crisis?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
