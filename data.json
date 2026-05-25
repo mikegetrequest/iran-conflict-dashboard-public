@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-25 18:18",
+  "updated_at_gst": "2026-05-25 20:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran says deal with US ‘not imminent’ despite progress",
-        "published": "Mon, 25 May 2026 13:19:02 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/25/could-brazilian-oil-emerge-as-one-of-the-big-winners-of-the-iran-war?traffic_source=rss"
+        "title": "Russia warns foreigners to leave Kyiv as it prepares ‘systematic strikes’",
+        "published": "Mon, 25 May 2026 16:12:52 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/nearly-300-tourists-rescued-after-cable-cars-halt-mid-air?traffic_source=rss"
       },
       {
-        "title": "Israel kills three in attacks on Lebanon, issues more displacement orders",
-        "published": "Mon, 25 May 2026 10:10:16 +0000",
-        "link": "https://www.aljazeera.com/features/2026/5/25/whats-inside-the-kaaba-and-what-covers-it-the-story-of-the-kiswah?traffic_source=rss"
+        "title": "Trump links Iran negotiations to expansion of Abraham Accords",
+        "published": "Mon, 25 May 2026 14:43:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/25/australian-gaza-aid-flotilla-activists-allege-abuse-after-israeli-abduction?traffic_source=rss"
+      },
+      {
+        "title": "Could Israel sabotage US-Iran deal?",
+        "published": "Mon, 25 May 2026 13:29:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/iran-says-deal-with-us-not-imminent-despite-progress?traffic_source=rss"
+      },
+      {
+        "title": "Could Brazilian oil emerge as one of the big winners of the Iran war?",
+        "published": "Mon, 25 May 2026 13:00:15 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/25/what-are-the-biggest-fifa-world-cup-upsets-in-history?traffic_source=rss"
+      },
+      {
+        "title": "The world urgently needs a US-Iran deal now",
+        "published": "Mon, 25 May 2026 11:28:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/25/cattle-market-empties-as-fear-grips-eid-preparations-in-indias-west-bengal?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
