@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-26 05:56",
+  "updated_at_gst": "2026-05-26 09:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: US strikes Iran’s south, Tehran officials in Qatar for talks",
-        "published": "Tue, 26 May 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/25/trump-renews-petition-for-white-house-ballroom-pointing-to-nearby-shooting?traffic_source=rss"
+        "title": "Netanyahu vows to ‘smite’ Hezbollah with ‘overwhelming’ force",
+        "published": "Tue, 26 May 2026 03:12:14 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/istanbuls-bilgi-university-reopened-after-police-crackdown?traffic_source=rss"
       },
       {
-        "title": "Father mourns daughter killed in Israeli strike on Gaza",
-        "published": "Mon, 25 May 2026 19:12:58 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/lebanon-marks-liberation-day-under-israeli-bombardment?traffic_source=rss"
+        "title": "US military launches strikes on southern Iran amid talks in Qatar",
+        "published": "Tue, 26 May 2026 00:57:07 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/26/canadas-mark-carney-calls-treatment-of-gaza-flotilla-activists-appalling?traffic_source=rss"
       },
       {
-        "title": "In Lebanon, everything and nothing has changed since 2000",
-        "published": "Mon, 25 May 2026 18:56:24 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/25/bolivias-embattled-president-says-will-take-a-50-percent-salary-cut?traffic_source=rss"
+        "title": "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
+        "published": "Mon, 25 May 2026 20:49:28 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/bolivias-president-cuts-salary-in-half-amid-protests?traffic_source=rss"
       },
       {
-        "title": "Mexico to host Iran team during 2026 FIFA World Cup amid US tensions",
-        "published": "Mon, 25 May 2026 18:11:02 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls?traffic_source=rss"
+        "title": "Trump pays tribute to US troops killed in war on Iran on Memorial Day",
+        "published": "Mon, 25 May 2026 20:24:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/25/ex-scottish-national-party-chief-pleads-guilty-to-embezzling-funds?traffic_source=rss"
+      },
+      {
+        "title": "Trump dangles normalisation amid pro-Israel criticism of possible Iran deal",
+        "published": "Mon, 25 May 2026 19:59:37 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/the-kiswa-beyond-the-cloth?traffic_source=rss"
+      },
+      {
+        "title": "Kyiv’s Chornobyl Museum devastated in overnight Russian missile attack",
+        "published": "Mon, 25 May 2026 19:19:37 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/father-mourns-daughter-killed-in-israeli-strike-on-gaza?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
