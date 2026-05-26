@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-26 20:34",
+  "updated_at_gst": "2026-05-26 23:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Lebanon latest: Netanyahu vows escalation against Hezbollah",
+        "published": "Tue, 26 May 2026 17:08:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/26/what-has-pope-leo-warned-about-ai-and-why-thats-significant?traffic_source=rss"
+      },
+      {
         "title": "Iranian fishermen struggle to survive amid Hormuz blockade",
         "published": "Tue, 26 May 2026 16:13:58 +0000",
         "link": "https://www.aljazeera.com/sports/2026/5/26/scotland-fans-book-school-bus-for-matches-at-inaccessible-world-cup?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "India, US strike critical minerals deal: What’s in it, why does it matter?",
         "published": "Tue, 26 May 2026 14:36:33 +0000",
         "link": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-tt_rr_usa_piker_av_v1-250526?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
-        "published": "Tue, 26 May 2026 13:26:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/26/report-warns-pro-palestine-protesters-face-legal-crackdown-what-to-know?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
