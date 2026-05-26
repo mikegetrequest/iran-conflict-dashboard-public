@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-26 23:11",
+  "updated_at_gst": "2026-05-27 01:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims",
+        "published": "Tue, 26 May 2026 19:47:18 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/26/white-house-proposes-ndas-for-all-us-federal-workers?traffic_source=rss"
+      },
+      {
         "title": "Lebanon latest: Netanyahu vows escalation against Hezbollah",
         "published": "Tue, 26 May 2026 17:08:31 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/26/what-has-pope-leo-warned-about-ai-and-why-thats-significant?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Israel is no longer ‘shooting and crying’",
         "published": "Tue, 26 May 2026 15:10:04 +0000",
         "link": "https://www.aljazeera.com/gallery/2026/5/26/hajj-pilgrims-gather-at-mount-arafat-under-scorching-desert-sun?traffic_source=rss"
-      },
-      {
-        "title": "India, US strike critical minerals deal: What’s in it, why does it matter?",
-        "published": "Tue, 26 May 2026 14:36:33 +0000",
-        "link": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-tt_rr_usa_piker_av_v1-250526?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
