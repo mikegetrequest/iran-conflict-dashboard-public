@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-27 02:44",
+  "updated_at_gst": "2026-05-27 03:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims",
-        "published": "Tue, 26 May 2026 19:47:18 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/26/white-house-proposes-ndas-for-all-us-federal-workers?traffic_source=rss"
+        "title": "Aftermath of deadly Israeli strikes in southern Lebanon",
+        "published": "Tue, 26 May 2026 21:22:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss"
       },
       {
-        "title": "Lebanon latest: Netanyahu vows escalation against Hezbollah",
-        "published": "Tue, 26 May 2026 17:08:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/26/what-has-pope-leo-warned-about-ai-and-why-thats-significant?traffic_source=rss"
-      },
-      {
-        "title": "Iranian fishermen struggle to survive amid Hormuz blockade",
-        "published": "Tue, 26 May 2026 16:13:58 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/26/scotland-fans-book-school-bus-for-matches-at-inaccessible-world-cup?traffic_source=rss"
+        "title": "Did Trump oversell a broken Iran ceasefire deal?",
+        "published": "Tue, 26 May 2026 19:50:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/children-perform-mini-hajj-in-gaza-as-israel-blocks-pilgrims?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
