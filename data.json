@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-27 03:54",
+  "updated_at_gst": "2026-05-27 06:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Aftermath of deadly Israeli strikes in southern Lebanon",
-        "published": "Tue, 26 May 2026 21:22:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss"
+        "title": "How decision-making happens in Iran",
+        "published": "Wed, 27 May 2026 00:28:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_clip_-un-chief-deeply-concerned-kyiv-strikes-260526?traffic_source=rss"
       },
       {
-        "title": "Did Trump oversell a broken Iran ceasefire deal?",
-        "published": "Tue, 26 May 2026 19:50:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/children-perform-mini-hajj-in-gaza-as-israel-blocks-pilgrims?traffic_source=rss"
+        "title": "Iran war live: Israel kills 31 in Lebanon; Tehran blasts US truce violation",
+        "published": "Wed, 27 May 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_dnrexp-260526-warrinera-modi_05-260526?traffic_source=rss"
+      },
+      {
+        "title": "Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims",
+        "published": "Tue, 26 May 2026 19:47:18 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/26/white-house-proposes-ndas-for-all-us-federal-workers?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
