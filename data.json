@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-27 10:42",
+  "updated_at_gst": "2026-05-27 14:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "‘Deep suspicion’ of US lingers as Iran ponders agreement to end war",
-        "published": "Wed, 27 May 2026 06:03:41 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/27/no-livestock-but-still-hope-palestinians-prepare-for-eid-al-adha-in-gaza?traffic_source=rss"
+        "title": "US strike on alleged drug boat in Pacific kills one",
+        "published": "Wed, 27 May 2026 10:12:24 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/27/hakimi-leads-nine-returning-morocco-players-from-qatar-2022-at-world-cup?traffic_source=rss"
       },
       {
-        "title": "Israel ‘intensifies’ attacks in Lebanon killing at least 31 people",
-        "published": "Wed, 27 May 2026 04:25:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_clip-ufc-showdown-at-white-house-260526?traffic_source=rss"
+        "title": "Israel claims head of Hamas military wing killed in Gaza strike",
+        "published": "Wed, 27 May 2026 08:51:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/27/israeli-air-attack-kills-at-least-two-in-southern-lebanon?traffic_source=rss"
       },
       {
-        "title": "UN chief ‘deeply concerned’ by Moscow plan for Kyiv strikes",
-        "published": "Wed, 27 May 2026 00:01:38 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/5/27/iran-war-live-israel-kills-31-in-lebanon-tehran-blasts-us-truce-violation?traffic_source=rss"
-      },
-      {
-        "title": "Aftermath of deadly Israeli strikes in southern Lebanon",
-        "published": "Tue, 26 May 2026 21:22:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss"
+        "title": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
+        "published": "Wed, 27 May 2026 06:48:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/27/deep-suspicion-of-us-lingers-as-iran-ponders-agreement-to-end-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
