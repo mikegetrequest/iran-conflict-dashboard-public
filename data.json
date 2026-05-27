@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-28 01:43",
+  "updated_at_gst": "2026-05-28 03:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
-        "published": "Wed, 27 May 2026 18:19:33 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/indonesian-authorities-crack-down-on-controversial-papua-documentary?traffic_source=rss"
+        "title": "Markets rally amid hopes of US-Iran deal",
+        "published": "Wed, 27 May 2026 21:14:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/27/former-assistant-to-tv-star-matthew-perry-sentenced-to-41-months-in-prison?traffic_source=rss"
+      },
+      {
+        "title": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
+        "published": "Wed, 27 May 2026 20:56:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Israel orders evacuation of the Lebanese city of Tyre amid bombardment",
+        "published": "Wed, 27 May 2026 20:13:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/floridas-alligator-alcatraz-migrant-detention-centre-to-close?traffic_source=rss"
+      },
+      {
+        "title": "Iran government sells subsidised meat for Eid al-Adha under blockade",
+        "published": "Wed, 27 May 2026 19:04:05 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/27/canada-chooses-swedish-early-warning-planes-rather-than-us-model?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
