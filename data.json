@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-28 20:53",
+  "updated_at_gst": "2026-05-28 23:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
+        "published": "Thu, 28 May 2026 18:36:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/us-iran-reach-mou-on-60-day-truce-trumps-approval-pending?traffic_source=rss"
+      },
+      {
+        "title": "US and Iran reach tentative deal for 60-day truce extension, officials say",
+        "published": "Thu, 28 May 2026 18:21:14 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/5/28/cnn-sues-perplexity-alleging-unlawful-distribution-of-copyrighted-content?traffic_source=rss"
+      },
+      {
+        "title": "How War Changed Eid in Lebanon",
+        "published": "Thu, 28 May 2026 17:40:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss"
+      },
+      {
+        "title": "Smoke rises over Beirut after Israeli strike",
+        "published": "Thu, 28 May 2026 16:42:41 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/hundreds-flee-india-crackdown-on-undocumented-migrants?traffic_source=rss"
+      },
+      {
         "title": "US attacks Bandar Abbas again: Why is the port so important for Iran?",
         "published": "Thu, 28 May 2026 14:45:42 +0000",
         "link": "https://www.aljazeera.com/sports/2026/5/28/sinner-shocked-in-french-open-exit-as-cerundolo-recovers-from-two-sets-down?traffic_source=rss"
-      },
-      {
-        "title": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
-        "published": "Thu, 28 May 2026 12:54:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/28/the-kingmakers-of-makerfield-english-town-braces-for-crucial-by-election?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
