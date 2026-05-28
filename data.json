@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-28 13:40",
+  "updated_at_gst": "2026-05-28 16:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
-        "published": "Thu, 28 May 2026 07:32:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss"
+        "title": "Israel intensifies attacks on southern Lebanon, killing at least 16 people",
+        "published": "Thu, 28 May 2026 10:58:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/the-west-banks-youth-unemployment-crisis?traffic_source=rss"
       },
       {
-        "title": "Iran war live: US strikes Iranian site; Kuwait targeted by missiles, drones",
-        "published": "Thu, 28 May 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/27/jill-biden-worried-husband-joe-was-having-a-stroke-during-2024-us-debate?traffic_source=rss"
+        "title": "Israel kills children in strikes on Gaza as fear taints Eid joy",
+        "published": "Thu, 28 May 2026 10:47:19 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/28/ireland-football-coach-urges-players-to-win-this-war-against-israel?traffic_source=rss"
+      },
+      {
+        "title": "Israeli attack on Gaza City kills at least 10, including four children",
+        "published": "Thu, 28 May 2026 09:10:33 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/28/neymar-injury-forces-him-out-of-brazils-first-world-cup-training-session?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
