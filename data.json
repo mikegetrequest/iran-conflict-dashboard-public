@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-29 23:24",
+  "updated_at_gst": "2026-05-30 01:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Romania to expel Russian consul after residential drone strike",
-        "published": "Fri, 29 May 2026 18:18:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israeli-fighter-jets-strike-village-in-south-lebanon?traffic_source=rss"
+        "title": "Netanyahu says Israeli forces have crossed Lebanon’s Litani River",
+        "published": "Fri, 29 May 2026 19:48:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report?traffic_source=rss"
       },
       {
-        "title": "Five killed in Lebanon as Israeli forces advance across key Litani River",
-        "published": "Fri, 29 May 2026 15:59:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israel-strikes-building-in-gazas-shati-refugee-camp?traffic_source=rss"
+        "title": "Trump heads into Situation Room to potentially finalise Iran deal",
+        "published": "Fri, 29 May 2026 19:01:17 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/5/29/whats-next-after-scrapping-the-black-code-in-france?traffic_source=rss"
+      },
+      {
+        "title": "Israeli fighter jets strike village in south Lebanon",
+        "published": "Fri, 29 May 2026 18:15:07 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/29/a-landmark-brazils-prosecutors-hail-court-ruling-to-preserve-fordlandia?traffic_source=rss"
+      },
+      {
+        "title": "Trump says ‘final determination’ to be made on possible Iran deal",
+        "published": "Fri, 29 May 2026 17:10:10 +0000",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/29/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss"
+      },
+      {
+        "title": "Vance says US, Iran have made “a lot of progress” towards deal",
+        "published": "Fri, 29 May 2026 16:31:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/29/five-killed-in-lebanon-as-israeli-forces-advance-across-key-litani-river?traffic_source=rss"
+      },
+      {
+        "title": "Israel strikes building in Gaza’s Shati refugee camp",
+        "published": "Fri, 29 May 2026 15:50:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/eid-and-sacrifice-in-gaza?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
