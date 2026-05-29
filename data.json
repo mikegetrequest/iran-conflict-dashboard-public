@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-29 09:48",
+  "updated_at_gst": "2026-05-29 13:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israel football dispute to ‘heat up’ after protest in Ireland-Qatar match",
+        "published": "Fri, 29 May 2026 07:39:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired?traffic_source=rss"
+      },
+      {
+        "title": "State of trauma: Israel wrestles with mental aftershocks of war",
+        "published": "Fri, 29 May 2026 06:39:24 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/29/wembanyama-and-spurs-force-game-seven-against-thunder-in-nba-playoffs?traffic_source=rss"
+      },
+      {
         "title": "Lebanon Latest: Mass evacuations as Israel expands attacks",
         "published": "Fri, 29 May 2026 03:18:49 +0000",
         "link": "https://www.aljazeera.com/economy/2026/5/29/anthropic-soars-to-965bn-valuation-leapfrogging-openai?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan",
-        "published": "Fri, 29 May 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/netanyahu-orders-israeli-army-to-seize-70-percent-of-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Iran ambassador hits out at ‘country to the north’ in US World Cup visa row",
-        "published": "Thu, 28 May 2026 23:18:19 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/5/28/tense-protests-erupt-outside-delaney-hall-immigrant-detention-centre-in-us?traffic_source=rss"
-      },
-      {
-        "title": "Ireland and Qatar halted twice by protests against upcoming Israel fixtures",
-        "published": "Thu, 28 May 2026 22:42:33 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/28/colombias-first-left-wing-govt-has-reduced-poverty-but-has-pile-of-debt?traffic_source=rss"
-      },
-      {
-        "title": "Guatemala denies agreeing to US strikes against drug traffickers",
-        "published": "Thu, 28 May 2026 21:42:39 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/defiant-lebanese-families-refuse-to-leave-tyre-after-homes-bombed?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
