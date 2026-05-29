@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-29 13:29",
+  "updated_at_gst": "2026-05-29 16:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "French prosecutors to probe Israeli treatment of flotilla activists",
+        "published": "Fri, 29 May 2026 12:00:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/29/australian-court-sets-august-date-for-mushroom-murderer-appeal-hearing?traffic_source=rss"
+      },
+      {
+        "title": "‘Dangerous colonial occupation’: Israel’s digital West Bank land register",
+        "published": "Fri, 29 May 2026 10:28:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/who-chief-visits-drc-amidst-ebola-crisis?traffic_source=rss"
+      },
+      {
+        "title": "US-Iran 60-day proposal: What we know",
+        "published": "Fri, 29 May 2026 10:23:16 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/29/kenyan-court-suspends-us-ebola-quarantine-facility-plan?traffic_source=rss"
+      },
+      {
+        "title": "How the end of the nuclear file could reshape Iran, and the region",
+        "published": "Fri, 29 May 2026 10:05:14 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/29/a-visual-guide-to-ethiopias-ethnic-groups-and-conflict-areas?traffic_source=rss"
+      },
+      {
         "title": "Israel football dispute to ‘heat up’ after protest in Ireland-Qatar match",
         "published": "Fri, 29 May 2026 07:39:09 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired?traffic_source=rss"
-      },
-      {
-        "title": "State of trauma: Israel wrestles with mental aftershocks of war",
-        "published": "Fri, 29 May 2026 06:39:24 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/29/wembanyama-and-spurs-force-game-seven-against-thunder-in-nba-playoffs?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon Latest: Mass evacuations as Israel expands attacks",
-        "published": "Fri, 29 May 2026 03:18:49 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/5/29/anthropic-soars-to-965bn-valuation-leapfrogging-openai?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
