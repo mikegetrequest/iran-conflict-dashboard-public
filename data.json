@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-29 20:33",
+  "updated_at_gst": "2026-05-29 23:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Romania to expel Russian consul after residential drone strike",
+        "published": "Fri, 29 May 2026 18:18:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israeli-fighter-jets-strike-village-in-south-lebanon?traffic_source=rss"
+      },
+      {
         "title": "Five killed in Lebanon as Israeli forces advance across key Litani River",
         "published": "Fri, 29 May 2026 15:59:26 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israel-strikes-building-in-gazas-shati-refugee-camp?traffic_source=rss"
-      },
-      {
-        "title": "Harvard Medical School graduate dedicates speech to Lebanon and Palestine",
-        "published": "Fri, 29 May 2026 13:06:35 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/firefighters-work-to-free-riders-stuck-atop-a-rollercoaster-in-texas?traffic_source=rss"
-      },
-      {
-        "title": "French prosecutors to probe Israeli treatment of flotilla activists",
-        "published": "Fri, 29 May 2026 12:00:59 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/29/australian-court-sets-august-date-for-mushroom-murderer-appeal-hearing?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
