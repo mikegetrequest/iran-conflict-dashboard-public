@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-29 03:05",
+  "updated_at_gst": "2026-05-29 05:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Netanyahu orders Israeli army to seize 70 percent of Gaza",
+        "published": "Thu, 28 May 2026 23:48:28 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss"
+      },
+      {
         "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
         "published": "Thu, 28 May 2026 20:31:05 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/28/trump-administration-sues-states-for-denying-ice-agents-undercover-plates?traffic_source=rss"
@@ -24,21 +29,6 @@
         "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
         "published": "Thu, 28 May 2026 19:03:50 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss"
-      },
-      {
-        "title": "US, Iran reach MoU on 60-day truce, Trump’s approval pending",
-        "published": "Thu, 28 May 2026 18:25:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/28/us-and-iran-reach-tentative-deal-for-60-day-truce-extension-officials-say?traffic_source=rss"
-      },
-      {
-        "title": "UN ‘adds Israel to blacklist’ for conflict-related sexual violence",
-        "published": "Thu, 28 May 2026 17:16:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/28/latvia-parliament-approves-new-govt-after-drone-dispute-toppled-coalition?traffic_source=rss"
-      },
-      {
-        "title": "US inflation surges to three-year high amid tensions with Iran",
-        "published": "Thu, 28 May 2026 16:54:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/smoke-rises-over-beirut-after-israeli-strike?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
