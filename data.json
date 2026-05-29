@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-29 16:31",
+  "updated_at_gst": "2026-05-29 20:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Five killed in Lebanon as Israeli forces advance across key Litani River",
+        "published": "Fri, 29 May 2026 15:59:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israel-strikes-building-in-gazas-shati-refugee-camp?traffic_source=rss"
+      },
+      {
+        "title": "Harvard Medical School graduate dedicates speech to Lebanon and Palestine",
+        "published": "Fri, 29 May 2026 13:06:35 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/firefighters-work-to-free-riders-stuck-atop-a-rollercoaster-in-texas?traffic_source=rss"
+      },
+      {
         "title": "French prosecutors to probe Israeli treatment of flotilla activists",
         "published": "Fri, 29 May 2026 12:00:59 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/29/australian-court-sets-august-date-for-mushroom-murderer-appeal-hearing?traffic_source=rss"
-      },
-      {
-        "title": "‘Dangerous colonial occupation’: Israel’s digital West Bank land register",
-        "published": "Fri, 29 May 2026 10:28:18 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/who-chief-visits-drc-amidst-ebola-crisis?traffic_source=rss"
-      },
-      {
-        "title": "US-Iran 60-day proposal: What we know",
-        "published": "Fri, 29 May 2026 10:23:16 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/29/kenyan-court-suspends-us-ebola-quarantine-facility-plan?traffic_source=rss"
-      },
-      {
-        "title": "How the end of the nuclear file could reshape Iran, and the region",
-        "published": "Fri, 29 May 2026 10:05:14 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/29/a-visual-guide-to-ethiopias-ethnic-groups-and-conflict-areas?traffic_source=rss"
-      },
-      {
-        "title": "Israel football dispute to ‘heat up’ after protest in Ireland-Qatar match",
-        "published": "Fri, 29 May 2026 07:39:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
