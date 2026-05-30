@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-30 02:46",
+  "updated_at_gst": "2026-05-30 04:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump pledges to withdraw from Kennedy Center after court strikes his name",
+        "published": "Fri, 29 May 2026 23:41:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/29/ice-agent-arrested-over-shooting-of-venezuelan-man-in-us-immigration-raid?traffic_source=rss"
+      },
       {
         "title": "How realistic is Trump’s Iran framework?",
         "published": "Fri, 29 May 2026 21:10:34 +0000",
