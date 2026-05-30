@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-30 22:55",
+  "updated_at_gst": "2026-05-31 00:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Qatar says temporary charges ‘negotiable’",
+        "published": "Sat, 30 May 2026 18:42:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/bruce-springsteen-calls-out-trumps-reckless-administration?traffic_source=rss"
+      },
       {
         "title": "Palestinian doctor killed, three people injured in Israeli attack on Gaza",
         "published": "Sat, 30 May 2026 17:04:03 +0000",
