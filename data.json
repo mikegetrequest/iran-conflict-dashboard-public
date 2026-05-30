@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-30 15:09",
+  "updated_at_gst": "2026-05-30 16:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
+        "published": "Sat, 30 May 2026 12:04:35 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/30/live-psg-vs-arsenal-champions-league-final?traffic_source=rss"
+      },
+      {
         "title": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
         "published": "Sat, 30 May 2026 07:30:15 +0000",
         "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/30/satire-social-media-and-indias-gen-z-revolt?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Frustration in Lebanon as Israel expands invasion",
         "published": "Sat, 30 May 2026 04:36:17 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/30/louisiana-lawmakers-pass-congressional-map-favouring-republicans?traffic_source=rss"
-      },
-      {
-        "title": "Trump pledges to withdraw from Kennedy Center after court strikes his name",
-        "published": "Fri, 29 May 2026 23:41:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/29/ice-agent-arrested-over-shooting-of-venezuelan-man-in-us-immigration-raid?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
