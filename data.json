@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-30 20:49",
+  "updated_at_gst": "2026-05-30 21:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "The Iran war is dividing Muslims in the Philippines",
-        "published": "Sat, 30 May 2026 12:49:20 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/cuba-calls-guantanamo-talks-with-u-s-general-positive?traffic_source=rss"
+        "title": "Palestinian doctor killed, three people injured in Israeli attack on Gaza",
+        "published": "Sat, 30 May 2026 17:04:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/liverpool-sack-arne-slot-after-disastrous-premier-league-title-defence?traffic_source=rss"
       },
       {
-        "title": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
-        "published": "Sat, 30 May 2026 12:04:35 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/30/live-psg-vs-arsenal-champions-league-final?traffic_source=rss"
+        "title": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
+        "published": "Sat, 30 May 2026 13:50:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/violence-against-foreign-owned-shops-in-south-africa?traffic_source=rss"
+      },
+      {
+        "title": "Israel launches more than 10 strikes across southern Lebanon",
+        "published": "Sat, 30 May 2026 10:57:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/30/rubio-says-trump-envoy-barrack-to-step-down-from-syria-post?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
