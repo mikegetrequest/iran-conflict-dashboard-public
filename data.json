@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-30 16:43",
+  "updated_at_gst": "2026-05-30 18:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
-        "published": "Sat, 30 May 2026 12:04:35 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/30/live-psg-vs-arsenal-champions-league-final?traffic_source=rss"
+        "title": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
+        "published": "Sat, 30 May 2026 13:50:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/violence-against-foreign-owned-shops-in-south-africa?traffic_source=rss"
       },
       {
-        "title": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
-        "published": "Sat, 30 May 2026 07:30:15 +0000",
-        "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/30/satire-social-media-and-indias-gen-z-revolt?traffic_source=rss"
+        "title": "Israel launches more than 10 strikes across southern Lebanon",
+        "published": "Sat, 30 May 2026 10:57:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/30/rubio-says-trump-envoy-barrack-to-step-down-from-syria-post?traffic_source=rss"
       },
       {
-        "title": "Frustration in Lebanon as Israel expands invasion",
-        "published": "Sat, 30 May 2026 04:36:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/30/louisiana-lawmakers-pass-congressional-map-favouring-republicans?traffic_source=rss"
+        "title": "Damage seen in northern Israel after Hezbollah launches rocket barrages",
+        "published": "Sat, 30 May 2026 10:13:16 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/30/vallejo-fined-for-sexist-remarks-about-female-referee-at-french-open?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows",
+        "published": "Sat, 30 May 2026 08:54:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/30/voting-ongoing-in-snap-elections-in-malta-governing-party-expected-to-win?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
