@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-31 06:06",
+  "updated_at_gst": "2026-05-31 10:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US Congress advances American-Israeli military integration plan",
-        "published": "Sat, 30 May 2026 22:28:09 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss"
+        "title": "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
+        "published": "Sun, 31 May 2026 00:00:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss"
       },
       {
-        "title": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
-        "published": "Sat, 30 May 2026 21:36:42 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/30/psg-beat-arsenal-to-win-back-to-back-champions-league-titles-after-shootout?traffic_source=rss"
-      },
-      {
-        "title": "Qatar says temporary charges ‘negotiable’",
-        "published": "Sat, 30 May 2026 18:42:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/bruce-springsteen-calls-out-trumps-reckless-administration?traffic_source=rss"
-      },
-      {
-        "title": "Two killed, including Palestinian doctor, in Israeli attacks on Gaza",
-        "published": "Sat, 30 May 2026 17:04:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/liverpool-sack-arne-slot-after-disastrous-premier-league-title-defence?traffic_source=rss"
+        "title": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
+        "published": "Sat, 30 May 2026 19:48:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/qatar-says-temporary-charges-negotiable?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
