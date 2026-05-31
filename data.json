@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-31 18:24",
+  "updated_at_gst": "2026-05-31 19:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran reinstates some internet access but restrictions remain for most",
+        "published": "Sun, 31 May 2026 15:09:43 +0000",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/31/what-are-the-chances-for-the-iran-us-declaration-of?traffic_source=rss"
+      },
+      {
+        "title": "Not just the US: How 51 countries armed Israel during Gaza war",
+        "published": "Sun, 31 May 2026 14:41:14 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-airstrikes-devastate-lebanons-tyre?traffic_source=rss"
+      },
+      {
         "title": "Israeli forces push past Lebanon’s Litani River: How significant is it?",
         "published": "Sun, 31 May 2026 13:39:54 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/31/satellite-imagery-shows-erasure-of-southern-gaza-as-israel-expands-control?traffic_source=rss"
@@ -24,16 +34,6 @@
         "title": "Ukrainian drone attacks hit multiple Russian targets, including refinery",
         "published": "Sun, 31 May 2026 10:07:15 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss"
-      },
-      {
-        "title": "Israel issues more displacement orders in Lebanon, seizes strategic castle",
-        "published": "Sun, 31 May 2026 08:49:53 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/5/31/the-strait-may-reopen-but-global-confidence-may-not-return?traffic_source=rss"
-      },
-      {
-        "title": "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion",
-        "published": "Sun, 31 May 2026 08:29:45 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/31/holder-gauff-beaten-by-potapova-sabalenka-solid-at-french-open?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
