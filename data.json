@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-31 19:44",
+  "updated_at_gst": "2026-05-31 20:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran reinstates some internet access but restrictions remain for most",
-        "published": "Sun, 31 May 2026 15:09:43 +0000",
-        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/31/what-are-the-chances-for-the-iran-us-declaration-of?traffic_source=rss"
+        "title": "What are the chances for the Iran-US ‘Declaration of Principles’?",
+        "published": "Sun, 31 May 2026 15:02:49 +0000",
+        "link": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss"
       },
       {
-        "title": "Not just the US: How 51 countries armed Israel during Gaza war",
-        "published": "Sun, 31 May 2026 14:41:14 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-airstrikes-devastate-lebanons-tyre?traffic_source=rss"
+        "title": "Israeli airstrikes devastate Lebanon’s Tyre",
+        "published": "Sun, 31 May 2026 14:36:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/31/world-health-organization-hails-recovery-of-five-ebola-patients?traffic_source=rss"
       },
       {
-        "title": "Israeli forces push past Lebanon’s Litani River: How significant is it?",
-        "published": "Sun, 31 May 2026 13:39:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/31/satellite-imagery-shows-erasure-of-southern-gaza-as-israel-expands-control?traffic_source=rss"
-      },
-      {
-        "title": "Ukrainian drone attacks hit multiple Russian targets, including refinery",
-        "published": "Sun, 31 May 2026 10:07:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss"
+        "title": "Satellite imagery shows erasure of southern Gaza as Israel expands control",
+        "published": "Sun, 31 May 2026 13:28:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/31/japan-rejects-new-militarism-says-china-is-rapidly-arming?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
