@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-31 16:53",
+  "updated_at_gst": "2026-05-31 18:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli forces cross Lebanon’s Litani River and seize 12th century castle",
-        "published": "Sun, 31 May 2026 11:10:14 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/31/from-afcon-to-world-cup-2026-how-morocco-became-a-football-powerhouse?traffic_source=rss"
+        "title": "Israeli forces push past Lebanon’s Litani River: How significant is it?",
+        "published": "Sun, 31 May 2026 13:39:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/31/satellite-imagery-shows-erasure-of-southern-gaza-as-israel-expands-control?traffic_source=rss"
       },
       {
-        "title": "Trump tightens terms on Iran war deal, US media say",
-        "published": "Sun, 31 May 2026 09:15:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss"
+        "title": "Ukrainian drone attacks hit multiple Russian targets, including refinery",
+        "published": "Sun, 31 May 2026 10:07:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss"
       },
       {
-        "title": "Panic on beach in northern Israel during Hezbollah strikes",
-        "published": "Sun, 31 May 2026 06:43:04 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/31/france-arrests-hundreds-of-rioters-nationwide-as-psg-win-champions-league?traffic_source=rss"
+        "title": "Israel issues more displacement orders in Lebanon, seizes strategic castle",
+        "published": "Sun, 31 May 2026 08:49:53 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/5/31/the-strait-may-reopen-but-global-confidence-may-not-return?traffic_source=rss"
+      },
+      {
+        "title": "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion",
+        "published": "Sun, 31 May 2026 08:29:45 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/31/holder-gauff-beaten-by-potapova-sabalenka-solid-at-french-open?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
