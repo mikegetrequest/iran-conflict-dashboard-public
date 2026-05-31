@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-05-31 13:39",
+  "updated_at_gst": "2026-05-31 15:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israeli forces cross Lebanon’s Litani River and seize 12th century castle",
+        "published": "Sun, 31 May 2026 11:10:14 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/5/31/from-afcon-to-world-cup-2026-how-morocco-became-a-football-powerhouse?traffic_source=rss"
+      },
+      {
         "title": "Trump tightens terms on Iran war deal, US media say",
         "published": "Sun, 31 May 2026 09:15:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss"
@@ -24,16 +29,6 @@
         "title": "Panic on beach in northern Israel during Hezbollah strikes",
         "published": "Sun, 31 May 2026 06:43:04 +0000",
         "link": "https://www.aljazeera.com/sports/2026/5/31/france-arrests-hundreds-of-rioters-nationwide-as-psg-win-champions-league?traffic_source=rss"
-      },
-      {
-        "title": "Congress advances US-Israeli military integration plan",
-        "published": "Sat, 30 May 2026 22:28:09 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss"
-      },
-      {
-        "title": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
-        "published": "Sat, 30 May 2026 21:36:42 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/5/30/psg-beat-arsenal-to-win-back-to-back-champions-league-titles-after-shootout?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
