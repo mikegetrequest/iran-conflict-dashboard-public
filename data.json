@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-02 15:46",
+  "updated_at_gst": "2026-06-02 19:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump says Israel, Hezbollah to stop fighting: What we know",
-        "published": "Tue, 02 Jun 2026 11:21:29 +0000",
-        "link": "https://www.aljazeera.com/features/2026/6/2/how-social-media-is-turning-african-life-into-content-at-a-cost?traffic_source=rss"
+        "title": "Israeli attacks on Lebanon continue after Trump saying they’d stop",
+        "published": "Tue, 02 Jun 2026 13:53:37 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/2/fifa-world-cup-2026-switzerland-embolo-not-travelling-to-us-travel-authorisation-under-review?traffic_source=rss"
       },
       {
-        "title": "How does Iran’s leadership view the emerging deal with the US?",
-        "published": "Tue, 02 Jun 2026 09:59:46 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/6/2/somalia-needs-a-political-settlement-before-it-is-too-late?traffic_source=rss"
+        "title": "UK Athletics fined over death of UAE Paralympian Abdullah Hayayei",
+        "published": "Tue, 02 Jun 2026 13:21:16 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/2/southampton-back-spygate-eckert-despite-worlds-most-lucrative-game-miss?traffic_source=rss"
+      },
+      {
+        "title": "Israel kills 8 in attacks on Lebanon after Trump announces de-escalation",
+        "published": "Tue, 02 Jun 2026 11:25:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/2/trump-says-israel-hezbollah-to-stop-fighting-what-we-know?traffic_source=rss"
+      },
+      {
+        "title": "How the war has made Iran’s water crisis worse",
+        "published": "Tue, 02 Jun 2026 11:13:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-gunman-kills-six-family-members-and-takes-his-own-life?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
