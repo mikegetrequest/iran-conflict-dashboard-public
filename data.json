@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-02 11:02",
+  "updated_at_gst": "2026-06-02 15:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "President Trump attempts to end hostilities in Lebanon",
-        "published": "Tue, 02 Jun 2026 01:48:49 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/2/celebration-shock-and-scepticism-follow-colombias-presidential-election?traffic_source=rss"
+        "title": "Trump says Israel, Hezbollah to stop fighting: What we know",
+        "published": "Tue, 02 Jun 2026 11:21:29 +0000",
+        "link": "https://www.aljazeera.com/features/2026/6/2/how-social-media-is-turning-african-life-into-content-at-a-cost?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
-        "published": "Tue, 02 Jun 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-protesters-clash-with-israeli-police-over-army-draft?traffic_source=rss"
-      },
-      {
-        "title": "Who attended this year’s Israel Day Parade in New York?",
-        "published": "Mon, 01 Jun 2026 21:15:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/video-presidential-election-has-colombia-on-edge?traffic_source=rss"
-      },
-      {
-        "title": "Foreign Christians ask for forgiveness over failure to support Israel at Knesset",
-        "published": "Mon, 01 Jun 2026 21:01:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists?traffic_source=rss"
+        "title": "How does Iran’s leadership view the emerging deal with the US?",
+        "published": "Tue, 02 Jun 2026 09:59:46 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/6/2/somalia-needs-a-political-settlement-before-it-is-too-late?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
