@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-02 06:15",
+  "updated_at_gst": "2026-06-02 11:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Ultra-Orthodox protesters clash with Israeli police over army draft",
-        "published": "Mon, 01 Jun 2026 23:36:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/aje-onl-nf_clip_violent-protests-erupt-in-chile-010626?traffic_source=rss"
+        "title": "President Trump attempts to end hostilities in Lebanon",
+        "published": "Tue, 02 Jun 2026 01:48:49 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/2/celebration-shock-and-scepticism-follow-colombias-presidential-election?traffic_source=rss"
       },
       {
-        "title": "Israeli strike damages hospital in southern Lebanon",
-        "published": "Mon, 01 Jun 2026 18:05:12 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ethiopians-head-to-polls-as-millions-excluded-from-elections?traffic_source=rss"
+        "title": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
+        "published": "Tue, 02 Jun 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-protesters-clash-with-israeli-police-over-army-draft?traffic_source=rss"
+      },
+      {
+        "title": "Who attended this year’s Israel Day Parade in New York?",
+        "published": "Mon, 01 Jun 2026 21:15:08 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/video-presidential-election-has-colombia-on-edge?traffic_source=rss"
+      },
+      {
+        "title": "Foreign Christians ask for forgiveness over failure to support Israel at Knesset",
+        "published": "Mon, 01 Jun 2026 21:01:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
