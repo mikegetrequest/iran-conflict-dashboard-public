@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-03 02:14",
+  "updated_at_gst": "2026-06-03 04:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war live: US strikes Iran’s Qeshm, says Tehran attacks Kuwait, Bahrain",
+        "published": "Wed, 03 Jun 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/rania-al%e2%80%91abbasis-children-the-truth-revealed?traffic_source=rss"
+      },
       {
         "title": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
         "published": "Tue, 02 Jun 2026 21:59:47 +0000",
