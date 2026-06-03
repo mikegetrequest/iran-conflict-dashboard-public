@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-03 04:07",
+  "updated_at_gst": "2026-06-03 09:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,17 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: US strikes Iran’s Qeshm, says Tehran attacks Kuwait, Bahrain",
+        "title": "Accident on Kuwait motorway as Iranian missiles fly overhead",
+        "published": "Wed, 03 Jun 2026 04:33:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/3/rebecca-bennett-wins-new-jersey-democratic-primary-to-face-trump-ally-kean?traffic_source=rss"
+      },
+      {
+        "title": "Benjamin Netanyahu faces Israeli backlash over Lebanon strategy",
+        "published": "Wed, 03 Jun 2026 03:15:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/3/tunisian-court-sentences-ennahdha-leader-rached-ghannouchi-to-life-in-prison?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: US hits Iran’s Qeshm, says Tehran targeted Kuwait, Bahrain",
         "published": "Wed, 03 Jun 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/rania-al%e2%80%91abbasis-children-the-truth-revealed?traffic_source=rss"
       },
@@ -24,16 +34,6 @@
         "title": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
         "published": "Tue, 02 Jun 2026 21:59:47 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/drones-light-up-taipeis-night-sky-for-computex-trade-show?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon hopes crunch talks in Washington will halt an Israeli invasion",
-        "published": "Tue, 02 Jun 2026 19:24:47 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/2/best-young-players-to-watch-at-fifa-world-cup-2026?traffic_source=rss"
-      },
-      {
-        "title": "US says Iran’s new supreme leader alive and ‘increasingly engaging’",
-        "published": "Tue, 02 Jun 2026 19:05:13 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-settlers-torch-palestinian-homes-in-village-near-ramallah?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
