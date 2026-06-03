@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-03 23:02",
+  "updated_at_gst": "2026-06-04 02:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,21 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Kuwait labels Iran attack ‘heinous aggression’",
+        "published": "Wed, 03 Jun 2026 21:16:41 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss"
+      },
+      {
+        "title": "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio",
+        "published": "Wed, 03 Jun 2026 20:38:25 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ten-years-on-world-remembers-muhammad-ali-the-greatest?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s decades-long history of invading Lebanon",
+        "published": "Wed, 03 Jun 2026 19:55:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss"
+      },
       {
         "title": "Iran faces a new energy imbalance, but its options are limited",
         "published": "Wed, 03 Jun 2026 18:19:26 +0000",
