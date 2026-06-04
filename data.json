@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-04 04:10",
+  "updated_at_gst": "2026-06-04 09:15",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israeli strikes on residential buildings kill nine in Gaza City",
+        "published": "Thu, 04 Jun 2026 04:46:17 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Ceasefire tested by US-Iran clashes; Israel kills 9 in Gaza",
+        "published": "Thu, 04 Jun 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/london-activists-try-to-erect-statue-of-jailed-palestinian-leader?traffic_source=rss"
+      },
+      {
         "title": "Trump seeks to split Lebanon talks from war on Iran negotiations",
         "published": "Wed, 03 Jun 2026 23:22:15 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-releases-cctv-footage-of-deadly-iranian-strike-on-airport?traffic_source=rss"
@@ -24,16 +34,6 @@
         "title": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
         "published": "Wed, 03 Jun 2026 21:15:45 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/deadly-fire-rips-through-new-delhi-hotel?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strikes near Tyre hospital put youngest patient at risk",
-        "published": "Wed, 03 Jun 2026 19:37:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/dalai-lama-receives-grammy-award-for-spoken-word-album?traffic_source=rss"
-      },
-      {
-        "title": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
-        "published": "Wed, 03 Jun 2026 17:54:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/3/lula-says-brazil-cannot-accept-treatment-after-new-us-tariffs-proposed?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
