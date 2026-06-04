@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-04 02:07",
+  "updated_at_gst": "2026-06-04 04:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Kuwait labels Iran attack ‘heinous aggression’",
-        "published": "Wed, 03 Jun 2026 21:16:41 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss"
+        "title": "Trump seeks to split Lebanon talks from war on Iran negotiations",
+        "published": "Wed, 03 Jun 2026 23:22:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-releases-cctv-footage-of-deadly-iranian-strike-on-airport?traffic_source=rss"
       },
       {
-        "title": "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio",
-        "published": "Wed, 03 Jun 2026 20:38:25 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ten-years-on-world-remembers-muhammad-ali-the-greatest?traffic_source=rss"
+        "title": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
+        "published": "Wed, 03 Jun 2026 21:15:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/deadly-fire-rips-through-new-delhi-hotel?traffic_source=rss"
       },
       {
-        "title": "Israel’s decades-long history of invading Lebanon",
-        "published": "Wed, 03 Jun 2026 19:55:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss"
+        "title": "Israeli strikes near Tyre hospital put youngest patient at risk",
+        "published": "Wed, 03 Jun 2026 19:37:54 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/dalai-lama-receives-grammy-award-for-spoken-word-album?traffic_source=rss"
       },
       {
-        "title": "Iran faces a new energy imbalance, but its options are limited",
-        "published": "Wed, 03 Jun 2026 18:19:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss"
-      },
-      {
-        "title": "Netanyahu downplays US-Israel rift after Trump confirms criticism",
-        "published": "Wed, 03 Jun 2026 17:07:43 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/3/fifa-world-cup-2026-qatar-squad-team-players-group-knockouts?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settlers are driving Palestinian shepherds from their grazing lands",
-        "published": "Wed, 03 Jun 2026 16:39:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/3/what-is-the-st-petersburg-forum-putins-economic-outreach-to-the-world?traffic_source=rss"
+        "title": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
+        "published": "Wed, 03 Jun 2026 17:54:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/3/lula-says-brazil-cannot-accept-treatment-after-new-us-tariffs-proposed?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
