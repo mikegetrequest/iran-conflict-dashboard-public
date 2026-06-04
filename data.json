@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-04 19:51",
+  "updated_at_gst": "2026-06-04 22:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel’s Smotrich announces plan for 2,162 homes in occupied West Bank",
-        "published": "Thu, 04 Jun 2026 12:06:17 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/4/man-city-threaten-legal-action-against-real-madrid-following-haaland-claim?traffic_source=rss"
+        "title": "Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules",
+        "published": "Thu, 04 Jun 2026 16:38:30 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/4/ronaldo-messi-at-world-cup-who-else-is-playing-their-final-tournament?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s latest truce: What is different from the April agreement?",
+        "published": "Thu, 04 Jun 2026 14:58:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/4/thousands-protest-kushner-linked-coastal-resort-project-in-albania?traffic_source=rss"
+      },
+      {
+        "title": "Iran footballers describe how war with US-Israel affects their World Cup",
+        "published": "Thu, 04 Jun 2026 14:13:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/shark-predicts-winning-start-for-brazil-at-fifa-world-cup?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
