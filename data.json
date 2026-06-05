@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-05 17:45",
+  "updated_at_gst": "2026-06-05 20:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,26 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israeli Knesset member backs settlement push in southern Syria",
+        "published": "Fri, 05 Jun 2026 15:55:13 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/5/man-city-chair-al-mubarak-will-say-everything-after-verdict-on-finances?traffic_source=rss"
+      },
+      {
+        "title": "‘Red meat is a dream’: Iran inflation hits highest level since World War II",
+        "published": "Fri, 05 Jun 2026 15:28:49 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/5/at-least-49-people-die-of-thirst-after-truck-breakdown-in-niger-desert?traffic_source=rss"
+      },
+      {
+        "title": "WFP: War on Iran pushing millions towards hunger",
+        "published": "Fri, 05 Jun 2026 14:41:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/5/nasa-tells-iss-astronauts-to-ready-for-possible-evacuation-amid-leak-repair?traffic_source=rss"
+      },
+      {
+        "title": "Are the US and Iran closer to war or to a deal?",
+        "published": "Fri, 05 Jun 2026 14:33:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/5/gaza-iran-lebanon-if-ceasefires-are-in-place-why-do-strikes-continue?traffic_source=rss"
+      },
+      {
         "title": "Celtic fans oppose Keane as potential manager after Israel role",
         "published": "Fri, 05 Jun 2026 13:36:01 +0000",
         "link": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-hand-passports-to-us-embassy-for-world-cup-visa-approval?traffic_source=rss"
@@ -24,11 +44,6 @@
         "title": "How the US naval blockade has bled Iran of nearly $6bn in oil revenues",
         "published": "Fri, 05 Jun 2026 13:18:18 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/5/drone-explosion-in-romanian-port-spurs-ukraine-war-spillover-fears?traffic_source=rss"
-      },
-      {
-        "title": "UN boosts Lebanon aid appeal as Israeli war drives humanitarian crisis",
-        "published": "Fri, 05 Jun 2026 12:23:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/5/hamas-says-wont-surrender-arms-but-only-police-will-carry-weapons-in-gaza?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
