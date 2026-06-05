@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-05 03:40",
+  "updated_at_gst": "2026-06-05 06:04",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
-        "published": "Thu, 04 Jun 2026 21:40:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/hezbollah-rejects-us-brokered-ceasefire-deal-between-israel-and-lebanon?traffic_source=rss"
+        "title": "Democrat fails to block US measure to deepen Israel military cooperation",
+        "published": "Thu, 04 Jun 2026 23:28:13 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/4/ivory-coast-beat-france-in-world-cup-warning-to-one-of-the-favourites?traffic_source=rss"
+      },
+      {
+        "title": "Hezbollah rejects US-brokered ceasefire deal between Israel and Lebanon",
+        "published": "Thu, 04 Jun 2026 21:07:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/4/us-defence-secretary-compares-bolivia-protests-to-government-overthrow?traffic_source=rss"
+      },
+      {
+        "title": "Block the bombs: Support grows for US bill to restrict arms for Israel",
+        "published": "Thu, 04 Jun 2026 19:43:14 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/4/qualifier-chwalinska-sets-up-andreeva-french-open-final?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
