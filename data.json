@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-06 18:22",
+  "updated_at_gst": "2026-06-06 19:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Activists disrupt German military exhibit over arms sales to Israel",
+        "published": "Sat, 06 Jun 2026 15:34:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strike kills at least six people at wedding in Gaza",
+        "published": "Sat, 06 Jun 2026 14:38:50 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/6/6/what-afghanistans-rotten-apples-tell-us-about-its-non-profit-sector?traffic_source=rss"
+      },
+      {
         "title": "Lebanon and Israel’s perpetual war machine",
         "published": "Sat, 06 Jun 2026 13:31:49 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/6/pope-calls-for-end-to-polarisation-during-visit-to-spain?traffic_source=rss"
@@ -24,16 +34,6 @@
         "title": "Iran 2026 World Cup squad heads to Mexico as US visa dispute erupts",
         "published": "Sat, 06 Jun 2026 12:01:32 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/6/russia-says-hundreds-of-ukrainian-drones-downed-as-economic-forum-ends?traffic_source=rss"
-      },
-      {
-        "title": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
-        "published": "Sat, 06 Jun 2026 10:52:07 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/6/vaibhav-sooryavanshi-ipl-india-t20-team-call-up-england-ireland-asian-games?traffic_source=rss"
-      },
-      {
-        "title": "‘Badge of honour’: Israeli settlers shrug off global condemnation",
-        "published": "Sat, 06 Jun 2026 09:18:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/6/supporters-of-the-cockroach-peoples-party-hold-protest-in-new-delhi?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
