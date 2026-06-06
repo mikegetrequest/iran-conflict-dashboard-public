@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-06 15:01",
+  "updated_at_gst": "2026-06-06 16:47",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran 2026 World Cup squad heads to Mexico as US visa dispute erupts",
+        "published": "Sat, 06 Jun 2026 12:01:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/6/russia-says-hundreds-of-ukrainian-drones-downed-as-economic-forum-ends?traffic_source=rss"
+      },
       {
         "title": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
         "published": "Sat, 06 Jun 2026 10:52:07 +0000",
