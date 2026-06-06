@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-06 10:19",
+  "updated_at_gst": "2026-06-06 13:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Man dies in Western Australia after shark attack",
+        "published": "Sat, 06 Jun 2026 08:17:32 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/mexico-zoo-animals-predict-world-cup-winners?traffic_source=rss"
+      },
+      {
+        "title": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
+        "published": "Sat, 06 Jun 2026 07:51:28 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/us-says-iranian-radar-sites-hit-in-goruk-and-qeshm-island?traffic_source=rss"
+      },
+      {
         "title": "France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists",
         "published": "Fri, 05 Jun 2026 19:51:23 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/families-clear-rubble-after-overnight-israeli-strikes-in-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Is the latest US ceasefire deal for Lebanon meaningless?",
-        "published": "Fri, 05 Jun 2026 18:45:16 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/huge-fire-erupts-at-honda-warehouse-in-barcelona?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
