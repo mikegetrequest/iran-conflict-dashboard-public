@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-07 00:37",
+  "updated_at_gst": "2026-06-07 01:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
+        "published": "Sat, 06 Jun 2026 21:10:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss"
+      },
+      {
         "title": "Palestinian father buries baby killed by Israeli gunfire in West Bank",
         "published": "Sat, 06 Jun 2026 19:38:13 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Israeli attack on Gaza City tent camp kills at least seven",
         "published": "Sat, 06 Jun 2026 14:38:50 +0000",
         "link": "https://www.aljazeera.com/opinions/2026/6/6/what-afghanistans-rotten-apples-tell-us-about-its-non-profit-sector?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon and Israel’s perpetual war machine",
-        "published": "Sat, 06 Jun 2026 13:31:49 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/6/pope-calls-for-end-to-polarisation-during-visit-to-spain?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
