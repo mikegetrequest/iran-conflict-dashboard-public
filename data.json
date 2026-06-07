@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-07 23:08",
+  "updated_at_gst": "2026-06-08 00:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Police say two suspects have been shot and killed in Israel gun attack",
-        "published": "Sun, 07 Jun 2026 16:17:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss"
+        "title": "Iran fires missiles at Israel after it attacked Beirut",
+        "published": "Sun, 07 Jun 2026 20:12:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss"
       },
       {
-        "title": "From online class to Revolution Square: A Tehran teacher’s routine amid war",
-        "published": "Sun, 07 Jun 2026 15:44:21 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss"
+        "title": "Iranian World Cup excitement dulled by war and economic crisis",
+        "published": "Sun, 07 Jun 2026 19:43:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/7/malta-latest?traffic_source=rss"
       },
       {
-        "title": "Iran’s World Cup team arrives in Mexico as US visa row continues",
-        "published": "Sun, 07 Jun 2026 15:16:16 +0000",
-        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/7/does-israel-really-think-it-can-get-rid-of-hezbollah-in-lebanon?traffic_source=rss"
+        "title": "Hezbollah MP: Resistance defends Lebanon where the state failed",
+        "published": "Sun, 07 Jun 2026 19:13:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/7/lawsuit-seeks-to-stop-trumps-planned-white-house-ufc-match?traffic_source=rss"
+      },
+      {
+        "title": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
+        "published": "Sun, 07 Jun 2026 16:49:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/police-say-two-suspects-have-been-shot-and-killed-in-israel-gun-attack?traffic_source=rss"
+      },
+      {
+        "title": "Al Jazeera reports from Beirut after Israeli attack",
+        "published": "Sun, 07 Jun 2026 16:04:21 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s World Cup squad lands in Mexico amid US visa row",
+        "published": "Sun, 07 Jun 2026 15:20:11 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/irans-world-cup-team-arrives-in-mexico-as-us-visa-row-continues?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
