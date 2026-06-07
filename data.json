@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-08 00:41",
+  "updated_at_gst": "2026-06-08 01:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran fires missiles at Israel after it attacked Beirut",
-        "published": "Sun, 07 Jun 2026 20:12:55 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss"
+        "title": "Videos show missiles launched from Iran into Israel",
+        "published": "Sun, 07 Jun 2026 21:14:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss"
       },
       {
-        "title": "Iranian World Cup excitement dulled by war and economic crisis",
-        "published": "Sun, 07 Jun 2026 19:43:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/7/malta-latest?traffic_source=rss"
+        "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
+        "published": "Sun, 07 Jun 2026 21:08:59 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss"
       },
       {
-        "title": "Hezbollah MP: Resistance defends Lebanon where the state failed",
-        "published": "Sun, 07 Jun 2026 19:13:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/7/lawsuit-seeks-to-stop-trumps-planned-white-house-ufc-match?traffic_source=rss"
+        "title": "Iran losing patience with Israel and US over ceasefire violations",
+        "published": "Sun, 07 Jun 2026 20:01:46 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss"
       },
       {
-        "title": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
-        "published": "Sun, 07 Jun 2026 16:49:44 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/police-say-two-suspects-have-been-shot-and-killed-in-israel-gun-attack?traffic_source=rss"
-      },
-      {
-        "title": "Al Jazeera reports from Beirut after Israeli attack",
-        "published": "Sun, 07 Jun 2026 16:04:21 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s World Cup squad lands in Mexico amid US visa row",
-        "published": "Sun, 07 Jun 2026 15:20:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/irans-world-cup-team-arrives-in-mexico-as-us-visa-row-continues?traffic_source=rss"
+        "title": "Police say two suspects have been shot and killed in Israel gun attack",
+        "published": "Sun, 07 Jun 2026 16:17:59 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
