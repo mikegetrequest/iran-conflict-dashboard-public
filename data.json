@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-07 10:45",
+  "updated_at_gst": "2026-06-07 13:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "By the numbers: 100 days of the US-Israel war on Iran",
-        "published": "Sun, 07 Jun 2026 05:30:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss"
+        "title": "100 days of the US–Israel war on Iran",
+        "published": "Sun, 07 Jun 2026 09:34:16 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/7/how-the-hosts-are-preparing-for-an-ebola-outbreak-during-world-cup-2026?traffic_source=rss"
       },
       {
-        "title": "Rights group says drone strike kills 11 in central Sudan market",
-        "published": "Sat, 06 Jun 2026 20:54:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/6/us-doctor-recovers-from-ebola-in-germany-as-drc-cases-surge-to-488?traffic_source=rss"
+        "title": "Iran criticizes US refusal to grant visas for World Cup delegation",
+        "published": "Sun, 07 Jun 2026 09:19:58 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/7/who-are-the-best-star-players-to-watch-at-fifa-world-cup-2026?traffic_source=rss"
       },
       {
-        "title": "Video shows Israeli soldier and settlers assaulting two Palestinians",
-        "published": "Sat, 06 Jun 2026 19:48:22 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss"
+        "title": "Iran after 100 days of war: The triumph of survival",
+        "published": "Sun, 07 Jun 2026 08:52:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/7/pakistans-naqvi-visits-iran-with-special-letter-for-supreme-leader?traffic_source=rss"
       },
       {
-        "title": "Israeli attack on Gaza City tent camp kills several Palestinians",
-        "published": "Sat, 06 Jun 2026 19:25:27 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/6/6/from-first-lady-to-president-inside-the-rise-of-perus-keiko-fujimori?traffic_source=rss"
+        "title": "At least a dozen injured from shooting attack near Ohio festival",
+        "published": "Sun, 07 Jun 2026 08:18:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/7/lebanon-army-chief-in-pakistan-funeral-planned-for-troops-killed-by-israel?traffic_source=rss"
+      },
+      {
+        "title": "How many times were the US and Iran on the verge of a deal?",
+        "published": "Sun, 07 Jun 2026 04:51:02 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/7/why-is-chinese-president-xi-jinping-visiting-north-korea-now?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
