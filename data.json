@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-07 03:54",
+  "updated_at_gst": "2026-06-07 06:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
+        "published": "Sun, 07 Jun 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/6/trump-pardons-former-us-congress-member-accused-of-insider-trading?traffic_source=rss"
+      },
+      {
         "title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
         "published": "Sat, 06 Jun 2026 21:10:36 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Activists disrupt German military exhibit over arms sales to Israel",
         "published": "Sat, 06 Jun 2026 15:34:47 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss"
-      },
-      {
-        "title": "Israeli attack on Gaza City tent camp kills at least seven",
-        "published": "Sat, 06 Jun 2026 14:38:50 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/6/6/what-afghanistans-rotten-apples-tell-us-about-its-non-profit-sector?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
