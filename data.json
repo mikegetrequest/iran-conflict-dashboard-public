@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-08 11:20",
+  "updated_at_gst": "2026-06-08 16:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Satellite images show destruction of the US-Israel war on Iran",
-        "published": "Mon, 08 Jun 2026 04:47:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/aje-onl-nf_debris-reported-in-jordan-after-iranian-missiles-070626?traffic_source=rss"
+        "title": "Video: Israel claims strike on Iranian petrochemical complex",
+        "published": "Mon, 08 Jun 2026 11:50:00 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/8/which-european-nation-has-the-best-chance-to-win-world-cup-2026?traffic_source=rss"
       },
       {
-        "title": "Iran and Israel trade threats after Tehran launches missiles",
-        "published": "Mon, 08 Jun 2026 00:13:30 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss"
+        "title": "Iran and Israel bomb each other: Is the ceasefire over?",
+        "published": "Mon, 08 Jun 2026 10:38:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/8/pm-pashinyans-party-wins-armenia-election-preliminary-results-show?traffic_source=rss"
       },
       {
-        "title": "Videos show missiles launched from Iran into Israel",
-        "published": "Sun, 07 Jun 2026 21:14:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss"
+        "title": "Israel kills 14 people in attacks across Gaza",
+        "published": "Mon, 08 Jun 2026 10:23:27 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/8/philippines-earthquake-kills-15-prompts-tsunami-fears-all-to-know?traffic_source=rss"
       },
       {
-        "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
-        "published": "Sun, 07 Jun 2026 21:08:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss"
-      },
-      {
-        "title": "Iran losing patience with Israel and US over ceasefire violations",
-        "published": "Sun, 07 Jun 2026 20:01:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss"
+        "title": "Asia’s stock markets dive amid Iran-Israel conflict, Wall Street jitters",
+        "published": "Mon, 08 Jun 2026 08:49:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/8/ukraine-russia-trade-fire-as-zelenskyy-allies-back-call-for-direct-talks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
