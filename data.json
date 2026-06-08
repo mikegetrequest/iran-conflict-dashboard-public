@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-08 03:55",
+  "updated_at_gst": "2026-06-08 06:38",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Videos show missiles launched from Iran into Israel",
-        "published": "Sun, 07 Jun 2026 21:14:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss"
+        "title": "Powerful quake strikes Philippines, triggering tsunami alerts across Asia",
+        "published": "Mon, 08 Jun 2026 00:23:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss"
       },
       {
-        "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
-        "published": "Sun, 07 Jun 2026 21:08:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss"
+        "title": "Iran war live: Explosions in Tehran, Isfahan as Israel launches attacks",
+        "published": "Mon, 08 Jun 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/north-koreas-kim-jong-un-inspects-munitions-at-weapons-factory-2?traffic_source=rss"
       },
       {
-        "title": "Iran losing patience with Israel and US over ceasefire violations",
-        "published": "Sun, 07 Jun 2026 20:01:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss"
+        "title": "Iran’s attack on Israel aims to restore deterrence but avoid return to war",
+        "published": "Sun, 07 Jun 2026 21:33:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss"
       },
       {
-        "title": "Police say two suspects have been shot and killed in Israel gun attack",
-        "published": "Sun, 07 Jun 2026 16:17:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss"
+        "title": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
+        "published": "Sun, 07 Jun 2026 21:12:03 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss"
+      },
+      {
+        "title": "Iran fires missiles at Israel after it attacked Beirut",
+        "published": "Sun, 07 Jun 2026 20:12:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss"
+      },
+      {
+        "title": "Iranian World Cup excitement dulled by war and economic crisis",
+        "published": "Sun, 07 Jun 2026 19:43:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/7/malta-latest?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
