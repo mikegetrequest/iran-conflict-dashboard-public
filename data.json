@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-09 20:14",
+  "updated_at_gst": "2026-06-09 22:25",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israel preventing more than 16,500 Palestinians from accessing medical treatment",
+        "published": "Tue, 09 Jun 2026 18:08:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/9/anything-but-normal-uncertainty-as-iranians-try-to-get-by-amid-us-war?traffic_source=rss"
+      },
+      {
+        "title": "Palestinians confront Israeli settlers over land grab near Hebron",
+        "published": "Tue, 09 Jun 2026 17:55:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/mexico-prepares-for-world-cup-opening-match-amid-protests?traffic_source=rss"
+      },
+      {
         "title": "Trump says in ‘final throes’ of peace deal but at least 8 killed in Lebanon",
         "published": "Tue, 09 Jun 2026 13:41:52 +0000",
         "link": "https://www.aljazeera.com/features/2026/6/9/shackled-bleeding-raped-palestinians-describe-abuse-in-israels-prisons?traffic_source=rss"
-      },
-      {
-        "title": "Italy’s foreign minister slams Israel’s Ben-Gvir over ‘flip-flop’ comments",
-        "published": "Tue, 09 Jun 2026 12:00:18 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/new-video-of-great-white-shark-in-mediterranean-goes-viral?traffic_source=rss"
-      },
-      {
-        "title": "Israel attacks Tyre in Lebanon, tells all residents to leave",
-        "published": "Tue, 09 Jun 2026 11:51:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/9/trump-booed-thunderously-at-nba-finals-what-we-know?traffic_source=rss"
-      },
-      {
-        "title": "Hundred days of Israel’s latest war on Lebanon",
-        "published": "Tue, 09 Jun 2026 10:37:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/9/historic-wave-of-palestinian-solidarity-grows-at-universities-in-germany?traffic_source=rss"
-      },
-      {
-        "title": "Russian attacks kill 5 in Ukraine as Zelenskyy hails talks with US envoys",
-        "published": "Tue, 09 Jun 2026 10:18:17 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/9/ronaldo-messi-still-the-largest-world-cup-draws-or-is-mbappe-bigger?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
