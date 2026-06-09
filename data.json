@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-09 17:20",
+  "updated_at_gst": "2026-06-09 20:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump says in ‘final throes’ of peace deal but at least 8 killed in Lebanon",
+        "published": "Tue, 09 Jun 2026 13:41:52 +0000",
+        "link": "https://www.aljazeera.com/features/2026/6/9/shackled-bleeding-raped-palestinians-describe-abuse-in-israels-prisons?traffic_source=rss"
+      },
       {
         "title": "Italy’s foreign minister slams Israel’s Ben-Gvir over ‘flip-flop’ comments",
         "published": "Tue, 09 Jun 2026 12:00:18 +0000",
@@ -34,16 +39,6 @@
         "title": "Russian attacks kill 5 in Ukraine as Zelenskyy hails talks with US envoys",
         "published": "Tue, 09 Jun 2026 10:18:17 +0000",
         "link": "https://www.aljazeera.com/sports/2026/6/9/ronaldo-messi-still-the-largest-world-cup-draws-or-is-mbappe-bigger?traffic_source=rss"
-      },
-      {
-        "title": "Iran says US has revoked World Cup ticket allocation for their supporters",
-        "published": "Tue, 09 Jun 2026 08:58:20 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/9/ranking-the-middle-east-and-north-african-teams-at-world-cup-2026?traffic_source=rss"
-      },
-      {
-        "title": "Indian crew rescued after attack on oil tanker off Oman",
-        "published": "Tue, 09 Jun 2026 08:37:36 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/9/deschamps-backs-hat-trick-hero-olise-to-shine-for-france-at-world-cup?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
