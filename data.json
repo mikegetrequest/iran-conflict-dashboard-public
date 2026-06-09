@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-09 14:08",
+  "updated_at_gst": "2026-06-09 17:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,26 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Italy’s foreign minister slams Israel’s Ben-Gvir over ‘flip-flop’ comments",
+        "published": "Tue, 09 Jun 2026 12:00:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/new-video-of-great-white-shark-in-mediterranean-goes-viral?traffic_source=rss"
+      },
+      {
+        "title": "Israel attacks Tyre in Lebanon, tells all residents to leave",
+        "published": "Tue, 09 Jun 2026 11:51:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/9/trump-booed-thunderously-at-nba-finals-what-we-know?traffic_source=rss"
+      },
+      {
+        "title": "Hundred days of Israel’s latest war on Lebanon",
+        "published": "Tue, 09 Jun 2026 10:37:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/9/historic-wave-of-palestinian-solidarity-grows-at-universities-in-germany?traffic_source=rss"
+      },
+      {
+        "title": "Russian attacks kill 5 in Ukraine as Zelenskyy hails talks with US envoys",
+        "published": "Tue, 09 Jun 2026 10:18:17 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/9/ronaldo-messi-still-the-largest-world-cup-draws-or-is-mbappe-bigger?traffic_source=rss"
+      },
+      {
         "title": "Iran says US has revoked World Cup ticket allocation for their supporters",
         "published": "Tue, 09 Jun 2026 08:58:20 +0000",
         "link": "https://www.aljazeera.com/sports/2026/6/9/ranking-the-middle-east-and-north-african-teams-at-world-cup-2026?traffic_source=rss"
@@ -24,21 +44,6 @@
         "title": "Indian crew rescued after attack on oil tanker off Oman",
         "published": "Tue, 09 Jun 2026 08:37:36 +0000",
         "link": "https://www.aljazeera.com/sports/2026/6/9/deschamps-backs-hat-trick-hero-olise-to-shine-for-france-at-world-cup?traffic_source=rss"
-      },
-      {
-        "title": "‘They were laughing’: Israel’s use of rape and sexual abuse in prisons",
-        "published": "Tue, 09 Jun 2026 08:13:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-says-iran-deal-in-final?traffic_source=rss"
-      },
-      {
-        "title": "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds",
-        "published": "Tue, 09 Jun 2026 07:25:06 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/9/wembanyama-scores-32-as-spurs-power-past-knicks-in-game-3-of-nba-finals?traffic_source=rss"
-      },
-      {
-        "title": "Palestine weekly wrap: Israel presses deeper into Gaza as Cairo talks begin",
-        "published": "Tue, 09 Jun 2026 07:19:22 +0000",
-        "link": "https://www.aljazeera.com/features/2026/6/9/irans-lakes-are-vanishing-satellite-images-show-a-deepening-water-crisis-2?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
