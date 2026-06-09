@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-10 02:00",
+  "updated_at_gst": "2026-06-10 03:47",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump vows retaliation after claiming Iran shot down Apache helicopter",
-        "published": "Tue, 09 Jun 2026 21:17:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss"
+        "title": "Israeli forces kill nine in Tyre after issuing forced displacement orders",
+        "published": "Tue, 09 Jun 2026 21:01:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/9/canada-confirms-opening-of-gordie-howe-bridge-despite-trumps-threats?traffic_source=rss"
       },
       {
-        "title": "Iran conflict: Why has oil stayed near $100 a barrel?",
-        "published": "Tue, 09 Jun 2026 20:05:00 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/6/9/what-will-the-fallout-be-from-the-unrest-in-pakistan-administered-kashmir?traffic_source=rss"
+        "title": "‘Anything but normal’: Uncertainty as Iranians try to get by amid US war",
+        "published": "Tue, 09 Jun 2026 17:59:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/palestinians-confront-israeli-settlers-over-land-grab-near-hebron?traffic_source=rss"
       },
       {
-        "title": "Israel preventing more than 16,500 Palestinians from accessing medical treatment",
-        "published": "Tue, 09 Jun 2026 18:08:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/9/anything-but-normal-uncertainty-as-iranians-try-to-get-by-amid-us-war?traffic_source=rss"
-      },
-      {
-        "title": "Palestinians confront Israeli settlers over land grab near Hebron",
-        "published": "Tue, 09 Jun 2026 17:55:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/mexico-prepares-for-world-cup-opening-match-amid-protests?traffic_source=rss"
+        "title": "US attacks Iran after Trump calls for response to Apache helicopter downing",
+        "published": "Tue, 09 Jun 2026 16:54:15 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/6/9/kenyas-police-crack-down-on-protest-against-us-ebola-centre-in-nanyuki?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
