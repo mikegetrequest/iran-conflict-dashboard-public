@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-10 14:46",
+  "updated_at_gst": "2026-06-10 18:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "7-month-old baby shot by Israeli soldier in Hebron",
+        "published": "Wed, 10 Jun 2026 12:44:39 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/ukraine-made-flamingo-missile-hits-target-900-km-inside-russia?traffic_source=rss"
+      },
+      {
+        "title": "Apache down, fighting up: What the latest US-Iran attacks mean",
+        "published": "Wed, 10 Jun 2026 11:50:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/10/satellite-images-show-israels-destruction-of-historical-city-of-tyre?traffic_source=rss"
+      },
+      {
         "title": "A four-year-old’s recovery from the trauma of war in Lebanon",
         "published": "Wed, 10 Jun 2026 10:09:41 +0000",
         "link": "https://www.aljazeera.com/sports/2026/6/10/why-is-the-fifa-world-cup-2026-being-held-in-three-countries?traffic_source=rss"
@@ -24,16 +34,6 @@
         "title": "Iran fires missiles at US bases carrying images of killed commanders",
         "published": "Wed, 10 Jun 2026 09:45:33 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/10/indias-bengal-pushes-out-muslim-bangladeshis-deepening-religious-tensions?traffic_source=rss"
-      },
-      {
-        "title": "Rising from the rubble: A Gaza tech incubator defies Israel’s war",
-        "published": "Wed, 10 Jun 2026 08:27:28 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/spidercam-crashes-onto-pitch-during-hungary-match?traffic_source=rss"
-      },
-      {
-        "title": "Iran war day 103: US strikes after helicopter shot down, Tehran hits back",
-        "published": "Wed, 10 Jun 2026 07:16:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/10/indonesia-jails-four-military-officers-for-acid-attack-on-rights-activist?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
