@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-10 18:14",
+  "updated_at_gst": "2026-06-10 21:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Mass shooting with at least 10 attackers in Johannesburg",
+        "published": "Wed, 10 Jun 2026 16:30:54 +0000",
+        "link": "https://www.aljazeera.com/video/making-peace/2026/6/10/the-light-within-ep-5-el?traffic_source=rss"
+      },
+      {
+        "title": "Trump hardens tone against Iran, says ‘may keep going’ with strikes",
+        "published": "Wed, 10 Jun 2026 15:53:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/10/thai-woman-in-custody-after-us-diplomat-found-dead-in-myanmar?traffic_source=rss"
+      },
+      {
         "title": "7-month-old baby shot by Israeli soldier in Hebron",
         "published": "Wed, 10 Jun 2026 12:44:39 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/ukraine-made-flamingo-missile-hits-target-900-km-inside-russia?traffic_source=rss"
-      },
-      {
-        "title": "Apache down, fighting up: What the latest US-Iran attacks mean",
-        "published": "Wed, 10 Jun 2026 11:50:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/10/satellite-images-show-israels-destruction-of-historical-city-of-tyre?traffic_source=rss"
-      },
-      {
-        "title": "A four-year-old’s recovery from the trauma of war in Lebanon",
-        "published": "Wed, 10 Jun 2026 10:09:41 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/10/why-is-the-fifa-world-cup-2026-being-held-in-three-countries?traffic_source=rss"
-      },
-      {
-        "title": "Iran fires missiles at US bases carrying images of killed commanders",
-        "published": "Wed, 10 Jun 2026 09:45:33 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/10/indias-bengal-pushes-out-muslim-bangladeshis-deepening-religious-tensions?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
