@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-10 10:46",
+  "updated_at_gst": "2026-06-10 14:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UN report: Israeli forces shield settlers during attacks on Palestinians",
-        "published": "Wed, 10 Jun 2026 04:33:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/jordan-intercepts-iranian-missiles-over-its-airspace?traffic_source=rss"
+        "title": "A four-year-old’s recovery from the trauma of war in Lebanon",
+        "published": "Wed, 10 Jun 2026 10:09:41 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/10/why-is-the-fifa-world-cup-2026-being-held-in-three-countries?traffic_source=rss"
       },
       {
-        "title": "Protesters torch cars, buildings in Belfast after knife attack",
-        "published": "Wed, 10 Jun 2026 02:23:18 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/aje-onl-nf_belfast-plunged-into-chaos-as-vehicles-set-ablaze-090626?traffic_source=rss"
+        "title": "Iran fires missiles at US bases carrying images of killed commanders",
+        "published": "Wed, 10 Jun 2026 09:45:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/10/indias-bengal-pushes-out-muslim-bangladeshis-deepening-religious-tensions?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Tehran targets US forces in Bahrain, Jordan, Kuwait",
-        "published": "Wed, 10 Jun 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss"
+        "title": "Rising from the rubble: A Gaza tech incubator defies Israel’s war",
+        "published": "Wed, 10 Jun 2026 08:27:28 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/spidercam-crashes-onto-pitch-during-hungary-match?traffic_source=rss"
+      },
+      {
+        "title": "Iran war day 103: US strikes after helicopter shot down, Tehran hits back",
+        "published": "Wed, 10 Jun 2026 07:16:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/10/indonesia-jails-four-military-officers-for-acid-attack-on-rights-activist?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
