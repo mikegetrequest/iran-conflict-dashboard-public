@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-11 00:05",
+  "updated_at_gst": "2026-06-11 02:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US Defence Secretary Hegseth pledges strikes on ‘key facilities’ in Iran",
+        "published": "Wed, 10 Jun 2026 21:51:57 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/10/trump-directs-interim-us-intelligence-chief-bill-pulte-to-downsize-agency?traffic_source=rss"
+      },
+      {
+        "title": "Israel kills 16 in Lebanon, UN to probe international law violations",
+        "published": "Wed, 10 Jun 2026 20:46:39 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/heros-welcome-for-omar-artan-after-somalis-world-cup-dreams-dashed?traffic_source=rss"
+      },
+      {
+        "title": "Gwyneth Paltrow’s Israeli real estate ad goes viral",
+        "published": "Wed, 10 Jun 2026 20:41:29 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/first-image-in-months-emerges-of-dr-hussam-abu-safia?traffic_source=rss"
+      },
+      {
         "title": "Israeli strike on a car kills two in Sidon, Lebanon",
         "published": "Wed, 10 Jun 2026 19:23:23 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/trump-were-working-to-make-sure-the-right-people-come?traffic_source=rss"
@@ -29,16 +44,6 @@
         "title": "Trump warns of more attacks on Iran after US Apache helicopter downing",
         "published": "Wed, 10 Jun 2026 18:22:13 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/10/us-military-chief-hegseth-warns-cuba-against-acquiring-military-arms?traffic_source=rss"
-      },
-      {
-        "title": "Mass shooting with at least 10 attackers in Johannesburg",
-        "published": "Wed, 10 Jun 2026 16:30:54 +0000",
-        "link": "https://www.aljazeera.com/video/making-peace/2026/6/10/the-light-within-ep-5-el?traffic_source=rss"
-      },
-      {
-        "title": "Trump hardens tone against Iran, says ‘may keep going’ with strikes",
-        "published": "Wed, 10 Jun 2026 15:53:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/10/thai-woman-in-custody-after-us-diplomat-found-dead-in-myanmar?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
