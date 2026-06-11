@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-11 19:28",
+  "updated_at_gst": "2026-06-11 22:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,12 +16,27 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Drone strikes on central Sudanese city kill up to 23: NGO",
+        "published": "Thu, 11 Jun 2026 17:49:52 +0000",
+        "link": "https://www.aljazeera.com/features/longform/2026/6/11/property-deeds-no-protection-for-palestinians-as-settler-violence-spreads?traffic_source=rss"
+      },
+      {
+        "title": "US-Iran war to pull global economy to post-COVID low: World Bank",
+        "published": "Thu, 11 Jun 2026 16:55:16 +0000",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/11/gold-is-now-the-top-reserve-asset-is-dollar-dominance-at-risk?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon Latest: Ceasefire talks continue under fire",
+        "published": "Thu, 11 Jun 2026 15:50:16 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/11/firefighters-on-scene-at-pentagon-during-hazardous-materials-incident?traffic_source=rss"
+      },
+      {
         "title": "Trailer: Israel’s Darkest Weapon | Al Jazeera Originals",
         "published": "Thu, 11 Jun 2026 15:05:05 +0000",
         "link": "https://www.aljazeera.com/sports/liveblog/2026/6/11/live-mexico-vs-south-africa-world-cup-2026?traffic_source=rss"
       },
       {
-        "title": "Trump says US will ‘be taking’ Kharg Island in latest Iran war threat",
+        "title": "Trump calls off third night of Iran strikes after threatening Kharg Island",
         "published": "Thu, 11 Jun 2026 14:46:29 +0000",
         "link": "https://www.aljazeera.com/video/2026/6/11/israels-darkest-weapon-al-jazeera-originals?traffic_source=rss"
       },
