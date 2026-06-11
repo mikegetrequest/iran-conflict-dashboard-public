@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-11 11:11",
+  "updated_at_gst": "2026-06-11 15:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war day 104: Iran attacks US bases, closes strait after Trump strikes",
-        "published": "Thu, 11 Jun 2026 05:52:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/11/why-indias-deadly-dengue-crisis-is-now-no-longer-confined-to-the-monsoons?traffic_source=rss"
+        "title": "Video shows Gaza teen fisherman before Israeli forces killed him at sea",
+        "published": "Thu, 11 Jun 2026 11:23:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/117-8-million-fled-their-homes-worldwide-lebanons-shelter-crisis-worsens?traffic_source=rss"
       },
       {
-        "title": "Dahiyeh crowds rally in favour of Iranian support against Israel",
-        "published": "Thu, 11 Jun 2026 03:49:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/11/police-in-belfast-use-water-cannon-as-anti-immigrant-unrest-continues?traffic_source=rss"
+        "title": "Iran says 18 targets hit across US bases, Strait of Hormuz closed",
+        "published": "Thu, 11 Jun 2026 11:02:59 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs?traffic_source=rss"
+      },
+      {
+        "title": "UK, Australia, Canada launch $4m peace fund for Israel-Palestine conflict",
+        "published": "Thu, 11 Jun 2026 08:59:25 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/11/south-korea-vs-czechia-world-cup-group-match-teams-start-and-lineups?traffic_source=rss"
+      },
+      {
+        "title": "Bodies of Evidence: Sexual violence in Israeli prisons",
+        "published": "Thu, 11 Jun 2026 07:35:46 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/us-releases-video-of-warship-firing-missiles-in-strikes-on-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
