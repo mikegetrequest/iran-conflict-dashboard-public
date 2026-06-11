@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-11 03:52",
+  "updated_at_gst": "2026-06-11 06:15",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran announces closure of Strait of Hormuz following US strikes",
+        "published": "Thu, 11 Jun 2026 01:18:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/fifa-boss-tells-critics-to-relax-over-somali-referee-deportation?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran targets Bahrain, Kuwaiti bases after new US strikes",
+        "published": "Thu, 11 Jun 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss"
+      },
+      {
         "title": "India summons US envoy over attack on ship carrying Indian sailors off Oman",
         "published": "Wed, 10 Jun 2026 20:05:59 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/israeli-strike-on-a-car-kills-two-in-sidon-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Why Lebanon remains caught up in the Israel-Iran conflict",
-        "published": "Wed, 10 Jun 2026 18:54:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-says-it-will-not-hesitate-to-defend-itself-after-latest-clashes?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
