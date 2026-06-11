@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-12 01:09",
+  "updated_at_gst": "2026-06-12 03:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel releases Hamas co-founder after two years in detention",
-        "published": "Thu, 11 Jun 2026 20:25:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/11/trump-administration-sanctions-cubas-national-oil-company-blasts-castros?traffic_source=rss"
+        "title": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
+        "published": "Thu, 11 Jun 2026 21:49:27 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/11/man-pleads-guilty-to-slaying-top-democrat-and-her-husband-in-minnesota?traffic_source=rss"
       },
       {
-        "title": "Israel deports French journalist accused of supporting Hamas",
-        "published": "Thu, 11 Jun 2026 19:52:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/11/china-bars-philippines-defence-chief-as-south-china-sea-spat-sails-onwards?traffic_source=rss"
+        "title": "What is the Amal Movement, Lebanon’s other Shia party?",
+        "published": "Thu, 11 Jun 2026 19:20:39 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/11/jose-mourinho-named-real-madrid-coach-on-three-year-deal?traffic_source=rss"
       },
       {
-        "title": "Israeli government mulling huge funding to expand West Bank settlement: NGO",
-        "published": "Thu, 11 Jun 2026 18:45:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/11/toronto-police-officer-shot-while-investigating-attack-on-us-consulate?traffic_source=rss"
-      },
-      {
-        "title": "Drone strikes on central Sudanese city kill up to 23: NGO",
-        "published": "Thu, 11 Jun 2026 17:49:52 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/6/11/property-deeds-no-protection-for-palestinians-as-settler-violence-spreads?traffic_source=rss"
-      },
-      {
-        "title": "US-Iran war to pull global economy to post-COVID low: World Bank",
-        "published": "Thu, 11 Jun 2026 16:55:16 +0000",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/11/gold-is-now-the-top-reserve-asset-is-dollar-dominance-at-risk?traffic_source=rss"
+        "title": "Toronto police officer shot while investigating attack on US consulate",
+        "published": "Thu, 11 Jun 2026 18:35:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/two-sentenced-to-death-in-bangkok-bombing?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
