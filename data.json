@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-12 03:00",
+  "updated_at_gst": "2026-06-12 05:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
+        "published": "Fri, 12 Jun 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/11/who-are-julian-quinones-and-raul-jimenez-mexicos-opening-match-scorers?traffic_source=rss"
+      },
+      {
+        "title": "Trump says US and Iran have reached a ‘great settlement’",
+        "published": "Thu, 11 Jun 2026 23:29:01 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/6/11/musks-1-8-trillion-spacex-ipo-could-be-highly-undesirable-for-some?traffic_source=rss"
+      },
+      {
         "title": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
         "published": "Thu, 11 Jun 2026 21:49:27 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/11/man-pleads-guilty-to-slaying-top-democrat-and-her-husband-in-minnesota?traffic_source=rss"
-      },
-      {
-        "title": "What is the Amal Movement, Lebanon’s other Shia party?",
-        "published": "Thu, 11 Jun 2026 19:20:39 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/11/jose-mourinho-named-real-madrid-coach-on-three-year-deal?traffic_source=rss"
-      },
-      {
-        "title": "Toronto police officer shot while investigating attack on US consulate",
-        "published": "Thu, 11 Jun 2026 18:35:22 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/two-sentenced-to-death-in-bangkok-bombing?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
