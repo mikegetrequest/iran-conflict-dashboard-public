@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-12 22:56",
+  "updated_at_gst": "2026-06-13 00:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "How the Gulf will manage collective security after the Iran war ends",
+        "published": "Fri, 12 Jun 2026 18:48:41 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/6/12/sam-bankman-fried-loses-appeal-to-overturn-fraud-convictions-and-prison?traffic_source=rss"
+      },
       {
         "title": "Amnesty calls for Israel boycott over aggression in the occupied West Bank",
         "published": "Fri, 12 Jun 2026 17:59:11 +0000",
