@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-13 00:58",
+  "updated_at_gst": "2026-06-13 02:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How the Gulf will manage collective security after the Iran war ends",
-        "published": "Fri, 12 Jun 2026 18:48:41 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/6/12/sam-bankman-fried-loses-appeal-to-overturn-fraud-convictions-and-prison?traffic_source=rss"
+        "title": "Will there be a deal to end the Iran war this time?",
+        "published": "Fri, 12 Jun 2026 20:44:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/12/pope-warns-people-smugglers-they-face-gods-wrath?traffic_source=rss"
       },
       {
-        "title": "Amnesty calls for Israel boycott over aggression in the occupied West Bank",
-        "published": "Fri, 12 Jun 2026 17:59:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/fire-rips-through-the-worlds-biggest-refugee-camp-in-bangladesh?traffic_source=rss"
+        "title": "US Congressman says Trump won’t send loads of money to Iran",
+        "published": "Fri, 12 Jun 2026 19:53:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/12/violence-breaks-out-at-drc-rally-against-presidential-term-limit-change?traffic_source=rss"
       },
       {
-        "title": "Iran: No timeline yet for signing US deal",
-        "published": "Fri, 12 Jun 2026 17:39:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/12/us-to-cut-air-and-naval-assets-deployed-for-nato-operations-in-europe?traffic_source=rss"
+        "title": "Putin admits Ukraine attacks hitting Russian economy, society",
+        "published": "Fri, 12 Jun 2026 19:30:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/12/uk-court-jails-palestinian-action-activists-on-terrorism-charges?traffic_source=rss"
+      },
+      {
+        "title": "Can Pakistan push the US-Iran deal over the finish line?",
+        "published": "Fri, 12 Jun 2026 19:20:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
