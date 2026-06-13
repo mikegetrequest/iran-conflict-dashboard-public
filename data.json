@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-13 22:01",
+  "updated_at_gst": "2026-06-13 23:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,17 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Qatar vs Switzerland live – World Cup 2026",
+        "title": "‘Not in my name’: The Jewish diaspora fighting the consensus on Israel",
+        "published": "Sat, 13 Jun 2026 19:08:35 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/13/hungarys-former-pm-orban-re-elected-party-leader-despite-election-loss?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Iran deal to be signed tomorrow, contradicting Iranian official",
+        "published": "Sat, 13 Jun 2026 18:17:43 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/us-president-trump-says-us-iran-deal-to-be-signed-tomorrow?traffic_source=rss"
+      },
+      {
+        "title": "Qatar vs Switzerland live: World Cup 2026",
         "published": "Sat, 13 Jun 2026 17:31:36 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/gaza-pet-owners-struggle-to-keep-animals-healthy-amid-vet-crisis?traffic_source=rss"
       },
@@ -34,16 +44,6 @@
         "title": "From colony to cell: Sexual violence in Israeli prisons",
         "published": "Sat, 13 Jun 2026 14:06:43 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/fans-reveal-how-much-they-paid-for-world-cup-tickets?traffic_source=rss"
-      },
-      {
-        "title": "‘Lots of things can still go wrong’ with US-Iran deal to end the war",
-        "published": "Sat, 13 Jun 2026 12:43:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss"
-      },
-      {
-        "title": "Qatar vs Switzerland: World Cup group match – preview, team news, lineups",
-        "published": "Sat, 13 Jun 2026 11:11:07 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/yemens-spider-man-dies-while-scaling-volcanic-crater?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
