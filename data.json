@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-13 23:58",
+  "updated_at_gst": "2026-06-14 01:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel attacks Lebanon as US says Iran deal to be signed on Sunday",
+        "published": "Sat, 13 Jun 2026 20:40:06 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/6/13/will-the-new-eu-migration-rules-work?traffic_source=rss"
+      },
       {
         "title": "‘Not in my name’: The Jewish diaspora fighting the consensus on Israel",
         "published": "Sat, 13 Jun 2026 19:08:35 +0000",
@@ -34,16 +39,6 @@
         "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
         "published": "Sat, 13 Jun 2026 15:43:27 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/13/thousands-attend-anti-racism-rallies-following-unrest-in-belfast?traffic_source=rss"
-      },
-      {
-        "title": "Iranians divided on peace prospects after US-Iran say a deal is near",
-        "published": "Sat, 13 Jun 2026 15:19:16 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/13/workers-remove-trumps-name-from-kennedy-center-after-court-ruling?traffic_source=rss"
-      },
-      {
-        "title": "From colony to cell: Sexual violence in Israeli prisons",
-        "published": "Sat, 13 Jun 2026 14:06:43 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/fans-reveal-how-much-they-paid-for-world-cup-tickets?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
