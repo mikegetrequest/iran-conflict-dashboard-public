@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-13 19:14",
+  "updated_at_gst": "2026-06-13 20:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
-        "published": "Sat, 13 Jun 2026 12:11:25 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss"
+        "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+        "published": "Sat, 13 Jun 2026 15:43:27 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/13/thousands-attend-anti-racism-rallies-following-unrest-in-belfast?traffic_source=rss"
       },
       {
-        "title": "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
-        "published": "Sat, 13 Jun 2026 09:12:30 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/6/13/molokhia-cigarettes-gazas-toxic-alternative-to-tobacco?traffic_source=rss"
+        "title": "Iranians divided on peace prospects after US-Iran say a deal is near",
+        "published": "Sat, 13 Jun 2026 15:19:16 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/13/workers-remove-trumps-name-from-kennedy-center-after-court-ruling?traffic_source=rss"
+      },
+      {
+        "title": "From colony to cell: Sexual violence in Israeli prisons",
+        "published": "Sat, 13 Jun 2026 14:06:43 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/fans-reveal-how-much-they-paid-for-world-cup-tickets?traffic_source=rss"
+      },
+      {
+        "title": "‘Lots of things can still go wrong’ with US-Iran deal to end the war",
+        "published": "Sat, 13 Jun 2026 12:43:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss"
+      },
+      {
+        "title": "Qatar vs Switzerland: World Cup group match – preview, team news, lineups",
+        "published": "Sat, 13 Jun 2026 11:11:07 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/yemens-spider-man-dies-while-scaling-volcanic-crater?traffic_source=rss"
+      },
+      {
+        "title": "Israel attacks Lebanon despite being included in potential peace deal",
+        "published": "Sat, 13 Jun 2026 10:13:54 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/6/13/the-us-border-runs-straight-through-the-world-cup?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
