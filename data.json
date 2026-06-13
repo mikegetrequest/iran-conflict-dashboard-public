@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-13 20:53",
+  "updated_at_gst": "2026-06-13 22:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Qatar vs Switzerland live – World Cup 2026",
+        "published": "Sat, 13 Jun 2026 17:31:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/gaza-pet-owners-struggle-to-keep-animals-healthy-amid-vet-crisis?traffic_source=rss"
+      },
       {
         "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
         "published": "Sat, 13 Jun 2026 15:43:27 +0000",
@@ -39,11 +44,6 @@
         "title": "Qatar vs Switzerland: World Cup group match – preview, team news, lineups",
         "published": "Sat, 13 Jun 2026 11:11:07 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/yemens-spider-man-dies-while-scaling-volcanic-crater?traffic_source=rss"
-      },
-      {
-        "title": "Israel attacks Lebanon despite being included in potential peace deal",
-        "published": "Sat, 13 Jun 2026 10:13:54 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/6/13/the-us-border-runs-straight-through-the-world-cup?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
