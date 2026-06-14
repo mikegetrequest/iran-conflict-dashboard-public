@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-14 11:00",
+  "updated_at_gst": "2026-06-14 14:34",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "2026 World Cup: Australia stun Turkiye 2-0 in counterattacking masterclass",
-        "published": "Sun, 14 Jun 2026 06:40:28 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/14/smiles-all-around-as-morocco-brazil-share-spoils-and-knicks-make-history?traffic_source=rss"
+        "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
+        "published": "Sun, 14 Jun 2026 07:24:02 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass?traffic_source=rss"
       },
       {
-        "title": "After battling armed attacks, Mauritania attempts to revive tourism",
-        "published": "Sun, 14 Jun 2026 01:08:42 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down?traffic_source=rss"
+        "title": "Qatar earns first ever World Cup point",
+        "published": "Sun, 14 Jun 2026 05:14:29 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/14/knicks-vs-spurs-new-york-san-antonio-nba-finals-game-5?traffic_source=rss"
+      },
+      {
+        "title": "Two killed in Israeli strike on Gaza",
+        "published": "Sun, 14 Jun 2026 01:11:06 +0000",
+        "link": "https://www.aljazeera.com/features/2026/6/14/after-battling-armed-attacks-mauritania-attempts-to-revive-tourism?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
