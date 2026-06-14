@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-15 01:46",
+  "updated_at_gst": "2026-06-15 02:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel welcomes Somaliland president in ‘historic’ visit",
-        "published": "Sun, 14 Jun 2026 19:23:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/14/israel-expands-military-control-in-gaza-lebanon-and-syria-by-1000sq-km?traffic_source=rss"
+        "title": "Gaza mourns four killed in Israeli strike",
+        "published": "Sun, 14 Jun 2026 20:57:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/violence-erupts-during-anti-g7-protests-in-geneva-on-eve-of-summit?traffic_source=rss"
+      },
+      {
+        "title": "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km",
+        "published": "Sun, 14 Jun 2026 19:21:21 +0000",
+        "link": "https://www.aljazeera.com/features/2026/6/14/losing-three-years-set-us-back-20-palestinian-footballs-future-in-peril?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Israeli attacks on Beirut unjustified, puts Iran deal at risk",
+        "published": "Sun, 14 Jun 2026 18:51:49 +0000",
+        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/6/14/ibram-x-kendi-is-the-us-inherently-racist?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
