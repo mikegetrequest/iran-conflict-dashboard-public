@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-16 00:18",
+  "updated_at_gst": "2026-06-16 02:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Journalist hit by Israeli strike while reporting in Lebanon",
+        "published": "Mon, 15 Jun 2026 21:36:22 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/15/egypt-draw-1-1-with-belgium-at-world-cup-group-stage?traffic_source=rss"
+      },
+      {
+        "title": "Iran vs New Zealand live: World Cup 2026",
+        "published": "Mon, 15 Jun 2026 21:06:03 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/6/15/can-a-social-media-ban-protect-young-users?traffic_source=rss"
+      },
+      {
+        "title": "7-year-old mourns father and brother killed in Israeli strike on Gaza",
+        "published": "Mon, 15 Jun 2026 20:55:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/15/eu-officially-launches-ukraine-and-moldova-accession-processes?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu says Israel won’t leave occupied land in Lebanon",
+        "published": "Mon, 15 Jun 2026 20:21:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/what-israeli-leaders-are-saying-about-us-iran-peace?traffic_source=rss"
+      },
+      {
         "title": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike",
         "published": "Mon, 15 Jun 2026 18:23:30 +0000",
         "link": "https://www.aljazeera.com/sports/2026/6/15/spain-held-to-shock-draw-by-cape-verde-in-their-world-cup-opener?traffic_source=rss"
-      },
-      {
-        "title": "As deal is agreed with US, not all in Iran are convinced that peace is here",
-        "published": "Mon, 15 Jun 2026 18:00:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/police-mourners-clash-over-coffin-of-suspected-ebola-victim-in-drc?traffic_source=rss"
-      },
-      {
-        "title": "Iran vs New Zealand: World Cup team news, start, lineups and where to watch",
-        "published": "Mon, 15 Jun 2026 17:23:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/trump-says-iran-deal-all?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
