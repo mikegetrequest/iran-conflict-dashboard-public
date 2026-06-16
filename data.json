@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-16 04:20",
+  "updated_at_gst": "2026-06-16 09:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump touts Iran deal and Ukraine ambition as he arrives at G7",
-        "published": "Mon, 15 Jun 2026 20:24:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/15/netanyahu-says-israel-wont-leave-occupied-land-in-lebanon?traffic_source=rss"
+        "title": "Iran draw 2-2 with New Zealand in politically charged World Cup match",
+        "published": "Tue, 16 Jun 2026 04:36:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/ukraine-starts-negotiations-to-join-eu?traffic_source=rss"
       },
       {
-        "title": "What Israeli leaders are saying about US-Iran ‘peace deal’",
-        "published": "Mon, 15 Jun 2026 20:20:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/15/california-governor-newsom-says-us-department-of-justice-investigating-him?traffic_source=rss"
+        "title": "Iran war live: Vance says IAEA to return to Iran, no tolls in Hormuz Strait",
+        "published": "Tue, 16 Jun 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/15/fifa-clears-world-cup-referee-accused-of-making-white-supremacist-gesture?traffic_source=rss"
       },
       {
-        "title": "EU fails to agree on sanctions for far-right Israeli minister Ben-Gvir",
-        "published": "Mon, 15 Jun 2026 18:47:22 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/15/france-vs-senegal-world-cup-2026-mbappe-teams-lineups-start-dembele?traffic_source=rss"
+        "title": "Journalist hit by Israeli strike while reporting in Lebanon",
+        "published": "Mon, 15 Jun 2026 21:36:22 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/15/egypt-draw-1-1-with-belgium-at-world-cup-group-stage?traffic_source=rss"
+      },
+      {
+        "title": "Iran 2-2 New Zealand: World Cup 2026 – as it happened",
+        "published": "Mon, 15 Jun 2026 21:06:03 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/6/15/can-a-social-media-ban-protect-young-users?traffic_source=rss"
+      },
+      {
+        "title": "7-year-old mourns father and brother killed in Israeli strike on Gaza",
+        "published": "Mon, 15 Jun 2026 20:55:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/15/eu-officially-launches-ukraine-and-moldova-accession-processes?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
