@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-16 19:46",
+  "updated_at_gst": "2026-06-16 23:25",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "‘I know what you’ve been through’: FIFA president visits Iran team",
+        "published": "Tue, 16 Jun 2026 18:46:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/16/ohio-governor-mike-dewine-opposes-death-penalty-reversing-past-support?traffic_source=rss"
+      },
+      {
+        "title": "Repairs begin at 1,000-year-old Kyiv monastery after Russian attack",
+        "published": "Tue, 16 Jun 2026 18:27:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/16/israeli-strikes-kill-four-in-southern-lebanon-amid-ceasefire-talks?traffic_source=rss"
+      },
+      {
+        "title": "Israel seizes power over occupied West Bank mosque from Palestinians",
+        "published": "Tue, 16 Jun 2026 17:23:12 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/16/ronaldos-last-dance-as-portugal-face-dr-congo-in-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Trump slams Israeli attacks on Lebanon at G7 summit",
+        "published": "Tue, 16 Jun 2026 16:55:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_qatar-renews-mediation-efforts-after-us-iran-deal-160626?traffic_source=rss"
+      },
+      {
+        "title": "Israel went to war with Iran, but Netanyahu may be the loser",
+        "published": "Tue, 16 Jun 2026 15:57:03 +0000",
+        "link": "https://www.aljazeera.com/news/longform/2026/6/16/a-mexican-citizen-died-in-ice-custody-now-his-family-is-demanding-answers?traffic_source=rss"
+      },
+      {
         "title": "Optics of peace first, details later: The US-Iran 60-day challenge",
         "published": "Tue, 16 Jun 2026 15:39:55 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/ukrainian-drone-detonates-near-moscow?traffic_source=rss"
-      },
-      {
-        "title": "With Israel unleashed, there can be no peace in the Middle East",
-        "published": "Tue, 16 Jun 2026 15:20:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/16/fbi-says-it-foiled-planned-attacks-targeting-white-house-ufc-event?traffic_source=rss"
-      },
-      {
-        "title": "Iran coach says team ‘oppressed’ by travel chaos after World Cup NZ draw",
-        "published": "Tue, 16 Jun 2026 13:52:58 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/mistrust-leaves-ebola-patients-receiving-treatment-too-late?traffic_source=rss"
-      },
-      {
-        "title": "Israeli court rules to keep prominent Palestinian doctor in detention",
-        "published": "Tue, 16 Jun 2026 13:24:20 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/theres-divergence-between-us-and-israeli-objectives-in-the?traffic_source=rss"
-      },
-      {
-        "title": "Geneva to host Iran-US deal event: What other pacts have been signed there?",
-        "published": "Tue, 16 Jun 2026 13:05:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/16/red-cross-warns-ebola-outbreak-in-drc-not-yet-peaked-could-last-a-year?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
