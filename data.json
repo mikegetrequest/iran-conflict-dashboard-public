@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-17 22:00",
+  "updated_at_gst": "2026-06-18 00:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "‘He wanted to burn me alive’: 92-year-old recounts West Bank settler attack",
-        "published": "Wed, 17 Jun 2026 14:03:29 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/17/uk-orders-google-to-improve-transparency-for-search-services?traffic_source=rss"
+        "title": "Why was India’s Cockroach Janta Party founder attacked?",
+        "published": "Wed, 17 Jun 2026 20:10:16 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/17/read-the-us-account-of-unreleased-14-point-iran-ceasefire-memorandum?traffic_source=rss"
+      },
+      {
+        "title": "Ukrainian rescuers killed in Russian secondary strike laid to rest",
+        "published": "Wed, 17 Jun 2026 19:04:55 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/17/tehran-says-considering-plan-for-iran-us-presidents-to-sign-deal?traffic_source=rss"
+      },
+      {
+        "title": "Trump: World will ‘find out pretty soon’ if Iran MOU signing will happen",
+        "published": "Wed, 17 Jun 2026 18:08:12 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/6/17/us-federal-reserve-holds-rates-steady-under-new-chair-warsh?traffic_source=rss"
+      },
+      {
+        "title": "Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000",
+        "published": "Wed, 17 Jun 2026 17:14:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/young-palestinian-women-learn-ai-to-tell-stories-of-war-on-gaza?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
