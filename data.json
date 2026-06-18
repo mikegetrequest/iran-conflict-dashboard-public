@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-18 11:14",
+  "updated_at_gst": "2026-06-18 15:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz",
+        "published": "Thu, 18 Jun 2026 11:06:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/hegseth-slams-nato-allies-during-roundtable-meeting?traffic_source=rss"
+      },
+      {
+        "title": "Iran war day 111: Tehran warns US as 14-point plan takes effect",
+        "published": "Thu, 18 Jun 2026 07:38:41 +0000",
+        "link": "https://www.aljazeera.com/features/2026/6/18/how-swedens-far-right-went-from-political-pariah-to-powerbroker?traffic_source=rss"
+      },
+      {
         "title": "Oil prices fall, stocks rally as US, Iran sign framework to end war",
         "published": "Thu, 18 Jun 2026 03:45:13 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/18/trumps-iran-framework-draws-backlash-from-some-republicans?traffic_source=rss"
@@ -24,21 +34,6 @@
         "title": "Netanyahu under pressure in Israel after US-Iran agreement",
         "published": "Thu, 18 Jun 2026 02:27:44 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/18/who-benefits-from-zimbabwes-lithium-boom?traffic_source=rss"
-      },
-      {
-        "title": "Greta Thunberg joins Brussels protest against Israel",
-        "published": "Thu, 18 Jun 2026 02:24:13 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/18/south-africa-coach-tells-critics-to-shut-up-before-second-world-cup-match?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Pakistan says MoU in effect after Trump, Pezeshkian signing",
-        "published": "Thu, 18 Jun 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-to-netanyahu-use-a-softer-touch-on-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Trump says it’s ‘unfair’ for Iran to lack ballistic missiles",
-        "published": "Wed, 17 Jun 2026 23:56:36 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/17/iran-confirms-that-mou-has-been-signed-electronically-by-both-sides?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
