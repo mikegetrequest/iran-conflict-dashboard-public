@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-19 20:26",
+  "updated_at_gst": "2026-06-19 22:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli air strikes hit Lebanon minutes after new ceasefire",
-        "published": "Fri, 19 Jun 2026 16:04:58 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/19/two-men-jailed-for-arson-attacks-on-property-linked-to-uk-prime-minister?traffic_source=rss"
+        "title": "Two men jailed for arson attacks on property linked to UK prime minister",
+        "published": "Fri, 19 Jun 2026 16:04:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/19/israel-continues-attacks-on-lebanon-despite-agreeing-to-ceasefire?traffic_source=rss"
       },
       {
-        "title": "Israel continues attacks on Lebanon despite agreeing to ceasefire",
-        "published": "Fri, 19 Jun 2026 15:47:15 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/19/germany-and-ivory-coast-aim-to-seal-world-cup-knockout-place?traffic_source=rss"
+        "title": "Trump’s Iran deal: A victory lap before the victory",
+        "published": "Fri, 19 Jun 2026 15:14:17 +0000",
+        "link": "https://www.aljazeera.com/features/longform/2026/6/19/more-than-a-game-football-friendship-and-mental-health-recovery?traffic_source=rss"
       },
       {
-        "title": "‘Destruction is the goal’: Israel steers between the US, Iran, and Lebanon",
-        "published": "Fri, 19 Jun 2026 15:22:54 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/6/19/cuba-between-charcoal-and-solar-panels-2?traffic_source=rss"
-      },
-      {
-        "title": "Three killed in Ukraine a day after drone attack kills child in Moscow",
-        "published": "Fri, 19 Jun 2026 15:16:22 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/6/19/trumps-iran-deal-a-victory-lap-before-the-victory?traffic_source=rss"
-      },
-      {
-        "title": "As Lebanon tests US-Iran deal, Trump must rein in Netanyahu, analysts say",
-        "published": "Fri, 19 Jun 2026 14:28:49 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/cuba-approves-major-economic-reforms-amid-us-pressure?traffic_source=rss"
-      },
-      {
-        "title": "Israel slams EU’s Kallas for ‘apartheid’ comment: Are ties unravelling?",
-        "published": "Fri, 19 Jun 2026 13:58:52 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/sudanese-journalist-denied-uk-visa-to-collect-prestigious-award?traffic_source=rss"
+        "title": "Trump takes aim at critics of US-Iran MoU, says Iran ‘finished’",
+        "published": "Fri, 19 Jun 2026 14:50:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/19/as-lebanon-tests-us-iran-deal-trump-must-rein-in-netanyahu-analysts-say?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
