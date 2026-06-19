@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-20 02:41",
+  "updated_at_gst": "2026-06-20 03:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Does Trump have to submit the Iran memorandum of understanding to Congress?",
-        "published": "Fri, 19 Jun 2026 21:10:56 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss"
+        "title": "US announces new round of Israel-Lebanon talks in Washington next week",
+        "published": "Fri, 19 Jun 2026 21:02:25 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/italian-prime-minister-says-she-didnt-beg-trump-for-g7-photograph?traffic_source=rss"
       },
       {
-        "title": "Iran deputy FM says ‘ready to move forward’ in deal with US",
-        "published": "Fri, 19 Jun 2026 20:03:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/19/norway-seeks-to-ban-trade-with-illegal-israeli-settlements-in-palestine?traffic_source=rss"
+        "title": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
+        "published": "Fri, 19 Jun 2026 20:50:50 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/6/19/brazil-vs-haiti-live-world-cup-2026?traffic_source=rss"
       },
       {
-        "title": "Iran war: Success or disaster? Mehdi Hasan and David Des Roches",
-        "published": "Fri, 19 Jun 2026 19:05:08 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/6/19/how-is-the-iran-us-agreement-being-viewed-in-israel?traffic_source=rss"
+        "title": "Norway seeks to ban trade with illegal Israeli settlements in Palestine",
+        "published": "Fri, 19 Jun 2026 19:18:35 +0000",
+        "link": "https://www.aljazeera.com/video/head-to-head/2026/6/19/iran-war-success-or-disaster-mehdi-hasan-and-david-des-roches?traffic_source=rss"
+      },
+      {
+        "title": "How is the Iran-US agreement being viewed in Israel?",
+        "published": "Fri, 19 Jun 2026 18:49:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/19/two-trains-collide-near-bedford-north-of-london?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
