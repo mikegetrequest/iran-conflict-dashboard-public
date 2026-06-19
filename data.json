@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-20 00:09",
+  "updated_at_gst": "2026-06-20 01:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Norway seeks to ban trade with illegal Israeli settlements in Palestine",
-        "published": "Fri, 19 Jun 2026 19:18:35 +0000",
-        "link": "https://www.aljazeera.com/video/head-to-head/2026/6/19/iran-war-success-or-disaster-mehdi-hasan-and-david-des-roches?traffic_source=rss"
+        "title": "Does Trump have to submit the Iran memorandum of understanding to Congress?",
+        "published": "Fri, 19 Jun 2026 21:10:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss"
       },
       {
-        "title": "How is the Iran-US agreement being viewed in Israel?",
-        "published": "Fri, 19 Jun 2026 18:49:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/19/two-trains-collide-near-bedford-north-of-london?traffic_source=rss"
+        "title": "Iran deputy FM says ‘ready to move forward’ in deal with US",
+        "published": "Fri, 19 Jun 2026 20:03:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/19/norway-seeks-to-ban-trade-with-illegal-israeli-settlements-in-palestine?traffic_source=rss"
       },
       {
-        "title": "Two men jailed for arson attacks on property linked to UK prime minister",
-        "published": "Fri, 19 Jun 2026 16:04:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/19/israel-continues-attacks-on-lebanon-despite-agreeing-to-ceasefire?traffic_source=rss"
+        "title": "Iran war: Success or disaster? Mehdi Hasan and David Des Roches",
+        "published": "Fri, 19 Jun 2026 19:05:08 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/6/19/how-is-the-iran-us-agreement-being-viewed-in-israel?traffic_source=rss"
       },
       {
-        "title": "Trump’s Iran deal: A victory lap before the victory",
-        "published": "Fri, 19 Jun 2026 15:14:17 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/6/19/more-than-a-game-football-friendship-and-mental-health-recovery?traffic_source=rss"
+        "title": "Israeli air strikes hit Lebanon minutes after new ceasefire",
+        "published": "Fri, 19 Jun 2026 16:04:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/19/two-men-jailed-for-arson-attacks-on-property-linked-to-uk-prime-minister?traffic_source=rss"
+      },
+      {
+        "title": "Israel continues attacks on Lebanon despite agreeing to ceasefire",
+        "published": "Fri, 19 Jun 2026 15:47:15 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/19/germany-and-ivory-coast-aim-to-seal-world-cup-knockout-place?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
