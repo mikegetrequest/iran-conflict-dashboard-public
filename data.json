@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-21 02:38",
+  "updated_at_gst": "2026-06-21 03:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
-        "published": "Sat, 20 Jun 2026 21:54:39 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/20/uncertain-world-cup-for-paraguays-almiron-sent-off-for-covering-his-mouth?traffic_source=rss"
+        "title": "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
+        "published": "Sat, 20 Jun 2026 19:43:47 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/20/netherlands-vs-sweden-gakpo-brobbey-doubles-give-dutch-5-1-world-cup?traffic_source=rss"
       },
       {
-        "title": "US-Iran talks to kick off Sunday in Switzerland, says Pakistan",
-        "published": "Sat, 20 Jun 2026 17:39:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/20/as-ilo-convention-turns-30-indias-home-based-workers-demand-equal-rights?traffic_source=rss"
+        "title": "Ukraine says Russian attack kills five people in Zaporizhzhia",
+        "published": "Sat, 20 Jun 2026 19:31:55 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/6/20/are-uk-prime-minister-keir-starmers-political-days-numbered?traffic_source=rss"
       },
       {
-        "title": "‘You could’ve been the greatest’: Trump faces Israeli anger over Iran deal",
-        "published": "Sat, 20 Jun 2026 16:38:26 +0000",
-        "link": "https://www.aljazeera.com/news/longform/2026/6/20/how-ivan-cepeda-emerged-a-frontrunner-in-colombias-presidential-election?traffic_source=rss"
+        "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
+        "published": "Sat, 20 Jun 2026 18:07:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says?traffic_source=rss"
       },
       {
-        "title": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments",
-        "published": "Sat, 20 Jun 2026 15:10:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/20/nine-left-in-critical-condition-after-uk-train-collision-that-killed-driver?traffic_source=rss"
+        "title": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes",
+        "published": "Sat, 20 Jun 2026 17:05:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/20/bolivia-declares-state-of-emergency-amid-blockade-crisis?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strike kills children in Gaza despite ceasefire claims",
+        "published": "Sat, 20 Jun 2026 16:39:03 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/20/you-could-have-been-the-greatest-trump-faces-israeli-anger-over-iran-deal?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
