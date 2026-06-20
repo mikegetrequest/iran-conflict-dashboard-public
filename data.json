@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-20 06:37",
+  "updated_at_gst": "2026-06-20 10:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
+        "published": "Sat, 20 Jun 2026 05:58:49 +0000",
+        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/20/what-pushed-the-number-of-displaced-people-down?traffic_source=rss"
+      },
+      {
+        "title": "Israel fetes Somaliland’s leader as it seeks to expand Red Sea influence",
+        "published": "Sat, 20 Jun 2026 04:30:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/un-meeting-erupts-over-sexual-violence-allegations-against-israel?traffic_source=rss"
+      },
+      {
         "title": "Lebanese influencer organises World Cup event amid Israel’s attack on Leban",
         "published": "Sat, 20 Jun 2026 01:05:45 +0000",
         "link": "https://www.aljazeera.com/sports/2026/6/20/morocco-beat-scotland-1-0-as-saibari-scores-fastest-world-cup-2026?traffic_source=rss"
@@ -29,16 +39,6 @@
         "title": "Does Trump have to submit the Iran memorandum of understanding to Congress?",
         "published": "Fri, 19 Jun 2026 21:10:56 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss"
-      },
-      {
-        "title": "Iran deputy FM says ‘ready to move forward’ in deal with US",
-        "published": "Fri, 19 Jun 2026 20:03:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/19/norway-seeks-to-ban-trade-with-illegal-israeli-settlements-in-palestine?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: Success or disaster? Mehdi Hasan and David Des Roches",
-        "published": "Fri, 19 Jun 2026 19:05:08 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/6/19/how-is-the-iran-us-agreement-being-viewed-in-israel?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
