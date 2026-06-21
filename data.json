@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-21 17:20",
+  "updated_at_gst": "2026-06-21 19:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran-U.S. launch historic peace talks with 60-day roadmap",
+        "published": "Sun, 21 Jun 2026 14:54:56 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/fans-flood-atlanta-streets-before-spain-saudi-arabia-match?traffic_source=rss"
+      },
+      {
+        "title": "Police charge man after suspected anti-Muslim attacks in Edinburgh",
+        "published": "Sun, 21 Jun 2026 13:52:57 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/6/21/is-the-french-judiciary-against-palestine?traffic_source=rss"
+      },
+      {
+        "title": "Andy Burnham says Israel would be his first overseas visit in old clip",
+        "published": "Sun, 21 Jun 2026 13:41:55 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/21/marc-marquez-wins-the-czech-motogp-narrows-title-gap-to-leader-bezzecchi?traffic_source=rss"
+      },
+      {
         "title": "Why Lebanon may make or break the Iran-US deal",
         "published": "Sun, 21 Jun 2026 13:11:50 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/21/pressure-mounts-on-starmer-to-quit-after-burnhams-by-election-win?traffic_source=rss"
@@ -29,21 +44,6 @@
         "title": "Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar",
         "published": "Sun, 21 Jun 2026 10:30:46 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss"
-      },
-      {
-        "title": "Stop ‘Greater Israel’ to make peace",
-        "published": "Sun, 21 Jun 2026 10:11:32 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/lebanons-ancient-monuments-remain-at-risk-from-israeli-attack?traffic_source=rss"
-      },
-      {
-        "title": "The deal with Iran may be imperfect but it is what the American people want",
-        "published": "Sun, 21 Jun 2026 09:17:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/21/fifa-world-cup-2026-spain-iran-predictions-schedule-germany-curacao?traffic_source=rss"
-      },
-      {
-        "title": "US-Iran talks in Switzerland: Is Lebanon top of agenda; who is attending?",
-        "published": "Sun, 21 Jun 2026 09:10:39 +0000",
-        "link": "https://www.aljazeera.com/video/2026/6/21/video-world-cup-2026-highlights?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
