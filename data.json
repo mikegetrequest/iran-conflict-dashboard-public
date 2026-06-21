@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-21 15:26",
+  "updated_at_gst": "2026-06-21 17:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Why Lebanon may make or break the Iran-US deal",
+        "published": "Sun, 21 Jun 2026 13:11:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/21/pressure-mounts-on-starmer-to-quit-after-burnhams-by-election-win?traffic_source=rss"
+      },
       {
         "title": "US-Iran delegations arrive as talks begin in Switzerland",
         "published": "Sun, 21 Jun 2026 11:03:34 +0000",
@@ -39,11 +44,6 @@
         "title": "US-Iran talks in Switzerland: Is Lebanon top of agenda; who is attending?",
         "published": "Sun, 21 Jun 2026 09:10:39 +0000",
         "link": "https://www.aljazeera.com/video/2026/6/21/video-world-cup-2026-highlights?traffic_source=rss"
-      },
-      {
-        "title": "US and Iran face make-or-break talks in Switzerland",
-        "published": "Sun, 21 Jun 2026 07:53:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
