@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-21 12:14",
+  "updated_at_gst": "2026-06-21 15:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US-Iran delegations arrive as talks begin in Switzerland",
+        "published": "Sun, 21 Jun 2026 11:03:34 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/21/messi-argentina-play-austria-in-world-cup-group-match-all-to-know?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar",
+        "published": "Sun, 21 Jun 2026 10:30:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss"
+      },
+      {
+        "title": "Stop ‘Greater Israel’ to make peace",
+        "published": "Sun, 21 Jun 2026 10:11:32 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/lebanons-ancient-monuments-remain-at-risk-from-israeli-attack?traffic_source=rss"
+      },
+      {
+        "title": "The deal with Iran may be imperfect but it is what the American people want",
+        "published": "Sun, 21 Jun 2026 09:17:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/21/fifa-world-cup-2026-spain-iran-predictions-schedule-germany-curacao?traffic_source=rss"
+      },
+      {
+        "title": "US-Iran talks in Switzerland: Is Lebanon top of agenda; who is attending?",
+        "published": "Sun, 21 Jun 2026 09:10:39 +0000",
+        "link": "https://www.aljazeera.com/video/2026/6/21/video-world-cup-2026-highlights?traffic_source=rss"
+      },
+      {
         "title": "US and Iran face make-or-break talks in Switzerland",
         "published": "Sun, 21 Jun 2026 07:53:01 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks?traffic_source=rss"
-      },
-      {
-        "title": "Iran war day 114: US, Iranian delegations in Switzerland for key talks",
-        "published": "Sun, 21 Jun 2026 07:22:28 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/21/japan-tunisia-4-0-fifa-world-cup-2026-ayase-ueda-daichi-kamada-junya-ito?traffic_source=rss"
-      },
-      {
-        "title": "Trump official says Iran World Cup visa approval ‘amazing’",
-        "published": "Sun, 21 Jun 2026 06:28:46 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/21/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss"
-      },
-      {
-        "title": "US refuses to ease Iran World Cup travel restrictions for Belgium match",
-        "published": "Sat, 20 Jun 2026 23:45:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iranian-delegation-arrives-in-switzerland-for-us-peace-talks?traffic_source=rss"
-      },
-      {
-        "title": "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
-        "published": "Sat, 20 Jun 2026 19:43:47 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/20/netherlands-vs-sweden-gakpo-brobbey-doubles-give-dutch-5-1-world-cup?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
