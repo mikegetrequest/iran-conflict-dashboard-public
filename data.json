@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-23 05:26",
+  "updated_at_gst": "2026-06-23 09:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
+        "published": "Tue, 23 Jun 2026 01:45:42 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
