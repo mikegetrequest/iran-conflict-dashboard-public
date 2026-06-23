@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-23 12:53",
+  "updated_at_gst": "2026-06-23 15:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,17 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war day 116: US eases Iran sanctions; Lebanon ceasefire holds",
+        "title": "Iran’s President Pezeshkian lands in Pakistan after US deal",
+        "published": "Tue, 23 Jun 2026 10:37:05 +0000",
+        "link": "https://www.aljazeera.com/video/2026/6/23/video-world-cup-2026-highlights?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
+        "published": "Tue, 23 Jun 2026 08:42:03 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/23/about-20-drown-in-france-trying-to-escape-heatwave-sweeping-much-of-europe?traffic_source=rss"
+      },
+      {
+        "title": "Iran war day 116: US eases Iran sanctions; Israel kills two in Lebanon",
         "published": "Tue, 23 Jun 2026 07:58:51 +0000",
         "link": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss"
       }
