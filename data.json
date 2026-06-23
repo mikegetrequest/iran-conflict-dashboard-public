@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-23 15:50",
+  "updated_at_gst": "2026-06-23 18:15",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran’s President Pezeshkian lands in Pakistan after US deal",
+        "title": "What the US and Iran agreed – and disagreed – on first day of talks",
+        "published": "Tue, 23 Jun 2026 13:12:18 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/23/vaibhav-sooryavanshi-t20-ipl-batting-prodigy-receives-first-india-jersey?traffic_source=rss"
+      },
+      {
+        "title": "Former PM says Israel smuggled Starlink internet systems into Iran",
+        "published": "Tue, 23 Jun 2026 12:37:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/23/israeli-fire-kills-two-in-lebanon-as-hezbollah-slams-truce-violation?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s President Pezeshkian lands in Pakistan for talks after US deal",
         "published": "Tue, 23 Jun 2026 10:37:05 +0000",
         "link": "https://www.aljazeera.com/video/2026/6/23/video-world-cup-2026-highlights?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
-        "published": "Tue, 23 Jun 2026 08:42:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/23/about-20-drown-in-france-trying-to-escape-heatwave-sweeping-much-of-europe?traffic_source=rss"
-      },
-      {
-        "title": "Iran war day 116: US eases Iran sanctions; Israel kills two in Lebanon",
-        "published": "Tue, 23 Jun 2026 07:58:51 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
