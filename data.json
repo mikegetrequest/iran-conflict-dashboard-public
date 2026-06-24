@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-24 21:23",
+  "updated_at_gst": "2026-06-24 23:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Our life stops’: West Bank childhood shattered by Israeli military raids",
+        "published": "Wed, 24 Jun 2026 18:20:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/24/ivan-cepeda-concedes-defeat-in-colombia-election-sealing-right-wing-win?traffic_source=rss"
+      },
+      {
+        "title": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+        "published": "Wed, 24 Jun 2026 18:03:08 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/6/24/scotland-vs-brazil-live-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "What to know about the Israeli-developed chip in Apple’s iPhone 17e",
+        "published": "Wed, 24 Jun 2026 18:00:33 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/flash-floods-hit-indias-arunachal-pradesh?traffic_source=rss"
+      },
+      {
         "title": "Israeli attacks on Gaza and occupied West Bank kill two, including child",
         "published": "Wed, 24 Jun 2026 15:21:59 +0000",
         "link": "https://www.aljazeera.com/features/longform/2026/6/24/how-colombias-traditional-midwives-serve-as-lifelines-to-rural-communities?traffic_source=rss"
-      },
-      {
-        "title": "Rubio tries to reassure Gulf allies on US-Iran deal details",
-        "published": "Wed, 24 Jun 2026 13:40:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/24/when-paris-is-hotter-than-mecca-how-europes-heatwave-compares-globally?traffic_source=rss"
-      },
-      {
-        "title": "Iranians cautiously optimistic about thorny deal with US",
-        "published": "Wed, 24 Jun 2026 12:44:07 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/24/world-cup-2026-full-group-schedule-and-top-third-round-matches-to-watch?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
