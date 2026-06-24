@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-24 13:54",
+  "updated_at_gst": "2026-06-24 16:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Mamdani-backed candidates defeat pro-Israel lawmakers in primaries",
+        "published": "Wed, 24 Jun 2026 11:55:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
