@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-25 01:04",
+  "updated_at_gst": "2026-06-25 02:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Qatar’s Madibo banned for 5 games after breaking leg of Canada’s Kone",
+        "published": "Wed, 24 Jun 2026 21:38:11 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_israel-will-not-withdraw-from-lebanon-us-demands-240626?traffic_source=rss"
+      },
+      {
+        "title": "Palestinian activist faints after his release from Israeli prison",
+        "published": "Wed, 24 Jun 2026 20:57:55 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/6/24/family-sues-tesla-for-wrongful-death-in-autopilot-crash-in-texas-us?traffic_source=rss"
+      },
+      {
         "title": "At least three killed in drone strikes in Russian controlled Horlivka",
         "published": "Wed, 24 Jun 2026 20:07:54 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/rubio-us-completely-aligned-with-gulf-allies-on-iran?traffic_source=rss"
@@ -29,11 +39,6 @@
         "title": "Wins by Mamdani-backed candidates deal blow to pro-Israel camp in US",
         "published": "Wed, 24 Jun 2026 19:33:12 +0000",
         "link": "https://www.aljazeera.com/video/inside-story/2026/6/24/why-does-israel-want-to-be-less-dependent-on-us-weapons?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s president awarded honorary doctorate in Pakistan",
-        "published": "Wed, 24 Jun 2026 17:33:37 +0000",
-        "link": "https://www.aljazeera.com/video/the-take-2/2026/6/24/the-children-gaza-lost?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
