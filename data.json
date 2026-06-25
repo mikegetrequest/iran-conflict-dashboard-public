@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-25 03:55",
+  "updated_at_gst": "2026-06-25 06:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
+        "published": "Wed, 24 Jun 2026 23:47:48 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/24/olympic-athletes-to-get-cash-grants-from-new-100m-fund-created-by-ioc?traffic_source=rss"
+      },
+      {
         "title": "Trump White House requests $87.6bn in spending, including for Iran war",
         "published": "Wed, 24 Jun 2026 23:25:01 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/european-heatwave-scorching-weather-triggers-uk-red-warning?traffic_source=rss"
@@ -29,21 +34,6 @@
         "title": "Palestinian activist faints after his release from Israeli prison",
         "published": "Wed, 24 Jun 2026 20:57:55 +0000",
         "link": "https://www.aljazeera.com/economy/2026/6/24/family-sues-tesla-for-wrongful-death-in-autopilot-crash-in-texas-us?traffic_source=rss"
-      },
-      {
-        "title": "At least three killed in drone strikes in Russian controlled Horlivka",
-        "published": "Wed, 24 Jun 2026 20:07:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/rubio-us-completely-aligned-with-gulf-allies-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "De la Espriella pledges to restore Colombia’s relations with Israel",
-        "published": "Wed, 24 Jun 2026 19:56:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/24/un-nuclear-chief-says-iran-inspections-will-happen-tehran-says-after-deal?traffic_source=rss"
-      },
-      {
-        "title": "Wins by Mamdani-backed candidates deal blow to pro-Israel camp in US",
-        "published": "Wed, 24 Jun 2026 19:33:12 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/6/24/why-does-israel-want-to-be-less-dependent-on-us-weapons?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
