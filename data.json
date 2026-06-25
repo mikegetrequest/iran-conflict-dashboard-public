@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-25 23:22",
+  "updated_at_gst": "2026-06-26 01:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
+        "published": "Thu, 25 Jun 2026 20:55:46 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-quake-leaves-la-guaira-in-almost-total-devastation?traffic_source=rss"
+      },
+      {
+        "title": "Ashura ceremonies intertwine faith and support for state in Iran",
+        "published": "Thu, 25 Jun 2026 20:12:33 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/25/kenyas-kandie-gets-seven-year-ban-for-doping-violations?traffic_source=rss"
+      },
+      {
         "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
         "published": "Thu, 25 Jun 2026 18:24:58 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/25/concrete-breaking-off-walls-survivors-describe-venezuelas-earthquakes?traffic_source=rss"
@@ -24,16 +34,6 @@
         "title": "Ukrainian attack on Crimea kills five, Russian officials say",
         "published": "Thu, 25 Jun 2026 17:12:34 +0000",
         "link": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss"
-      },
-      {
-        "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
-        "published": "Thu, 25 Jun 2026 15:05:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/lebanon-latest-peace-talks-between-lebanon-and-israel-people-return-south?traffic_source=rss"
-      },
-      {
-        "title": "Iran accuses NATO of ‘complicity’ in US war: What role did EU nations play?",
-        "published": "Thu, 25 Jun 2026 14:43:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/25/irgc-warns-against-new-hormuz-route-for-ships-what-we-know?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
