@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-25 13:51",
+  "updated_at_gst": "2026-06-25 16:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Magnitude 6.9 earthquake strikes northern Japan",
-        "published": "Thu, 25 Jun 2026 08:41:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/moments-of-panic-as-earthquakes-strike-venezuela?traffic_source=rss"
+        "title": "US says Iran will buy its goods: What could US-Iran trade look like?",
+        "published": "Thu, 25 Jun 2026 09:43:12 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/6/25/in-pictures-aftermath-of-the-twin-earthquakes-in-venezuela?traffic_source=rss"
+      },
+      {
+        "title": "Iran warns against Hormuz crossings without authorisation",
+        "published": "Thu, 25 Jun 2026 08:49:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/magnitude-6-9-earthquake-strikes-northern-japan?traffic_source=rss"
+      },
+      {
+        "title": "Moments of panic as earthquakes strike Venezuela",
+        "published": "Thu, 25 Jun 2026 08:39:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/mexico-fans-celebrate-three-world-cup-group-stage-wins-in-a-row?traffic_source=rss"
+      },
+      {
+        "title": "Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders",
+        "published": "Thu, 25 Jun 2026 08:28:35 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/25/south-africa-fans-hail-historic-world-cup-knockout-entry-after-korea-win?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
