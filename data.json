@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-25 06:08",
+  "updated_at_gst": "2026-06-25 10:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iranians mark first Ashura since Khamenei’s killing in the US-Iran war",
+        "published": "Thu, 25 Jun 2026 03:55:07 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/migrants-left-to-endure-deadly-paris-heat-with-little-shelter-or-aid?traffic_source=rss"
+      },
+      {
         "title": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
         "published": "Wed, 24 Jun 2026 23:47:48 +0000",
         "link": "https://www.aljazeera.com/sports/2026/6/24/olympic-athletes-to-get-cash-grants-from-new-100m-fund-created-by-ioc?traffic_source=rss"
-      },
-      {
-        "title": "Trump White House requests $87.6bn in spending, including for Iran war",
-        "published": "Wed, 24 Jun 2026 23:25:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/european-heatwave-scorching-weather-triggers-uk-red-warning?traffic_source=rss"
-      },
-      {
-        "title": "Qatar’s Madibo banned for 5 games after breaking leg of Canada’s Kone",
-        "published": "Wed, 24 Jun 2026 21:38:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_israel-will-not-withdraw-from-lebanon-us-demands-240626?traffic_source=rss"
-      },
-      {
-        "title": "Palestinian activist faints after his release from Israeli prison",
-        "published": "Wed, 24 Jun 2026 20:57:55 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/6/24/family-sues-tesla-for-wrongful-death-in-autopilot-crash-in-texas-us?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
