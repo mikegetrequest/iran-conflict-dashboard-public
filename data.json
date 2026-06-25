@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-25 21:27",
+  "updated_at_gst": "2026-06-25 23:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
-        "published": "Thu, 25 Jun 2026 17:11:34 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/how-the-hpv-vaccine-changes-how-we-think-about-cancer?traffic_source=rss"
+        "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
+        "published": "Thu, 25 Jun 2026 18:24:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/25/concrete-breaking-off-walls-survivors-describe-venezuelas-earthquakes?traffic_source=rss"
       },
       {
-        "title": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
-        "published": "Thu, 25 Jun 2026 16:27:49 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/25/us-supreme-court-paves-way-for-government-to-block-asylum-seekers-at-border?traffic_source=rss"
+        "title": "Ukrainian attack on Crimea kills five, Russian officials say",
+        "published": "Thu, 25 Jun 2026 17:12:34 +0000",
+        "link": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss"
       },
       {
-        "title": "Lebanon Latest: Peace talks between Lebanon and Israel, people return south",
-        "published": "Thu, 25 Jun 2026 14:59:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/25/iran-accuses-nato-of-complicity-in-us-war-what-role-did-eu-nations-play?traffic_source=rss"
+        "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
+        "published": "Thu, 25 Jun 2026 15:05:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/lebanon-latest-peace-talks-between-lebanon-and-israel-people-return-south?traffic_source=rss"
+      },
+      {
+        "title": "Iran accuses NATO of ‘complicity’ in US war: What role did EU nations play?",
+        "published": "Thu, 25 Jun 2026 14:43:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/25/irgc-warns-against-new-hormuz-route-for-ships-what-we-know?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
