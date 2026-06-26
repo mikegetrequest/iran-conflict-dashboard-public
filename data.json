@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-26 04:01",
+  "updated_at_gst": "2026-06-26 08:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
-        "published": "Thu, 25 Jun 2026 20:55:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-quake-leaves-la-guaira-in-almost-total-devastation?traffic_source=rss"
+        "title": "Oil prices climb after attack in Strait of Hormuz halts evacuation plan",
+        "published": "Fri, 26 Jun 2026 02:35:10 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/26/marina-mabrey-ties-wnba-scoring-record-with-53-points-tempo-rout-sparks?traffic_source=rss"
       },
       {
-        "title": "Ashura ceremonies intertwine faith and support for state in Iran",
-        "published": "Thu, 25 Jun 2026 20:12:33 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/25/kenyas-kandie-gets-seven-year-ban-for-doping-violations?traffic_source=rss"
-      },
-      {
-        "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
-        "published": "Thu, 25 Jun 2026 18:24:58 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/25/concrete-breaking-off-walls-survivors-describe-venezuelas-earthquakes?traffic_source=rss"
+        "title": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
+        "published": "Fri, 26 Jun 2026 00:00:09 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/un-venezuela-earthquakes-will-deepen-already-severe-humanitarian-crisis?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
