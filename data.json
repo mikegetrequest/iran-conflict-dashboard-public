@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-26 12:24",
+  "updated_at_gst": "2026-06-26 15:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "IAEA demands verification of Iran nuclear ambitions amid ‘statement war’",
+        "published": "Fri, 26 Jun 2026 10:38:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/26/who-has-profited-most-from-the-war-on-iran?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
