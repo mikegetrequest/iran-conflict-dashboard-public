@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-26 19:35",
+  "updated_at_gst": "2026-06-26 21:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Hezbollah demands Israel leave Lebanon ‘unconditionally’ as US talks extend",
-        "published": "Fri, 26 Jun 2026 13:28:34 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/thermal-cameras-reveal-intense-heat-for-outdoor-workers-in-europe?traffic_source=rss"
+        "title": "Why did these World Cup ads strike a nerve in Egypt?",
+        "published": "Fri, 26 Jun 2026 16:15:56 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/6/26/norway-vs-france-live-fifa-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "Iran slams the GCC and the US for ‘interventionist’ statement: What we know",
+        "published": "Fri, 26 Jun 2026 14:04:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/26/south-korean-court-jails-former-first-lady-for-seven-years-in-bribery-case?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
