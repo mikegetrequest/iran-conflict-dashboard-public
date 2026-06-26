@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-26 21:27",
+  "updated_at_gst": "2026-06-26 23:15",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Why did these World Cup ads strike a nerve in Egypt?",
-        "published": "Fri, 26 Jun 2026 16:15:56 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/6/26/norway-vs-france-live-fifa-world-cup-2026?traffic_source=rss"
+        "title": "Israeli prosecutors charge six settlers after West Bank mosque attack",
+        "published": "Fri, 26 Jun 2026 18:00:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/why-did-these-world-cup-ads-strike-a-nerve-in-egypt-2?traffic_source=rss"
       },
       {
-        "title": "Iran slams the GCC and the US for ‘interventionist’ statement: What we know",
-        "published": "Fri, 26 Jun 2026 14:04:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/26/south-korean-court-jails-former-first-lady-for-seven-years-in-bribery-case?traffic_source=rss"
+        "title": "US announces framework agreement between Israel and Lebanon",
+        "published": "Fri, 26 Jun 2026 17:53:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/26/nine-people-killed-in-building-collapse-in-lagos-nigeria?traffic_source=rss"
+      },
+      {
+        "title": "Hezbollah: Israel must ‘unconditionally’ leave Lebanon",
+        "published": "Fri, 26 Jun 2026 16:27:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/why-did-these-world-cup-ads-strike-a-nerve-in-egypt?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
