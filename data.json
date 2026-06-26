@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-26 08:46",
+  "updated_at_gst": "2026-06-26 12:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,18 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Oil prices climb after attack in Strait of Hormuz halts evacuation plan",
-        "published": "Fri, 26 Jun 2026 02:35:10 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/26/marina-mabrey-ties-wnba-scoring-record-with-53-points-tempo-rout-sparks?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
-        "published": "Fri, 26 Jun 2026 00:00:09 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/un-venezuela-earthquakes-will-deepen-already-severe-humanitarian-crisis?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
