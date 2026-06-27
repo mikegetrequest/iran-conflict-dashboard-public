@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-28 00:07",
+  "updated_at_gst": "2026-06-28 01:34",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
+        "published": "Sat, 27 Jun 2026 21:13:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss"
+      },
       {
         "title": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
         "published": "Sat, 27 Jun 2026 18:50:59 +0000",
@@ -36,25 +41,40 @@
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/lebanon-divided-over-framework-agreement-signed-in-washington?traffic_source=rss"
       },
       {
-        "title": "Israeli drone attack kills young girl in Gaza ‘safe zone’",
+        "title": "Brother and sister killed in Israeli attack on Gaza ‘safe zone’",
         "published": "Sat, 27 Jun 2026 15:53:41 +0000",
         "link": "https://www.aljazeera.com/opinions/2026/6/27/bosnia-the-lilies-and-dragons-of-the-world?traffic_source=rss"
-      },
-      {
-        "title": "Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south",
-        "published": "Sat, 27 Jun 2026 15:40:47 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "US CENTCOM Strikes Iranian Missile Sites, Radar Stations After Hormuz Attack",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "Israeli Forces Storm Al-Mughayyir Village in West Bank",
         "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Al-Mughayyir, West Bank, Palestine · 19m ago. Israeli military forces stormed the village of Al-Mughayyir, northeast of Ramallah, in an escalating raid operation in the West Bank.",
+        "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Palestinian Paper Alleges Israeli Army Uses Rape as Weapon of War",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Ramallah, West Bank, Palestine · 31m ago. A Palestinian document reportedly reveals an alleged Israeli strategy of using rape as a weapon of occupation, raising serious human rights concerns.",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Israel Strikes Agricultural Lands Near Deir el-Balah",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
