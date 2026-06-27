@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-28 01:34",
+  "updated_at_gst": "2026-06-28 02:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,65 +16,30 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
-        "published": "Sat, 27 Jun 2026 21:13:12 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss"
+        "title": "US launches second night of strikes against Iran after ship struck by drone",
+        "published": "Sat, 27 Jun 2026 22:07:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss"
       },
       {
-        "title": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
-        "published": "Sat, 27 Jun 2026 18:50:59 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss"
+        "title": "Israel orders troops to prepare for ‘extended stay’ in Lebanon",
+        "published": "Sat, 27 Jun 2026 19:12:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/27/us-senate-challenger-incumbent-with-same-name-to-appear-on-alaska-ballot?traffic_source=rss"
       },
       {
-        "title": "Iran urge FIFA to stand up to ‘really terrible’ World Cup treatment by US",
-        "published": "Sat, 27 Jun 2026 18:30:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/27/australia-to-double-fines-on-big-tech-as-children-bypass-social-media-ban?traffic_source=rss"
-      },
-      {
-        "title": "How is framework agreement with Lebanon viewed in Israel?",
-        "published": "Sat, 27 Jun 2026 17:21:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater?traffic_source=rss"
-      },
-      {
-        "title": "Three security personnel killed in attack in Pakistan’s Karachi",
-        "published": "Sat, 27 Jun 2026 17:04:34 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/lebanon-divided-over-framework-agreement-signed-in-washington?traffic_source=rss"
-      },
-      {
-        "title": "Brother and sister killed in Israeli attack on Gaza ‘safe zone’",
-        "published": "Sat, 27 Jun 2026 15:53:41 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/6/27/bosnia-the-lilies-and-dragons-of-the-world?traffic_source=rss"
+        "title": "Lebanon divided over framework agreement signed in Washington",
+        "published": "Sat, 27 Jun 2026 16:31:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US CENTCOM Strikes Iranian Missile Sites, Radar Stations After Hormuz Attack",
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Storm Al-Mughayyir Village in West Bank",
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
         "published": "line-2",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Al-Mughayyir, West Bank, Palestine · 19m ago. Israeli military forces stormed the village of Al-Mughayyir, northeast of Ramallah, in an escalating raid operation in the West Bank.",
-        "published": "line-3",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Palestinian Paper Alleges Israeli Army Uses Rape as Weapon of War",
-        "published": "line-4",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Ramallah, West Bank, Palestine · 31m ago. A Palestinian document reportedly reveals an alleged Israeli strategy of using rape as a weapon of occupation, raising serious human rights concerns.",
-        "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Israel Strikes Agricultural Lands Near Deir el-Balah",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
