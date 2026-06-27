@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-27 22:59",
+  "updated_at_gst": "2026-06-28 00:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Lebanon divided over framework agreement signed in Washington",
-        "published": "Sat, 27 Jun 2026 16:31:12 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss"
+        "title": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
+        "published": "Sat, 27 Jun 2026 18:50:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss"
+      },
+      {
+        "title": "Iran urge FIFA to stand up to ‘really terrible’ World Cup treatment by US",
+        "published": "Sat, 27 Jun 2026 18:30:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/27/australia-to-double-fines-on-big-tech-as-children-bypass-social-media-ban?traffic_source=rss"
+      },
+      {
+        "title": "How is framework agreement with Lebanon viewed in Israel?",
+        "published": "Sat, 27 Jun 2026 17:21:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater?traffic_source=rss"
+      },
+      {
+        "title": "Three security personnel killed in attack in Pakistan’s Karachi",
+        "published": "Sat, 27 Jun 2026 17:04:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/lebanon-divided-over-framework-agreement-signed-in-washington?traffic_source=rss"
+      },
+      {
+        "title": "Israeli drone attack kills young girl in Gaza ‘safe zone’",
+        "published": "Sat, 27 Jun 2026 15:53:41 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/6/27/bosnia-the-lilies-and-dragons-of-the-world?traffic_source=rss"
+      },
+      {
+        "title": "Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south",
+        "published": "Sat, 27 Jun 2026 15:40:47 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
