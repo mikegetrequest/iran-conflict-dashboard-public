@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-27 09:48",
+  "updated_at_gst": "2026-06-27 12:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump justifies strikes on Iran amid ceasefire",
-        "published": "Sat, 27 Jun 2026 00:16:58 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss"
+        "title": "Iran and US trade blame for attacks, threatening fragile ceasefire",
+        "published": "Sat, 27 Jun 2026 07:00:13 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/27/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss"
       },
       {
-        "title": "What is the framework agreement signed by Israel and Lebanon?",
-        "published": "Fri, 26 Jun 2026 22:56:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/desperate-families-search-for-missing-loved-ones-in-venezuela?traffic_source=rss"
+        "title": "US strikes on Iran test fragile ceasefire",
+        "published": "Sat, 27 Jun 2026 04:13:53 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/rescue-efforts-turn-to-recovery-as-aftershocks-shake-venezuela?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: IRGC ‘targets’ US military sites in region after attacks",
+        "published": "Sat, 27 Jun 2026 00:00:04 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
