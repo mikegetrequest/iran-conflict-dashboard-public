@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-27 14:30",
+  "updated_at_gst": "2026-06-27 16:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Could Israel’s coming election see an end to Netanyahu’s political career?",
+        "published": "Sat, 27 Jun 2026 10:35:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss"
+      },
+      {
         "title": "Joy, disappointment, protests: A view from Egypt-Iran World Cup tie",
         "published": "Sat, 27 Jun 2026 10:02:35 +0000",
         "link": "https://www.aljazeera.com/sports/2026/6/27/fifa-world-cup-2026-saturday-schedule-round-of-32-standings-predictions?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Iran and US trade blame for attacks, threatening fragile ceasefire",
         "published": "Sat, 27 Jun 2026 07:00:13 +0000",
         "link": "https://www.aljazeera.com/sports/2026/6/27/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss"
-      },
-      {
-        "title": "US strikes on Iran test fragile ceasefire",
-        "published": "Sat, 27 Jun 2026 04:13:53 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/rescue-efforts-turn-to-recovery-as-aftershocks-shake-venezuela?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
