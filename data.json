@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-28 02:51",
+  "updated_at_gst": "2026-06-28 03:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,7 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US launches second night of strikes against Iran after ship struck by drone",
+        "title": "US launches second night of strikes on Iran after ship hit by drone",
         "published": "Sat, 27 Jun 2026 22:07:03 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss"
       },
@@ -33,13 +33,33 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "— S3 · Conflict · Strait of Hormuz · 57m ago. Dozens of US fighter jets and tankers escorted an oil tanker through the Persian Gulf and Gulf of Oman, amid ongoing US-Iran tensions.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "US Conducts Further Strikes on Iran",
         "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Iran · 2h ago. American forces targeted military surveillance infrastructure at multiple locations in Iran, escalating direct kinetic action between the two countries.",
+        "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "US Airstrikes Target Bandar-e Lengeh, Iran",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Bandar-e Lengeh, Iran · 2h ago. US airstrikes reportedly targeted the coastal Iranian city of Bandar-e Lengeh, escalating tensions following recent exchanges of fire.",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "US Air Force Tankers Active Near Strait of Hormuz After Iran Strikes",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
