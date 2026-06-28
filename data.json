@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-28 03:51",
+  "updated_at_gst": "2026-06-28 06:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,41 +24,36 @@
         "title": "Israel orders troops to prepare for ‘extended stay’ in Lebanon",
         "published": "Sat, 27 Jun 2026 19:12:39 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/27/us-senate-challenger-incumbent-with-same-name-to-appear-on-alaska-ballot?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon divided over framework agreement signed in Washington",
-        "published": "Sat, 27 Jun 2026 16:31:12 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 57m ago. Dozens of US fighter jets and tankers escorted an oil tanker through the Persian Gulf and Gulf of Oman, amid ongoing US-Iran tensions.",
+        "title": "US Airstrikes on 10 Iranian Military Targets",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Conducts Further Strikes on Iran",
+        "title": "— S3 · Conflict · Lorestan Province, Iran · 1h ago. US military confirms strikes on 10 military targets in western Iran, escalating ongoing conflict amid regional tensions.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 2h ago. American forces targeted military surveillance infrastructure at multiple locations in Iran, escalating direct kinetic action between the two countries.",
+        "title": "Iran's IRGC Claims Strikes on US Forces in Kuwait and Bahrain",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Airstrikes Target Bandar-e Lengeh, Iran",
+        "title": "Iraqi Forces Arrest Pro-Iran MP Alia Nassif in Green Zone Raid",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bandar-e Lengeh, Iran · 2h ago. US airstrikes reportedly targeted the coastal Iranian city of Bandar-e Lengeh, escalating tensions following recent exchanges of fire.",
+        "title": "— S3 · Political · Green Zone, Baghdad, Iraq · 2h ago. Iraqi SOF and Army armor raided Baghdad's Green Zone, detaining prominent pro-Iranian MP Alia Nassif amid gunfire.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Air Force Tankers Active Near Strait of Hormuz After Iran Strikes",
+        "title": "Iran Launches Drone and Missile Attack on Kuwait After US Strikes",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
