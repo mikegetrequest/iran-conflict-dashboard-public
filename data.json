@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-28 21:57",
+  "updated_at_gst": "2026-06-28 23:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US and Iran trade strikes days after peace agreement",
+        "published": "Sun, 28 Jun 2026 18:55:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside?traffic_source=rss"
+      },
+      {
         "title": "Pape: US trying to ‘squeak out of strategic defeat’ after Iran",
         "published": "Sun, 28 Jun 2026 14:46:32 +0000",
         "link": "https://www.aljazeera.com/sports/2026/6/28/world-cup-2026-round-of-32-biggest-takeaways-from-the-group-stage?traffic_source=rss"
-      },
-      {
-        "title": "The US-Iran MoU: A mirage of an agreement",
-        "published": "Sun, 28 Jun 2026 13:59:38 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss"
-      },
-      {
-        "title": "Adam Johnson on how US corporate media sold Israel’s genocide in Gaza",
-        "published": "Sun, 28 Jun 2026 13:30:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/stories-of-survivors-of-venezuelas-earthquakes?traffic_source=rss"
-      },
-      {
-        "title": "Paradise lost: How Israel is making war on West Bank farmers",
-        "published": "Sun, 28 Jun 2026 13:19:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/28/why-is-article-5-of-mou-causing-confrontations-in-the-strait-of-hormuz?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Tehran, Iran · 9h ago. Iranian Foreign Minister Abbas Araghchi states his visit includes preparations for the funeral of Ayatollah Ali Khamenei, signaling succession planning.",
+        "title": "— S4 · Political · Tehran, Iran · 11h ago. Iranian Foreign Minister Abbas Araghchi states his visit includes preparations for the funeral of Ayatollah Ali Khamenei, signaling succession planning.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 15h ago. US launches new strikes on Iran after a tanker attack, as Tehran hits Kuwait and Bahrain, raising fears the fragile US-Iran ceasefire could collapse.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 16h ago. US launches new strikes on Iran after a tanker attack, as Tehran hits Kuwait and Bahrain, raising fears the fragile US-Iran ceasefire could collapse.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Gunmen Kill Two in Attack on Syrian Military Vehicle in Tafas",
+        "title": "Iran's IRGC Claims Ballistic Missile Strikes on US Bases in Kuwait, Bahrain in Retaliation",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Shrapnel From Military Activity Kills 1 on Qatari Vessel in Persian Gulf",
+        "title": "Gunmen Kill Two in Attack on Syrian Military Vehicle in Tafas",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
