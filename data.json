@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-28 15:29",
+  "updated_at_gst": "2026-06-28 16:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
+        "published": "Sun, 28 Jun 2026 12:38:33 +0000",
+        "link": "https://www.aljazeera.com/news/longform/2026/6/28/satellite-images-show-scale-of-destruction-in-venezuela-earthquakes?traffic_source=rss"
+      },
+      {
         "title": "‘US trying to find its way out of MoU with Iran’",
         "published": "Sun, 28 Jun 2026 10:30:45 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/28/iraq-security-forces-arrest-several-officials-in-anticorruption-crackdown?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Iran bow out of World Cup: Late drama ends Team Melli’s knockout dream",
         "published": "Sun, 28 Jun 2026 07:23:46 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/28/polls-open-in-new-caledonias-first-provincial-elections-since-2019?traffic_source=rss"
-      },
-      {
-        "title": "World Cup: Messi sends Argentina top, England to face DR Congo, Iran out",
-        "published": "Sun, 28 Jun 2026 05:09:04 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Tehran, Iran · 3h ago. Iranian Foreign Minister Abbas Araghchi states his visit includes preparations for the funeral of Ayatollah Ali Khamenei, signaling succession planning.",
+        "title": "— S4 · Political · Tehran, Iran · 4h ago. Iranian Foreign Minister Abbas Araghchi states his visit includes preparations for the funeral of Ayatollah Ali Khamenei, signaling succession planning.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 9h ago. US launches new strikes on Iran after a tanker attack, as Tehran hits Kuwait and Bahrain, raising fears the fragile US-Iran ceasefire could collapse.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 10h ago. US launches new strikes on Iran after a tanker attack, as Tehran hits Kuwait and Bahrain, raising fears the fragile US-Iran ceasefire could collapse.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes 10 Iranian Military Targets Near Strait of Hormuz",
+        "title": "Hezbollah Fighter Killed in Southern Lebanon Despite Ceasefire",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Hezbollah Fighter Killed in Southern Lebanon Despite Ceasefire",
+        "title": "Iran Deal in Tatters as Tehran Demands Full Control Over Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
