@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-28 06:07",
+  "updated_at_gst": "2026-06-28 10:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,54 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US launches second night of strikes on Iran after ship hit by drone",
-        "published": "Sat, 27 Jun 2026 22:07:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss"
+        "title": "World Cup: Messi sends Argentina to top, England to face DR Congo, Iran out",
+        "published": "Sun, 28 Jun 2026 05:09:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss"
       },
       {
-        "title": "Israel orders troops to prepare for ‘extended stay’ in Lebanon",
-        "published": "Sat, 27 Jun 2026 19:12:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/27/us-senate-challenger-incumbent-with-same-name-to-appear-on-alaska-ballot?traffic_source=rss"
+        "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
+        "published": "Sun, 28 Jun 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss"
+      },
+      {
+        "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
+        "published": "Sat, 27 Jun 2026 21:13:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss"
+      },
+      {
+        "title": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
+        "published": "Sat, 27 Jun 2026 18:50:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Airstrikes on 10 Iranian Military Targets",
+        "title": "US Strikes 10 Iranian Military Targets Near Strait of Hormuz",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Lorestan Province, Iran · 1h ago. US military confirms strikes on 10 military targets in western Iran, escalating ongoing conflict amid regional tensions.",
+        "title": "Iranian Attack Damages Residential Building in Bahrain",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran's IRGC Claims Strikes on US Forces in Kuwait and Bahrain",
+        "title": "— S3 · Conflict · Manama, Bahrain · 9m ago. An Iranian attack struck a residential building in Manama, Bahrain, causing damage. No casualties reported yet.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iraqi Forces Arrest Pro-Iran MP Alia Nassif in Green Zone Raid",
+        "title": "Israel Kills Hamas Tunnel Unit Chief in Khan Yunis Airstrike",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Green Zone, Baghdad, Iraq · 2h ago. Iraqi SOF and Army armor raided Baghdad's Green Zone, detaining prominent pro-Iranian MP Alia Nassif amid gunfire.",
+        "title": "— S3 · Conflict · Khan Yunis, Gaza Strip · 27m ago. Israeli Air Force airstrike in Khan Yunis killed Kamal Muhammad Hamdan Najar, head of Hamas tunnel unit in the area.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Drone and Missile Attack on Kuwait After US Strikes",
+        "title": "Iran Threatens Halt in US Talks After Exchange of Fire in Bahrain and Kuwait",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
