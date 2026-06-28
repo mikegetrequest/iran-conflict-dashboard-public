@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-28 18:30",
+  "updated_at_gst": "2026-06-28 19:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
-        "published": "Sun, 28 Jun 2026 14:01:29 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/6/28/the-us-iran-mou-a-mirage-of-an-agreement?traffic_source=rss"
+        "title": "Pape: US trying to ‘squeak out of strategic defeat’ after Iran",
+        "published": "Sun, 28 Jun 2026 14:46:32 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/28/world-cup-2026-round-of-32-biggest-takeaways-from-the-group-stage?traffic_source=rss"
       },
       {
-        "title": "Ukraine says it attacked two Russian oil refineries",
-        "published": "Sun, 28 Jun 2026 13:36:15 +0000",
-        "link": "https://www.aljazeera.com/video/upfront/2026/6/28/adam-johnson-on-how-us-corporate-media-sold-israels-genocide-in-gaza?traffic_source=rss"
+        "title": "The US-Iran MoU: A mirage of an agreement",
+        "published": "Sun, 28 Jun 2026 13:59:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss"
       },
       {
-        "title": "What is Article 5 of Iran-US MoU, and why is it blamed for Hormuz strikes?",
-        "published": "Sun, 28 Jun 2026 13:17:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days?traffic_source=rss"
+        "title": "Adam Johnson on how US corporate media sold Israel’s genocide in Gaza",
+        "published": "Sun, 28 Jun 2026 13:30:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/stories-of-survivors-of-venezuelas-earthquakes?traffic_source=rss"
       },
       {
-        "title": "US strikes Iran for second day: Is it a violation of war powers resolution?",
-        "published": "Sun, 28 Jun 2026 12:13:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/28/saudi-arabia-helicopter-crash-kills-all-14-on-board?traffic_source=rss"
+        "title": "Paradise lost: How Israel is making war on West Bank farmers",
+        "published": "Sun, 28 Jun 2026 13:19:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/28/why-is-article-5-of-mou-causing-confrontations-in-the-strait-of-hormuz?traffic_source=rss"
       },
       {
-        "title": "Iran attacks Kuwait and Bahrain in response to US strikes",
-        "published": "Sun, 28 Jun 2026 08:39:48 +0000",
-        "link": "https://www.aljazeera.com/video/2026/6/28/video-world-cup-2026-highlights?traffic_source=rss"
+        "title": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
+        "published": "Sun, 28 Jun 2026 12:38:33 +0000",
+        "link": "https://www.aljazeera.com/news/longform/2026/6/28/satellite-images-show-scale-of-destruction-in-venezuela-earthquakes?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Tehran, Iran · 6h ago. Iranian Foreign Minister Abbas Araghchi states his visit includes preparations for the funeral of Ayatollah Ali Khamenei, signaling succession planning.",
+        "title": "— S4 · Political · Tehran, Iran · 7h ago. Iranian Foreign Minister Abbas Araghchi states his visit includes preparations for the funeral of Ayatollah Ali Khamenei, signaling succession planning.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 12h ago. US launches new strikes on Iran after a tanker attack, as Tehran hits Kuwait and Bahrain, raising fears the fragile US-Iran ceasefire could collapse.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 13h ago. US launches new strikes on Iran after a tanker attack, as Tehran hits Kuwait and Bahrain, raising fears the fragile US-Iran ceasefire could collapse.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Doubles Down as Iran-US MoU Jeopardized by Hormuz Strikes",
+        "title": "Israeli Attacks Kill Over 4,200 in Lebanon Since March 2",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 9m ago. Iran's IRGC intensifies actions after two nights of Strait of Hormuz clashes, threatening the US-Iran MoU and triggering negative market reactions.",
+        "title": "— S3 · Conflict · Beirut, Lebanon · 2m ago. At least 4,247 people killed and 12,195 wounded by Israeli attacks across Lebanon since March 2, according to local authorities.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
