@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-30 02:44",
+  "updated_at_gst": "2026-06-30 03:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+        "published": "Mon, 29 Jun 2026 23:29:41 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/29/paraguay-shock-germany-in-shootout-win-for-one-of-all-time-world-cup-upsets?traffic_source=rss"
+      },
+      {
         "title": "Pakistani strikes kill dozens of Afghan villagers",
         "published": "Mon, 29 Jun 2026 18:44:34 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss"
@@ -23,7 +28,7 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "— S4 · Conflict · Beirut, Lebanon · 6h ago. Lebanon's Health Ministry says at least 4,257 people have been killed in Israeli attacks since March 2, 2026.",
+        "title": "— S4 · Conflict · Beirut, Lebanon · 7h ago. Lebanon's Health Ministry says at least 4,257 people have been killed in Israeli attacks since March 2, 2026.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -33,22 +38,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "15-Year-Old Palestinian Killed in Israeli Raid in West Bank",
+        "title": "Israeli Strike Kills Two in Gaza Humanitarian Zone",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 56m ago. Israeli forces killed a 15-year-old Palestinian during a raid in the West Bank, escalating tensions in the region.",
+        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 6m ago. An Israeli airstrike hit the Mawasi area of Khan Younis, killing two and injuring several others, setting tents ablaze.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Southern Lebanese Towns of Qantara and Deir Seryan",
+        "title": "15-Year-Old Palestinian Killed in Israeli Raid in West Bank",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 2h ago. Israeli airstrikes hit the southern Lebanese towns of Qantara and Deir Seryan.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 2h ago. Israeli forces killed a 15-year-old Palestinian during a raid in the West Bank, escalating tensions in the region.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
