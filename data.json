@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-30 01:48",
+  "updated_at_gst": "2026-06-30 02:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -23,7 +23,7 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "— S4 · Conflict · Beirut, Lebanon · 5h ago. Lebanon's Health Ministry says at least 4,257 people have been killed in Israeli attacks since March 2, 2026.",
+        "title": "— S4 · Conflict · Beirut, Lebanon · 6h ago. Lebanon's Health Ministry says at least 4,257 people have been killed in Israeli attacks since March 2, 2026.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -33,22 +33,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Southern Lebanese Towns of Qantara and Deir Seryan",
+        "title": "15-Year-Old Palestinian Killed in Israeli Raid in West Bank",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 1h ago. Israeli airstrikes hit the southern Lebanese towns of Qantara and Deir Seryan.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 56m ago. Israeli forces killed a 15-year-old Palestinian during a raid in the West Bank, escalating tensions in the region.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. The Israeli Defense Forces seal a major 16-kilometer Hamas tunnel in the Gaza Strip that was used to hold the remains of Lieutenant Hadar Goldin.",
+        "title": "Israel Strikes Southern Lebanese Towns of Qantara and Deir Seryan",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Shells Village in Southern Syria",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 2h ago. Israeli airstrikes hit the southern Lebanese towns of Qantara and Deir Seryan.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
