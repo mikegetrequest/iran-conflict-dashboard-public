@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-29 22:27",
+  "updated_at_gst": "2026-06-30 00:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank",
+        "published": "Mon, 29 Jun 2026 19:08:43 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/pakistani-strikes-kill-dozens-of-afghan-villagers?traffic_source=rss"
+      },
+      {
+        "title": "Israel launches attacks and incursions inside southern Syria",
+        "published": "Mon, 29 Jun 2026 18:43:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/miracle-man-pulled-from-rubble-four-days-after-venezuelan-quakes?traffic_source=rss"
+      },
+      {
         "title": "New Israeli assault in southern Syria forces families to flee their homes",
         "published": "Mon, 29 Jun 2026 17:31:08 +0000",
         "link": "https://www.aljazeera.com/video/the-take-2/2026/6/29/mehdi-hasan-disrupting-democracys-decline?traffic_source=rss"
@@ -24,16 +34,11 @@
         "title": "US petrol prices ease despite ongoing uncertainties with Iran",
         "published": "Mon, 29 Jun 2026 16:01:07 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/29/us-supreme-court-rebuffs-trumps-appeal-in-e-jean-carroll-case?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon’s displaced begin to return home, but some have nowhere to go",
-        "published": "Mon, 29 Jun 2026 15:25:38 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/6/29/jd-vances-2028-strategy-is-starting-to-take-shape?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— S4 · Conflict · Beirut, Lebanon · 2h ago. Lebanon's Health Ministry says at least 4,257 people have been killed in Israeli attacks since March 2, 2026.",
+        "title": "— S4 · Conflict · Beirut, Lebanon · 4h ago. Lebanon's Health Ministry says at least 4,257 people have been killed in Israeli attacks since March 2, 2026.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -43,22 +48,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Qatar Suspends Marine Activities After Fatal Shrapnel Incident",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 42m ago. The Israeli Defense Forces seal a major 16-kilometer Hamas tunnel in the Gaza Strip that was used to hold the remains of Lieutenant Hadar Goldin.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Doha, Qatar · 3h ago. Qatar has suspended all marine activities near its coast following a fatal shrapnel incident, indicating a potential security concern or accident in its territorial waters.",
+        "title": "Israel Shells Village in Southern Syria",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Lebanon as Hezbollah Condemns New Deal",
+        "title": "— S3 · Conflict · Damascus, Syria · 1h ago. Israeli artillery and flares hit a village in southern Syria overnight as incursions continue.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 3h ago. Israeli airstrikes hit southern Lebanon as Hezbollah condemns the newly established Israel-Lebanon agreement, signaling continued hostilities.",
+        "title": "Qatar Suspends Marine Activities After Fatal Shrapnel Incident",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
