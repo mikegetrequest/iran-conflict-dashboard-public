@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-29 16:14",
+  "updated_at_gst": "2026-06-29 20:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,64 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
-        "published": "Mon, 29 Jun 2026 11:05:47 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss"
+        "title": "US petrol prices ease despite ongoing uncertainties with Iran",
+        "published": "Mon, 29 Jun 2026 16:01:07 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/29/us-supreme-court-rebuffs-trumps-appeal-in-e-jean-carroll-case?traffic_source=rss"
       },
       {
-        "title": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
-        "published": "Mon, 29 Jun 2026 09:58:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/29/erased-from-history-a-century-on-from-canadas-anti-greek-riots?traffic_source=rss"
+        "title": "Lebanon’s displaced begin to return home, but some have nowhere to go",
+        "published": "Mon, 29 Jun 2026 15:25:38 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/6/29/jd-vances-2028-strategy-is-starting-to-take-shape?traffic_source=rss"
       },
       {
-        "title": "Israel triggers huge explosion in southern Lebanon",
-        "published": "Mon, 29 Jun 2026 08:32:26 +0000",
-        "link": "https://www.aljazeera.com/video/2026/6/29/video-world-cup-2026-highlights?traffic_source=rss"
+        "title": "Why the Arab League could not stop Israel’s genocide",
+        "published": "Mon, 29 Jun 2026 14:43:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/sudans-el-obeid-life-on-the-edge-of-collapse?traffic_source=rss"
+      },
+      {
+        "title": "Trump announces meeting with Iran in Qatar despite military skirmishes",
+        "published": "Mon, 29 Jun 2026 14:12:32 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/6/29/brazil-vs-japan-live-fifa-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "Is the Israeli military deliberately targeting children in Gaza?",
+        "published": "Mon, 29 Jun 2026 13:55:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/29/russian-missile-and-drone-attacks-kill-at-least-eight-in-ukraine?traffic_source=rss"
+      },
+      {
+        "title": "Why Pakistan’s Afghan air strikes aren’t stopping armed attacks",
+        "published": "Mon, 29 Jun 2026 13:51:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/29/more-than-1300-deaths-in-europe-amid-heatwave-what-can-countries-do?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran's IRGC Claims Ballistic Missile Strikes on US Bases in Kuwait, Bahrain in Retaliation",
+        "title": "US Strikes Iranian Military Sites Near Strait of Hormuz; Iran Retaliates Against Bahrain and Kuwait",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iranian Military Sites Near Strait of Hormuz; Iran Retaliates Against Bahrain and Kuwait",
+        "title": "Qatar Suspends Marine Activities After Fatal Shrapnel Incident",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Kills Palestinian Islamic Jihad Member in Gaza",
+        "title": "— S3 · Conflict · Doha, Qatar · 25m ago. Qatar has suspended all marine activities near its coast following a fatal shrapnel incident, indicating a potential security concern or accident in its territorial waters.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Israeli forces targeted and killed a Palestinian Islamic Jihad member in Gaza, confirming the militant's death.",
+        "title": "Israel Strikes Lebanon as Hezbollah Condemns New Deal",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Kills October 7 Attacker in Northern Gaza Strike",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 32m ago. Israeli airstrikes hit southern Lebanon as Hezbollah condemns the newly established Israel-Lebanon agreement, signaling continued hostilities.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Oil Prices Surge as US-Iran Strikes Disrupt Strait of Hormuz",
+        "title": "Israel Kills Hezbollah Operative in Deir Seryan, Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
