@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-29 03:57",
+  "updated_at_gst": "2026-06-29 06:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
-        "published": "Sun, 28 Jun 2026 21:55:27 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/28/ireland-upstage-world-champions-india-to-win-t20-series-at-home?traffic_source=rss"
+        "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
+        "published": "Mon, 29 Jun 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss"
       },
       {
-        "title": "Israeli forces bulldoze olive groves in the occupied West Bank",
-        "published": "Sun, 28 Jun 2026 19:21:23 +0000",
-        "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/28/starmer-couldnt-master-the-media-can-burnham?traffic_source=rss"
-      },
-      {
-        "title": "US and Iran trade strikes days after peace agreement",
-        "published": "Sun, 28 Jun 2026 18:55:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside?traffic_source=rss"
+        "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
+        "published": "Sun, 28 Jun 2026 19:54:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/28/hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-rescues?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Tehran, Iran · 15h ago. Iranian Foreign Minister Abbas Araghchi states his visit includes preparations for the funeral of Ayatollah Ali Khamenei, signaling succession planning.",
+        "title": "— S4 · Political · Tehran, Iran · 18h ago. Iranian Foreign Minister Abbas Araghchi states his visit includes preparations for the funeral of Ayatollah Ali Khamenei, signaling succession planning.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 21h ago. US launches new strikes on Iran after a tanker attack, as Tehran hits Kuwait and Bahrain, raising fears the fragile US-Iran ceasefire could collapse.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 1d ago. US launches new strikes on Iran after a tanker attack, as Tehran hits Kuwait and Bahrain, raising fears the fragile US-Iran ceasefire could collapse.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Destroys Hezbollah Underground Infrastructure in Southern Lebanon",
+        "title": "Israel Destroys Hezbollah Tunnel Network in Southern Lebanon Village, Netanyahu Says",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
