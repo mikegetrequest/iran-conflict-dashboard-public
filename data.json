@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-29 11:20",
+  "updated_at_gst": "2026-06-29 16:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
-        "published": "Mon, 29 Jun 2026 03:55:02 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/australian-man-charged-with-murder-after-thai-girls-body-found-in-suitcase?traffic_source=rss"
+        "title": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
+        "published": "Mon, 29 Jun 2026 11:05:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss"
       },
       {
-        "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
-        "published": "Sun, 28 Jun 2026 21:55:27 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/6/28/ireland-upstage-world-champions-india-to-win-t20-series-at-home?traffic_source=rss"
+        "title": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
+        "published": "Mon, 29 Jun 2026 09:58:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/29/erased-from-history-a-century-on-from-canadas-anti-greek-riots?traffic_source=rss"
+      },
+      {
+        "title": "Israel triggers huge explosion in southern Lebanon",
+        "published": "Mon, 29 Jun 2026 08:32:26 +0000",
+        "link": "https://www.aljazeera.com/video/2026/6/29/video-world-cup-2026-highlights?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iranian FM Araghchi Visits for Ayatollah Khamenei Funeral Preparations",
+        "title": "Iran's IRGC Claims Ballistic Missile Strikes on US Bases in Kuwait, Bahrain in Retaliation",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Tehran, Iran · 23h ago. Iranian Foreign Minister Abbas Araghchi states his visit includes preparations for the funeral of Ayatollah Ali Khamenei, signaling succession planning.",
+        "title": "US Strikes Iranian Military Sites Near Strait of Hormuz; Iran Retaliates Against Bahrain and Kuwait",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran's IRGC Claims Ballistic Missile Strikes on US Bases in Kuwait, Bahrain in Retaliation",
+        "title": "Israel Kills Palestinian Islamic Jihad Member in Gaza",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iranian Military Sites Near Strait of Hormuz; Iran Retaliates Against Bahrain and Kuwait",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Israeli forces targeted and killed a Palestinian Islamic Jihad member in Gaza, confirming the militant's death.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Oil Prices Surge as US-Iran Strikes Disrupt Strait of Hormuz",
+        "title": "Israel Kills October 7 Attacker in Northern Gaza Strike",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Strait of Hormuz · 4h ago. Brent crude rises after US and Iranian retaliatory strikes near the Strait of Hormuz delay shipping through the key oil chokepoint, with US production cushioning markets.",
+        "title": "Oil Prices Surge as US-Iran Strikes Disrupt Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
