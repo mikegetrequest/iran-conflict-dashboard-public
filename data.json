@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-30 16:26",
+  "updated_at_gst": "2026-06-30 19:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Man in Gaza survives double tap Israeli strike on vehicle",
-        "published": "Tue, 30 Jun 2026 10:09:27 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/30/advocacy-groups-file-complaint-against-ghana-over-trump-deportations?traffic_source=rss"
-      },
-      {
-        "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
-        "published": "Tue, 30 Jun 2026 09:10:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/30/heatwave-scorches-east-europe-as-slovakia-czechia-see-record-temperatures?traffic_source=rss"
+        "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
+        "published": "Tue, 30 Jun 2026 11:57:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/morocco-player-hugs-mother-as-team-celebrates-win-against-netherlands?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— S4 · Conflict · Beirut, Lebanon · 20h ago. Lebanon's Health Ministry says at least 4,257 people have been killed in Israeli attacks since March 2, 2026.",
+        "title": "— S4 · Conflict · Beirut, Lebanon · 23h ago. Lebanon's Health Ministry says at least 4,257 people have been killed in Israeli attacks since March 2, 2026.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Two Revolutionary Guards Members Killed in Terrorist Attack in Iran",
+        "title": "Five Arabs Murdered in One Day in Israel, Police Meet on Violence Wave",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 1h ago. Two members of Iran's Revolutionary Guards were killed in a terrorist attack, with details currently unavailable, indicating an ongoing security concern.",
+        "title": "— S3 · Conflict · Israel · 4m ago. Four separate incidents kill five Arab individuals in Israel, prompting an urgent police response to escalating violent crime.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Dismantles Terrorist Cell in Northwest Iran, 4 Security Forces Killed",
+        "title": "UN Report Alleges Deliberate Killing of Palestinian Children by Israeli Forces",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Northwest Iran · 2h ago. IRGC clashes with armed group in northwest Iran; four security force members killed in operation to dismantle terrorist cell.",
+        "title": "Two Revolutionary Guards Members Killed in Terrorist Attack in Iran",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Eliminates PIJ Commander in Southern Gaza Strike",
+        "title": "— S3 · Conflict · Iran · 4h ago. Two members of Iran's Revolutionary Guards were killed in a terrorist attack, with details currently unavailable, indicating an ongoing security concern.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
