@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-30 21:19",
+  "updated_at_gst": "2026-06-30 23:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,41 +24,36 @@
         "title": "How severe is Russia’s energy shortage because of Ukrainian strikes?",
         "published": "Tue, 30 Jun 2026 16:31:28 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/30/heavy-rainfall-kills-dozens-in-ghana-ivory-coast?traffic_source=rss"
-      },
-      {
-        "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
-        "published": "Tue, 30 Jun 2026 11:57:22 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/morocco-player-hugs-mother-as-team-celebrates-win-against-netherlands?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israel Accelerates Land Grabs in Gaza, West Bank",
+        "title": "Israeli Drone Attack Kills Two Palestinians in Gaza",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Hebron, West Bank, Palestine · 14m ago. Israel accelerates land seizures in Gaza and West Bank, with permanent alterations at Hebron's Ibrahimi Mosque and new settlement plans.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 56m ago. An Israeli drone strike killed two Palestinians in Gaza amid ongoing conflict.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Strait of Hormuz · 33m ago. Pakistan government says inflationary pressures will ease in the new fiscal year after the Strait of Hormuz reopened following the US-Iran ceasefire.",
+        "title": "Iran Prepares for Funeral of Late Supreme Leader Khamenei",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Kills Hamas Battalion Commander in Rafah Airstrike",
+        "title": "— S3 · Political · Tehran, Iran · 2h ago. Ayatollah Ali Khamenei's body to be displayed before funeral in Tehran, marking major political transition.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Rafah, Gaza Strip, Palestine · 58m ago. Israeli Air Force and Shin Bet killed Muhammad Fathi Abd al-Hay Abu Fakhri, commander of Hamas's Yabna Battalion in Rafah, in a targeted airstrike.",
+        "title": "Israel Accelerates Land Grabs in Gaza, West Bank",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Five Arabs Murdered in One Day in Israel, Police Meet on Violence Wave",
+        "title": "— S3 · Political · Hebron, West Bank, Palestine · 2h ago. Israel accelerates land seizures in Gaza and West Bank, with permanent alterations at Hebron's Ibrahimi Mosque and new settlement plans.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
