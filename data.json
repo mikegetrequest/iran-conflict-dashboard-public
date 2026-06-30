@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-30 14:21",
+  "updated_at_gst": "2026-06-30 16:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,41 +24,36 @@
         "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
         "published": "Tue, 30 Jun 2026 09:10:10 +0000",
         "link": "https://www.aljazeera.com/news/2026/6/30/heatwave-scorches-east-europe-as-slovakia-czechia-see-record-temperatures?traffic_source=rss"
-      },
-      {
-        "title": "What is Iran looking for in any upcoming talks with the US?",
-        "published": "Tue, 30 Jun 2026 06:33:28 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/6/30/in-pictures-venezuela-earthquakes-death-toll-surpasses-1700?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— S4 · Conflict · Beirut, Lebanon · 18h ago. Lebanon's Health Ministry says at least 4,257 people have been killed in Israeli attacks since March 2, 2026.",
+        "title": "— S4 · Conflict · Beirut, Lebanon · 20h ago. Lebanon's Health Ministry says at least 4,257 people have been killed in Israeli attacks since March 2, 2026.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Strike Hits Vehicle in Gaza, Survivor Reported",
+        "title": "Two Revolutionary Guards Members Killed in Terrorist Attack in Iran",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1m ago. A man survived a double-tap Israeli airstrike on a vehicle in the Gaza Strip, amid ongoing conflict between Israel and Hamas.",
+        "title": "— S3 · Conflict · Iran · 1h ago. Two members of Iran's Revolutionary Guards were killed in a terrorist attack, with details currently unavailable, indicating an ongoing security concern.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran-Iraq Border · 2h ago. Kurdish rebels have clashed with Iran's Islamic Revolutionary Guard Corps (IRGC) in a significant border escalation, raising concerns about a potential new insurgency.",
+        "title": "IRGC Dismantles Terrorist Cell in Northwest Iran, 4 Security Forces Killed",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Palestinian Killed in Gaza City Attack",
+        "title": "— S3 · Conflict · Northwest Iran · 2h ago. IRGC clashes with armed group in northwest Iran; four security force members killed in operation to dismantle terrorist cell.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza City, Palestine · 3h ago. A Palestinian was killed in an attack in Gaza City, according to sources.",
+        "title": "Israel Eliminates PIJ Commander in Southern Gaza Strike",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
