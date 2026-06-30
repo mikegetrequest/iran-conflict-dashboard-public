@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-06-30 10:35",
+  "updated_at_gst": "2026-06-30 14:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,39 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Heartbroken Iran exit World Cup amid silver lining of Mexican hospitality",
-        "published": "Tue, 30 Jun 2026 04:41:32 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/pakistan-administered-kashmir-returns-to-daily-life-after-deadly-protests?traffic_source=rss"
+        "title": "Man in Gaza survives double tap Israeli strike on vehicle",
+        "published": "Tue, 30 Jun 2026 10:09:27 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/30/advocacy-groups-file-complaint-against-ghana-over-trump-deportations?traffic_source=rss"
+      },
+      {
+        "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
+        "published": "Tue, 30 Jun 2026 09:10:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/6/30/heatwave-scorches-east-europe-as-slovakia-czechia-see-record-temperatures?traffic_source=rss"
+      },
+      {
+        "title": "What is Iran looking for in any upcoming talks with the US?",
+        "published": "Tue, 30 Jun 2026 06:33:28 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/6/30/in-pictures-venezuela-earthquakes-death-toll-surpasses-1700?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— S4 · Conflict · Beirut, Lebanon · 14h ago. Lebanon's Health Ministry says at least 4,257 people have been killed in Israeli attacks since March 2, 2026.",
+        "title": "— S4 · Conflict · Beirut, Lebanon · 18h ago. Lebanon's Health Ministry says at least 4,257 people have been killed in Israeli attacks since March 2, 2026.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Two Ships Attacked in Strait of Hormuz, Raising Safety Concerns",
+        "title": "Israeli Strike Hits Vehicle in Gaza, Survivor Reported",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 42m ago. Attacks on vessels highlight risks in alternative corridor off Oman coast amid US-Iran tensions.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1m ago. A man survived a double-tap Israeli airstrike on a vehicle in the Gaza Strip, amid ongoing conflict between Israel and Hamas.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Strike Kills Two in Gaza Humanitarian Zone",
+        "title": "— S3 · Conflict · Iran-Iraq Border · 2h ago. Kurdish rebels have clashed with Iran's Islamic Revolutionary Guard Corps (IRGC) in a significant border escalation, raising concerns about a potential new insurgency.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 7h ago. An Israeli airstrike hit the Mawasi area of Khan Younis, killing two and injuring several others, setting tents ablaze.",
+        "title": "Palestinian Killed in Gaza City Attack",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "15-Year-Old Palestinian Killed in Israeli Raid in West Bank",
+        "title": "— S3 · Conflict · Gaza City, Palestine · 3h ago. A Palestinian was killed in an attack in Gaza City, according to sources.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
