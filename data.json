@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-01 22:20",
+  "updated_at_gst": "2026-07-02 00:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "What military capabilities does Iran possess as it negotiates with US?",
-        "published": "Wed, 01 Jul 2026 17:19:55 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy?traffic_source=rss"
+        "title": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
+        "published": "Wed, 01 Jul 2026 17:36:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss"
       },
       {
-        "title": "Trump takes first flight on new Qatar-gifted Air Force One",
-        "published": "Wed, 01 Jul 2026 16:04:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/1/cape-verde-fifa-world-cup-2026-vozinha-argentina-round-of-32-knockouts?traffic_source=rss"
-      },
-      {
-        "title": "How war on Iran changed the global energy sector forever",
-        "published": "Wed, 01 Jul 2026 14:45:04 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/israeli-forces-kill-palestinian-goalkeeper-in-gaza?traffic_source=rss"
+        "title": "The Iran talks expose the collapse of US diplomacy",
+        "published": "Wed, 01 Jul 2026 17:05:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/1/warmest-june-on-record-for-england-second-warmest-for-uk-says-met-office?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. Iran attacked two ships in the Strait of Hormuz, escalating tensions as US escorts continue to use a non-Iranian corridor, threatening Iran's leverage over the waterway.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 4h ago. Iran attacked two ships in the Strait of Hormuz, escalating tensions as US escorts continue to use a non-Iranian corridor, threatening Iran's leverage over the waterway.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza City, Palestine · 4h ago. An Israeli airstrike on Gaza City killed three Palestinians and injured more than 10, according to Al-Shifa Hospital staff.",
+        "title": "— S3 · Conflict · Gaza City, Palestine · 6h ago. An Israeli airstrike on Gaza City killed three Palestinians and injured more than 10, according to Al-Shifa Hospital staff.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Lebanon · 4h ago. Lebanon's Health Ministry reports 4,297 deaths and 12,196 wounded in Israeli attacks since March 2, 2026.",
+        "title": "— S3 · Conflict · Lebanon · 6h ago. Lebanon's Health Ministry reports 4,297 deaths and 12,196 wounded in Israeli attacks since March 2, 2026.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
