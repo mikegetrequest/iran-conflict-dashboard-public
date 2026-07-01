@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-01 14:36",
+  "updated_at_gst": "2026-07-01 17:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,35 +14,41 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Man charged after arson attack on Islamic centre in Dublin",
+        "published": "Wed, 01 Jul 2026 13:05:11 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/1/england-vs-dr-congo-live-fifa-world-cup-2026?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Army Blocks Access to West Bank Town Amid Incursions",
+        "title": "Israel Launches Strikes in Southern Lebanon, Maintains Occupation",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 1h ago. Israeli forces block all access to a West Bank town as military incursions continue, escalating tensions in the occupied territory.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 6m ago. Israel continues targeted strikes in southern Lebanon over the weekend and maintains occupation, with Netanyahu vowing no withdrawal while Hezbollah remains.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Police Arrest Suspect After Netanya Rabbi's Murder in Israel",
+        "title": "Israeli Army Blocks Access to West Bank Town Amid Incursions",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Netanya, Israel · 4h ago. A suspect is arrested in the murder of Rabbi Amos Guetta in Netanya, one of three killings in Israel this morning.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 4h ago. Israeli forces block all access to a West Bank town as military incursions continue, escalating tensions in the occupied territory.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Missile Killed Iranian Schoolchildren Four Months Ago, No One Accepts Blame",
+        "title": "Police Arrest Suspect After Netanya Rabbi's Murder in Israel",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Multiple Israeli Air Bases and Refinery in Ballistic Missile Barrage - IRNA Reports",
+        "title": "— S3 · Conflict · Netanya, Israel · 7h ago. A suspect is arrested in the murder of Rabbi Amos Guetta in Netanya, one of three killings in Israel this morning.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
