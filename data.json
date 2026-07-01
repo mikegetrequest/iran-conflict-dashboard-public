@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-01 20:05",
+  "updated_at_gst": "2026-07-01 22:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "‘Will not leave’: Is Israel killing the US-Iran MoU by staying in Lebanon?",
-        "published": "Wed, 01 Jul 2026 15:08:05 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/1/first-syrian-parliament-since-al-assads-ousting-begins-legislative-duties?traffic_source=rss"
+        "title": "What military capabilities does Iran possess as it negotiates with US?",
+        "published": "Wed, 01 Jul 2026 17:19:55 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy?traffic_source=rss"
       },
       {
-        "title": "Israeli forces kill Palestinian goalkeeper in Gaza",
-        "published": "Wed, 01 Jul 2026 14:39:10 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/1/sabalenka-overcomes-kessler-at-wimbledon-sets-up-ostapenko-clash?traffic_source=rss"
+        "title": "Trump takes first flight on new Qatar-gifted Air Force One",
+        "published": "Wed, 01 Jul 2026 16:04:57 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/1/cape-verde-fifa-world-cup-2026-vozinha-argentina-round-of-32-knockouts?traffic_source=rss"
       },
       {
-        "title": "Man charged after arson attack on Islamic centre in Dublin",
-        "published": "Wed, 01 Jul 2026 13:05:11 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/1/england-vs-dr-congo-live-fifa-world-cup-2026?traffic_source=rss"
+        "title": "How war on Iran changed the global energy sector forever",
+        "published": "Wed, 01 Jul 2026 14:45:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/israeli-forces-kill-palestinian-goalkeeper-in-gaza?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 12m ago. Iran attacked two ships in the Strait of Hormuz, escalating tensions as US escorts continue to use a non-Iranian corridor, threatening Iran's leverage over the waterway.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. Iran attacked two ships in the Strait of Hormuz, escalating tensions as US escorts continue to use a non-Iranian corridor, threatening Iran's leverage over the waterway.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza City, Palestine · 1h ago. An Israeli airstrike on Gaza City killed three Palestinians and injured more than 10, according to Al-Shifa Hospital staff.",
+        "title": "— S3 · Conflict · Gaza City, Palestine · 4h ago. An Israeli airstrike on Gaza City killed three Palestinians and injured more than 10, according to Al-Shifa Hospital staff.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Lebanon · 2h ago. Lebanon's Health Ministry reports 4,297 deaths and 12,196 wounded in Israeli attacks since March 2, 2026.",
+        "title": "— S3 · Conflict · Lebanon · 4h ago. Lebanon's Health Ministry reports 4,297 deaths and 12,196 wounded in Israeli attacks since March 2, 2026.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
