@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-01 06:11",
+  "updated_at_gst": "2026-07-01 10:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,44 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran says it couldn’t export a ‘single barrel of oil’ during US blockade",
+        "published": "Wed, 01 Jul 2026 02:45:34 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says?traffic_source=rss"
+      },
+      {
         "title": "Iran leaves World Cup with warm send-off from Mexican fans",
         "published": "Wed, 01 Jul 2026 01:18:09 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions",
-        "published": "Wed, 01 Jul 2026 00:00:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/6/30/a-rally-like-no-other-trump-announces-2026-midterm-convention?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Drone Attack Kills Two Palestinians in Gaza",
+        "title": "Police Arrest Suspect After Netanya Rabbi's Murder in Israel",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 8h ago. An Israeli drone strike killed two Palestinians in Gaza amid ongoing conflict.",
+        "title": "— S3 · Conflict · Netanya, Israel · 7m ago. A suspect is arrested in the murder of Rabbi Amos Guetta in Netanya, one of three killings in Israel this morning.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Prepares for Funeral of Late Supreme Leader Khamenei",
+        "title": "US Missile Killed Iranian Schoolchildren Four Months Ago, No One Accepts Blame",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Tehran, Iran · 9h ago. Ayatollah Ali Khamenei's body to be displayed before funeral in Tehran, marking major political transition.",
+        "title": "Iran Strikes Multiple Israeli Air Bases and Refinery in Ballistic Missile Barrage - IRNA Reports",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Accelerates Land Grabs in Gaza, West Bank",
+        "title": "— S3 · Conflict · Haifa, Israel · 1h ago. Iran has repeatedly struck the Bazan oil refinery in Haifa, Israel, with strikes in June 2025, March 2026, and June 2026, causing significant damage.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Hebron, West Bank, Palestine · 9h ago. Israel accelerates land seizures in Gaza and West Bank, with permanent alterations at Hebron's Ibrahimi Mosque and new settlement plans.",
+        "title": "Israeli Drone Attack Kills Two Palestinians in Gaza",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
