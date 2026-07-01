@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-02 00:19",
+  "updated_at_gst": "2026-07-02 01:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
+        "published": "Wed, 01 Jul 2026 21:09:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision?traffic_source=rss"
+      },
+      {
         "title": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
         "published": "Wed, 01 Jul 2026 17:36:09 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss"
-      },
-      {
-        "title": "The Iran talks expose the collapse of US diplomacy",
-        "published": "Wed, 01 Jul 2026 17:05:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/1/warmest-june-on-record-for-england-second-warmest-for-uk-says-met-office?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 4h ago. Iran attacked two ships in the Strait of Hormuz, escalating tensions as US escorts continue to use a non-Iranian corridor, threatening Iran's leverage over the waterway.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 6h ago. Iran attacked two ships in the Strait of Hormuz, escalating tensions as US escorts continue to use a non-Iranian corridor, threatening Iran's leverage over the waterway.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -43,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza City, Palestine · 6h ago. An Israeli airstrike on Gaza City killed three Palestinians and injured more than 10, according to Al-Shifa Hospital staff.",
+        "title": "— S3 · Conflict · Gaza City, Palestine · 7h ago. An Israeli airstrike on Gaza City killed three Palestinians and injured more than 10, according to Al-Shifa Hospital staff.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Lebanon · 6h ago. Lebanon's Health Ministry reports 4,297 deaths and 12,196 wounded in Israeli attacks since March 2, 2026.",
+        "title": "— S3 · Conflict · Lebanon · 7h ago. Lebanon's Health Ministry reports 4,297 deaths and 12,196 wounded in Israeli attacks since March 2, 2026.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
