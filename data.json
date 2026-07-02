@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-02 22:53",
+  "updated_at_gst": "2026-07-03 00:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "German prosecutors allege Ukraine ordered Nord Stream pipeline attack",
-        "published": "Thu, 02 Jul 2026 16:46:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/2/spain-immigration-scheme-sees-1-2-million-apply-for-legal-status?traffic_source=rss"
+        "title": "The last time Iran held a funeral for the Supreme Leader",
+        "published": "Thu, 02 Jul 2026 19:11:16 +0000",
+        "link": "https://www.aljazeera.com/editorial/2026/7/2/fears-of-new-massacre-in-sudans-el-obeid-what-do-we-know?traffic_source=rss"
       },
       {
-        "title": "‘Collateral damage’: 73 Palestinian children Israel shot in the head",
-        "published": "Thu, 02 Jul 2026 16:26:16 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/why-is-prada-facing-pro-israeli-backlash?traffic_source=rss"
+        "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
+        "published": "Thu, 02 Jul 2026 17:34:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/2/whats-behind-the-deadly-bombing-of-a-crowded-damascus-cafe?traffic_source=rss"
+      },
+      {
+        "title": "US wants intervention, but Syria signals diplomacy after FM’s Lebanon trip",
+        "published": "Thu, 02 Jul 2026 17:20:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-allege-ukraine-ordered-nord-stream-pipeline-attack?traffic_source=rss"
+      },
+      {
+        "title": "Why is Prada facing pro-Israeli backlash?",
+        "published": "Thu, 02 Jul 2026 16:14:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/2/what-is-the-society-of-st-pius-x-why-pope-leo-excommunicated-its-bishops?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 5h ago. Israeli Defense Forces are hunting suspects in a car ramming attack near Shavei Shomron checkpoint in the West Bank.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 6h ago. Israeli Defense Forces are hunting suspects in a car ramming attack near Shavei Shomron checkpoint in the West Bank.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -43,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 5h ago. A new report following 1,00 days since October 7, 2023, indicates 90% of the Gaza Strip is destroyed and 80% is under Israeli control, with peace efforts stalled.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 7h ago. A new report following 1,00 days since October 7, 2023, indicates 90% of the Gaza Strip is destroyed and 80% is under Israeli control, with peace efforts stalled.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Northwest Iran · 7h ago. Iran's Revolutionary Guards killed five PDKI militants in northwest Iran amid heightened tensions with Kurdish groups.",
+        "title": "— S3 · Conflict · Northwest Iran · 8h ago. Iran's Revolutionary Guards killed five PDKI militants in northwest Iran amid heightened tensions with Kurdish groups.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
