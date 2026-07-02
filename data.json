@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-02 21:07",
+  "updated_at_gst": "2026-07-02 22:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,11 +24,6 @@
         "title": "‘Collateral damage’: 73 Palestinian children Israel shot in the head",
         "published": "Thu, 02 Jul 2026 16:26:16 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/why-is-prada-facing-pro-israeli-backlash?traffic_source=rss"
-      },
-      {
-        "title": "Gaza war’s 1,000 days: 90% of strip ‘destroyed’, 80% ‘seized’ by Israel",
-        "published": "Thu, 02 Jul 2026 13:14:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/2/why-has-trump-refused-to-renew-the-usmca-and-what-will-that-mean?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 3h ago. Israeli Defense Forces are hunting suspects in a car ramming attack near Shavei Shomron checkpoint in the West Bank.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 5h ago. Israeli Defense Forces are hunting suspects in a car ramming attack near Shavei Shomron checkpoint in the West Bank.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. A new report following 1,00 days since October 7, 2023, indicates 90% of the Gaza Strip is destroyed and 80% is under Israeli control, with peace efforts stalled.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 5h ago. A new report following 1,00 days since October 7, 2023, indicates 90% of the Gaza Strip is destroyed and 80% is under Israeli control, with peace efforts stalled.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Northwest Iran · 5h ago. Iran's Revolutionary Guards killed five PDKI militants in northwest Iran amid heightened tensions with Kurdish groups.",
+        "title": "— S3 · Conflict · Northwest Iran · 7h ago. Iran's Revolutionary Guards killed five PDKI militants in northwest Iran amid heightened tensions with Kurdish groups.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
