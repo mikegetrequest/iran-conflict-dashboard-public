@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-03 01:38",
+  "updated_at_gst": "2026-07-03 02:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "The last time Iran held a funeral for the Supreme Leader",
+        "published": "Thu, 02 Jul 2026 19:11:16 +0000",
+        "link": "https://www.aljazeera.com/editorial/2026/7/2/fears-of-new-massacre-in-sudans-el-obeid-what-do-we-know?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "Israel Strikes Bint Jbeil District in Southern Lebanon",
@@ -22,7 +28,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bint Jbeil District, Lebanon · 1h ago. Israeli forces target the Bint Jbeil district in southern Lebanon, as reported by Lebanon's National News Agency.",
+        "title": "— S3 · Conflict · Bint Jbeil District, Lebanon · 2h ago. Israeli forces target the Bint Jbeil district in southern Lebanon, as reported by Lebanon's National News Agency.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -32,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 7h ago. Israeli Defense Forces are hunting suspects in a car ramming attack near Shavei Shomron checkpoint in the West Bank.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 9h ago. Israeli Defense Forces are hunting suspects in a car ramming attack near Shavei Shomron checkpoint in the West Bank.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -42,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 8h ago. A new report following 1,00 days since October 7, 2023, indicates 90% of the Gaza Strip is destroyed and 80% is under Israeli control, with peace efforts stalled.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 9h ago. A new report following 1,00 days since October 7, 2023, indicates 90% of the Gaza Strip is destroyed and 80% is under Israeli control, with peace efforts stalled.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
