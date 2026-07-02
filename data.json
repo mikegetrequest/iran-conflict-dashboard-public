@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-02 08:35",
+  "updated_at_gst": "2026-07-02 11:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "At least 8 killed in Kyiv after Zelenskyy warns of ‘massive Russian strike’",
-        "published": "Thu, 02 Jul 2026 02:15:06 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/ocean-temperatures-hit-record-highs-as-el-nino-looms?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
-        "published": "Thu, 02 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/1/couple-arrested-after-daring-empire-state-marriage-proposal-stunt?traffic_source=rss"
-      },
-      {
-        "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-        "published": "Wed, 01 Jul 2026 20:55:04 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/russian-couple-arrested-after-climbing-empire-state-building?traffic_source=rss"
+        "title": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
+        "published": "Thu, 02 Jul 2026 05:17:25 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/survivors-look-to-foreign-aid-after-the-earthquakes-in-venezuela?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Attacks Two Ships in Strait of Hormuz",
+        "title": "Oil Prices Fall to Lowest Since US-Israel War on Iran Began",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 13h ago. Iran attacked two ships in the Strait of Hormuz, escalating tensions as US escorts continue to use a non-Iranian corridor, threatening Iran's leverage over the waterway.",
+        "title": "Iran Attacks Two Ships in Strait of Hormuz",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Gaza City, Killing Three Palestinians",
+        "title": "— S3 · Conflict · Strait of Hormuz · 16h ago. Iran attacked two ships in the Strait of Hormuz, escalating tensions as US escorts continue to use a non-Iranian corridor, threatening Iran's leverage over the waterway.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza City, Palestine · 14h ago. An Israeli airstrike on Gaza City killed three Palestinians and injured more than 10, according to Al-Shifa Hospital staff.",
+        "title": "Israel Strikes Gaza City, Killing Three Palestinians",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Lebanon Says 4,297 Killed in Israeli Attacks Since March",
+        "title": "— S3 · Conflict · Gaza City, Palestine · 17h ago. An Israeli airstrike on Gaza City killed three Palestinians and injured more than 10, according to Al-Shifa Hospital staff.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Lebanon · 14h ago. Lebanon's Health Ministry reports 4,297 deaths and 12,196 wounded in Israeli attacks since March 2, 2026.",
+        "title": "Lebanon Says 4,297 Killed in Israeli Attacks Since March",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
