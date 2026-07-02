@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-02 11:58",
+  "updated_at_gst": "2026-07-02 14:34",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
-        "published": "Thu, 02 Jul 2026 05:17:25 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/survivors-look-to-foreign-aid-after-the-earthquakes-in-venezuela?traffic_source=rss"
+        "title": "Billions flow between EU institutions and Israel, despite Gaza genocide",
+        "published": "Thu, 02 Jul 2026 09:05:23 +0000",
+        "link": "https://www.aljazeera.com/video/2026/7/2/video-world-cup-2026-highlights?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 16h ago. Iran attacked two ships in the Strait of Hormuz, escalating tensions as US escorts continue to use a non-Iranian corridor, threatening Iran's leverage over the waterway.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 19h ago. Iran attacked two ships in the Strait of Hormuz, escalating tensions as US escorts continue to use a non-Iranian corridor, threatening Iran's leverage over the waterway.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -43,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza City, Palestine · 17h ago. An Israeli airstrike on Gaza City killed three Palestinians and injured more than 10, according to Al-Shifa Hospital staff.",
+        "title": "— S3 · Conflict · Gaza City, Palestine · 20h ago. An Israeli airstrike on Gaza City killed three Palestinians and injured more than 10, according to Al-Shifa Hospital staff.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
