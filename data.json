@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-03 02:54",
+  "updated_at_gst": "2026-07-03 03:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,41 +14,35 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "The last time Iran held a funeral for the Supreme Leader",
-        "published": "Thu, 02 Jul 2026 19:11:16 +0000",
-        "link": "https://www.aljazeera.com/editorial/2026/7/2/fears-of-new-massacre-in-sudans-el-obeid-what-do-we-know?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
-        "title": "Israel Strikes Bint Jbeil District in Southern Lebanon",
+        "title": "US Launches Three Nights of Strikes on Iran",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bint Jbeil District, Lebanon · 2h ago. Israeli forces target the Bint Jbeil district in southern Lebanon, as reported by Lebanon's National News Agency.",
+        "title": "— S4 · Conflict · Tehran, Iran · 24m ago. President Trump confirms US forces conducted three consecutive nights of airstrikes on Iran in response to attacks on commercial shipping, marking a major escalation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IDF Pursues West Bank Car Ramming Attack Suspects",
+        "title": "Trump Says US Forces Destroyed Iran's Radar Network",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 9h ago. Israeli Defense Forces are hunting suspects in a car ramming attack near Shavei Shomron checkpoint in the West Bank.",
+        "title": "— S3 · Political · Iran · 32m ago. President Trump claims US forces destroyed Iran's air surveillance radar network in recent operations, leaving Iran without effective air surveillance.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Report: 90% of Gaza Destroyed, 80% Seized by Israel After 1,00 Days of War",
+        "title": "Israel Strikes Bint Jbeil District in Southern Lebanon",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 9h ago. A new report following 1,00 days since October 7, 2023, indicates 90% of the Gaza Strip is destroyed and 80% is under Israeli control, with peace efforts stalled.",
+        "title": "— S3 · Conflict · Bint Jbeil District, Lebanon · 3h ago. Israeli forces target the Bint Jbeil district in southern Lebanon, as reported by Lebanon's National News Agency.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
