@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-03 21:09",
+  "updated_at_gst": "2026-07-03 22:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Mourners pay respects as Iran’s slain leader Ali Khamenei lies in state",
-        "published": "Fri, 03 Jul 2026 12:00:44 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/video-ronaldo-appears-to-say-bismillah-before-penalty?traffic_source=rss"
+        "title": "Israeli settlers intensify attacks in West Bank, targeting water supplies",
+        "published": "Fri, 03 Jul 2026 18:34:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/ukrainian-woman-identified-as-main-suspect-in-monaco-bombing?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -28,7 +28,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 18h ago. President Trump confirms US forces conducted three consecutive nights of airstrikes on Iran in response to attacks on commercial shipping, marking a major escalation.",
+        "title": "— S4 · Conflict · Tehran, Iran · 19h ago. President Trump confirms US forces conducted three consecutive nights of airstrikes on Iran in response to attacks on commercial shipping, marking a major escalation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -38,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Lebanon, Violating Ceasefire",
+        "title": "Israeli Settlers Intensify Attacks in West Bank, Targeting Water Supplies",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon · 5h ago. Israel launches a new strike on Lebanon, violating the existing ceasefire agreement.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 4m ago. Israeli settlers escalate attacks on Palestinians in the West Bank, specifically targeting water infrastructure, marking a sharp increase in violence.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Military Chief Pledges to Avenge Supreme Leader Khamenei",
+        "title": "Israel Strikes Lebanon, Violating Ceasefire",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
