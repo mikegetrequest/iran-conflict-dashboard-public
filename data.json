@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-03 12:44",
+  "updated_at_gst": "2026-07-03 15:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran’s Khamenei funeral: Which world leaders are attending?",
-        "published": "Fri, 03 Jul 2026 08:04:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/3/seven-pro-palestine-protesters-convicted-of-misdemeanour-charges-in-us?traffic_source=rss"
+        "title": "Israel approves plan to establish 13 new settlements in occupied West Bank",
+        "published": "Fri, 03 Jul 2026 09:59:35 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/3/four-killed-in-ukraine-a-day-after-deadliest-russian-attacks-this-year?traffic_source=rss"
       },
       {
-        "title": "Ukraine strike hits Belgorod, causing fire and power outages",
-        "published": "Fri, 03 Jul 2026 07:48:26 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/3/argentina-vs-cape-verde-world-cup-round-of-32-messi-vozinha-prediction-kickoff?traffic_source=rss"
-      },
-      {
-        "title": "Mapping Iran’s Ali Khamenei funeral: Where mourners will gather each day",
-        "published": "Fri, 03 Jul 2026 04:18:04 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/7/3/canadas-carney-secures-deal-for-pipeline-to-expand-oil-exports-beyond-us?traffic_source=rss"
+        "title": "EU lawmaker investigating surveillance hacked by Israeli spyware, report says",
+        "published": "Fri, 03 Jul 2026 08:20:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/hundreds-of-fans-cheer-portugals-win-at-star-teams-residence-in-toronto?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 9h ago. President Trump confirms US forces conducted three consecutive nights of airstrikes on Iran in response to attacks on commercial shipping, marking a major escalation.",
+        "title": "— S4 · Conflict · Tehran, Iran · 12h ago. President Trump confirms US forces conducted three consecutive nights of airstrikes on Iran in response to attacks on commercial shipping, marking a major escalation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 26m ago. Israeli forces killed Muhammad Na'im Jandiya, a Hamas commander who held four hostages including Cpt. Daniel Perez, in a targeted operation.",
+        "title": "Iran Military Chief Pledges to Avenge Supreme Leader Khamenei",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Prepares Mass Funeral for Slain Supreme Leader Khamenei",
+        "title": "— S3 · Political · Tehran, Iran · 37m ago. Iran's military chief Hatami vows to avenge the blood of slain Supreme Leader Ali Khamenei, escalating rhetoric amid ongoing tensions with the US and Israel.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Tehran, Iran · 6h ago. Khamenei killed amid US-Israel war escalation; Bahrain condemns attacks; Hormuz oil flows surge.",
+        "title": "Israeli Attacks Put 100,000 Lebanese Children at Risk of Missing School",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
