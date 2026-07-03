@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-04 00:07",
+  "updated_at_gst": "2026-07-04 01:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,47 +24,17 @@
         "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
         "published": "Fri, 03 Jul 2026 18:39:31 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/3/israeli-settlers-intensify-attacks-in-west-bank-targeting-water-supplies?traffic_source=rss"
-      },
-      {
-        "title": "Israel prevents exiled Palestinian detainees from reuniting with their families",
-        "published": "Fri, 03 Jul 2026 18:13:53 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss"
-      },
-      {
-        "title": "World leaders pay tribute to Iran’s late leader Khamenei in Tehran",
-        "published": "Fri, 03 Jul 2026 17:35:22 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/heavy-rain-floods-mumbai-during-intense-monsoon-spell?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Launches Three Nights of Strikes on Iran",
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 21h ago. President Trump confirms US forces conducted three consecutive nights of airstrikes on Iran in response to attacks on commercial shipping, marking a major escalation.",
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
         "published": "line-2",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "World Leaders Travel to Tehran for Funeral of Slain Supreme Leader Khamenei",
-        "published": "line-3",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "CMA CGM Ship Hit by Missile in Strait of Hormuz May Be Scrapped",
-        "published": "line-4",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Strait of Hormuz · 1h ago. A CMA CGM container ship, previously struck by a missile in the Strait of Hormuz, may be scrapped due to extensive damage, according to the CEO.",
-        "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Israeli Settlers Intensify Attacks in West Bank, Targeting Water Supplies",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
