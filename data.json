@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-04 01:36",
+  "updated_at_gst": "2026-07-04 02:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -28,13 +28,33 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "US Launches Three Nights of Strikes on Iran",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "— S4 · Conflict · Tehran, Iran · 23h ago. President Trump confirms US forces conducted three consecutive nights of airstrikes on Iran in response to attacks on commercial shipping, marking a major escalation.",
         "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "World Leaders Travel to Tehran for Funeral of Slain Supreme Leader Khamenei",
+        "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Israeli Forces Shoot Palestinian Youth in Bethlehem",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Bethlehem, West Bank, Palestine · 51m ago. A Palestinian youth was shot by Israeli forces during confrontations in Bethlehem, West Bank.",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Israeli Settlers Intensify Attacks in West Bank, Targeting Water Supplies",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
