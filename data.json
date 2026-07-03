@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-03 05:44",
+  "updated_at_gst": "2026-07-03 09:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,23 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Khamenei’s coffin readied as Iran prepares for seven-day funeral",
+        "published": "Fri, 03 Jul 2026 04:25:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/3/mapping-irans-ali-khamenei-funeral-where-mourners-will-gather-each-day?traffic_source=rss"
+      },
+      {
+        "title": "Iran warns ships against using unapproved routes in Strait of Hormuz",
+        "published": "Fri, 03 Jul 2026 03:01:11 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/who-are-the-rogue-bishops-defying-pope-leo-xiv?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran slams US before huge funeral for Ali Khamenei",
+        "published": "Fri, 03 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/2/trump-administration-indicts-olympic-athlete-for-reflecting-pool-vandalism?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "US Launches Three Nights of Strikes on Iran",
@@ -22,27 +38,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 2h ago. President Trump confirms US forces conducted three consecutive nights of airstrikes on Iran in response to attacks on commercial shipping, marking a major escalation.",
+        "title": "— S4 · Conflict · Tehran, Iran · 6h ago. President Trump confirms US forces conducted three consecutive nights of airstrikes on Iran in response to attacks on commercial shipping, marking a major escalation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Trump Says US Forces Destroyed Iran's Radar Network",
+        "title": "World Leaders Travel to Tehran for Funeral of Slain Supreme Leader Khamenei",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Iran · 2h ago. President Trump claims US forces destroyed Iran's air surveillance radar network in recent operations, leaving Iran without effective air surveillance.",
+        "title": "Iran Prepares Mass Funeral for Slain Supreme Leader Khamenei",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Bint Jbeil District in Southern Lebanon",
+        "title": "— S3 · Conflict · Tehran, Iran · 3h ago. Khamenei killed amid US-Israel war escalation; Bahrain condemns attacks; Hormuz oil flows surge.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bint Jbeil District, Lebanon · 5h ago. Israeli forces target the Bint Jbeil district in southern Lebanon, as reported by Lebanon's National News Agency.",
+        "title": "Trump Says US Forces Destroyed Iran's Radar Network",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
