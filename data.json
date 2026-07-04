@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-04 14:29",
+  "updated_at_gst": "2026-07-04 15:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,20 +16,45 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Armed fighters attack multiple towns across Mali",
-        "published": "Sat, 04 Jul 2026 09:14:56 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/4/saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats?traffic_source=rss"
+        "title": "Thousands gather as Khamenei funeral ceremonies open in Tehran",
+        "published": "Sat, 04 Jul 2026 09:35:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss"
+      },
+      {
+        "title": "Could Israel really build settlements in Gaza?",
+        "published": "Sat, 04 Jul 2026 05:41:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/trump-calls-communism-a-mortal-threat-at-us-250th-birthday-event?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "World Leaders Travel to Tehran for Funeral of Slain Supreme Leader Khamenei",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "Israeli Attacks Kill 7 in Gaza Over Past 48 Hours",
         "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 22m ago. Gaza Health Ministry reports 7 killed and 9 bodies recovered from rubble as Israeli operations continue despite ceasefire.",
+        "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Hamas Executes Gazan for Collaborating With Israeli Intelligence",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 6h ago. Hamas executed a Gaza resident accused of spying for Israel, highlighting internal security measures.",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Israeli Forces Shoot Palestinian Youth in Bethlehem",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
