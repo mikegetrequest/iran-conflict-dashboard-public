@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-04 03:53",
+  "updated_at_gst": "2026-07-04 05:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+        "published": "Sat, 04 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/quakes-reduce-venezuela-tourist-town-to-rubble-leaving-economy-in-tatters?traffic_source=rss"
+      },
+      {
         "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
         "published": "Fri, 03 Jul 2026 19:27:15 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/settlers-attack-activists-palestinians-trying-to-access-their-land?traffic_source=rss"
-      },
-      {
-        "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
-        "published": "Fri, 03 Jul 2026 18:39:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/3/israeli-settlers-intensify-attacks-in-west-bank-targeting-water-supplies?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bethlehem, West Bank, Palestine · 2h ago. A Palestinian youth was shot by Israeli forces during confrontations in Bethlehem, West Bank.",
+        "title": "— S3 · Conflict · Bethlehem, West Bank, Palestine · 4h ago. A Palestinian youth was shot by Israeli forces during confrontations in Bethlehem, West Bank.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 5h ago. Israeli settlers escalate attacks on Palestinians in the West Bank, specifically targeting water infrastructure, marking a sharp increase in violence.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 7h ago. Israeli settlers escalate attacks on Palestinians in the West Bank, specifically targeting water infrastructure, marking a sharp increase in violence.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
