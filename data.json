@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-04 12:18",
+  "updated_at_gst": "2026-07-04 14:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,40 +16,20 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-        "published": "Sat, 04 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/quakes-reduce-venezuela-tourist-town-to-rubble-leaving-economy-in-tatters?traffic_source=rss"
+        "title": "Armed fighters attack multiple towns across Mali",
+        "published": "Sat, 04 Jul 2026 09:14:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/4/saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "World Leaders Travel to Tehran for Funeral of Slain Supreme Leader Khamenei",
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Hamas Executes Gazan for Collaborating With Israeli Intelligence",
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
         "published": "line-2",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. Hamas executed a Gaza resident accused of spying for Israel, highlighting internal security measures.",
-        "published": "line-3",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Israeli Forces Shoot Palestinian Youth in Bethlehem",
-        "published": "line-4",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Bethlehem, West Bank, Palestine · 10h ago. A Palestinian youth was shot by Israeli forces during confrontations in Bethlehem, West Bank.",
-        "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "CMA CGM May Scrap San Antonio Container Ship Hit by Missile in Strait of Hormuz",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
