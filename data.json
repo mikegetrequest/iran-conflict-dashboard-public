@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-04 16:54",
+  "updated_at_gst": "2026-07-04 18:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Nabatieh recovery begins amid ongoing southern Lebanon tensions",
-        "published": "Sat, 04 Jul 2026 12:31:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/4/pope-urges-protection-integration-of-migrants-on-visit-to-island-frontier?traffic_source=rss"
-      },
-      {
-        "title": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
-        "published": "Sat, 04 Jul 2026 10:16:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russia-claims-it-captured-the-strategic-key-ukrainian-city-of-kostiantynivk?traffic_source=rss"
-      },
-      {
-        "title": "Mali’s army says rebels launch new attacks on towns and cities",
-        "published": "Sat, 04 Jul 2026 09:14:56 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/4/saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats?traffic_source=rss"
+        "title": "Thousands gather as Khamenei funeral ceremonies open in Tehran",
+        "published": "Sat, 04 Jul 2026 09:35:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,27 +28,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attacks Kill 7 in Gaza Over Past 48 Hours",
+        "title": "Lebanese President Urges US Solidarity as Israeli Troops Occupy South",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. Gaza Health Ministry reports 7 killed and 9 bodies recovered from rubble as Israeli operations continue despite ceasefire.",
+        "title": "Hamas Executes Gazan for Collaborating With Israeli Intelligence",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Hamas Executes Gazan for Collaborating With Israeli Intelligence",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 8h ago. Hamas executed a Gaza resident accused of spying for Israel, highlighting internal security measures.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 7h ago. Hamas executed a Gaza resident accused of spying for Israel, highlighting internal security measures.",
+        "title": "Israeli Forces Shoot Palestinian Youth in Bethlehem",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Shoot Palestinian Youth in Bethlehem",
+        "title": "— S3 · Conflict · Bethlehem, West Bank, Palestine · 16h ago. A Palestinian youth was shot by Israeli forces during confrontations in Bethlehem, West Bank.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
