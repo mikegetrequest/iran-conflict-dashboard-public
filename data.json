@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-04 20:49",
+  "updated_at_gst": "2026-07-04 21:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -34,11 +34,6 @@
         "title": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
         "published": "Sat, 04 Jul 2026 10:16:31 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russia-claims-it-captured-the-strategic-key-ukrainian-city-of-kostiantynivk?traffic_source=rss"
-      },
-      {
-        "title": "Mali’s army says rebels launch new attacks on towns and cities",
-        "published": "Sat, 04 Jul 2026 09:14:56 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/4/saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Humanitarian · Beirut, Lebanon · 1h ago. Death toll from Israeli attacks on Lebanon since March 2 rises to 4,303, according to official reports.",
+        "title": "— S4 · Humanitarian · Beirut, Lebanon · 2h ago. Death toll from Israeli attacks on Lebanon since March 2 rises to 4,303, according to official reports.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -68,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 11h ago. Hamas executed a Gaza resident accused of spying for Israel, highlighting internal security measures.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 12h ago. Hamas executed a Gaza resident accused of spying for Israel, highlighting internal security measures.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
