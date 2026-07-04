@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-05 02:24",
+  "updated_at_gst": "2026-07-05 03:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral",
-        "published": "Sat, 04 Jul 2026 21:08:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss"
+        "title": "Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country",
+        "published": "Sat, 04 Jul 2026 20:06:41 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/4/ounahi-fires-morocco-into-world-cup-quarterfinals-with-3-0-win-over-canada?traffic_source=rss"
       },
       {
-        "title": "Russia’s Medvedev says Strait of Hormuz is Iran’s ‘nuclear weapon’",
-        "published": "Sat, 04 Jul 2026 18:46:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/4/trump-hints-israels-benjamin-netanyahu-may-visit-us-as-early-as-next-week?traffic_source=rss"
+        "title": "Trump hints Israel’s Benjamin Netanyahu may visit US as early as next week",
+        "published": "Sat, 04 Jul 2026 18:17:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/4/turkiyes-erdogan-says-israel-must-not-be-able-to-dynamite-us-iran-deal?traffic_source=rss"
       },
       {
-        "title": "Turkiye’s Erdogan says Israel must not be able to ‘dynamite’ US-Iran deal",
-        "published": "Sat, 04 Jul 2026 18:09:20 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/4/france-vs-paraguay-live-fifa-world-cup-2026?traffic_source=rss"
-      },
-      {
-        "title": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
-        "published": "Sat, 04 Jul 2026 16:23:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/4/iran-promotes-message-of-continuity-and-revenge-at-khamenei-commemoration?traffic_source=rss"
-      },
-      {
-        "title": "Russian attacks leave trail of destruction across Ukraine",
-        "published": "Sat, 04 Jul 2026 15:46:35 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/4/canada-vs-morocco-live-fifa-world-cup-2026-last-16?traffic_source=rss"
+        "title": "Iran promotes message of continuity and revenge at Khamenei commemoration",
+        "published": "Sat, 04 Jul 2026 15:49:39 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russian-attacks-leave-trail-of-destruction-across-ukraine?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,27 +38,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Humanitarian · Beirut, Lebanon · 7h ago. Death toll from Israeli attacks on Lebanon since March 2 rises to 4,303, according to official reports.",
+        "title": "— S4 · Humanitarian · Beirut, Lebanon · 8h ago. Death toll from Israeli attacks on Lebanon since March 2 rises to 4,303, according to official reports.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "World Leaders Travel to Tehran for Funeral of Slain Supreme Leader Khamenei",
+        "title": "Israel Strikes Southern Lebanon's Mansouri and Tallousah",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Southern Lebanon's Mansouri and Tallousah",
+        "title": "— S3 · Conflict · Mansouri, Lebanon · 2h ago. State media reports Israeli airstrikes hit the villages of Mansouri and Tallousah in southern Lebanon, targeting Hezbollah positions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Mansouri, Lebanon · 1h ago. State media reports Israeli airstrikes hit the villages of Mansouri and Tallousah in southern Lebanon, targeting Hezbollah positions.",
+        "title": "Israeli Soldier Killed Inside Security Zone in Lebanon",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Soldier Killed Inside Security Zone in Lebanon",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 4h ago. Israeli army confirms one soldier killed inside the 'security zone' in southern Lebanon, marking a new casualty in the ongoing conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
