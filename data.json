@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-05 14:33",
+  "updated_at_gst": "2026-07-05 16:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,13 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting",
-        "published": "Sun, 05 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "Israeli Attacks Kill Over 4,300 in Lebanon Since March 2",
@@ -28,27 +22,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Humanitarian · Beirut, Lebanon · 19h ago. Death toll from Israeli attacks on Lebanon since March 2 rises to 4,303, according to official reports.",
+        "title": "— S4 · Humanitarian · Beirut, Lebanon · 20h ago. Death toll from Israeli attacks on Lebanon since March 2 rises to 4,303, according to official reports.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attack Kills 14 Government Troops in Yemen",
+        "title": "Israeli Settlers Burn Restaurant Near Ramallah, West Bank",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yemen · 12m ago. An attack by Yemen's Houthi rebels resulted in the deaths of 14 government troops, indicating continued kinetic conflict in the region.",
+        "title": "— S3 · Conflict · Ramallah, West Bank, Palestine · 19m ago. Israeli settlers broke into and burned a restaurant near Al-Zaytouna University in the West Bank, stealing money amid escalating attacks on Palestinians.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Kills Two Hamas Fighters in Gaza During Ceasefire",
+        "title": "Houthi Attack Kills 14 Government Troops in Yemen",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. Israeli military confirms it killed two Hamas fighters in Gaza, violating the ceasefire agreement.",
+        "title": "— S3 · Conflict · Yemen · 2h ago. An attack by Yemen's Houthi rebels resulted in the deaths of 14 government troops, indicating continued kinetic conflict in the region.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
