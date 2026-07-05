@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-05 12:22",
+  "updated_at_gst": "2026-07-05 14:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
-        "published": "Sun, 05 Jul 2026 08:09:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/5/trump-offers-to-help-end-ukraine-war-in-long-call-with-putin-kremlin-says?traffic_source=rss"
-      },
-      {
-        "title": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral",
-        "published": "Sat, 04 Jul 2026 21:08:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss"
+        "title": "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting",
+        "published": "Sun, 05 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,27 +28,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Humanitarian · Beirut, Lebanon · 17h ago. Death toll from Israeli attacks on Lebanon since March 2 rises to 4,303, according to official reports.",
+        "title": "— S4 · Humanitarian · Beirut, Lebanon · 19h ago. Death toll from Israeli attacks on Lebanon since March 2 rises to 4,303, according to official reports.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IDF Kills Armed Terrorist in Southern Lebanon Buffer Zone",
+        "title": "Houthi Attack Kills 14 Government Troops in Yemen",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 1h ago. The Israel Defense Forces killed an armed terrorist in the buffer zone of Southern Lebanon, amidst ongoing security operations near the border.",
+        "title": "— S3 · Conflict · Yemen · 12m ago. An attack by Yemen's Houthi rebels resulted in the deaths of 14 government troops, indicating continued kinetic conflict in the region.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Dozens of Houthis Killed in Hodeidah Attack",
+        "title": "Israel Kills Two Hamas Fighters in Gaza During Ceasefire",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Hodeidah, Yemen · 6h ago. Dozens of Houthi fighters were killed and wounded in Hodeidah as an attack was repelled, indicating ongoing clashes in the Yemeni port city.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. Israeli military confirms it killed two Hamas fighters in Gaza, violating the ceasefire agreement.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
