@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-05 03:27",
+  "updated_at_gst": "2026-07-05 05:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran war live: Huge crowds mourn Khamenei, Trump vows calm during funeral",
+        "published": "Sun, 05 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss"
+      },
+      {
         "title": "Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country",
         "published": "Sat, 04 Jul 2026 20:06:41 +0000",
         "link": "https://www.aljazeera.com/sports/2026/7/4/ounahi-fires-morocco-into-world-cup-quarterfinals-with-3-0-win-over-canada?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Trump hints Israel’s Benjamin Netanyahu may visit US as early as next week",
         "published": "Sat, 04 Jul 2026 18:17:58 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/4/turkiyes-erdogan-says-israel-must-not-be-able-to-dynamite-us-iran-deal?traffic_source=rss"
-      },
-      {
-        "title": "Iran promotes message of continuity and revenge at Khamenei commemoration",
-        "published": "Sat, 04 Jul 2026 15:49:39 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russian-attacks-leave-trail-of-destruction-across-ukraine?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,27 +38,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Humanitarian · Beirut, Lebanon · 8h ago. Death toll from Israeli attacks on Lebanon since March 2 rises to 4,303, according to official reports.",
+        "title": "— S4 · Humanitarian · Beirut, Lebanon · 9h ago. Death toll from Israeli attacks on Lebanon since March 2 rises to 4,303, according to official reports.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Southern Lebanon's Mansouri and Tallousah",
+        "title": "Millions in Tehran for Funeral of Slain Supreme Leader Ali Khamenei",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Mansouri, Lebanon · 2h ago. State media reports Israeli airstrikes hit the villages of Mansouri and Tallousah in southern Lebanon, targeting Hezbollah positions.",
+        "title": "Israel Strikes Southern Lebanon's Mansouri and Tallousah",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Soldier Killed Inside Security Zone in Lebanon",
+        "title": "— S3 · Conflict · Mansouri, Lebanon · 4h ago. State media reports Israeli airstrikes hit the villages of Mansouri and Tallousah in southern Lebanon, targeting Hezbollah positions.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 4h ago. Israeli army confirms one soldier killed inside the 'security zone' in southern Lebanon, marking a new casualty in the ongoing conflict.",
+        "title": "Israeli Soldier Killed Inside Security Zone in Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
