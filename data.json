@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-05 20:51",
+  "updated_at_gst": "2026-07-05 21:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -23,32 +23,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Attacks in Lebanon Kill 4,304 Since March",
+        "title": "Israel Strikes Hezbollah Militant Cell in Al-Aqida Area",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Beirut, Lebanon · 20m ago. Lebanese Ministry reports 4,304 killed in Israeli attacks since March 2026, providing an updated cumulative death toll.",
+        "title": "Iraq Strikes Islamic State Hideouts After Officer Killed",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Settlers Burn Restaurant Near Ramallah, West Bank",
+        "title": "— S3 · Conflict · Iraq · 36m ago. Iraq launches airstrikes on Islamic State hideouts after a counter-terrorism officer was killed, renewing the offensive against the militant group.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Ramallah, West Bank, Palestine · 5h ago. Israeli settlers broke into and burned a restaurant near Al-Zaytouna University in the West Bank, stealing money amid escalating attacks on Palestinians.",
+        "title": "Israeli Attacks in Lebanon Kill 4,304 Since March",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attack Kills 14 Government Troops in Yemen",
+        "title": "— S3 · Conflict · Beirut, Lebanon · 1h ago. Lebanese Ministry reports 4,304 killed in Israeli attacks since March 2026, providing an updated cumulative death toll.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yemen · 7h ago. An attack by Yemen's Houthi rebels resulted in the deaths of 14 government troops, indicating continued kinetic conflict in the region.",
+        "title": "Israeli Settlers Burn Restaurant Near Ramallah, West Bank",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
