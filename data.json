@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-06 15:09",
+  "updated_at_gst": "2026-07-06 18:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "The pitfalls of institutionalising US military aid to Israel",
+        "published": "Mon, 06 Jul 2026 14:13:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/6/from-manchester-to-downing-street-what-burnham-could-mean-for-palantir?traffic_source=rss"
+      },
+      {
+        "title": "Baby dies after Israeli troops block emergency journey to hospital",
+        "published": "Mon, 06 Jul 2026 13:13:53 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/refugees-killed-in-landslides-at-rohingya-camps-in-bangladesh?traffic_source=rss"
+      },
+      {
+        "title": "Large-scale Russian attack on Ukraine before NATO summit",
+        "published": "Mon, 06 Jul 2026 12:55:10 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/7/6/the-world-cup-must-pay-its-carbon-bill?traffic_source=rss"
+      },
+      {
         "title": "Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei",
         "published": "Mon, 06 Jul 2026 10:52:55 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/inmates-and-guards-killed-in-deadly-fighting-at-sri-lanka-prison?traffic_source=rss"
-      },
-      {
-        "title": "Moment Israeli soldier hurls stun grenade into Palestinians’ car",
-        "published": "Mon, 06 Jul 2026 08:19:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/6/super-typhoon-bavi-makes-landfall-on-us-pacific-islands?traffic_source=rss"
-      },
-      {
-        "title": "Funeral procession for Iran’s slain Supreme Leader Ali Khamenei under way",
-        "published": "Mon, 06 Jul 2026 07:11:33 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/khameneis-funeral-procession-moves-through-tehran?traffic_source=rss"
-      },
-      {
-        "title": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
-        "published": "Mon, 06 Jul 2026 06:35:50 +0000",
-        "link": "https://www.aljazeera.com/features/2026/7/6/sudans-maternity-wards-reopen-bringing-hope-amid-post-war-struggles?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,27 +43,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 5h ago. Israeli Defense Minister Katz claims Israel assassinated Ali Khamenei, stating it was in response to his plans to destroy Israel and warning future Iranian leaders.",
+        "title": "— S4 · Conflict · Tehran, Iran · 9h ago. Israeli Defense Minister Katz claims Israel assassinated Ali Khamenei, stating it was in response to his plans to destroy Israel and warning future Iranian leaders.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Drone Strike Kills Four in Nabatieh, Lebanon",
+        "title": "Lebanon Estimates Direct War Damage from Israel at $3-4 Billion",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nabatieh, Lebanon · 13m ago. An Israeli drone strike in Nabatieh, southern Lebanon, killed four people, according to the NNA, indicating continued kinetic activity in the region.",
+        "title": "— S3 · Economic · Lebanon · 52m ago. Lebanon's information minister stated that direct damage from the conflict with Israel is estimated at $3-4 billion, not including indirect losses.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IDF Destroys Hezbollah Infrastructure in Southern Lebanon",
+        "title": "Israel Bombs Homes in Bint Jbeil District, Southern Lebanon",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 18m ago. The IDF destroyed Hezbollah infrastructure and seized over 150 weapons in a southern Lebanese village, escalating operations in the area.",
+        "title": "— S3 · Conflict · Bint Jbeil, Lebanon · 58m ago. Israeli airstrikes target residential homes in the Bint Jbeil district of southern Lebanon, escalating ceasefire violations.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
