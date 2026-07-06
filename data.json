@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-06 05:54",
+  "updated_at_gst": "2026-07-06 10:15",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,46 +14,35 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Iran war live: Tehran prepares for Ali Khamenei’s funeral procession",
-        "published": "Mon, 06 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/5/venezuelan-leader-marks-independence-day-with-message-of-no-social-unrest?traffic_source=rss"
-      },
-      {
-        "title": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
-        "published": "Sun, 05 Jul 2026 22:03:52 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/turkiye-gears-up-for-its-first-nato-summit-in-22-years?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
-        "title": "Israeli Forces Kill Child in Qalandia Camp, West Bank",
+        "title": "Israel Claims Killing of Iran's Supreme Leader Khamenei",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Qalandia Camp, West Bank, Palestine · 4h ago. Israeli forces killed a child named Walid on the roof of his home in Qalandia refugee camp north of Jerusalem.",
+        "title": "— S4 · Conflict · Tehran, Iran · 15m ago. Israeli Defense Minister Katz claims Israel assassinated Ali Khamenei, stating it was in response to his plans to destroy Israel and warning future Iranian leaders.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Baby Dies in West Bank After Israeli Forces Block Medical Care",
+        "title": "Israeli Forces Kill Child in Qalandia Camp, West Bank",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 7h ago. A Palestinian infant died in the occupied West Bank after Israeli forces obstructed access to emergency medical care.",
+        "title": "— S3 · Conflict · Qalandia Camp, West Bank, Palestine · 8h ago. Israeli forces killed a child named Walid on the roof of his home in Qalandia refugee camp north of Jerusalem.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Hezbollah Militant Cell in Al-Aqida Area",
+        "title": "Baby Dies in West Bank After Israeli Forces Block Medical Care",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iraq Strikes Islamic State Hideouts After Officer Killed",
+        "title": "— S3 · Conflict · West Bank, Palestine · 12h ago. A Palestinian infant died in the occupied West Bank after Israeli forces obstructed access to emergency medical care.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
