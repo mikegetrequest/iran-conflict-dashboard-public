@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-06 18:39",
+  "updated_at_gst": "2026-07-06 21:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "The pitfalls of institutionalising US military aid to Israel",
-        "published": "Mon, 06 Jul 2026 14:13:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/6/from-manchester-to-downing-street-what-burnham-could-mean-for-palantir?traffic_source=rss"
+        "title": "Lebanon latest: Teacher killed by Israeli airstrike",
+        "published": "Mon, 06 Jul 2026 16:10:09 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/6/portugal-vs-spain-live-fifa-world-cup-2026-round-of-16?traffic_source=rss"
       },
       {
-        "title": "Baby dies after Israeli troops block emergency journey to hospital",
-        "published": "Mon, 06 Jul 2026 13:13:53 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/refugees-killed-in-landslides-at-rohingya-camps-in-bangladesh?traffic_source=rss"
+        "title": "Israel’s Smotrich declares ‘revolution’ in West Bank settlement expansion",
+        "published": "Mon, 06 Jul 2026 15:02:20 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/6/fifa-world-cup-mohamed-salah-egypt-football-team-golden-generation?traffic_source=rss"
       },
       {
-        "title": "Large-scale Russian attack on Ukraine before NATO summit",
-        "published": "Mon, 06 Jul 2026 12:55:10 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/7/6/the-world-cup-must-pay-its-carbon-bill?traffic_source=rss"
-      },
-      {
-        "title": "Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei",
-        "published": "Mon, 06 Jul 2026 10:52:55 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/inmates-and-guards-killed-in-deadly-fighting-at-sri-lanka-prison?traffic_source=rss"
+        "title": "Israeli attack on vehicle in Lebanon kills at least four",
+        "published": "Mon, 06 Jul 2026 14:22:31 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/7/6/the-pitfalls-of-institutionalising-us-military-aid-to-israel?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,27 +38,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 9h ago. Israeli Defense Minister Katz claims Israel assassinated Ali Khamenei, stating it was in response to his plans to destroy Israel and warning future Iranian leaders.",
+        "title": "— S4 · Conflict · Tehran, Iran · 12h ago. Israeli Defense Minister Katz claims Israel assassinated Ali Khamenei, stating it was in response to his plans to destroy Israel and warning future Iranian leaders.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Lebanon Estimates Direct War Damage from Israel at $3-4 Billion",
+        "title": "Teacher Killed by Israeli Airstrike in Lebanon",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Lebanon · 52m ago. Lebanon's information minister stated that direct damage from the conflict with Israel is estimated at $3-4 billion, not including indirect losses.",
+        "title": "— S3 · Conflict · Beirut, Lebanon · 1h ago. An Israeli airstrike killed a teacher in Lebanon despite an existing ceasefire, continuing hostilities in the region.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Bombs Homes in Bint Jbeil District, Southern Lebanon",
+        "title": "Lebanon Estimates Direct War Damage from Israel at $3-4 Billion",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bint Jbeil, Lebanon · 58m ago. Israeli airstrikes target residential homes in the Bint Jbeil district of southern Lebanon, escalating ceasefire violations.",
+        "title": "— S3 · Economic · Lebanon · 4h ago. Lebanon's information minister stated that direct damage from the conflict with Israel is estimated at $3-4 billion, not including indirect losses.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
