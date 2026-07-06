@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-06 23:28",
+  "updated_at_gst": "2026-07-07 01:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run",
+        "published": "Mon, 06 Jul 2026 20:33:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/6/prosecutors-in-us-lay-out-case-against-alleged-killer-of-charlie-kirk?traffic_source=rss"
+      },
+      {
+        "title": "Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom",
+        "published": "Mon, 06 Jul 2026 19:56:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/6/nato-urges-members-to-deliver-plans-for-reaching-defence-spending-targets?traffic_source=rss"
+      },
+      {
         "title": "Iran reappoints a familiar face to powerful post during Khamenei funeral",
         "published": "Mon, 06 Jul 2026 18:28:38 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon latest: Teacher killed by Israeli airstrike",
-        "published": "Mon, 06 Jul 2026 16:10:09 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/6/portugal-vs-spain-live-fifa-world-cup-2026-round-of-16?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 13h ago. Israeli Defense Minister Katz claims Israel assassinated Ali Khamenei, stating it was in response to his plans to destroy Israel and warning future Iranian leaders.",
+        "title": "— S4 · Conflict · Tehran, Iran · 15h ago. Israeli Defense Minister Katz claims Israel assassinated Ali Khamenei, stating it was in response to his plans to destroy Israel and warning future Iranian leaders.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -43,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Beirut, Lebanon · 3h ago. An Israeli airstrike killed a teacher in Lebanon despite an existing ceasefire, continuing hostilities in the region.",
+        "title": "— S3 · Conflict · Beirut, Lebanon · 5h ago. An Israeli airstrike killed a teacher in Lebanon despite an existing ceasefire, continuing hostilities in the region.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Lebanon · 6h ago. Lebanon's information minister stated that direct damage from the conflict with Israel is estimated at $3-4 billion, not including indirect losses.",
+        "title": "— S3 · Economic · Lebanon · 7h ago. Lebanon's information minister stated that direct damage from the conflict with Israel is estimated at $3-4 billion, not including indirect losses.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
