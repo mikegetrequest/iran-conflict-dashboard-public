@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-07 06:03",
+  "updated_at_gst": "2026-07-07 10:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,41 +14,35 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Morocco says it has dismantled ISIL-linked cell planning attack",
-        "published": "Mon, 06 Jul 2026 21:51:23 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/influencers-say-theyre-honoured-to-attend-khamenei-funeral?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
-        "title": "Iran Resumes Attacks in Strait of Hormuz, U.S. Reports",
+        "title": "Suspects Attack Border Police at Kalandiya Checkpoint",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 7m ago. Iran has resumed attacks in the Strait of Hormuz, per reporting from Axios, marking renewed hostilities against commercial shipping in the strategic chokepoint.",
+        "title": "Iran Strikes Two Commercial Ships With Missiles in Strait of Hormuz, US Says",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Claims Killing of Iran's Supreme Leader Khamenei",
+        "title": "— S3 · Conflict · Bab el-Mandeb · 7h ago. UKMTO warning 080-26 reports a maritime attack near the Bab el-Mandeb strait. Vessels advised to exercise caution.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 20h ago. Israeli Defense Minister Katz claims Israel assassinated Ali Khamenei, stating it was in response to his plans to destroy Israel and warning future Iranian leaders.",
+        "title": "Qatari LNG Tanker Sends Mayday After Possible Strike in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Tankers With Missiles and Drone Near Strait of Hormuz",
+        "title": "— S3 · Conflict · Strait of Hormuz · 8h ago. Qatari LNG tanker AL REKAYYAT broadcasts mayday after possible projectile strike in the Strait of Hormuz. Vessel had AIS off for 18 days.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bab el-Mandeb · 3h ago. UKMTO warning 080-26 reports a maritime attack near the Bab el-Mandeb strait. Vessels advised to exercise caution.",
+        "title": "Teacher Killed by Israeli Airstrike in Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
