@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-07 03:55",
+  "updated_at_gst": "2026-07-07 06:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run",
-        "published": "Mon, 06 Jul 2026 20:33:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/6/prosecutors-in-us-lay-out-case-against-alleged-killer-of-charlie-kirk?traffic_source=rss"
-      },
-      {
-        "title": "Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom",
-        "published": "Mon, 06 Jul 2026 19:56:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/6/nato-urges-members-to-deliver-plans-for-reaching-defence-spending-targets?traffic_source=rss"
+        "title": "Morocco says it has dismantled ISIL-linked cell planning attack",
+        "published": "Mon, 06 Jul 2026 21:51:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/influencers-say-theyre-honoured-to-attend-khamenei-funeral?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israel Claims Killing of Iran's Supreme Leader Khamenei",
+        "title": "Iran Resumes Attacks in Strait of Hormuz, U.S. Reports",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 18h ago. Israeli Defense Minister Katz claims Israel assassinated Ali Khamenei, stating it was in response to his plans to destroy Israel and warning future Iranian leaders.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 7m ago. Iran has resumed attacks in the Strait of Hormuz, per reporting from Axios, marking renewed hostilities against commercial shipping in the strategic chokepoint.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "UKMTO Reports Attack in Bab el-Mandeb",
+        "title": "Israel Claims Killing of Iran's Supreme Leader Khamenei",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bab el-Mandeb · 38m ago. UKMTO warning 080-26 reports a maritime attack near the Bab el-Mandeb strait. Vessels advised to exercise caution.",
+        "title": "— S4 · Conflict · Tehran, Iran · 20h ago. Israeli Defense Minister Katz claims Israel assassinated Ali Khamenei, stating it was in response to his plans to destroy Israel and warning future Iranian leaders.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Qatari LNG Tanker Sends Mayday After Possible Strike in Strait of Hormuz",
+        "title": "Iran Strikes Tankers With Missiles and Drone Near Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 1h ago. Qatari LNG tanker AL REKAYYAT broadcasts mayday after possible projectile strike in the Strait of Hormuz. Vessel had AIS off for 18 days.",
+        "title": "— S3 · Conflict · Bab el-Mandeb · 3h ago. UKMTO warning 080-26 reports a maritime attack near the Bab el-Mandeb strait. Vessels advised to exercise caution.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
