@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-08 02:33",
+  "updated_at_gst": "2026-07-08 03:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,39 +16,44 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump criticises NATO allies over Iran conflict support",
-        "published": "Tue, 07 Jul 2026 19:16:05 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/they-brought-me-here-to-kill-me-says-gaza-doctor-in-israeli-prison?traffic_source=rss"
+        "title": "US says strikes launched as explosions heard in southern Iran",
+        "published": "Tue, 07 Jul 2026 21:21:16 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/7/7/nasdaq-vs-dow-how-are-the-key-indices-different-as-spacex-joins-one?traffic_source=rss"
+      },
+      {
+        "title": "‘They brought me here to kill me’ says Gaza doctor in Israeli prison",
+        "published": "Tue, 07 Jul 2026 18:44:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/frances-marine-le-pen-must-wear-ankle-tag-after-appeal-ruling?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Launches Major Airstrikes on Iran Over Hormuz Ceasefire Violation",
+        "title": "US Airstrike Hits School in Tehran, Kills Nearly 200",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes in Iran Four to Five Times Larger Than Previous Attacks",
+        "title": "— S4 · Conflict · Tehran, Iran · 45m ago. A US airstrike struck a school in Tehran, killing nearly 200 children and adults, according to CNN sources, amid ongoing US strikes on Iran.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 7m ago. A US official tells Axios the current strikes on Iran are four to five times larger in scope and power than strikes 10 days ago.",
+        "title": "US Launches Major Airstrikes on Iran Over Hormuz Ceasefire Violation",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Araghchi Harassed at Khamenei Funeral in Tehran",
+        "title": "Iran Condemns US Strikes Across Southern Iran",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Tehran, Iran · 14m ago. Iranian Foreign Minister Abbas Araghchi was harassed by regime supporters chanting 'shame' and 'death to the traitor' during the funeral procession of Ayatollah Ali Khamenei.",
+        "title": "— S3 · Political · Strait of Hormuz · 1h ago. Iranian Foreign Ministry condemns US airstrikes across southern Iran as a violation of the U.S.-Iran MOU and warns of a likely resumption of Iranian strikes.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Official Expects Strikes on Iran to Continue",
+        "title": "US Strikes in Iran Four to Five Times Larger Than Previous Attacks",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
