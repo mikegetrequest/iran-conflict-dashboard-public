@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-07 23:29",
+  "updated_at_gst": "2026-07-08 01:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "‘They brought me here to kill me’ says Gaza doctor in Israeli prison",
-        "published": "Tue, 07 Jul 2026 18:44:55 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/frances-marine-le-pen-must-wear-ankle-tag-after-appeal-ruling?traffic_source=rss"
-      },
-      {
-        "title": "Christians are not united for Israel",
-        "published": "Tue, 07 Jul 2026 16:06:09 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/nigel-farage-resigns-as-mp-will-run-in-uk-by-election?traffic_source=rss"
+        "title": "Trump criticises NATO allies over Iran conflict support",
+        "published": "Tue, 07 Jul 2026 19:16:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/they-brought-me-here-to-kill-me-says-gaza-doctor-in-israeli-prison?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Pirate Attacks Spike Off Horn of Africa, Likely Houthi-Backed",
+        "title": "Saudi Arabia Accuses Iran of Attacking Oil Tanker in Hormuz",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Detained Gaza Doctor Severely Beaten in Israeli Jail",
+        "title": "Pirate Attacks Spike Off Horn of Africa, Likely Houthi-Backed",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Lawyer says Dr. Hussam Abu Safiya was beaten so severely in Israeli detention he was unrecognizable.",
+        "title": "US Revokes Iran Oil Sanctions Waiver After Strait of Hormuz Attacks",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IDF Finds Hezbollah Weapons Cache in Southern Lebanon Home",
+        "title": "— S3 · Political · Kharg Island, Iran · 2h ago. The US revoked a sanctions waiver allowing Iran to export oil, citing recent tanker attacks in the Strait of Hormuz. Iran has 6 million barrels loaded at Kharg Island.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 3h ago. IDF discovered over 150 weapons, including RPG and missile launchers, in a civilian residence in southern Lebanon.",
+        "title": "Detained Gaza Doctor Severely Beaten in Israeli Jail",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 5h ago. Iran's IRGC Navy bombed a vessel and warned other ships to only use routes approved by the Persian Gulf Strait Authority or face danger.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 4h ago. Lawyer says Dr. Hussam Abu Safiya was beaten so severely in Israeli detention he was unrecognizable.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
