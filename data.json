@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-08 03:43",
+  "updated_at_gst": "2026-07-08 05:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US says strikes launched as explosions heard in southern Iran",
-        "published": "Tue, 07 Jul 2026 21:21:16 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/7/7/nasdaq-vs-dow-how-are-the-key-indices-different-as-spacex-joins-one?traffic_source=rss"
+        "title": "Iran war live: US bombs Sirik, Qeshm, Bandar Abbas over Hormuz attacks",
+        "published": "Wed, 08 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/7/switzerland-face-argentina-in-world-cup-quarterfinal-after-beating-colombia?traffic_source=rss"
       },
       {
-        "title": "‘They brought me here to kill me’ says Gaza doctor in Israeli prison",
-        "published": "Tue, 07 Jul 2026 18:44:55 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/frances-marine-le-pen-must-wear-ankle-tag-after-appeal-ruling?traffic_source=rss"
+        "title": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+        "published": "Tue, 07 Jul 2026 22:53:35 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/7/egypt-buoyed-by-praise-for-world-cup-heroics-despite-controversial-exit?traffic_source=rss"
+      },
+      {
+        "title": "Trump criticises NATO allies over Iran conflict support",
+        "published": "Tue, 07 Jul 2026 19:16:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/they-brought-me-here-to-kill-me-says-gaza-doctor-in-israeli-prison?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,27 +38,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 45m ago. A US airstrike struck a school in Tehran, killing nearly 200 children and adults, according to CNN sources, amid ongoing US strikes on Iran.",
+        "title": "— S4 · Conflict · Tehran, Iran · 2h ago. A US airstrike struck a school in Tehran, killing nearly 200 children and adults, according to CNN sources, amid ongoing US strikes on Iran.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches Major Airstrikes on Iran Over Hormuz Ceasefire Violation",
+        "title": "US Airstrikes Hit Iranian Air Defenses and IRGC Speedboats in Southern Iran After Hormuz Attacks",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Condemns US Strikes Across Southern Iran",
+        "title": "Iran Launches Anti-Ship Missiles at US Navy in Persian Gulf",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Strait of Hormuz · 1h ago. Iranian Foreign Ministry condemns US airstrikes across southern Iran as a violation of the U.S.-Iran MOU and warns of a likely resumption of Iranian strikes.",
+        "title": "— S3 · Conflict · Persian Gulf · 44m ago. Iran reportedly launched anti-ship cruise missiles towards US Navy vessels in the Persian Gulf, escalating tensions in the region.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes in Iran Four to Five Times Larger Than Previous Attacks",
+        "title": "US Revokes License for Iranian Oil Sales After Hormuz Attacks",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
