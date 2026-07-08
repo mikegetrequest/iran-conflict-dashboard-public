@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-08 22:51",
+  "updated_at_gst": "2026-07-09 00:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -29,51 +29,36 @@
         "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
         "published": "Wed, 08 Jul 2026 16:07:45 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/8/oil-for-unity-what-is-the-us-mediation-plan-in-libya?traffic_source=rss"
-      },
-      {
-        "title": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
-        "published": "Wed, 08 Jul 2026 15:57:41 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss"
-      },
-      {
-        "title": "Zelenskyy seeks NATO support as Russia continues attacks",
-        "published": "Wed, 08 Jul 2026 15:18:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/8/why-have-100000-people-been-signed-off-work-with-adhd-in-the-uk?traffic_source=rss"
-      },
-      {
-        "title": "Trump on Iran: ‘We’ll probably hit them hard again tonight’",
-        "published": "Wed, 08 Jul 2026 14:20:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/down-with-the-usa-us-influencer-jackson-hinkle-attends-khameneis-funera?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Launches Missiles and Drones at Kuwait and Bahrain; Air Defenses Respond",
+        "title": "— S4 · Conflict · Iran · 2m ago. A U.S. official confirms that American military strikes against Iran are underway.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Drone Strikes Targeting US Fifth Fleet in Bahrain, Air Raid Sirens Sound Across Manama",
+        "title": "Iran Launches Missiles and Drones at Kuwait and Bahrain; Air Defenses Respond",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Manama, Bahrain · 17h ago. Iran has launched drone strikes against Bahrain, targeting the U.S. Fifth Fleet Headquarters, in retaliation for recent U.S. strikes on Iranian military infrastructure.",
+        "title": "Iran Launches Drone Strikes Targeting US Fifth Fleet in Bahrain, Air Raid Sirens Sound Across Manama",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Airstrike Hits School in Tehran, Kills Nearly 200",
+        "title": "— S4 · Conflict · Manama, Bahrain · 18h ago. Iran has launched drone strikes against Bahrain, targeting the U.S. Fifth Fleet Headquarters, in retaliation for recent U.S. strikes on Iranian military infrastructure.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 20h ago. A US airstrike struck a school in Tehran, killing nearly 200 children and adults, according to CNN sources, amid ongoing US strikes on Iran.",
+        "title": "US Airstrike Hits School in Tehran, Kills Nearly 200",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Airstrikes Hit Iranian Air Defenses and IRGC Speedboats in Southern Iran After Hormuz Attacks",
+        "title": "— S4 · Conflict · Tehran, Iran · 21h ago. A US airstrike struck a school in Tehran, killing nearly 200 children and adults, according to CNN sources, amid ongoing US strikes on Iran.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
