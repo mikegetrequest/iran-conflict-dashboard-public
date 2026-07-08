@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-09 00:14",
+  "updated_at_gst": "2026-07-09 01:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,44 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Democrat Rahm Emanuel tells Israel to no longer expect unconditional US aid",
+        "published": "Wed, 08 Jul 2026 20:40:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2?traffic_source=rss"
+      },
+      {
         "title": "Israeli air strikes in Gaza kill eight, including two children",
         "published": "Wed, 08 Jul 2026 18:35:11 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-says-he-may-be-gone-as-he-declares-himself-irans-no-1-target?traffic_source=rss"
-      },
-      {
-        "title": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
-        "published": "Wed, 08 Jul 2026 16:48:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss"
-      },
-      {
-        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
-        "published": "Wed, 08 Jul 2026 16:07:45 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/8/oil-for-unity-what-is-the-us-mediation-plan-in-libya?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— S4 · Conflict · Iran · 2m ago. A U.S. official confirms that American military strikes against Iran are underway.",
+        "title": "US Launches Extensive Strikes Across Southern Iran",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Missiles and Drones at Kuwait and Bahrain; Air Defenses Respond",
+        "title": "— S4 · Conflict · Iran · 1h ago. US forces strike Chabahar, Bushehr, and Sirik in southern Iran after Trump declares ceasefire over, marking a major escalation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Drone Strikes Targeting US Fifth Fleet in Bahrain, Air Raid Sirens Sound Across Manama",
+        "title": "Iran Launches Missiles and Drones at Kuwait and Bahrain; Air Defenses Respond",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Manama, Bahrain · 18h ago. Iran has launched drone strikes against Bahrain, targeting the U.S. Fifth Fleet Headquarters, in retaliation for recent U.S. strikes on Iranian military infrastructure.",
+        "title": "Iran Launches Drone Strikes Targeting US Fifth Fleet in Bahrain, Air Raid Sirens Sound Across Manama",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Airstrike Hits School in Tehran, Kills Nearly 200",
+        "title": "— S4 · Conflict · Manama, Bahrain · 20h ago. Iran has launched drone strikes against Bahrain, targeting the U.S. Fifth Fleet Headquarters, in retaliation for recent U.S. strikes on Iranian military infrastructure.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 21h ago. A US airstrike struck a school in Tehran, killing nearly 200 children and adults, according to CNN sources, amid ongoing US strikes on Iran.",
+        "title": "US Airstrike Hits School in Tehran, Kills Nearly 200",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
