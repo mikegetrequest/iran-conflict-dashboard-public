@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-08 21:15",
+  "updated_at_gst": "2026-07-08 22:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli air strikes in Gaza kill eight, including two children",
+        "published": "Wed, 08 Jul 2026 18:35:11 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-says-he-may-be-gone-as-he-declares-himself-irans-no-1-target?traffic_source=rss"
+      },
       {
         "title": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
         "published": "Wed, 08 Jul 2026 16:48:31 +0000",
@@ -39,11 +44,6 @@
         "title": "Trump on Iran: ‘We’ll probably hit them hard again tonight’",
         "published": "Wed, 08 Jul 2026 14:20:03 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/down-with-the-usa-us-influencer-jackson-hinkle-attends-khameneis-funera?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s supreme leader’s coffin arrives in Najaf",
-        "published": "Wed, 08 Jul 2026 13:11:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/8/syria-in-tough-balancing-act-as-it-tightens-security-after-damascus-blasts?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Manama, Bahrain · 15h ago. Iran has launched drone strikes against Bahrain, targeting the U.S. Fifth Fleet Headquarters, in retaliation for recent U.S. strikes on Iranian military infrastructure.",
+        "title": "— S4 · Conflict · Manama, Bahrain · 17h ago. Iran has launched drone strikes against Bahrain, targeting the U.S. Fifth Fleet Headquarters, in retaliation for recent U.S. strikes on Iranian military infrastructure.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -68,7 +68,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 18h ago. A US airstrike struck a school in Tehran, killing nearly 200 children and adults, according to CNN sources, amid ongoing US strikes on Iran.",
+        "title": "— S4 · Conflict · Tehran, Iran · 20h ago. A US airstrike struck a school in Tehran, killing nearly 200 children and adults, according to CNN sources, amid ongoing US strikes on Iran.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
