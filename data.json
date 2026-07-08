@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-08 15:39",
+  "updated_at_gst": "2026-07-08 17:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump says MoU with ‘vicious, violent’ Iran is over",
-        "published": "Wed, 08 Jul 2026 09:14:50 +0000",
-        "link": "https://www.aljazeera.com/video/2026/7/8/video-world-cup-2026-highlights?traffic_source=rss"
+        "title": "Trump says MoU ‘over’ after latest US and Iranian attacks",
+        "published": "Wed, 08 Jul 2026 12:48:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/gaza-aid-worker-killed-minutes-before-world-cup-screening-he-organised?traffic_source=rss"
       },
       {
-        "title": "The Iranian Striker: The journey of Mehdi Taremi | Al Jazeera Originals",
-        "published": "Wed, 08 Jul 2026 08:54:58 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/8/world-cup-which-teams-made-the-quarterfinals-and-whats-the-schedule?traffic_source=rss"
+        "title": "Trump says ceasefire ‘over’ after US, Iran trade attacks",
+        "published": "Wed, 08 Jul 2026 10:06:29 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/7/8/nigerias-counterterrorism-gains-carry-a-warning?traffic_source=rss"
       },
       {
-        "title": "Funeral events for Iran’s slain Supreme Leader Khamenei under way in Iraq",
-        "published": "Wed, 08 Jul 2026 08:27:43 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/egypt-coach-condemns-silence-on-killing-of-palestinian-children?traffic_source=rss"
+        "title": "Why have US-Iran strikes resumed and what does it mean for peace?",
+        "published": "Wed, 08 Jul 2026 09:42:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/8/pakistan-searches-for-boeing-cargo-plane-missing-over-arabian-sea?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Launches Ballistic Missiles at Kuwait, Bahrain; Explosions Near Airbase Reported in Kuwait",
+        "title": "Iran Launches Drone Strikes Targeting US Fifth Fleet in Bahrain, Air Raid Sirens Sound Across Manama",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Drone Strikes Targeting US Fifth Fleet in Bahrain, Air Raid Sirens Sound Across Manama",
+        "title": "— S4 · Conflict · Manama, Bahrain · 11h ago. Iran has launched drone strikes against Bahrain, targeting the U.S. Fifth Fleet Headquarters, in retaliation for recent U.S. strikes on Iranian military infrastructure.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Manama, Bahrain · 10h ago. Iran has launched drone strikes against Bahrain, targeting the U.S. Fifth Fleet Headquarters, in retaliation for recent U.S. strikes on Iranian military infrastructure.",
+        "title": "US Airstrike Hits School in Tehran, Kills Nearly 200",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Airstrike Hits School in Tehran, Kills Nearly 200",
+        "title": "— S4 · Conflict · Tehran, Iran · 14h ago. A US airstrike struck a school in Tehran, killing nearly 200 children and adults, according to CNN sources, amid ongoing US strikes on Iran.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 13h ago. A US airstrike struck a school in Tehran, killing nearly 200 children and adults, according to CNN sources, amid ongoing US strikes on Iran.",
+        "title": "US Airstrikes Hit Iranian Air Defenses and IRGC Speedboats in Southern Iran After Hormuz Attacks",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Airstrikes Hit Iranian Air Defenses and IRGC Speedboats in Southern Iran After Hormuz Attacks",
+        "title": "Iran Signals Defiance Over US Strikes in Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
