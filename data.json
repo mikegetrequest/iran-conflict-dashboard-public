@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-08 11:21",
+  "updated_at_gst": "2026-07-08 13:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Khamenei’s coffin arrives in Iraq as US strikes hit Iran",
-        "published": "Wed, 08 Jul 2026 04:53:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss"
+        "title": "Trump says MoU with ‘vicious, violent’ Iran is over",
+        "published": "Wed, 08 Jul 2026 09:14:50 +0000",
+        "link": "https://www.aljazeera.com/video/2026/7/8/video-world-cup-2026-highlights?traffic_source=rss"
       },
       {
-        "title": "US strikes Iran despite promised pause for Khamenei funeral",
-        "published": "Wed, 08 Jul 2026 01:13:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/unstable-manhattan-skyscraper-triggers-collapse-fears?traffic_source=rss"
+        "title": "The Iranian Striker: The journey of Mehdi Taremi | Al Jazeera Originals",
+        "published": "Wed, 08 Jul 2026 08:54:58 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/8/world-cup-which-teams-made-the-quarterfinals-and-whats-the-schedule?traffic_source=rss"
+      },
+      {
+        "title": "Funeral events for Iran’s slain Supreme Leader Khamenei under way in Iraq",
+        "published": "Wed, 08 Jul 2026 08:27:43 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/egypt-coach-condemns-silence-on-killing-of-palestinian-children?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Manama, Bahrain · 5h ago. Iran has launched drone strikes against Bahrain, targeting the U.S. Fifth Fleet Headquarters, in retaliation for recent U.S. strikes on Iranian military infrastructure.",
+        "title": "— S4 · Conflict · Manama, Bahrain · 8h ago. Iran has launched drone strikes against Bahrain, targeting the U.S. Fifth Fleet Headquarters, in retaliation for recent U.S. strikes on Iranian military infrastructure.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 8h ago. A US airstrike struck a school in Tehran, killing nearly 200 children and adults, according to CNN sources, amid ongoing US strikes on Iran.",
+        "title": "— S4 · Conflict · Tehran, Iran · 11h ago. A US airstrike struck a school in Tehran, killing nearly 200 children and adults, according to CNN sources, amid ongoing US strikes on Iran.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
