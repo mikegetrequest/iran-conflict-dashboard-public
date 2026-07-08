@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-08 08:38",
+  "updated_at_gst": "2026-07-08 11:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Khamenei’s coffin arrives in Iraq as US strikes hit Iran",
+        "published": "Wed, 08 Jul 2026 04:53:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss"
+      },
+      {
         "title": "US strikes Iran despite promised pause for Khamenei funeral",
         "published": "Wed, 08 Jul 2026 01:13:54 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/unstable-manhattan-skyscraper-triggers-collapse-fears?traffic_source=rss"
-      },
-      {
-        "title": "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities",
-        "published": "Wed, 08 Jul 2026 01:04:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-to-run-for-french-presidency-despite-criminal-conviction?traffic_source=rss"
-      },
-      {
-        "title": "US strikes southern Iran, Tehran claims attacks on US military sites",
-        "published": "Tue, 07 Jul 2026 21:21:16 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/7/7/nasdaq-vs-dow-how-are-the-key-indices-different-as-spacex-joins-one?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,27 +33,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Airstrike Hits School in Tehran, Kills Nearly 200",
+        "title": "Iran Launches Drone Strikes Targeting US Fifth Fleet in Bahrain, Air Raid Sirens Sound Across Manama",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 6h ago. A US airstrike struck a school in Tehran, killing nearly 200 children and adults, according to CNN sources, amid ongoing US strikes on Iran.",
+        "title": "— S4 · Conflict · Manama, Bahrain · 5h ago. Iran has launched drone strikes against Bahrain, targeting the U.S. Fifth Fleet Headquarters, in retaliation for recent U.S. strikes on Iranian military infrastructure.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Airstrikes Hit Iranian Air Defenses and IRGC Speedboats in Southern Iran After Hormuz Attacks",
+        "title": "US Airstrike Hits School in Tehran, Kills Nearly 200",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Says IRGC Shot Down US MQ-9 Drone Over Khormuj, Bushehr Province",
+        "title": "— S4 · Conflict · Tehran, Iran · 8h ago. A US airstrike struck a school in Tehran, killing nearly 200 children and adults, according to CNN sources, amid ongoing US strikes on Iran.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khormuj, Iran · 2h ago. IRGC claims its air defense shot down a U.S. MQ-9 Reaper drone over Khormuj, southern Iran, during overnight U.S. airstrikes.",
+        "title": "US Airstrikes Hit Iranian Air Defenses and IRGC Speedboats in Southern Iran After Hormuz Attacks",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
