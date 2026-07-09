@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-09 23:17",
+  "updated_at_gst": "2026-07-10 00:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?",
-        "published": "Thu, 09 Jul 2026 15:34:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/erdogan-gifts-nato-leaders-engraved-revolvers-with-live-ammunition?traffic_source=rss"
+        "title": "Why the US Strategic Petroleum Reserve matters amid US-Iran tensions",
+        "published": "Thu, 09 Jul 2026 20:03:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/9/two-more-men-plead-guilty-in-us-for-deadly-2021-human-smuggling-truck-crash?traffic_source=rss"
+      },
+      {
+        "title": "US expands Iran strikes Iran hitting  fishing piers near nuclear plant",
+        "published": "Thu, 09 Jul 2026 18:17:55 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/9/englands-quansah-banned-for-two-matches-after-world-cup-last-16-red-card?traffic_source=rss"
+      },
+      {
+        "title": "Israeli attacks on Gaza kill 10 people in 24 hours despite ‘ceasefire’",
+        "published": "Thu, 09 Jul 2026 18:04:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/9/mexico-to-seek-us-criminal-complaints-over-ice-related-deaths-of-citizens?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -28,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Persian Gulf · 18h ago. Iran has reportedly launched attacks targeting Bahrain and Kuwait in the Persian Gulf, escalating regional tensions.",
+        "title": "— S4 · Conflict · Persian Gulf · 20h ago. Iran has reportedly launched attacks targeting Bahrain and Kuwait in the Persian Gulf, escalating regional tensions.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
