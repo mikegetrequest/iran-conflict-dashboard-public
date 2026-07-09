@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-09 21:44",
+  "updated_at_gst": "2026-07-09 23:17",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Lebanon Latest: concerns about latest escalation in regional fighting",
-        "published": "Thu, 09 Jul 2026 15:38:28 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/9/strait-of-hormuz-what-has-happened-since-the-us-iran-mou-on-june-17?traffic_source=rss"
-      },
-      {
-        "title": "Photos: Iran to bury slain supreme leader in culmination of mass funeral",
-        "published": "Thu, 09 Jul 2026 13:42:27 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/9/fifa-world-cup-which-quarterfinal-team-has-best-chance-to-win-the-trophy?traffic_source=rss"
+        "title": "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?",
+        "published": "Thu, 09 Jul 2026 15:34:54 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/erdogan-gifts-nato-leaders-engraved-revolvers-with-live-ammunition?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,7 +28,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Persian Gulf · 17h ago. Iran has reportedly launched attacks targeting Bahrain and Kuwait in the Persian Gulf, escalating regional tensions.",
+        "title": "— S4 · Conflict · Persian Gulf · 18h ago. Iran has reportedly launched attacks targeting Bahrain and Kuwait in the Persian Gulf, escalating regional tensions.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
