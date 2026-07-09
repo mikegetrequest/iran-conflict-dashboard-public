@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-09 03:57",
+  "updated_at_gst": "2026-07-09 06:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,41 +24,36 @@
         "title": "Deadly strikes in Gaza leave 5 dead, children wounded",
         "published": "Wed, 08 Jul 2026 21:12:50 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/8/former-rebel-turned-government-ally-proposes-a-path-to-peace-for-sudan?traffic_source=rss"
-      },
-      {
-        "title": "US says conducting new wave of strikes on Iran as ceasefire falters",
-        "published": "Wed, 08 Jul 2026 20:40:14 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/venezuelan-fashion-designer-swaps-dresses-for-body-bags?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Launches Extensive Strikes Across Southern Iran",
+        "title": "Iran Conducts Missile and Drone Attacks on Kuwait and Bahrain",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Bushehr, Iran · 4h ago. U.S. forces strike multiple southern Iranian cities including Bushehr, Chabahar, and Sirik after Trump declares ceasefire over, targeting IRGC bases and oil infrastructure.",
+        "title": "— S4 · Conflict · Kuwait · 2h ago. Iran launches missile and drone strikes on Kuwait and Bahrain, with short-range ballistic missiles fired from Bushehr. Casualties and damage unknown.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Missiles and Drones at Kuwait and Bahrain; Air Defenses Respond",
+        "title": "US Expands Airstrikes Across Southern Iran After Ceasefire Collapses",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Drone Strikes Targeting US Fifth Fleet in Bahrain, Air Raid Sirens Sound Across Manama",
+        "title": "Iran Launches Ballistic Missiles and Drones at Kuwait and Bahrain; Air Defenses Intercept Most Projectiles",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Manama, Bahrain · 22h ago. Iran has launched drone strikes against Bahrain, targeting the U.S. Fifth Fleet Headquarters, in retaliation for recent U.S. strikes on Iranian military infrastructure.",
+        "title": "Iran Strikes US Fifth Fleet Base in Bahrain With Ballistic Missiles and Drones, Sirens Sound Across Multiple Gulf States",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iranian Air Defense, Ports, and Missile Sites in Major Escalation",
+        "title": "— S4 · Conflict · Manama, Bahrain · 1d ago. Iran has launched drone strikes against Bahrain, targeting the U.S. Fifth Fleet Headquarters, in retaliation for recent U.S. strikes on Iranian military infrastructure.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
