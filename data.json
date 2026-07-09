@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-09 14:04",
+  "updated_at_gst": "2026-07-09 19:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,39 +16,54 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Australia, India strike deal on uranium exports during PM Modi’s visit",
-        "published": "Thu, 09 Jul 2026 09:36:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/9/us-iran-launch-more-attacks-as-mediators-urge-warring-sides-to-uphold-mou?traffic_source=rss"
+        "title": "Lebanon Latest: concerns about latest escalation in regional fighting",
+        "published": "Thu, 09 Jul 2026 15:38:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/9/strait-of-hormuz-what-has-happened-since-the-us-iran-mou-on-june-17?traffic_source=rss"
+      },
+      {
+        "title": "Photos: Iran to bury slain supreme leader in culmination of mass funeral",
+        "published": "Thu, 09 Jul 2026 13:42:27 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/9/fifa-world-cup-which-quarterfinal-team-has-best-chance-to-win-the-trophy?traffic_source=rss"
+      },
+      {
+        "title": "Videos show interception of Iranian missiles in skies over Jordan",
+        "published": "Thu, 09 Jul 2026 12:12:09 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/9/fifa-world-cup-2026-what-happened-to-the-beautiful-game?traffic_source=rss"
+      },
+      {
+        "title": "Mediator Pakistan says renewed US-Iran conflict is ‘in no one’s interest’",
+        "published": "Thu, 09 Jul 2026 11:47:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/9/uk-labour-leadership-nominations-begin-whos-running-and-how-it-works?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Expands Airstrikes Across Southern Iran After Ceasefire Collapses",
+        "title": "US Strikes Iran; Iran Retaliates Against Gulf States, US Bases in Persian Gulf",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Ballistic Missiles and Drones at Kuwait and Bahrain; Air Defenses Intercept Most Projectiles",
+        "title": "— S4 · Conflict · Persian Gulf · 15h ago. Iran has reportedly launched attacks targeting Bahrain and Kuwait in the Persian Gulf, escalating regional tensions.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Fifth Fleet Headquarters in Bahrain With Ballistic Missiles and Drones, Sirens Sound Across Gulf States",
+        "title": "US Expands Airstrikes Across Southern Iran After Ceasefire Collapses",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Manama, Bahrain · 1d ago. Iran has launched drone strikes against Bahrain, targeting the U.S. Fifth Fleet Headquarters, in retaliation for recent U.S. strikes on Iranian military infrastructure.",
+        "title": "Iran Launches Ballistic Missiles and Drones at Kuwait and Bahrain; Air Defenses Intercept Most Projectiles",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iranian Air Defense, Ports, and Missile Sites in Major Escalation",
+        "title": "Iran Strikes US Fifth Fleet Headquarters in Bahrain With Ballistic Missiles and Drones, Sirens Sound Across Gulf States",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 2d ago. A US official tells Axios the current strikes on Iran are four to five times larger in scope and power than strikes 10 days ago.",
+        "title": "— S4 · Conflict · Manama, Bahrain · 2d ago. Iran has launched drone strikes against Bahrain, targeting the U.S. Fifth Fleet Headquarters, in retaliation for recent U.S. strikes on Iranian military infrastructure.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
