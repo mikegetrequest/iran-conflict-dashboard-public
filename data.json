@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-09 10:25",
+  "updated_at_gst": "2026-07-09 14:04",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UK police arrest activists at Israeli-owned drone engine plant",
-        "published": "Thu, 09 Jul 2026 04:34:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/9/double-cross-first-class-why-indias-modi-wins-so-many-foreign-awards?traffic_source=rss"
-      },
-      {
-        "title": "IMF cuts 2026 world growth forecast, citing Iran war fallout",
-        "published": "Thu, 09 Jul 2026 02:58:20 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/aje-onl-nf_would-the-us-protect-nato-allies-080726?traffic_source=rss"
+        "title": "Australia, India strike deal on uranium exports during PM Modi’s visit",
+        "published": "Thu, 09 Jul 2026 09:36:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/9/us-iran-launch-more-attacks-as-mediators-urge-warring-sides-to-uphold-mou?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Fifth Fleet Base in Bahrain With Ballistic Missiles and Drones, Sirens Sound Across Multiple Gulf States",
+        "title": "Iran Strikes US Fifth Fleet Headquarters in Bahrain With Ballistic Missiles and Drones, Sirens Sound Across Gulf States",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 1d ago. A US official tells Axios the current strikes on Iran are four to five times larger in scope and power than strikes 10 days ago.",
+        "title": "— S4 · Conflict · Iran · 2d ago. A US official tells Axios the current strikes on Iran are four to five times larger in scope and power than strikes 10 days ago.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
