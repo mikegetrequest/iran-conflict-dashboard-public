@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-10 23:55",
+  "updated_at_gst": "2026-07-11 00:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russian attacks kill four as Ukraine continues to target oil infrastructure",
-        "published": "Fri, 10 Jul 2026 17:21:35 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/10/hundreds-give-heros-welcome-to-egypt-after-best-world-cup-run?traffic_source=rss"
+        "title": "Lebanon historic sites destroyed by Israeli strikes",
+        "published": "Fri, 10 Jul 2026 20:33:08 +0000",
+        "link": "https://www.aljazeera.com/news/longform/2026/7/10/how-wong-kim-arks-legacy-reignited-the-fight-for-birthright-citizenship?traffic_source=rss"
       },
       {
-        "title": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
-        "published": "Fri, 10 Jul 2026 16:30:19 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/10/who-is-fadel-shaker-lebanese-pop-star-released-on-bail?traffic_source=rss"
+        "title": "Ukrainian attacks cause chaos at fuel stations across Russia",
+        "published": "Fri, 10 Jul 2026 20:23:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss"
+      },
+      {
+        "title": "Russian attacks kill five as Ukraine continues to target oil infrastructure",
+        "published": "Fri, 10 Jul 2026 17:21:35 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/10/hundreds-give-heros-welcome-to-egypt-after-best-world-cup-run?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Air Force Kills Two Hamas Commanders in Gaza Strip",
+        "title": "Israeli Airstrikes Destroy Historic Sites in Southern Lebanon",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 5h ago. IAF conducted two airstrikes in northern Gaza, killing two Hamas commanders in separate strikes.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 7m ago. Israeli airstrikes in southern Lebanon damaged historic landmarks, escalating regional tensions. No casualties reported.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Two Towns in Southern Lebanon",
+        "title": "Israeli Air Force Kills Two Hamas Commanders in Gaza Strip",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nabatieh Governorate, Lebanon · 6h ago. Israeli drone strikes hit Kfar Rumman and Nabatieh al-Fawqa in Nabatieh governorate, southern Lebanon. No immediate casualty reports.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 6h ago. IAF conducted two airstrikes in northern Gaza, killing two Hamas commanders in separate strikes.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Drone Strike Hits Gaza Hospital Courtyard",
+        "title": "Israel Strikes Two Towns in Southern Lebanon",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Beit Lahia, Gaza Strip, Palestine · 6h ago. Israeli drone strike on Kamal Adwan Hospital courtyard in northern Gaza wounds medical staff, per Palestinian Health Ministry.",
+        "title": "— S3 · Conflict · Nabatieh Governorate, Lebanon · 7h ago. Israeli drone strikes hit Kfar Rumman and Nabatieh al-Fawqa in Nabatieh governorate, southern Lebanon. No immediate casualty reports.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
