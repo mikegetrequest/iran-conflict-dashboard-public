@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-10 12:56",
+  "updated_at_gst": "2026-07-10 15:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,23 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Venezuela’s turn to Israel is about survival, not conviction",
-        "published": "Fri, 10 Jul 2026 04:36:35 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/10/norway-change-world-cup-team-hotel-in-miami-days-before-england-showdown?traffic_source=rss"
-      },
-      {
-        "title": "Strait of Hormuz traffic plunges as US, Iran resume fighting",
-        "published": "Fri, 10 Jul 2026 02:55:59 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/10/muchova-beats-gauff-in-tie-break-thriller-to-reach-first-wimbledon-final?traffic_source=rss"
-      },
-      {
-        "title": "Gaza mourns aid worker killed by Israel who helped them see the World Cup",
-        "published": "Fri, 10 Jul 2026 01:42:27 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/can-the-us-supreme-court-stay-independent?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "US Expands Airstrikes Across Southern Iran After Ceasefire Collapses",
@@ -48,17 +32,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 2d ago. The US hit over 170 Iranian military targets across two nights, killing 14 and injuring 78. Trump ended the ceasefire, and CENTCOM targeted air defense, missile sites, and coastal radar.",
+        "title": "— S4 · Conflict · Iran · 3d ago. The US hit over 170 Iranian military targets across two nights, killing 14 and injuring 78. Trump ended the ceasefire, and CENTCOM targeted air defense, missile sites, and coastal radar.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US and Iran Exchange Intensifying Fire Across Middle East, Threatening Ceasefire Deal",
+        "title": "Iran Ramps Up Regional Pressure After Renewed US Strikes",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Buries Khamenei Amid New US Fighting",
+        "title": "— S3 · Conflict · Iran · 17m ago. Iran increases pressure by targeting US allies and threatening American bases after fresh US strikes during Khamenei's funeral, aiming to force Washington back to negotiations.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
