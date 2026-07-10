@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-10 15:43",
+  "updated_at_gst": "2026-07-10 17:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
+        "published": "Fri, 10 Jul 2026 11:51:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "US Expands Airstrikes Across Southern Iran After Ceasefire Collapses",
@@ -22,27 +28,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Bases in Kuwait, Bahrain, Qatar, and Jordan With Missiles and Drones",
+        "title": "US Strikes Over 170 Iranian Targets, Kills 14 in Two-Day Campaign",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Over 170 Iranian Targets, Kills 14 in Two-Day Campaign",
+        "title": "— S4 · Conflict · Iran · 3d ago. The US hit over 170 Iranian military targets across two nights, killing 14 and injuring 78. Trump ended the ceasefire, and CENTCOM targeted air defense, missile sites, and coastal radar.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 3d ago. The US hit over 170 Iranian military targets across two nights, killing 14 and injuring 78. Trump ended the ceasefire, and CENTCOM targeted air defense, missile sites, and coastal radar.",
+        "title": "Israeli Drone Strike Hits Gaza Hospital Courtyard",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Ramps Up Regional Pressure After Renewed US Strikes",
+        "title": "— S3 · Conflict · Beit Lahia, Gaza Strip, Palestine · 16m ago. Israeli drone strikes Kamal Adwan Hospital courtyard in northern Gaza, wounding several Palestinians, according to medical sources.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 17m ago. Iran increases pressure by targeting US allies and threatening American bases after fresh US strikes during Khamenei's funeral, aiming to force Washington back to negotiations.",
+        "title": "Man Sentenced to Death in UAE for Murder of Mother and Two Daughters",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
