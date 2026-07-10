@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-11 00:58",
+  "updated_at_gst": "2026-07-11 01:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,11 +24,6 @@
         "title": "Ukrainian attacks cause chaos at fuel stations across Russia",
         "published": "Fri, 10 Jul 2026 20:23:36 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss"
-      },
-      {
-        "title": "Russian attacks kill five as Ukraine continues to target oil infrastructure",
-        "published": "Fri, 10 Jul 2026 17:21:35 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/10/hundreds-give-heros-welcome-to-egypt-after-best-world-cup-run?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 7m ago. Israeli airstrikes in southern Lebanon damaged historic landmarks, escalating regional tensions. No casualties reported.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 1h ago. Israeli airstrikes in southern Lebanon damaged historic landmarks, escalating regional tensions. No casualties reported.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 6h ago. IAF conducted two airstrikes in northern Gaza, killing two Hamas commanders in separate strikes.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 7h ago. IAF conducted two airstrikes in northern Gaza, killing two Hamas commanders in separate strikes.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nabatieh Governorate, Lebanon · 7h ago. Israeli drone strikes hit Kfar Rumman and Nabatieh al-Fawqa in Nabatieh governorate, southern Lebanon. No immediate casualty reports.",
+        "title": "— S3 · Conflict · Nabatieh Governorate, Lebanon · 8h ago. Israeli drone strikes hit Kfar Rumman and Nabatieh al-Fawqa in Nabatieh governorate, southern Lebanon. No immediate casualty reports.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
