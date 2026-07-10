@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-10 20:11",
+  "updated_at_gst": "2026-07-10 22:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Russian attacks kill four as Ukraine continues to target oil infrastructure",
+        "published": "Fri, 10 Jul 2026 17:21:35 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/10/hundreds-give-heros-welcome-to-egypt-after-best-world-cup-run?traffic_source=rss"
+      },
+      {
+        "title": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
+        "published": "Fri, 10 Jul 2026 16:30:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/10/who-is-fadel-shaker-lebanese-pop-star-released-on-bail?traffic_source=rss"
+      },
+      {
         "title": "Family mourns baby after Israeli forces blocked journey to hospital",
         "published": "Fri, 10 Jul 2026 15:05:07 +0000",
         "link": "https://www.aljazeera.com/features/2026/7/10/the-search-for-gazas-missing-brings-heartbreak-and-closure-for-loved-ones?traffic_source=rss"
-      },
-      {
-        "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
-        "published": "Fri, 10 Jul 2026 11:51:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. IAF conducted two airstrikes in northern Gaza, killing two Hamas commanders in separate strikes.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. IAF conducted two airstrikes in northern Gaza, killing two Hamas commanders in separate strikes.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
