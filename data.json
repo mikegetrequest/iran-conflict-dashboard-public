@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-10 22:05",
+  "updated_at_gst": "2026-07-10 23:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,41 +24,36 @@
         "title": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
         "published": "Fri, 10 Jul 2026 16:30:19 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/10/who-is-fadel-shaker-lebanese-pop-star-released-on-bail?traffic_source=rss"
-      },
-      {
-        "title": "Family mourns baby after Israeli forces blocked journey to hospital",
-        "published": "Fri, 10 Jul 2026 15:05:07 +0000",
-        "link": "https://www.aljazeera.com/features/2026/7/10/the-search-for-gazas-missing-brings-heartbreak-and-closure-for-loved-ones?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Expands Airstrikes Across Southern Iran After Ceasefire Collapses",
+        "title": "Israeli Air Force Kills Two Hamas Commanders in Gaza Strip",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Over 170 Iranian Targets, Kills 14 in Two-Day Campaign",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 5h ago. IAF conducted two airstrikes in northern Gaza, killing two Hamas commanders in separate strikes.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 3d ago. The US hit over 170 Iranian military targets across two nights, killing 14 and injuring 78. Trump ended the ceasefire, and CENTCOM targeted air defense, missile sites, and coastal radar.",
+        "title": "Israel Strikes Two Towns in Southern Lebanon",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Air Force Kills Two Hamas Commanders in Gaza Strip",
+        "title": "— S3 · Conflict · Nabatieh Governorate, Lebanon · 6h ago. Israeli drone strikes hit Kfar Rumman and Nabatieh al-Fawqa in Nabatieh governorate, southern Lebanon. No immediate casualty reports.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. IAF conducted two airstrikes in northern Gaza, killing two Hamas commanders in separate strikes.",
+        "title": "Israeli Drone Strike Hits Gaza Hospital Courtyard",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Two Towns in Southern Lebanon",
+        "title": "— S3 · Conflict · Beit Lahia, Gaza Strip, Palestine · 6h ago. Israeli drone strike on Kamal Adwan Hospital courtyard in northern Gaza wounds medical staff, per Palestinian Health Ministry.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
