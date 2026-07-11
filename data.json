@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-11 05:21",
+  "updated_at_gst": "2026-07-11 08:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,44 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Lebanon historic sites destroyed by Israeli strikes",
-        "published": "Fri, 10 Jul 2026 20:33:08 +0000",
-        "link": "https://www.aljazeera.com/news/longform/2026/7/10/how-wong-kim-arks-legacy-reignited-the-fight-for-birthright-citizenship?traffic_source=rss"
+        "title": "Kane vs Haaland in England vs Norway World Cup quarterfinal of strikers",
+        "published": "Sat, 11 Jul 2026 03:54:17 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/11/yamal-does-not-mind-lack-of-goals-if-spain-win-world-cup-2026?traffic_source=rss"
       },
       {
-        "title": "Ukrainian attacks cause chaos at fuel stations across Russia",
-        "published": "Fri, 10 Jul 2026 20:23:36 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss"
+        "title": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
+        "published": "Sat, 11 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/10/nicaragua-strips-lawyers-of-certification-in-latest-crackdown-on-dissent?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Airstrikes Destroy Historic Sites in Southern Lebanon",
+        "title": "Unidentified Strikes Hit Targets in Iran",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 5h ago. Israeli airstrikes in southern Lebanon damaged historic landmarks, escalating regional tensions. No casualties reported.",
+        "title": "— S3 · Conflict · Iran · 3h ago. Unidentified airstrikes hit unknown targets in Iran, with no immediate claim of responsibility.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Air Force Kills Two Hamas Commanders in Gaza Strip",
+        "title": "Israeli Airstrikes Destroy Historic Sites in Southern Lebanon",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 10h ago. IAF conducted two airstrikes in northern Gaza, killing two Hamas commanders in separate strikes.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 8h ago. Israeli airstrikes in southern Lebanon damaged historic landmarks, escalating regional tensions. No casualties reported.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Two Towns in Southern Lebanon",
+        "title": "Israeli Air Force Kills Two Hamas Commanders in Gaza Strip",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nabatieh Governorate, Lebanon · 11h ago. Israeli drone strikes hit Kfar Rumman and Nabatieh al-Fawqa in Nabatieh governorate, southern Lebanon. No immediate casualty reports.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 14h ago. IAF conducted two airstrikes in northern Gaza, killing two Hamas commanders in separate strikes.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
