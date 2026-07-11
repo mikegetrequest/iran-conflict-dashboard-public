@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-11 14:37",
+  "updated_at_gst": "2026-07-11 15:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,11 +24,6 @@
         "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
         "published": "Sat, 11 Jul 2026 08:04:57 +0000",
         "link": "https://www.aljazeera.com/sports/2026/7/11/wembanyama-signs-contract-with-spurs-for-five-years-252m-report?traffic_source=rss"
-      },
-      {
-        "title": "World Cup: Kane vs Haaland in England-Norway quarterfinal striker battle",
-        "published": "Sat, 11 Jul 2026 03:54:17 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/11/yamal-does-not-mind-lack-of-goals-if-spain-win-world-cup-2026?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 36m ago. Israeli forces blew up homes in southern Lebanon, targeting Hezbollah-linked structures.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 2h ago. Israeli forces blew up homes in southern Lebanon, targeting Hezbollah-linked structures.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Manama, Bahrain · 3h ago. Iran's IRGC launched ballistic missiles at US military facilities in Bahrain and Kuwait, part of an escalating conflict with the United States.",
+        "title": "— S3 · Conflict · Manama, Bahrain · 4h ago. Iran's IRGC launched ballistic missiles at US military facilities in Bahrain and Kuwait, part of an escalating conflict with the United States.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
