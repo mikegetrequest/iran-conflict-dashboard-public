@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-11 16:47",
+  "updated_at_gst": "2026-07-11 18:15",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
+        "published": "Sat, 11 Jul 2026 13:18:29 +0000",
+        "link": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss"
+      },
+      {
         "title": "Russian missile and drone barrage kills two and wounds 19 in Ukraine",
         "published": "Sat, 11 Jul 2026 08:53:23 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/11/indonesias-anti-graft-prosecutor-quits-after-police-seize-gold-and-cash?traffic_source=rss"
@@ -23,32 +28,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "— S3 · Conflict · Tel Aviv, Israel · 1h ago. A hand grenade exploded at a luxury residential complex in north Tel Aviv, causing property damage but no casualties reported.",
+        "title": "Israeli Bombing Cuts Power to Multiple Hospitals in Gaza",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Army Blows Up Homes in Southern Lebanon",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 43m ago. Israeli strikes cut power to hospitals across Gaza, deepening the humanitarian crisis.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 3h ago. Israeli forces blew up homes in southern Lebanon, targeting Hezbollah-linked structures.",
+        "title": "Israeli Airstrike Kills One in Central Gaza",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Ballistic Missiles at US Facilities in Bahrain and Kuwait",
+        "title": "— S3 · Conflict · Deir al-Balah, Gaza Strip · 1h ago. One person killed and several wounded in an Israeli airstrike in central Gaza.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Manama, Bahrain · 5h ago. Iran's IRGC launched ballistic missiles at US military facilities in Bahrain and Kuwait, part of an escalating conflict with the United States.",
+        "title": "— S3 · Conflict · Tel Aviv, Israel · 3h ago. A hand grenade exploded at a luxury residential complex in north Tel Aviv, causing property damage but no casualties reported.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Ballistic Missiles Destroy Newly Built Hangars at US Base in Jordan",
+        "title": "Israeli Army Blows Up Homes in Southern Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
