@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-11 11:03",
+  "updated_at_gst": "2026-07-11 13:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Russian overnight strikes on Kyiv injure ten",
+        "published": "Sat, 11 Jul 2026 08:25:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today?traffic_source=rss"
+      },
+      {
+        "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
+        "published": "Sat, 11 Jul 2026 08:04:57 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/11/wembanyama-signs-contract-with-spurs-for-five-years-252m-report?traffic_source=rss"
+      },
+      {
         "title": "World Cup: Kane vs Haaland in England-Norway quarterfinal striker battle",
         "published": "Sat, 11 Jul 2026 03:54:17 +0000",
         "link": "https://www.aljazeera.com/sports/2026/7/11/yamal-does-not-mind-lack-of-goals-if-spain-win-world-cup-2026?traffic_source=rss"
@@ -28,32 +38,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Says War Damage to Research Infrastructure Reaches $300 Million",
+        "title": "Iran Launches Ballistic Missiles at US Facilities in Bahrain and Kuwait",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Tehran, Iran · 2h ago. Iranian official reports $300 million in damage to research infrastructure amid ongoing US-Iran conflict.",
+        "title": "— S3 · Conflict · Manama, Bahrain · 1h ago. Iran's IRGC launched ballistic missiles at US military facilities in Bahrain and Kuwait, part of an escalating conflict with the United States.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Unidentified Strikes Hit Targets in Iran",
+        "title": "Iran Ballistic Missiles Destroy Newly Built Hangars at US Base in Jordan",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 5h ago. Unidentified airstrikes hit unknown targets in Iran, with no immediate claim of responsibility.",
+        "title": "Iran Says War Damage to Research Infrastructure Reaches $300 Million",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Airstrikes Destroy Historic Sites in Southern Lebanon",
+        "title": "— S3 · Conflict · Tehran, Iran · 4h ago. Iranian official reports $300 million in damage to research infrastructure amid ongoing US-Iran conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 10h ago. Israeli airstrikes in southern Lebanon damaged historic landmarks, escalating regional tensions. No casualties reported.",
+        "title": "Unidentified Strikes Hit Targets in Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
