@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-11 15:41",
+  "updated_at_gst": "2026-07-11 16:47",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russian overnight strikes on Kyiv injure ten",
-        "published": "Sat, 11 Jul 2026 08:25:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today?traffic_source=rss"
-      },
-      {
-        "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
-        "published": "Sat, 11 Jul 2026 08:04:57 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/11/wembanyama-signs-contract-with-spurs-for-five-years-252m-report?traffic_source=rss"
+        "title": "Russian missile and drone barrage kills two and wounds 19 in Ukraine",
+        "published": "Sat, 11 Jul 2026 08:53:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/11/indonesias-anti-graft-prosecutor-quits-after-police-seize-gold-and-cash?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Army Blows Up Homes in Southern Lebanon",
+        "title": "— S3 · Conflict · Tel Aviv, Israel · 1h ago. A hand grenade exploded at a luxury residential complex in north Tel Aviv, causing property damage but no casualties reported.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 2h ago. Israeli forces blew up homes in southern Lebanon, targeting Hezbollah-linked structures.",
+        "title": "Israeli Army Blows Up Homes in Southern Lebanon",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Ballistic Missiles at US Facilities in Bahrain and Kuwait",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 3h ago. Israeli forces blew up homes in southern Lebanon, targeting Hezbollah-linked structures.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Manama, Bahrain · 4h ago. Iran's IRGC launched ballistic missiles at US military facilities in Bahrain and Kuwait, part of an escalating conflict with the United States.",
+        "title": "Iran Launches Ballistic Missiles at US Facilities in Bahrain and Kuwait",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Ballistic Missiles Destroy Newly Built Hangars at US Base in Jordan",
+        "title": "— S3 · Conflict · Manama, Bahrain · 5h ago. Iran's IRGC launched ballistic missiles at US military facilities in Bahrain and Kuwait, part of an escalating conflict with the United States.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Says War Damage to Research Infrastructure Reaches $300 Million",
+        "title": "Iran Ballistic Missiles Destroy Newly Built Hangars at US Base in Jordan",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
