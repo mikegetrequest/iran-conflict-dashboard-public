@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-12 01:36",
+  "updated_at_gst": "2026-07-12 02:34",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -19,41 +19,36 @@
         "title": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
         "published": "Sat, 11 Jul 2026 18:59:01 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss"
-      },
-      {
-        "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
-        "published": "Sat, 11 Jul 2026 13:18:29 +0000",
-        "link": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Forces Demolish Buildings in Khan Younis, Gaza",
+        "title": "Iran Closes Strait of Hormuz Temporarily",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 1h ago. Israeli forces are conducting demolitions in Khan Younis, southern Gaza, destroying buildings amid ongoing operations.",
+        "title": "— S3 · Political · Strait of Hormuz · 2m ago. Iran's IRGC Navy announces temporary closure of the Strait of Hormuz, a critical chokepoint for global oil transit, via state broadcaster.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Palestinian Killed by Israeli Forces in Khan Yunis",
+        "title": "Iran Closes Strait of Hormuz After Striking Cargo Ship With Missile",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khan Yunis, Gaza Strip, Palestine · 4h ago. Israeli forces fatally shot a Palestinian in Khan Yunis, southern Gaza Strip, amid ongoing military operations.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 14m ago. Iranian state media reports the Strait of Hormuz is closed; IRGCN says it struck a vessel violating Iranian instructions, dramatically escalating the crisis.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Air Force Strikes Hezbollah Militants in Southern Lebanon",
+        "title": "Israeli Forces Demolish Buildings in Khan Younis, Gaza",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Enter Eastern Outskirts of Beit Yahoun, Lebanon",
+        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 2h ago. Israeli forces are conducting demolitions in Khan Younis, southern Gaza, destroying buildings amid ongoing operations.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
