@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-11 13:02",
+  "updated_at_gst": "2026-07-11 14:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -29,41 +29,36 @@
         "title": "World Cup: Kane vs Haaland in England-Norway quarterfinal striker battle",
         "published": "Sat, 11 Jul 2026 03:54:17 +0000",
         "link": "https://www.aljazeera.com/sports/2026/7/11/yamal-does-not-mind-lack-of-goals-if-spain-win-world-cup-2026?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
-        "published": "Sat, 11 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/10/nicaragua-strips-lawyers-of-certification-in-latest-crackdown-on-dissent?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Launches Ballistic Missiles at US Facilities in Bahrain and Kuwait",
+        "title": "Israeli Army Blows Up Homes in Southern Lebanon",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Manama, Bahrain · 1h ago. Iran's IRGC launched ballistic missiles at US military facilities in Bahrain and Kuwait, part of an escalating conflict with the United States.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 36m ago. Israeli forces blew up homes in southern Lebanon, targeting Hezbollah-linked structures.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Ballistic Missiles Destroy Newly Built Hangars at US Base in Jordan",
+        "title": "Iran Launches Ballistic Missiles at US Facilities in Bahrain and Kuwait",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Says War Damage to Research Infrastructure Reaches $300 Million",
+        "title": "— S3 · Conflict · Manama, Bahrain · 3h ago. Iran's IRGC launched ballistic missiles at US military facilities in Bahrain and Kuwait, part of an escalating conflict with the United States.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Tehran, Iran · 4h ago. Iranian official reports $300 million in damage to research infrastructure amid ongoing US-Iran conflict.",
+        "title": "Iran Ballistic Missiles Destroy Newly Built Hangars at US Base in Jordan",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Unidentified Strikes Hit Targets in Iran",
+        "title": "Iran Says War Damage to Research Infrastructure Reaches $300 Million",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
