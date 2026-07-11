@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-12 00:35",
+  "updated_at_gst": "2026-07-12 01:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal",
-        "published": "Sat, 11 Jul 2026 18:20:24 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/evacuations-as-landslide-threatens-indian-village-construction-firm-blamed?traffic_source=rss"
+        "title": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
+        "published": "Sat, 11 Jul 2026 18:59:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss"
       },
       {
-        "title": "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
-        "published": "Sat, 11 Jul 2026 17:28:08 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/7/11/fifa-is-not-an-independent-sporting-organisation-it-is-a-political-tool?traffic_source=rss"
-      },
-      {
-        "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
-        "published": "Sat, 11 Jul 2026 16:05:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss"
+        "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
+        "published": "Sat, 11 Jul 2026 13:18:29 +0000",
+        "link": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 5m ago. Israeli forces are conducting demolitions in Khan Younis, southern Gaza, destroying buildings amid ongoing operations.",
+        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 1h ago. Israeli forces are conducting demolitions in Khan Younis, southern Gaza, destroying buildings amid ongoing operations.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khan Yunis, Gaza Strip, Palestine · 3h ago. Israeli forces fatally shot a Palestinian in Khan Yunis, southern Gaza Strip, amid ongoing military operations.",
+        "title": "— S3 · Conflict · Khan Yunis, Gaza Strip, Palestine · 4h ago. Israeli forces fatally shot a Palestinian in Khan Yunis, southern Gaza Strip, amid ongoing military operations.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
