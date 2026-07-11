@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-11 21:26",
+  "updated_at_gst": "2026-07-11 22:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
-        "published": "Sat, 11 Jul 2026 13:18:29 +0000",
-        "link": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss"
-      },
-      {
-        "title": "Russian missile and drone barrage kills six and wounds dozens in Ukraine",
-        "published": "Sat, 11 Jul 2026 08:53:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/11/indonesias-anti-graft-prosecutor-quits-after-police-seize-gold-and-cash?traffic_source=rss"
+        "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
+        "published": "Sat, 11 Jul 2026 16:05:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Air Force Strikes Hezbollah Militants in Southern Lebanon",
+        "title": "Palestinian Killed by Israeli Forces in Khan Yunis",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Enter Eastern Outskirts of Beit Yahoun, Lebanon",
+        "title": "— S3 · Conflict · Khan Yunis, Gaza Strip, Palestine · 42m ago. Israeli forces fatally shot a Palestinian in Khan Yunis, southern Gaza Strip, amid ongoing military operations.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Beit Yahoun, Lebanon · 1h ago. Israeli troops move into the eastern outskirts of Beit Yahoun in southern Lebanon, confirmed by Lebanese state media, marking a ground incursion.",
+        "title": "Israeli Air Force Strikes Hezbollah Militants in Southern Lebanon",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Bombing Cuts Power to Multiple Hospitals in Gaza",
+        "title": "Israeli Forces Enter Eastern Outskirts of Beit Yahoun, Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 4h ago. Israeli strikes cut power to hospitals across Gaza, deepening the humanitarian crisis.",
+        "title": "— S3 · Conflict · Beit Yahoun, Lebanon · 2h ago. Israeli troops move into the eastern outskirts of Beit Yahoun in southern Lebanon, confirmed by Lebanese state media, marking a ground incursion.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Airstrike Kills One in Central Gaza",
+        "title": "Israeli Bombing Cuts Power to Multiple Hospitals in Gaza",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
