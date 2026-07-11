@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-12 02:34",
+  "updated_at_gst": "2026-07-12 03:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,39 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
-        "published": "Sat, 11 Jul 2026 18:59:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss"
+        "title": "US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal",
+        "published": "Sat, 11 Jul 2026 18:20:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/evacuations-as-landslide-threatens-indian-village-construction-firm-blamed?traffic_source=rss"
+      },
+      {
+        "title": "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
+        "published": "Sat, 11 Jul 2026 17:28:08 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/7/11/fifa-is-not-an-independent-sporting-organisation-it-is-a-political-tool?traffic_source=rss"
+      },
+      {
+        "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
+        "published": "Sat, 11 Jul 2026 16:05:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Closes Strait of Hormuz Temporarily",
+        "title": "US Launches Retaliatory Strikes on Bushehr and Kangan, Iran",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Strait of Hormuz · 2m ago. Iran's IRGC Navy announces temporary closure of the Strait of Hormuz, a critical chokepoint for global oil transit, via state broadcaster.",
+        "title": "US Attacks Iran in Strait of Hormuz",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Closes Strait of Hormuz After Striking Cargo Ship With Missile",
+        "title": "— S3 · Conflict · Strait of Hormuz · 10m ago. US military launches strikes against Iranian targets in the Strait of Hormuz in retaliation for Iran's attack on a commercial vessel.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 14m ago. Iranian state media reports the Strait of Hormuz is closed; IRGCN says it struck a vessel violating Iranian instructions, dramatically escalating the crisis.",
+        "title": "Iran Fires Warning Shot, Closes Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Demolish Buildings in Khan Younis, Gaza",
+        "title": "Iran Closes Strait of Hormuz After Striking Cargo Ship With Missile",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 2h ago. Israeli forces are conducting demolitions in Khan Younis, southern Gaza, destroying buildings amid ongoing operations.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 1h ago. Iran's IRGC Navy struck a commercial cargo ship with a missile and closed the Strait of Hormuz, a vital oil chokepoint, dramatically escalating tensions.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
