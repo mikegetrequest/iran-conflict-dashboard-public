@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-12 20:41",
+  "updated_at_gst": "2026-07-12 21:47",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,54 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UK ambassador remembers former emir of Qatar as humble and humorous",
-        "published": "Sun, 12 Jul 2026 16:05:05 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/12/syrian-parliament-convenes-for-first-time-following-al-assads-overthrow?traffic_source=rss"
+        "title": "Funeral prayers held for Qatar’s Father Emir Sheikh Hamad in Doha",
+        "published": "Sun, 12 Jul 2026 16:58:11 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/uk-christians-protest-for-church-of-england-to-recognise-genocide-in-gaza?traffic_source=rss"
       },
       {
-        "title": "The architect of Qatari autonomy",
-        "published": "Sun, 12 Jul 2026 14:42:27 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/12/driven-by-desperation-yemenis-resort-to-dangerous-energy-alternatives?traffic_source=rss"
+        "title": "Funeral prayers held for Qatar’s Father Emir Sheikh Hamad",
+        "published": "Sun, 12 Jul 2026 16:43:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/sheikh-hamad-will-be-fondly-remembered-across-the?traffic_source=rss"
       },
       {
-        "title": "Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani",
-        "published": "Sun, 12 Jul 2026 12:10:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/12/british-police-make-new-arrest-in-ann-widdecombe-murder-investigation?traffic_source=rss"
+        "title": "Iran war: US strategic success or diplomatic failure?",
+        "published": "Sun, 12 Jul 2026 16:34:17 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/fifa-world-cup-2026-day-31?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces kill five Palestinians in latest attacks on Gaza",
+        "published": "Sun, 12 Jul 2026 15:16:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/12/what-made-us-republican-senator-lindsey-graham-a-controversial-figure?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Airstrikes Hit Bushehr Nuclear Power Plant, Iran",
+        "title": "Iran Fires Three Ballistic Missiles at US Base in Kuwait",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Fires Three Ballistic Missiles at US Base in Kuwait",
+        "title": "Iran Launches Ballistic Missiles at US Targets in Middle East",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Ballistic Missiles at US Targets in Middle East",
+        "title": "— S4 · Conflict · Strait of Hormuz · 6h ago. Iran launched various ballistic missiles, including Ghadr, Emad, Kheibar-Shekan, Fateh-110, and Zulfiqar, towards US targets in the Middle East, escalating tensions.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 5h ago. Iran launched various ballistic missiles, including Ghadr, Emad, Kheibar-Shekan, Fateh-110, and Zulfiqar, towards US targets in the Middle East, escalating tensions.",
+        "title": "US Launches Fresh Strikes on Iran; Strait of Hormuz Closed",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches Fresh Strikes on Iran; Strait of Hormuz Closed",
+        "title": "Iran Strikes US Navy Facilities in Oman and Qatar With Ballistic Missiles",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Navy Facilities in Oman and Qatar With Ballistic Missiles",
+        "title": "Iran Strikes Al Udeid Airbase and Strait of Hormuz Ship",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
