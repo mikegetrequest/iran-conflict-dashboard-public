@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-13 02:35",
+  "updated_at_gst": "2026-07-13 03:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
-        "published": "Sun, 12 Jul 2026 21:59:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss"
+        "title": "US launches new wave of strikes against Iran aimed at ‘degrading’ military",
+        "published": "Sun, 12 Jul 2026 23:03:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss"
       },
       {
-        "title": "Deadly Israeli strikes pound Gaza",
-        "published": "Sun, 12 Jul 2026 21:33:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss"
+        "title": "Israel releases video of huge detonations in Lebanon",
+        "published": "Sun, 12 Jul 2026 21:50:28 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss"
       },
       {
-        "title": "How will Qatar’s Father Emir be remembered?",
-        "published": "Sun, 12 Jul 2026 20:14:13 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/12/spain-ex-pm-criticised-for-xenophobic-remark-on-french-world-cup-team?traffic_source=rss"
+        "title": "Israel to hold national elections on October 27, parliament says",
+        "published": "Sun, 12 Jul 2026 21:26:28 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/protest-on-londons-tower-bridge-demands-release-of-dr-hussam-abu-safia?traffic_source=rss"
       },
       {
-        "title": "Iran says almost a dozen ‘enemy projectiles’ targeted Qeshm Island",
-        "published": "Sun, 12 Jul 2026 19:56:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos?traffic_source=rss"
+        "title": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+        "published": "Sun, 12 Jul 2026 21:12:54 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/the-man-who-changed-the-arab-world?traffic_source=rss"
       },
       {
-        "title": "Why the Iran-US ceasefire is falling apart",
-        "published": "Sun, 12 Jul 2026 19:27:34 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/anti-migrant-display-set-alight-in-northern-ireland-bonfire?traffic_source=rss"
+        "title": "Qatar’s former emir remembered as ‘a man of vision and courage’",
+        "published": "Sun, 12 Jul 2026 20:14:43 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/7/12/how-will-qatars-father-emir-be-remembered?traffic_source=rss"
+      },
+      {
+        "title": "Nine dead as Russia and Ukraine trade drone and missile salvos",
+        "published": "Sun, 12 Jul 2026 19:53:03 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/12/iraqi-pm-to-meet-us-president-trump-in-washington-to-deepen-strategic-ties?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— S4 · Conflict · Iran · 1h ago. The United States has initiated a new round of airstrikes against Iran, according to US reports, escalating the ongoing conflict.",
+        "title": "US Launches Second Night of Airstrikes Across Multiple Iranian Cities",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 11h ago. Iran launched various ballistic missiles, including Ghadr, Emad, Kheibar-Shekan, Fateh-110, and Zulfiqar, towards US targets in the Middle East, escalating tensions.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 12h ago. Iran launched various ballistic missiles, including Ghadr, Emad, Kheibar-Shekan, Fateh-110, and Zulfiqar, towards US targets in the Middle East, escalating tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
