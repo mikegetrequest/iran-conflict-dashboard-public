@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-12 14:49",
+  "updated_at_gst": "2026-07-12 15:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "IRGC releases video of retaliatory missile strikes",
+        "published": "Sun, 12 Jul 2026 11:07:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/12/key-moments-from-former-qatar-emir-sheikh-hamad-bin-khalifa-al-thanis-life?traffic_source=rss"
+      },
       {
         "title": "Photos: Qatari Father Emir Sheikh Hamad bin Khalifa Al Thani",
         "published": "Sun, 12 Jul 2026 10:17:04 +0000",
@@ -43,32 +48,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "US Launches Fresh Strikes on Iran; Strait of Hormuz Closed",
+        "title": "Iran Launches Ballistic Missiles at US Targets in Middle East",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Navy Facilities in Oman and Qatar With Ballistic Missiles",
+        "title": "— S4 · Conflict · Strait of Hormuz · 24m ago. Iran launched various ballistic missiles, including Ghadr, Emad, Kheibar-Shekan, Fateh-110, and Zulfiqar, towards US targets in the Middle East, escalating tensions.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Al Udeid Airbase and Strait of Hormuz Ship",
+        "title": "US Launches Fresh Strikes on Iran; Strait of Hormuz Closed",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches Third Round of Strikes on Iran After Tanker Attack",
+        "title": "Iran Strikes US Navy Facilities in Oman and Qatar With Ballistic Missiles",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches Third Round of Strikes on Iranian Targets in Strait of Hormuz",
+        "title": "Iran Strikes Al Udeid Airbase and Strait of Hormuz Ship",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches Retaliatory Strikes on Bushehr Province, Iran",
+        "title": "US Launches Third Round of Strikes on Iran After Tanker Attack",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
