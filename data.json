@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-12 08:45",
+  "updated_at_gst": "2026-07-12 11:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
-        "published": "Sun, 12 Jul 2026 00:22:21 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/12/bellingham-scores-twice-as-england-beat-norway-2-1-to-reach-world-cup-semis?traffic_source=rss"
+        "title": "Sheikh Hamad bin Khalifa Al Thani, architect of modern Qatar",
+        "published": "Sun, 12 Jul 2026 06:01:07 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Tehran attacks Jordan, Gulf states after US bombardment",
-        "published": "Sun, 12 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam?traffic_source=rss"
+        "title": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz",
+        "published": "Sun, 12 Jul 2026 05:07:10 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/why-doesnt-indian-pm-modi-hold-unscripted-press-conferences?traffic_source=rss"
       },
       {
-        "title": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
-        "published": "Sat, 11 Jul 2026 18:59:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss"
+        "title": "Iran launches attacks across the Gulf after more US strikes",
+        "published": "Sun, 12 Jul 2026 04:59:27 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/12/what-was-the-mistaken-identity-red-card-shown-in-argentina-vs-switzerland?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Strikes US Navy Facilities in Oman and Qatar With Ballistic Missiles",
+        "title": "US Launches Fresh Strikes on Iran; Strait of Hormuz Closed",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Claims Strikes on Al-Udeid Airbase and Strait of Hormuz Vessel",
+        "title": "Iran Strikes US Navy Facilities in Oman and Qatar With Ballistic Missiles",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Al-Udeid Airbase, Qatar · 1h ago. IRGC claims to have struck a fighter jet maintenance hub at Al-Udeid Airbase in Qatar with ballistic missiles, and also struck another vessel in the Strait of Hormuz.",
+        "title": "Iran Strikes Al Udeid Airbase and Strait of Hormuz Ship",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
