@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-13 23:54",
+  "updated_at_gst": "2026-07-14 00:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UK to list Iran’s IRGC as ‘terror’ threat",
-        "published": "Mon, 13 Jul 2026 18:08:26 +0000",
-        "link": "https://www.aljazeera.com/features/2026/7/13/how-lyhannas-murder-case-is-shedding-light-on-child-abuse-in-france?traffic_source=rss"
-      },
-      {
-        "title": "Staff at DR Congo Ebola centre strike as virus continues spreading",
-        "published": "Mon, 13 Jul 2026 17:33:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/13/bangkok-pub-fire-kills-27-wounds-dozens-what-we-know?traffic_source=rss"
+        "title": "World pays tribute to Qatar’s Father Emir",
+        "published": "Mon, 13 Jul 2026 20:17:21 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/7/13/twelve-us-states-sue-paramount-to-block-warner-bros-merger?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Strikes US-Controlled Vessels in Strait of Hormuz",
+        "title": "Trump Announces US Naval Blockade of All Iranian Ports and Oil Terminals, Starting Tuesday, Warns Neutral Ships to Leave or Face Fire, Imposes 20% Toll on Strait of Hormuz Transit, Escalating Tensions",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 33m ago. Iranian forces targeted multiple vessels sailing in the US-controlled Omani corridor of the Strait of Hormuz, according to Tasnim.",
+        "title": "— S4 · Political · Strait of Hormuz · 3h ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Trump Announces US Naval Blockade of All Iranian Ports and Oil Terminals, Starting Tuesday, Warns Neutral Ships to Leave or Face Fire, Imposes 20% Toll on Strait of Hormuz Transit, Escalating Tensions",
+        "title": "US Strikes Oil Infrastructure at Iran's Kharg Island Terminal",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Strait of Hormuz · 2h ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
+        "title": "Iran Launches Continued Drone Attacks on US Bases in Iraq",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Oil Infrastructure at Iran's Kharg Island Terminal",
+        "title": "— S4 · Conflict · Baghdad, Iraq · 17h ago. Iran's army continues drone attacks targeting US military bases in Iraq amid the ongoing US-Iran conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Continued Drone Attacks on US Bases in Iraq",
+        "title": "US Strikes Over 100 Iranian Military Targets in Second Night of Airstrikes",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
