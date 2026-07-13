@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-14 02:41",
+  "updated_at_gst": "2026-07-14 03:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,54 +16,54 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US, Iran exchange attacks around Strait of Hormuz",
-        "published": "Mon, 13 Jul 2026 21:19:28 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss"
+        "title": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
+        "published": "Mon, 13 Jul 2026 21:04:56 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/7/13/how-is-the-us-tech-industry-regulated?traffic_source=rss"
       },
       {
-        "title": "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles",
-        "published": "Mon, 13 Jul 2026 20:41:27 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-military-warns-us-against-strait-of-hormuz?traffic_source=rss"
+        "title": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
+        "published": "Mon, 13 Jul 2026 20:48:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/13/ukraine-and-allies-launch-coalition-to-tackle-russias-ballistic-missiles?traffic_source=rss"
       },
       {
-        "title": "Artist sews names of Gaza children killed by Israel into gown",
-        "published": "Mon, 13 Jul 2026 20:35:50 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/what-do-israeli-settler-attacks-on-americans-reveal?traffic_source=rss"
+        "title": "Iran military warns US against Strait of Hormuz ‘interference’",
+        "published": "Mon, 13 Jul 2026 20:40:07 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/artist-sews-names-of-gaza-children-killed-by-israel-into-gown?traffic_source=rss"
       },
       {
-        "title": "World pays tribute to Qatar’s Father Emir",
-        "published": "Mon, 13 Jul 2026 20:17:21 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/7/13/twelve-us-states-sue-paramount-to-block-warner-bros-merger?traffic_source=rss"
+        "title": "What do Israeli settler attacks on Americans reveal?",
+        "published": "Mon, 13 Jul 2026 20:35:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/gaza-man-builds-roadside-library-from-books-buried-in-rubble?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Trump Announces US Naval Blockade of All Iranian Ports and Oil Terminals, Starting Tuesday, Warns Neutral Ships to Leave or Face Fire, Imposes 20% Toll on Strait of Hormuz Transit, Escalating Tensions",
+        "title": "Iran Strikes Oil Tankers Under US Escort in Strait of Hormuz, UAE Confirms Damage to Two Vessels",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Strait of Hormuz · 5h ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 4h ago. Iranian forces attacked vessels in the Strait of Hormuz after warning against a US naval blockade announced by President Trump, escalating tensions at the key chokepoint.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Oil Infrastructure at Iran's Kharg Island Terminal",
+        "title": "Trump Announces US Naval Blockade of All Iranian Ports and Oil Terminals, Starting Tuesday, Warns Neutral Ships to Leave or Face Fire, Imposes 20% Toll on Strait of Hormuz Transit, Escalating Tensions",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Continued Drone Attacks on US Bases in Iraq",
+        "title": "— S4 · Political · Strait of Hormuz · 6h ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Baghdad, Iraq · 19h ago. Iran's army continues drone attacks targeting US military bases in Iraq amid the ongoing US-Iran conflict.",
+        "title": "US Strikes Oil Infrastructure at Iran's Kharg Island Terminal",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US and Iran Trade Heavy Missile and Drone Attacks in Persian Gulf",
+        "title": "Iran Launches Continued Drone Attacks on US Bases in Iraq",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
