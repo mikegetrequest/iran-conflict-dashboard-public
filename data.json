@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-14 00:46",
+  "updated_at_gst": "2026-07-14 01:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US, Iran exchange attacks around Strait of Hormuz",
+        "published": "Mon, 13 Jul 2026 21:19:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine and allies launch coalition to tackle Russia’s ballistic missiles",
+        "published": "Mon, 13 Jul 2026 20:41:27 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-military-warns-us-against-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Artist sews names of Gaza children killed by Israel into gown",
+        "published": "Mon, 13 Jul 2026 20:35:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/what-do-israeli-settler-attacks-on-americans-reveal?traffic_source=rss"
+      },
+      {
         "title": "World pays tribute to Qatar’s Father Emir",
         "published": "Mon, 13 Jul 2026 20:17:21 +0000",
         "link": "https://www.aljazeera.com/economy/2026/7/13/twelve-us-states-sue-paramount-to-block-warner-bros-merger?traffic_source=rss"
@@ -28,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Strait of Hormuz · 3h ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
+        "title": "— S4 · Political · Strait of Hormuz · 4h ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -43,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Baghdad, Iraq · 17h ago. Iran's army continues drone attacks targeting US military bases in Iraq amid the ongoing US-Iran conflict.",
+        "title": "— S4 · Conflict · Baghdad, Iraq · 18h ago. Iran's army continues drone attacks targeting US military bases in Iraq amid the ongoing US-Iran conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Over 100 Iranian Military Targets in Second Night of Airstrikes",
+        "title": "US and Iran Trade Heavy Missile and Drone Attacks in Persian Gulf",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
