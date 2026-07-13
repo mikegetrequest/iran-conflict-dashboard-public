@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-13 11:59",
+  "updated_at_gst": "2026-07-13 15:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "EU countries consider sanctions on trade from illegal Israeli settlements",
+        "published": "Mon, 13 Jul 2026 10:32:25 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/13/france-spain-world-cup-semifinal-mbappe-yamal-predictions-kickoff?traffic_source=rss"
+      },
+      {
+        "title": "Explosions and large fires following Ukrainian attacks on Russia",
+        "published": "Mon, 13 Jul 2026 09:32:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know?traffic_source=rss"
+      },
+      {
         "title": "In Iran, Pezeshkian will be the scapegoat for the failed MoU",
         "published": "Mon, 13 Jul 2026 07:24:57 +0000",
         "link": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-which-semifinal-team-has-best-chance-to-win-the-trophy?traffic_source=rss"
@@ -29,21 +39,6 @@
         "title": "Elderly Palestinian describes being beaten up by Israeli settlers",
         "published": "Mon, 13 Jul 2026 05:06:03 +0000",
         "link": "https://www.aljazeera.com/sports/2026/7/13/are-messi-mbappe-yamal-and-kane-part-of-the-best-world-cup-semifinal-yet?traffic_source=rss"
-      },
-      {
-        "title": "Israel releases video of hidden tunnels below Lebanon’s Beaufort Castle",
-        "published": "Mon, 13 Jul 2026 02:10:10 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss"
-      },
-      {
-        "title": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
-        "published": "Mon, 13 Jul 2026 00:22:10 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss"
-      },
-      {
-        "title": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
-        "published": "Sun, 12 Jul 2026 21:59:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Baghdad, Iraq · 4h ago. Iran's army continues drone attacks targeting US military bases in Iraq amid the ongoing US-Iran conflict.",
+        "title": "— S4 · Conflict · Baghdad, Iraq · 8h ago. Iran's army continues drone attacks targeting US military bases in Iraq amid the ongoing US-Iran conflict.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -68,12 +63,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Navy Facilities in Oman and Qatar With Ballistic Missiles",
+        "title": "Iran Fires Ballistic Missiles at US Targets in Middle East",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Al Udeid Airbase and Strait of Hormuz Ship",
+        "title": "Iran Strikes US Navy Facilities in Oman and Qatar With Ballistic Missiles",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
