@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-13 05:24",
+  "updated_at_gst": "2026-07-13 08:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,64 +16,54 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: US bombs Iranian cities again as Hormuz standoff intensifies",
-        "published": "Mon, 13 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/12/mitch-mcconnell-releases-health-update-says-he-is-regaining-strength?traffic_source=rss"
+        "title": "Israel releases video of hidden tunnels below Lebanon’s Beaufort Castle",
+        "published": "Mon, 13 Jul 2026 02:10:10 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss"
       },
       {
-        "title": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
-        "published": "Sun, 12 Jul 2026 23:03:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss"
+        "title": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
+        "published": "Mon, 13 Jul 2026 00:22:10 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss"
       },
       {
-        "title": "Israel releases video of huge detonations in Lebanon",
-        "published": "Sun, 12 Jul 2026 21:50:28 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss"
+        "title": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
+        "published": "Sun, 12 Jul 2026 21:59:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss"
       },
       {
-        "title": "Israel to hold national elections on October 27, parliament says",
-        "published": "Sun, 12 Jul 2026 21:26:28 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/protest-on-londons-tower-bridge-demands-release-of-dr-hussam-abu-safia?traffic_source=rss"
-      },
-      {
-        "title": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
-        "published": "Sun, 12 Jul 2026 21:12:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/the-man-who-changed-the-arab-world?traffic_source=rss"
-      },
-      {
-        "title": "Qatar’s former emir remembered as ‘a man of vision and courage’",
-        "published": "Sun, 12 Jul 2026 20:14:43 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/7/12/how-will-qatars-father-emir-be-remembered?traffic_source=rss"
+        "title": "Deadly Israeli strikes pound Gaza",
+        "published": "Sun, 12 Jul 2026 21:33:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Launches Second Night of Airstrikes Across Multiple Iranian Cities",
+        "title": "Iran Launches Continued Drone Attacks on US Bases in Iraq",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Fires Three Ballistic Missiles at US Base in Kuwait",
+        "title": "— S4 · Conflict · Baghdad, Iraq · 1h ago. Iran's army continues drone attacks targeting US military bases in Iraq amid the ongoing US-Iran conflict.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Ballistic Missiles at US Targets in Middle East",
+        "title": "US and Iran Trade Heavy Missile and Drone Attacks in Persian Gulf",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 14h ago. Iran launched various ballistic missiles, including Ghadr, Emad, Kheibar-Shekan, Fateh-110, and Zulfiqar, towards US targets in the Middle East, escalating tensions.",
+        "title": "US Strikes Over 100 Iranian Military Targets in Second Night of Airstrikes",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches Fresh Strikes on Iran; Strait of Hormuz Closed",
+        "title": "Iran Fires Three Ballistic Missiles at US Base in Kuwait",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Navy Facilities in Oman and Qatar With Ballistic Missiles",
+        "title": "US Launches Fresh Strikes on Iran; Strait of Hormuz Closed",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
