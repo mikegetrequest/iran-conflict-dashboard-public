@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-13 17:32",
+  "updated_at_gst": "2026-07-13 20:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,23 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "March to July: What’s different as US-Iran fighting escalates again?",
-        "published": "Mon, 13 Jul 2026 12:12:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/south-korea-rolls-out-plan-to-tackle-youth-suicide-crisis?traffic_source=rss"
-      },
-      {
-        "title": "New Iran strikes on Gulf as US attacks escalate: What we know",
-        "published": "Mon, 13 Jul 2026 09:16:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/13/i-have-to-do-something-a-welsh-artist-honours-gazas-child-victims?traffic_source=rss"
-      },
-      {
-        "title": "US and Iran trade strikes as ceasefire comes under growing strain",
-        "published": "Mon, 13 Jul 2026 09:01:48 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/typhoon-bavi-pummels-chinas-eastern-coast?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "US Strikes Oil Infrastructure at Iran's Kharg Island Terminal",
@@ -43,7 +27,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Baghdad, Iraq · 10h ago. Iran's army continues drone attacks targeting US military bases in Iraq amid the ongoing US-Iran conflict.",
+        "title": "— S4 · Conflict · Baghdad, Iraq · 13h ago. Iran's army continues drone attacks targeting US military bases in Iraq amid the ongoing US-Iran conflict.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
