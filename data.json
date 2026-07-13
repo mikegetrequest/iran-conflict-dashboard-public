@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-13 15:11",
+  "updated_at_gst": "2026-07-13 17:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,59 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "EU countries consider sanctions on trade from illegal Israeli settlements",
-        "published": "Mon, 13 Jul 2026 10:32:25 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/13/france-spain-world-cup-semifinal-mbappe-yamal-predictions-kickoff?traffic_source=rss"
+        "title": "March to July: What’s different as US-Iran fighting escalates again?",
+        "published": "Mon, 13 Jul 2026 12:12:46 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/south-korea-rolls-out-plan-to-tackle-youth-suicide-crisis?traffic_source=rss"
       },
       {
-        "title": "Explosions and large fires following Ukrainian attacks on Russia",
-        "published": "Mon, 13 Jul 2026 09:32:05 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know?traffic_source=rss"
+        "title": "New Iran strikes on Gulf as US attacks escalate: What we know",
+        "published": "Mon, 13 Jul 2026 09:16:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/13/i-have-to-do-something-a-welsh-artist-honours-gazas-child-victims?traffic_source=rss"
       },
       {
-        "title": "In Iran, Pezeshkian will be the scapegoat for the failed MoU",
-        "published": "Mon, 13 Jul 2026 07:24:57 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-which-semifinal-team-has-best-chance-to-win-the-trophy?traffic_source=rss"
-      },
-      {
-        "title": "How former Emir Sheikh Hamad bin Khalifa Al Thani built Qatar’s economy",
-        "published": "Mon, 13 Jul 2026 05:18:17 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan?traffic_source=rss"
-      },
-      {
-        "title": "Elderly Palestinian describes being beaten up by Israeli settlers",
-        "published": "Mon, 13 Jul 2026 05:06:03 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/13/are-messi-mbappe-yamal-and-kane-part-of-the-best-world-cup-semifinal-yet?traffic_source=rss"
+        "title": "US and Iran trade strikes as ceasefire comes under growing strain",
+        "published": "Mon, 13 Jul 2026 09:01:48 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/typhoon-bavi-pummels-chinas-eastern-coast?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Launches Continued Drone Attacks on US Bases in Iraq",
+        "title": "US Strikes Oil Infrastructure at Iran's Kharg Island Terminal",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Baghdad, Iraq · 8h ago. Iran's army continues drone attacks targeting US military bases in Iraq amid the ongoing US-Iran conflict.",
+        "title": "Iran Launches Continued Drone Attacks on US Bases in Iraq",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Over 100 Iranian Military Targets in Second Night of Airstrikes",
+        "title": "— S4 · Conflict · Baghdad, Iraq · 10h ago. Iran's army continues drone attacks targeting US military bases in Iraq amid the ongoing US-Iran conflict.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Fires Three Ballistic Missiles at US Base in Kuwait",
+        "title": "US Strikes Over 100 Iranian Military Targets in Second Night of Airstrikes",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Fires Ballistic Missiles at US Targets in Middle East",
+        "title": "Iran Fires Three Ballistic Missiles at US Base in Kuwait",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Navy Facilities in Oman and Qatar With Ballistic Missiles",
+        "title": "Iran Fires Ballistic Missiles at US Targets in Middle East",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
