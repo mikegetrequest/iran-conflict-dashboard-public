@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-13 03:40",
+  "updated_at_gst": "2026-07-13 05:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,12 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US launches new wave of strikes against Iran aimed at ‘degrading’ military",
+        "title": "Iran war live: US bombs Iranian cities again as Hormuz standoff intensifies",
+        "published": "Mon, 13 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/12/mitch-mcconnell-releases-health-update-says-he-is-regaining-strength?traffic_source=rss"
+      },
+      {
+        "title": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
         "published": "Sun, 12 Jul 2026 23:03:32 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss"
       },
@@ -39,11 +44,6 @@
         "title": "Qatar’s former emir remembered as ‘a man of vision and courage’",
         "published": "Sun, 12 Jul 2026 20:14:43 +0000",
         "link": "https://www.aljazeera.com/video/inside-story/2026/7/12/how-will-qatars-father-emir-be-remembered?traffic_source=rss"
-      },
-      {
-        "title": "Nine dead as Russia and Ukraine trade drone and missile salvos",
-        "published": "Sun, 12 Jul 2026 19:53:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/12/iraqi-pm-to-meet-us-president-trump-in-washington-to-deepen-strategic-ties?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 12h ago. Iran launched various ballistic missiles, including Ghadr, Emad, Kheibar-Shekan, Fateh-110, and Zulfiqar, towards US targets in the Middle East, escalating tensions.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 14h ago. Iran launched various ballistic missiles, including Ghadr, Emad, Kheibar-Shekan, Fateh-110, and Zulfiqar, towards US targets in the Middle East, escalating tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
