@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-14 22:01",
+  "updated_at_gst": "2026-07-14 23:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Murder of UK politician Ann Widdecombe was ‘targeted attack’, police say",
-        "published": "Tue, 14 Jul 2026 16:45:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/world-leaders-travel-to-qatar-to-honour-father-emir?traffic_source=rss"
+        "title": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
+        "published": "Tue, 14 Jul 2026 18:26:10 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-drops-20-strait-of-hormuz-fee-plan?traffic_source=rss"
       },
       {
-        "title": "Israeli attack on north Gaza police station kills eight",
-        "published": "Tue, 14 Jul 2026 16:02:54 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/14/france-vs-spain-live-fifa-world-cup-2026-semifinal?traffic_source=rss"
+        "title": "World leaders travel to Qatar to honour Father Emir",
+        "published": "Tue, 14 Jul 2026 16:36:26 +0000",
+        "link": "https://www.aljazeera.com/video/witness/2026/7/14/mexico-football-without-fear?traffic_source=rss"
       },
       {
-        "title": "How the late Father Emir transformed Qatar’s economy",
-        "published": "Tue, 14 Jul 2026 15:04:34 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/7/14/even-if-the-iran-war-ends-the-next-fossil-fuel-shock-is-already-on-its-way?traffic_source=rss"
+        "title": "Leading Houthi threatens ‘siege’ on Saudi Arabia after Yemen airport attack",
+        "published": "Tue, 14 Jul 2026 15:20:28 +0000",
+        "link": "https://www.aljazeera.com/video/money-works/2026/7/14/how-the-late-father-emir-transformed-qatars-economy?traffic_source=rss"
       },
       {
-        "title": "Russia-Ukraine war: What is Europe’s new ballistic missile shield plan?",
-        "published": "Tue, 14 Jul 2026 14:03:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/14/indian-activist-wangchuk-urged-to-end-hunger-strike-over-exam-paper-leaks?traffic_source=rss"
+        "title": "Even if the Iran war ends, the next fossil fuel shock is already on its way",
+        "published": "Tue, 14 Jul 2026 14:56:21 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-meet-ismail-elfath-referee-for-england-argentina-semifinal?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 23h ago. Iranian forces attacked vessels in the Strait of Hormuz after warning against a US naval blockade announced by President Trump, escalating tensions at the key chokepoint.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 1d ago. Iranian forces attacked vessels in the Strait of Hormuz after warning against a US naval blockade announced by President Trump, escalating tensions at the key chokepoint.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -63,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Bases in Bahrain and Jordan, Hits Oil Tankers",
+        "title": "Iran Strikes US Bases in Bahrain, Jordan, and Kuwait With Missiles and Drones",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
