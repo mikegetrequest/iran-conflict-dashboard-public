@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-15 00:47",
+  "updated_at_gst": "2026-07-15 01:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,12 +16,17 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
+        "published": "Tue, 14 Jul 2026 21:05:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-russian-crew-launches-on-mission-to-space-station?traffic_source=rss"
+      },
+      {
         "title": "What is Iran’s Pickaxe Mountain?",
         "published": "Tue, 14 Jul 2026 20:27:40 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss"
       },
       {
-        "title": "US strikes new targets in Iran as Tehran hits Gulf states, Hormuz shipping",
+        "title": "US reimposes blockade on Iranian ports, launches more strikes",
         "published": "Tue, 14 Jul 2026 19:47:33 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-meets-with-fan-of-america-iraqi-pm-ali-al-zaidi?traffic_source=rss"
       },
@@ -29,41 +34,36 @@
         "title": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
         "published": "Tue, 14 Jul 2026 18:26:10 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-drops-20-strait-of-hormuz-fee-plan?traffic_source=rss"
-      },
-      {
-        "title": "World leaders travel to Qatar to honour Father Emir",
-        "published": "Tue, 14 Jul 2026 16:36:26 +0000",
-        "link": "https://www.aljazeera.com/video/witness/2026/7/14/mexico-football-without-fear?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Strikes US Bases as Trump Vows to Reinstate Sea Blockade",
+        "title": "Iran Strikes Oil Tankers Under US Escort in Strait of Hormuz, One Killed\n\n**Summary:**\nIran launched missiles at oil tankers under US escort in the Strait of Hormuz, killing one sailor and damaging tw",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Oil Tankers Under US Escort in Strait of Hormuz, One Killed\n\n**Summary:**\nIran launched missiles at oil tankers under US escort in the Strait of Hormuz, killing one sailor and damaging tw",
+        "title": "— S4 · Conflict · Strait of Hormuz · 1d ago. Iranian forces attacked vessels in the Strait of Hormuz after warning against a US naval blockade announced by President Trump, escalating tensions at the key chokepoint.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 1d ago. Iranian forces attacked vessels in the Strait of Hormuz after warning against a US naval blockade announced by President Trump, escalating tensions at the key chokepoint.",
+        "title": "Trump Announces US Naval Blockade of All Iranian Ports and Oil Terminals, Starting Tuesday, Warns Neutral Ships to Leave or Face Fire, Imposes 20% Toll on Strait of Hormuz Transit, Escalating Tensions",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Trump Announces US Naval Blockade of All Iranian Ports and Oil Terminals, Starting Tuesday, Warns Neutral Ships to Leave or Face Fire, Imposes 20% Toll on Strait of Hormuz Transit, Escalating Tensions",
+        "title": "— S4 · Political · Strait of Hormuz · 1d ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Strait of Hormuz · 1d ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
+        "title": "Iran Strikes Former UN Base in Kuwait, Claims US HIMARS Deployed There",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Former UN Base in Kuwait, Claims US HIMARS Deployed There",
+        "title": "US and Iran Exchange Heavy Fire Near Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
