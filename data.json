@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-14 14:38",
+  "updated_at_gst": "2026-07-14 16:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Can Gulf countries defend themselves against renewed Iranian attacks?",
+        "published": "Tue, 14 Jul 2026 10:59:02 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/dozens-of-healthcare-workers-in-drc-strike-amid-ebola-outbreak?traffic_source=rss"
+      },
+      {
         "title": "Schumer slams Trump over Iran war",
         "published": "Tue, 14 Jul 2026 10:34:14 +0000",
         "link": "https://www.aljazeera.com/sports/2026/7/14/utah-jazz-guard-trey-alexander-stretchered-off-court-in-nba-summer-league?traffic_source=rss"
@@ -29,27 +34,37 @@
         "title": "US military releases video of its latest strikes on Iran",
         "published": "Tue, 14 Jul 2026 08:23:29 +0000",
         "link": "https://www.aljazeera.com/video/2026/7/14/video-world-cup-2026-highlights?traffic_source=rss"
-      },
-      {
-        "title": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
-        "published": "Tue, 14 Jul 2026 06:41:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/14/why-is-india-blocking-film-on-a-man-who-counted-punjab-insurgency-killings?traffic_source=rss"
-      },
-      {
-        "title": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Iran",
-        "published": "Tue, 14 Jul 2026 05:15:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/beijing-is-laughing-at-us-mexico-canada-stalled-trade-talks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "Iran Strikes Oil Tankers Under US Escort in Strait of Hormuz, One Killed\n\n**Summary:**\nIran launched missiles at oil tankers under US escort in the Strait of Hormuz, killing one sailor and damaging tw",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "— S4 · Conflict · Strait of Hormuz · 17h ago. Iranian forces attacked vessels in the Strait of Hormuz after warning against a US naval blockade announced by President Trump, escalating tensions at the key chokepoint.",
         "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Trump Announces US Naval Blockade of All Iranian Ports and Oil Terminals, Starting Tuesday, Warns Neutral Ships to Leave or Face Fire, Imposes 20% Toll on Strait of Hormuz Transit, Escalating Tensions",
+        "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S4 · Political · Strait of Hormuz · 18h ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "US Strikes Oil Infrastructure at Iran's Kharg Island Terminal",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Iran Strikes Former UN Base in Kuwait, Claims US HIMARS Deployed There",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
