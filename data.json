@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-14 08:20",
+  "updated_at_gst": "2026-07-14 10:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Oil hits 1-month high as US-Iran fighting clouds Strait of Hormuz outlook",
+        "title": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook",
         "published": "Tue, 14 Jul 2026 03:38:22 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/ice-officer-kills-motorist-in-maine-the-second-fatality-in-a-week-2?traffic_source=rss"
-      },
-      {
-        "title": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
-        "published": "Mon, 13 Jul 2026 21:04:56 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/7/13/how-is-the-us-tech-industry-regulated?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,7 +28,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 9h ago. Iranian forces attacked vessels in the Strait of Hormuz after warning against a US naval blockade announced by President Trump, escalating tensions at the key chokepoint.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 11h ago. Iranian forces attacked vessels in the Strait of Hormuz after warning against a US naval blockade announced by President Trump, escalating tensions at the key chokepoint.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -43,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Strait of Hormuz · 10h ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
+        "title": "— S4 · Political · Strait of Hormuz · 13h ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US and Iran Trade Heavy Missile and Drone Attacks in Persian Gulf",
+        "title": "Iran Strikes US Bases in Bahrain and Jordan, Targets Oil Tankers",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
