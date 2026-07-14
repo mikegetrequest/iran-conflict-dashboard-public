@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-14 05:14",
+  "updated_at_gst": "2026-07-14 08:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Oil hits 1-month high as US-Iran fighting clouds Strait of Hormuz outlook",
+        "published": "Tue, 14 Jul 2026 03:38:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/ice-officer-kills-motorist-in-maine-the-second-fatality-in-a-week-2?traffic_source=rss"
+      },
+      {
         "title": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
         "published": "Mon, 13 Jul 2026 21:04:56 +0000",
         "link": "https://www.aljazeera.com/video/inside-story/2026/7/13/how-is-the-us-tech-industry-regulated?traffic_source=rss"
-      },
-      {
-        "title": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
-        "published": "Mon, 13 Jul 2026 20:48:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/13/ukraine-and-allies-launch-coalition-to-tackle-russias-ballistic-missiles?traffic_source=rss"
-      },
-      {
-        "title": "Iran military warns US against Strait of Hormuz ‘interference’",
-        "published": "Mon, 13 Jul 2026 20:40:07 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/artist-sews-names-of-gaza-children-killed-by-israel-into-gown?traffic_source=rss"
-      },
-      {
-        "title": "What do Israeli settler attacks on Americans reveal?",
-        "published": "Mon, 13 Jul 2026 20:35:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/gaza-man-builds-roadside-library-from-books-buried-in-rubble?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 6h ago. Iranian forces attacked vessels in the Strait of Hormuz after warning against a US naval blockade announced by President Trump, escalating tensions at the key chokepoint.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 9h ago. Iranian forces attacked vessels in the Strait of Hormuz after warning against a US naval blockade announced by President Trump, escalating tensions at the key chokepoint.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Strait of Hormuz · 7h ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
+        "title": "— S4 · Political · Strait of Hormuz · 10h ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -63,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Continued Drone Attacks on US Bases in Iraq",
+        "title": "US and Iran Trade Heavy Missile and Drone Attacks in Persian Gulf",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
