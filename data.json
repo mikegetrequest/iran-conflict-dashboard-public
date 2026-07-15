@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-15 20:11",
+  "updated_at_gst": "2026-07-15 21:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -19,31 +19,11 @@
         "title": "How US-Iran escalation will test Iraq’s balancing act",
         "published": "Wed, 15 Jul 2026 15:03:29 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/15/my-twitter-not-x?traffic_source=rss"
-      },
-      {
-        "title": "Far-right Israeli lawmaker raids Palestinian school and threatens shutdown",
-        "published": "Wed, 15 Jul 2026 13:34:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/15/protest-in-pakistans-kashmir-stalls-after-nine-killed-in-clashes?traffic_source=rss"
-      },
-      {
-        "title": "As the US restarts war on Iran, is its weapons stockpile running low?",
-        "published": "Wed, 15 Jul 2026 12:55:33 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/15/utah-man-arrested-after-allegedly-targeting-muslim-kiosk-worker-in-stabbing?traffic_source=rss"
-      },
-      {
-        "title": "Will Lindsey Graham’s death affect Israel’s standing in Washington?",
-        "published": "Wed, 15 Jul 2026 12:38:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/15/israeli-air-attack-on-gaza-apartment-kills-family-of-3?traffic_source=rss"
-      },
-      {
-        "title": "DRC Ebola cases surpass 2,000 as more health workers begin strike",
-        "published": "Wed, 15 Jul 2026 12:07:43 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/15/india-uk-trade-deal-comes-into-effect-whats-cheaper-in-each-country-now?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— S4 · Conflict · Gaza Strip, Palestine · 2h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
+        "title": "— S4 · Conflict · Gaza Strip, Palestine · 4h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Condemns US Strikes as Aggression, Vows Retaliation",
+        "title": "IDF Destroys Hezbollah Infrastructure in Bint Jbail, Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Iran · 14m ago. Iran's Foreign Ministry condemned recent US strikes as illegal aggression and threatened retaliation, escalating tensions.",
+        "title": "— S3 · Conflict · Bint Jbail, Lebanon · 1h ago. IDF is rapidly destroying Hezbollah infrastructure in Bint Jbail, southern Lebanon, following orders from US President Trump to Israeli PM Netanyahu.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Palestinian Fighter Dies From Wounds in Israeli Strike on Gaza City",
+        "title": "Israel Controls Up to 70% of Gaza Amid Expanded IDF Offensive",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
