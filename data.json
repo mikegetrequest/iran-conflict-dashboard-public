@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-15 15:05",
+  "updated_at_gst": "2026-07-15 16:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,21 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli air attack on Gaza apartment kills family of three",
+        "published": "Wed, 15 Jul 2026 12:11:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/15/drc-ebola-cases-surpass-2000-as-more-health-workers-begin-strike?traffic_source=rss"
+      },
+      {
+        "title": "‘Cycle of chaos’: Israel killing Gaza civil officials to derail its future",
+        "published": "Wed, 15 Jul 2026 11:36:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/15/could-the-us-take-control-of-irans-southern-islands?traffic_source=rss"
+      },
+      {
+        "title": "What are the Israeli withdrawal ‘pilot zones’ in southern Lebanon?",
+        "published": "Wed, 15 Jul 2026 11:23:21 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/15/cody-bellinger-stars-at-mlb-all-star-game-wins-mvp-award?traffic_source=rss"
+      },
       {
         "title": "Iran launches attacks across region as US strikes continue",
         "published": "Wed, 15 Jul 2026 09:15:56 +0000",
@@ -53,12 +68,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches New Wave of Daytime Strikes Against Iran",
+        "title": "Trump Warns of Escalating US Strikes on Iran in Three Days",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 27m ago. US military launches daytime airstrikes on Iran for the first time in weeks, marking a potential escalation in the ongoing conflict.",
+        "title": "Iran Halts Two Ships in Strait of Hormuz With Warning Shots",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
