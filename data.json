@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-15 03:39",
+  "updated_at_gst": "2026-07-15 05:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,41 +24,36 @@
         "title": "US Senate Democrats block defence bill over Iran war, Israel integration",
         "published": "Tue, 14 Jul 2026 20:12:06 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss"
-      },
-      {
-        "title": "US risks falling into ‘escalation trap’ if it deploys troops in Iran",
-        "published": "Tue, 14 Jul 2026 18:32:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Strikes Oil Tankers Under US Escort in Strait of Hormuz, One Killed\n\n**Summary:**\nIran launched missiles at oil tankers under US escort in the Strait of Hormuz, killing one sailor and damaging tw",
+        "title": "Trump Announces US Naval Blockade of All Iranian Ports and Oil Terminals, Starting Tuesday, Warns Neutral Ships to Leave or Face Fire, Imposes 20% Toll on Strait of Hormuz Transit, Escalating Tensions",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 1d ago. Iranian forces attacked vessels in the Strait of Hormuz after warning against a US naval blockade announced by President Trump, escalating tensions at the key chokepoint.",
+        "title": "— S4 · Political · Strait of Hormuz · 1d ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Trump Announces US Naval Blockade of All Iranian Ports and Oil Terminals, Starting Tuesday, Warns Neutral Ships to Leave or Face Fire, Imposes 20% Toll on Strait of Hormuz Transit, Escalating Tensions",
+        "title": "Iran Strikes Former UN Base in Kuwait, Claims US HIMARS Deployed There",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Strait of Hormuz · 1d ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
+        "title": "Iran Strikes US Bases in Bahrain, Jordan, and Kuwait With Missiles and Drones",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Former UN Base in Kuwait, Claims US HIMARS Deployed There",
+        "title": "US and Iran Exchange Heavy Fire Near Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US and Iran Exchange Heavy Fire Near Strait of Hormuz",
+        "title": "US Projectiles Hit Bottled Water Factory in Western Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
