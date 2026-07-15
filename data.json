@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-15 08:20",
+  "updated_at_gst": "2026-07-15 10:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,30 +16,40 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: US carries out strikes, IRGC claims damage on US Gulf bases",
-        "published": "Wed, 15 Jul 2026 00:00:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/14/outspoken-moroccan-rapper-mehdi-el-youbi-arrested-in-casablanca?traffic_source=rss"
-      },
-      {
-        "title": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
-        "published": "Tue, 14 Jul 2026 21:05:12 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-russian-crew-launches-on-mission-to-space-station?traffic_source=rss"
-      },
-      {
-        "title": "What is Iran’s Pickaxe Mountain?",
-        "published": "Tue, 14 Jul 2026 20:27:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss"
+        "title": "How Iran’s southern coast is bearing the brunt of US attacks",
+        "published": "Wed, 15 Jul 2026 05:34:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-knock-out-france-prepare-for-world-cup-final?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "Trump Announces US Naval Blockade of All Iranian Ports and Oil Terminals, Starting Tuesday, Warns Neutral Ships to Leave or Face Fire, Imposes 20% Toll on Strait of Hormuz Transit, Escalating Tensions",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "— S4 · Political · Strait of Hormuz · 2d ago. The US Army announces a naval blockade on all Iranian ports, effective from 20:00 GMT tomorrow.",
         "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Iran Strikes Former UN Base in Kuwait, Claims US HIMARS Deployed There",
+        "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Iran Strikes US Bases in Bahrain, Jordan, and Kuwait With Missiles and Drones",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "US Strikes Iran for Third Night as Iran Hits Tankers in Strait of Hormuz",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "US Attacks on Iran Injure More Than 260, Tehran Says",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
