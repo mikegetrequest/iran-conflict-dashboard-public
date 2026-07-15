@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-16 01:57",
+  "updated_at_gst": "2026-07-16 02:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "What are the obstacles to peace between Israel and Lebanon?",
-        "published": "Wed, 15 Jul 2026 20:46:03 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/15/what-happened-in-the-first-half-of-the-england-vs-argentina-semifinal?traffic_source=rss"
+        "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
+        "published": "Wed, 15 Jul 2026 21:46:57 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/15/argentina-stun-england-in-2-1-comeback-win-to-reach-2026-world-cup-final?traffic_source=rss"
       },
       {
-        "title": "Russia pounds Ukraine with missile, drone strikes",
-        "published": "Wed, 15 Jul 2026 19:59:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss"
+        "title": "Pezeshkian vows Iran will defend ‘every inch’ of its territory",
+        "published": "Wed, 15 Jul 2026 20:34:39 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss"
       },
       {
-        "title": "Ukraine strikes 20 Russian vessels",
-        "published": "Wed, 15 Jul 2026 19:58:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/the-history-of-the-us-and-iraqs-complicated-relationship?traffic_source=rss"
+        "title": "Palestinian homes sealed off by Israeli military restrictions",
+        "published": "Wed, 15 Jul 2026 18:49:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/15/us-intelligence-director-pick-refuses-to-acknowledge-trump-loss-in-2020?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,27 +38,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza Strip, Palestine · 8h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
+        "title": "— S4 · Conflict · Gaza Strip, Palestine · 9h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Bases in Bahrain, Jordan, and Kuwait With Missiles and Drones",
+        "title": "US Resumes Naval Blockade of Iran, Strikes Military Targets Near Hormuz",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iran for Third Night as Iran Hits Tankers in Strait of Hormuz",
+        "title": "Iran Strikes US Bases in Bahrain, Jordan, and Kuwait With Missiles and Drones",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosion Reported on Qeshm Island, Iran",
+        "title": "US Strikes Oil Tanker Near Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Forces Strike Tanker Near Iran's Kharg Island in Persian Gulf",
+        "title": "— S3 · Conflict · Strait of Hormuz · 17m ago. US Central Command confirmed strikes targeting Iranian military capabilities, disabling an empty oil tanker near the Strait of Hormuz.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
