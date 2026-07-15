@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-15 10:33",
+  "updated_at_gst": "2026-07-15 13:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How Iran’s southern coast is bearing the brunt of US attacks",
-        "published": "Wed, 15 Jul 2026 05:34:12 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-knock-out-france-prepare-for-world-cup-final?traffic_source=rss"
+        "title": "US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?",
+        "published": "Wed, 15 Jul 2026 08:44:38 +0000",
+        "link": "https://www.aljazeera.com/video/2026/7/15/video-world-cup-2026-highlights?traffic_source=rss"
+      },
+      {
+        "title": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
+        "published": "Wed, 15 Jul 2026 07:58:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/lindsey-grahams-sister-sworn-in-to-fill-his-us-senate-seat?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Attacks on Iran Injure More Than 260, Tehran Says",
+        "title": "Grenade Thrown at Japanika Restaurant in Rosh Pina, Israel",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
