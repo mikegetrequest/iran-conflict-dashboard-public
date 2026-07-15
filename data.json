@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-15 13:02",
+  "updated_at_gst": "2026-07-15 15:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran launches attacks across region as US strikes continue",
+        "published": "Wed, 15 Jul 2026 09:15:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea?traffic_source=rss"
+      },
       {
         "title": "US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?",
         "published": "Wed, 15 Jul 2026 08:44:38 +0000",
@@ -38,22 +43,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Former UN Base in Kuwait, Claims US HIMARS Deployed There",
+        "title": "Iran Strikes US Bases in Bahrain, Jordan, and Kuwait With Missiles and Drones",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Bases in Bahrain, Jordan, and Kuwait With Missiles and Drones",
+        "title": "US Strikes Iran for Third Night as Iran Hits Tankers in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iran for Third Night as Iran Hits Tankers in Strait of Hormuz",
+        "title": "US Launches New Wave of Daytime Strikes Against Iran",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Grenade Thrown at Japanika Restaurant in Rosh Pina, Israel",
+        "title": "— S3 · Conflict · Strait of Hormuz · 27m ago. US military launches daytime airstrikes on Iran for the first time in weeks, marking a potential escalation in the ongoing conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
