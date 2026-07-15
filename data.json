@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-15 21:42",
+  "updated_at_gst": "2026-07-15 22:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How US-Iran escalation will test Iraq’s balancing act",
-        "published": "Wed, 15 Jul 2026 15:03:29 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/15/my-twitter-not-x?traffic_source=rss"
+        "title": "Lebanon and Israel end sixth round of US-brokered talks",
+        "published": "Wed, 15 Jul 2026 18:34:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-unveils-huge-billboard-showing-trump-in-coffin?traffic_source=rss"
+      },
+      {
+        "title": "Mapping the latest US strikes across Iran",
+        "published": "Wed, 15 Jul 2026 17:38:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/15/todd-blanches-loyalty-to-trump-questioned-in-senate-confirmation-hearing?traffic_source=rss"
+      },
+      {
+        "title": "Father, mother, daughter killed in Israeli attack on Gaza home",
+        "published": "Wed, 15 Jul 2026 16:24:39 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/15/world-cup-spain-and-barcelona-star-yamals-home-hit-by-attempted-burglary?traffic_source=rss"
+      },
+      {
+        "title": "Who is calling the shots in Iran amid the deadly war with the US?",
+        "published": "Wed, 15 Jul 2026 15:35:57 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/15/england-vs-argentina-live-fifa-world-cup-2026-semifinal?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— S4 · Conflict · Gaza Strip, Palestine · 4h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
+        "title": "— S4 · Conflict · Gaza Strip, Palestine · 5h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -38,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IDF Destroys Hezbollah Infrastructure in Bint Jbail, Lebanon",
+        "title": "— S3 · Disaster · Hermel, Lebanon · 35m ago. A gas tanker exploded after a fire sparked by soaring temperatures near the Lebanese Army barracks in Hermel, damaging homes and vehicles.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bint Jbail, Lebanon · 1h ago. IDF is rapidly destroying Hezbollah infrastructure in Bint Jbail, southern Lebanon, following orders from US President Trump to Israeli PM Netanyahu.",
+        "title": "US Strikes Kill Dozens in Iran, Iran Targets Regional Bases",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Controls Up to 70% of Gaza Amid Expanded IDF Offensive",
+        "title": "— S3 · Conflict · Iran · 1h ago. US attacks have killed dozens in Iran, while Iranian forces retaliated by targeting regional bases, pushing a fragile ceasefire closer to collapse amid escalating tensions.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
