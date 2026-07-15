@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-16 00:58",
+  "updated_at_gst": "2026-07-16 01:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Pezeshkian vows Iran will defend ‘every inch’ of its territory",
-        "published": "Wed, 15 Jul 2026 20:34:39 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss"
+        "title": "What are the obstacles to peace between Israel and Lebanon?",
+        "published": "Wed, 15 Jul 2026 20:46:03 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/15/what-happened-in-the-first-half-of-the-england-vs-argentina-semifinal?traffic_source=rss"
       },
       {
-        "title": "Palestinian homes sealed off by Israeli military restrictions",
-        "published": "Wed, 15 Jul 2026 18:49:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/15/us-intelligence-director-pick-refuses-to-acknowledge-trump-loss-in-2020?traffic_source=rss"
+        "title": "Russia pounds Ukraine with missile, drone strikes",
+        "published": "Wed, 15 Jul 2026 19:59:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss"
       },
       {
-        "title": "Lebanon and Israel end sixth round of US-brokered talks",
-        "published": "Wed, 15 Jul 2026 18:34:34 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-unveils-huge-billboard-showing-trump-in-coffin?traffic_source=rss"
-      },
-      {
-        "title": "Mapping the latest US strikes across Iran",
-        "published": "Wed, 15 Jul 2026 17:38:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/15/todd-blanches-loyalty-to-trump-questioned-in-senate-confirmation-hearing?traffic_source=rss"
+        "title": "Ukraine strikes 20 Russian vessels",
+        "published": "Wed, 15 Jul 2026 19:58:08 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/the-history-of-the-us-and-iraqs-complicated-relationship?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza Strip, Palestine · 7h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
+        "title": "— S4 · Conflict · Gaza Strip, Palestine · 8h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,12 +53,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Forces Strike Tanker Heading to Kharg Island in Persian Gulf",
+        "title": "Explosion Reported on Qeshm Island, Iran",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Persian Gulf · 1m ago. US forces fired Hellfire missiles at the engine room of M/T Belma, a tanker attempting to reach Iran's Kharg Island, as part of the renewed naval blockade.",
+        "title": "US Forces Strike Tanker Near Iran's Kharg Island in Persian Gulf",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
