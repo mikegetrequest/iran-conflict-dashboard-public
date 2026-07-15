@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-16 02:53",
+  "updated_at_gst": "2026-07-16 03:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,11 +24,6 @@
         "title": "Pezeshkian vows Iran will defend ‘every inch’ of its territory",
         "published": "Wed, 15 Jul 2026 20:34:39 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss"
-      },
-      {
-        "title": "Palestinian homes sealed off by Israeli military restrictions",
-        "published": "Wed, 15 Jul 2026 18:49:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/15/us-intelligence-director-pick-refuses-to-acknowledge-trump-loss-in-2020?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,12 +33,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza Strip, Palestine · 9h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
+        "title": "— S4 · Conflict · Gaza Strip, Palestine · 10h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Resumes Naval Blockade of Iran, Strikes Military Targets Near Hormuz",
+        "title": "US Launches Second Wave of Strikes on Iran, Reimposes Naval Blockade near Strait of Hormuz",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Oil Tanker Near Strait of Hormuz",
+        "title": "US Airstrike Hits Near Children's Hospital in Ahvaz, Iran",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 17m ago. US Central Command confirmed strikes targeting Iranian military capabilities, disabling an empty oil tanker near the Strait of Hormuz.",
+        "title": "US Strikes Oil Tanker Near Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
