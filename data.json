@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-16 03:46",
+  "updated_at_gst": "2026-07-16 05:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,54 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
-        "published": "Wed, 15 Jul 2026 21:46:57 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/15/argentina-stun-england-in-2-1-comeback-win-to-reach-2026-world-cup-final?traffic_source=rss"
+        "title": "Iran war live: Sirens in Bahrain, Kuwait; US ‘disables’ Iranian oil tanker",
+        "published": "Thu, 16 Jul 2026 00:00:48 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/15/tuchel-defends-tactics-after-argentina-send-england-packing-from-world-cup?traffic_source=rss"
       },
       {
-        "title": "Pezeshkian vows Iran will defend ‘every inch’ of its territory",
-        "published": "Wed, 15 Jul 2026 20:34:39 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss"
+        "title": "What are the obstacles to peace between Israel and Lebanon?",
+        "published": "Wed, 15 Jul 2026 20:46:03 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/15/what-happened-in-the-first-half-of-the-england-vs-argentina-semifinal?traffic_source=rss"
+      },
+      {
+        "title": "Russia pounds Ukraine with missile, drone strikes",
+        "published": "Wed, 15 Jul 2026 19:59:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine strikes 20 Russian vessels",
+        "published": "Wed, 15 Jul 2026 19:58:08 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/the-history-of-the-us-and-iraqs-complicated-relationship?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Strikes Iran, Kuwait Intercepts Missiles; Tehran Threatens Energy Exports",
+        "title": "Iran Shuts Strait of Hormuz, Strikes US Targets Amid Nuclear Threat",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza Strip, Palestine · 10h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 55m ago. Iran closes the Strait of Hormuz and launches retaliatory strikes after US threatens nuclear sites, escalating the crisis.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches Second Wave of Strikes on Iran, Reimposes Naval Blockade near Strait of Hormuz",
+        "title": "US Strikes Iran, Kuwait Intercepts Missiles; Tehran Threatens Energy Exports",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Bases in Bahrain, Jordan, and Kuwait With Missiles and Drones",
+        "title": "— S4 · Conflict · Gaza Strip, Palestine · 11h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Airstrike Hits Near Children's Hospital in Ahvaz, Iran",
+        "title": "Iran Strikes US Army Logistics Depot in Kuwait With Drones, Cruise Missiles",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Oil Tanker Near Strait of Hormuz",
+        "title": "US Launches Second Wave of Strikes on Iran, Reimposes Naval Blockade near Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
