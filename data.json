@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-16 23:53",
+  "updated_at_gst": "2026-07-17 00:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "What could a US ground invasion of Iran look like?",
-        "published": "Thu, 16 Jul 2026 18:45:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/16/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss"
+        "title": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
+        "published": "Thu, 16 Jul 2026 20:03:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/16/nicaragua-severs-diplomatic-ties-with-italy-over-1978-murder-case?traffic_source=rss"
       },
       {
-        "title": "Israeli attacks kill at least five Palestinians in Gaza despite ‘ceasefire’",
-        "published": "Thu, 16 Jul 2026 15:53:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/16/hamas-leadership-run-off-expected-between-meshaal-and-al-hayya?traffic_source=rss"
+        "title": "How serious is Iran’s threat to disrupt shipping in the Red Sea?",
+        "published": "Thu, 16 Jul 2026 19:44:16 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iraq-says-19m-found-in-hideouts-linked-to-ex-oil-minister?traffic_source=rss"
+      },
+      {
+        "title": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital",
+        "published": "Thu, 16 Jul 2026 18:37:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/who-ebola-spreading-faster-than-ever-recorded-in-dr-congo?traffic_source=rss"
+      },
+      {
+        "title": "Vance says Israeli campaign tried to sway US opinion against Iran diplomacy",
+        "published": "Thu, 16 Jul 2026 16:13:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/16/israeli-attacks-kill-at-least-five-palestinians-in-gaza-despite-ceasefire?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Al-Azraq Air Base, Jordan · 14h ago. IRGC claims Khaybar-shekan ballistic missiles hit US fighter jet maintenance ramp and command center at Al-Azraq Air Base, Jordan, in 8th wave of Nasr 2 operation.",
+        "title": "— S4 · Conflict · Al-Azraq Air Base, Jordan · 15h ago. IRGC claims Khaybar-shekan ballistic missiles hit US fighter jet maintenance ramp and command center at Al-Azraq Air Base, Jordan, in 8th wave of Nasr 2 operation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -43,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 19h ago. Iran closes the Strait of Hormuz and launches retaliatory strikes after US threatens nuclear sites, escalating the crisis.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 20h ago. Iran closes the Strait of Hormuz and launches retaliatory strikes after US threatens nuclear sites, escalating the crisis.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
