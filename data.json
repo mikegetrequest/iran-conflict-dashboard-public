@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-16 22:52",
+  "updated_at_gst": "2026-07-16 23:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "What could a US ground invasion of Iran look like?",
+        "published": "Thu, 16 Jul 2026 18:45:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/16/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss"
+      },
+      {
         "title": "Israeli attacks kill at least five Palestinians in Gaza despite ‘ceasefire’",
         "published": "Thu, 16 Jul 2026 15:53:42 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/16/hamas-leadership-run-off-expected-between-meshaal-and-al-hayya?traffic_source=rss"
@@ -28,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Al-Azraq Air Base, Jordan · 13h ago. IRGC claims Khaybar-shekan ballistic missiles hit US fighter jet maintenance ramp and command center at Al-Azraq Air Base, Jordan, in 8th wave of Nasr 2 operation.",
+        "title": "— S4 · Conflict · Al-Azraq Air Base, Jordan · 14h ago. IRGC claims Khaybar-shekan ballistic missiles hit US fighter jet maintenance ramp and command center at Al-Azraq Air Base, Jordan, in 8th wave of Nasr 2 operation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -38,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 18h ago. Iran closes the Strait of Hormuz and launches retaliatory strikes after US threatens nuclear sites, escalating the crisis.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 19h ago. Iran closes the Strait of Hormuz and launches retaliatory strikes after US threatens nuclear sites, escalating the crisis.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
