@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-16 13:15",
+  "updated_at_gst": "2026-07-16 15:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -19,16 +19,6 @@
         "title": "US releases video of strikes on Iran",
         "published": "Thu, 16 Jul 2026 08:26:24 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest?traffic_source=rss"
-      },
-      {
-        "title": "Former US Ambassador says Iran miscalculated Trump’s resolve",
-        "published": "Thu, 16 Jul 2026 04:18:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/16/senior-chinese-delegation-visits-north-korea-for-talks?traffic_source=rss"
-      },
-      {
-        "title": "Iran launches strikes on Gulf, even as FM visits Qatar",
-        "published": "Thu, 16 Jul 2026 02:10:58 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +28,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Al-Azraq Air Base, Jordan · 4h ago. IRGC claims Khaybar-shekan ballistic missiles hit US fighter jet maintenance ramp and command center at Al-Azraq Air Base, Jordan, in 8th wave of Nasr 2 operation.",
+        "title": "— S4 · Conflict · Al-Azraq Air Base, Jordan · 5h ago. IRGC claims Khaybar-shekan ballistic missiles hit US fighter jet maintenance ramp and command center at Al-Azraq Air Base, Jordan, in 8th wave of Nasr 2 operation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,12 +38,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 9h ago. Iran closes the Strait of Hormuz and launches retaliatory strikes after US threatens nuclear sites, escalating the crisis.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 11h ago. Iran closes the Strait of Hormuz and launches retaliatory strikes after US threatens nuclear sites, escalating the crisis.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza Strip, Palestine · 19h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
+        "title": "— S4 · Conflict · Gaza Strip, Palestine · 21h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
