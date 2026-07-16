@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-17 02:44",
+  "updated_at_gst": "2026-07-17 03:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Qatar rejects Israeli reports of military action against Iran",
+        "published": "Thu, 16 Jul 2026 23:07:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/16/sadiq-khan-joins-house-of-lords-as-outgoing-uk-pm-names-26-new-peers?traffic_source=rss"
+      },
       {
         "title": "US mounts sixth straight night of attacks as Iran warns of wider war",
         "published": "Thu, 16 Jul 2026 21:02:11 +0000",
@@ -43,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Al-Azraq Air Base, Jordan · 17h ago. IRGC claims Khaybar-shekan ballistic missiles hit US fighter jet maintenance ramp and command center at Al-Azraq Air Base, Jordan, in 8th wave of Nasr 2 operation.",
+        "title": "— S4 · Conflict · Al-Azraq Air Base, Jordan · 18h ago. IRGC claims Khaybar-shekan ballistic missiles hit US fighter jet maintenance ramp and command center at Al-Azraq Air Base, Jordan, in 8th wave of Nasr 2 operation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 22h ago. Iran closes the Strait of Hormuz and launches retaliatory strikes after US threatens nuclear sites, escalating the crisis.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 23h ago. Iran closes the Strait of Hormuz and launches retaliatory strikes after US threatens nuclear sites, escalating the crisis.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -63,7 +68,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches Second Wave of Strikes on Iran, Reimposes Naval Blockade near Strait of Hormuz",
+        "title": "US Strikes Iranian Military Sites Near Strait of Hormuz, Reimposes Naval Blockade",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
