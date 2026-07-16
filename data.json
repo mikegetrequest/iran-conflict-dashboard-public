@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-16 05:20",
+  "updated_at_gst": "2026-07-16 08:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Sirens in Bahrain, Kuwait; US ‘disables’ Iranian oil tanker",
+        "title": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal",
+        "published": "Thu, 16 Jul 2026 01:58:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/16/frances-morocco-reset-what-french-pm-lecornus-visit-signals?traffic_source=rss"
+      },
+      {
+        "title": "Iranian doctor says US strike damaged children’s cancer hospital",
+        "published": "Thu, 16 Jul 2026 01:36:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/celebrations-erupt-in-argentinas-capital-after-world-cup-semifinal-win?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
         "published": "Thu, 16 Jul 2026 00:00:48 +0000",
         "link": "https://www.aljazeera.com/sports/2026/7/15/tuchel-defends-tactics-after-argentina-send-england-packing-from-world-cup?traffic_source=rss"
-      },
-      {
-        "title": "What are the obstacles to peace between Israel and Lebanon?",
-        "published": "Wed, 15 Jul 2026 20:46:03 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/15/what-happened-in-the-first-half-of-the-england-vs-argentina-semifinal?traffic_source=rss"
-      },
-      {
-        "title": "Russia pounds Ukraine with missile, drone strikes",
-        "published": "Wed, 15 Jul 2026 19:59:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss"
-      },
-      {
-        "title": "Ukraine strikes 20 Russian vessels",
-        "published": "Wed, 15 Jul 2026 19:58:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/the-history-of-the-us-and-iraqs-complicated-relationship?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 55m ago. Iran closes the Strait of Hormuz and launches retaliatory strikes after US threatens nuclear sites, escalating the crisis.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 4h ago. Iran closes the Strait of Hormuz and launches retaliatory strikes after US threatens nuclear sites, escalating the crisis.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza Strip, Palestine · 11h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
+        "title": "— S4 · Conflict · Gaza Strip, Palestine · 15h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
