@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-16 08:29",
+  "updated_at_gst": "2026-07-16 11:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -33,32 +33,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Shuts Strait of Hormuz, Strikes US Targets Amid Nuclear Threat",
+        "title": "Iranian Ballistic Missiles Strike Al-Azraq Air Base in Jordan",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 4h ago. Iran closes the Strait of Hormuz and launches retaliatory strikes after US threatens nuclear sites, escalating the crisis.",
+        "title": "— S4 · Conflict · Al-Azraq Air Base, Jordan · 1h ago. IRGC claims Khaybar-shekan ballistic missiles hit US fighter jet maintenance ramp and command center at Al-Azraq Air Base, Jordan, in 8th wave of Nasr 2 operation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iran, Kuwait Intercepts Missiles; Tehran Threatens Energy Exports",
+        "title": "Iran Shuts Strait of Hormuz, Strikes US Targets Amid Nuclear Threat",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza Strip, Palestine · 15h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 7h ago. Iran closes the Strait of Hormuz and launches retaliatory strikes after US threatens nuclear sites, escalating the crisis.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Army Logistics Depot in Kuwait With Drones, Cruise Missiles",
+        "title": "— S4 · Conflict · Gaza Strip, Palestine · 17h ago. The Palestinian Health Ministry reports the death toll from Israel's military campaign in Gaza has risen to 73,246, with thousands more wounded.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches Second Wave of Strikes on Iran, Reimposes Naval Blockade near Strait of Hormuz",
+        "title": "Iran Strikes US Army Logistics Depot in Kuwait With Drones, Cruise Missiles",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
