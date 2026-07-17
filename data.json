@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-17 11:07",
+  "updated_at_gst": "2026-07-17 13:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,54 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US bombards Iran in sixth-straight night of attacks",
-        "published": "Fri, 17 Jul 2026 04:57:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss"
+        "title": "US strikes destroy key bridges, tower in southern Iran",
+        "published": "Fri, 17 Jul 2026 08:57:56 +0000",
+        "link": "https://www.aljazeera.com/video/2026/7/17/video-world-cup-2026-highlights?traffic_source=rss"
       },
       {
-        "title": "Iranian sources say US strikes hit civilian infrastructure",
-        "published": "Fri, 17 Jul 2026 02:35:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security?traffic_source=rss"
+        "title": "Gulf states come under Iranian fire as US strikes intensify",
+        "published": "Fri, 17 Jul 2026 08:18:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss"
       },
       {
-        "title": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
-        "published": "Fri, 17 Jul 2026 00:50:09 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/17/brazilian-football-legend-peles-world-cup-shirt-sells-for-4-9-million?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
-        "published": "Thu, 16 Jul 2026 23:58:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/16/venezuela-earthquake-number-of-known-dead-rises-to-nearly-5000-victims?traffic_source=rss"
+        "title": "Israeli settlers attack Sinjil town in occupied West Bank",
+        "published": "Fri, 17 Jul 2026 04:39:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/17/china-rebukes-uk-over-nationalisation-of-british-steel?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Strikes Airport, Bridges, Railway Station in Iran on Sixth Night of Campaign",
+        "title": "Iran Claims Ballistic Missile Strike on Al-Tanf Base in Syria",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches Fresh Strikes on Iran, Reimposes Blockade as Ceasefire Collapses",
+        "title": "Iran Strikes Qatar, Kuwait, Bahrain as US Launches Attacks on Iran",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Bases in Kuwait, Bahrain, and Jordan With Missiles and Drones",
+        "title": "US Strikes Airport, Bridges, Railway Station in Iran on Sixth Night of Campaign",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US-Navy-Escorted Oil Tanker in Strait of Hormuz",
+        "title": "US Launches Fresh Strikes on Iran, Reimposes Blockade as Ceasefire Collapses",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 4m ago. Iran struck a US-Navy-escorted oil tanker in the Strait of Hormuz, marking a new escalation as US forces fail to degrade Iranian capabilities despite ongoing airstrikes.",
+        "title": "Drone Strike Destroys HIMARS Launcher at Kuwait-Iraq Border",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Navy Deploys New Drone Against US Vessels in Persian Gulf",
+        "title": "— S3 · Conflict · Kuwait-Iraq Border · 3m ago. A drone strike destroyed a HIMARS launcher near the Kuwait-Iraq border, with a fire detected by NASA FIRMS. The strike is part of the ongoing Iran-US conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
