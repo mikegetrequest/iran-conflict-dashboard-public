@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-17 03:45",
+  "updated_at_gst": "2026-07-17 05:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Qatar rejects Israeli reports of military action against Iran",
-        "published": "Thu, 16 Jul 2026 23:07:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/16/sadiq-khan-joins-house-of-lords-as-outgoing-uk-pm-names-26-new-peers?traffic_source=rss"
+        "title": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
+        "published": "Fri, 17 Jul 2026 00:50:09 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/17/brazilian-football-legend-peles-world-cup-shirt-sells-for-4-9-million?traffic_source=rss"
       },
       {
-        "title": "US mounts sixth straight night of attacks as Iran warns of wider war",
-        "published": "Thu, 16 Jul 2026 21:02:11 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/donald-trump-live-us-president-to-deliver-primetime-address-on-elections?traffic_source=rss"
+        "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
+        "published": "Thu, 16 Jul 2026 23:58:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/16/venezuela-earthquake-number-of-known-dead-rises-to-nearly-5000-victims?traffic_source=rss"
       },
       {
-        "title": "The hardest party to manage in the Iran talks isn’t Iran",
-        "published": "Thu, 16 Jul 2026 20:40:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss"
+        "title": "Palestinians injured in Israeli settler attacks across West Bank",
+        "published": "Thu, 16 Jul 2026 20:37:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss"
       },
       {
-        "title": "Syria says it foiled Hezbollah weapons shipment",
-        "published": "Thu, 16 Jul 2026 20:30:29 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/wildfire-smoke-blankets-world-cup-final-stadium-before-kickoff?traffic_source=rss"
-      },
-      {
-        "title": "What could a US ground invasion of Iran look like?",
-        "published": "Thu, 16 Jul 2026 18:45:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/16/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss"
+        "title": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
+        "published": "Thu, 16 Jul 2026 20:03:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/16/nicaragua-severs-diplomatic-ties-with-italy-over-1978-murder-case?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,27 +43,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Al-Azraq Air Base, Jordan · 18h ago. IRGC claims Khaybar-shekan ballistic missiles hit US fighter jet maintenance ramp and command center at Al-Azraq Air Base, Jordan, in 8th wave of Nasr 2 operation.",
+        "title": "— S4 · Conflict · Al-Azraq Air Base, Jordan · 20h ago. IRGC claims Khaybar-shekan ballistic missiles hit US fighter jet maintenance ramp and command center at Al-Azraq Air Base, Jordan, in 8th wave of Nasr 2 operation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Shuts Strait of Hormuz, Strikes US Targets Amid Nuclear Threat",
+        "title": "Iran Strikes US Army Logistics Depot in Kuwait With Drones, Cruise Missiles",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 23h ago. Iran closes the Strait of Hormuz and launches retaliatory strikes after US threatens nuclear sites, escalating the crisis.",
+        "title": "US Strikes Iranian Military Sites Near Strait of Hormuz, Reimposes Naval Blockade",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Army Logistics Depot in Kuwait With Drones, Cruise Missiles",
+        "title": "Iran Strikes US Bases in Kuwait, Bahrain, and Jordan With Missiles and Drones",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iranian Military Sites Near Strait of Hormuz, Reimposes Naval Blockade",
+        "title": "Trump Ramps Up Airstrikes on Iran Amid Ceasefire Collapse",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
