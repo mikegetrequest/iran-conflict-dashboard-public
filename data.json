@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-17 05:23",
+  "updated_at_gst": "2026-07-17 08:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,28 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
-        "published": "Fri, 17 Jul 2026 00:50:09 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/17/brazilian-football-legend-peles-world-cup-shirt-sells-for-4-9-million?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
-        "published": "Thu, 16 Jul 2026 23:58:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/16/venezuela-earthquake-number-of-known-dead-rises-to-nearly-5000-victims?traffic_source=rss"
-      },
-      {
-        "title": "Palestinians injured in Israeli settler attacks across West Bank",
-        "published": "Thu, 16 Jul 2026 20:37:23 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss"
-      },
-      {
-        "title": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
-        "published": "Thu, 16 Jul 2026 20:03:58 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/16/nicaragua-severs-diplomatic-ties-with-italy-over-1978-murder-case?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "Iranian Ballistic Missiles Strike Al-Azraq Air Base in Jordan",
@@ -43,27 +22,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Al-Azraq Air Base, Jordan · 20h ago. IRGC claims Khaybar-shekan ballistic missiles hit US fighter jet maintenance ramp and command center at Al-Azraq Air Base, Jordan, in 8th wave of Nasr 2 operation.",
+        "title": "— S4 · Conflict · Al-Azraq Air Base, Jordan · 23h ago. IRGC claims Khaybar-shekan ballistic missiles hit US fighter jet maintenance ramp and command center at Al-Azraq Air Base, Jordan, in 8th wave of Nasr 2 operation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Army Logistics Depot in Kuwait With Drones, Cruise Missiles",
+        "title": "US Launches Fresh Strikes on Iran, Reimposes Blockade as Ceasefire Collapses",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iranian Military Sites Near Strait of Hormuz, Reimposes Naval Blockade",
+        "title": "Iran Strikes US Bases in Kuwait, Bahrain, and Jordan With Missiles and Drones",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Bases in Kuwait, Bahrain, and Jordan With Missiles and Drones",
+        "title": "US Navy Destroyer Fires Tomahawk Missiles at Iran",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Trump Ramps Up Airstrikes on Iran Amid Ceasefire Collapse",
+        "title": "— S3 · Conflict · Strait of Hormuz · 4m ago. Newly released footage shows the USS Milius (DDG-69) firing Tomahawk cruise missiles at Iran, indicating ongoing US military action in the region.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
