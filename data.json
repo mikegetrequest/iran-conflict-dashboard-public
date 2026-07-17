@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-17 20:56",
+  "updated_at_gst": "2026-07-17 21:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iranian forces: missiles and drones fired at US targets in Gulf States",
+        "published": "Fri, 17 Jul 2026 16:54:27 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/7/17/apple-regains-top-spot-as-worlds-most-valuable-company?traffic_source=rss"
+      },
       {
         "title": "Ukraine suffers port attacks as protests persist over defence shake-up",
         "published": "Fri, 17 Jul 2026 15:19:37 +0000",
@@ -48,12 +53,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Forces Destroy Iranian Surveillance Tower in Syria",
+        "title": "Iran Targets Ammunition Depot in Sulaymaniyah, Iraq",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Syria · 48m ago. CENTCOM confirmed the destruction of an Iranian surveillance tower in Syria, degrading IRGC's ability to coordinate attacks on civilian crews.",
+        "title": "— S3 · Conflict · Sulaymaniyah, Iraq · 9m ago. Iranian forces struck an ammunition depot in Sulaymaniyah, Iraqi Kurdistan, causing explosions and likely damage.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
