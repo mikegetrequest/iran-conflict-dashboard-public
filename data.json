@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-18 01:11",
+  "updated_at_gst": "2026-07-18 02:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,13 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Iranian forces: missiles and drones fired at US targets in Gulf States",
-        "published": "Fri, 17 Jul 2026 16:54:27 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/7/17/apple-regains-top-spot-as-worlds-most-valuable-company?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "US CENTCOM Strikes Iran for Seventh Consecutive Night",
@@ -48,7 +42,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Erbil, Kurdistan Region, Iraq · 8m ago. The UAE condemns Iran's attack on Iraq's Kurdistan Region, calling it a violation of sovereignty and a threat to regional security.",
+        "title": "— S3 · Conflict · Erbil, Kurdistan Region, Iraq · 1h ago. The UAE condemns Iran's attack on Iraq's Kurdistan Region, calling it a violation of sovereignty and a threat to regional security.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
