@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-18 00:01",
+  "updated_at_gst": "2026-07-18 01:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -19,11 +19,6 @@
         "title": "Iranian forces: missiles and drones fired at US targets in Gulf States",
         "published": "Fri, 17 Jul 2026 16:54:27 +0000",
         "link": "https://www.aljazeera.com/economy/2026/7/17/apple-regains-top-spot-as-worlds-most-valuable-company?traffic_source=rss"
-      },
-      {
-        "title": "Ten killed in attacks in Russia and Ukraine as protests continue in Kyiv",
-        "published": "Fri, 17 Jul 2026 15:19:37 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/17/france-england-fifa-world-cup-third-place-playoff-predictions-kickoff?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +43,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Drone Strikes Oil Tanker in Strait of Hormuz",
+        "title": "UAE Condemns Iran's Attack on Iraq's Kurdistan Region",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 1h ago. IRGC Navy's offensive drone strikes a rogue oil tanker in the Strait of Hormuz; IRGC vows to keep strait closed until US ends hostilities.",
+        "title": "— S3 · Conflict · Erbil, Kurdistan Region, Iraq · 8m ago. The UAE condemns Iran's attack on Iraq's Kurdistan Region, calling it a violation of sovereignty and a threat to regional security.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
