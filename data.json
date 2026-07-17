@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-17 16:38",
+  "updated_at_gst": "2026-07-17 18:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -19,11 +19,6 @@
         "title": "Why is the US attacking southern Iran’s civilian infrastructure?",
         "published": "Fri, 17 Jul 2026 11:26:39 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/17/japan-passes-legislation-banning-violation-of-national-flag?traffic_source=rss"
-      },
-      {
-        "title": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
-        "published": "Fri, 17 Jul 2026 09:24:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +43,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen Fighting and Houthi Shipping Attacks Deepen Strain on Oil Markets",
+        "title": "Iranian Drones Strike Kuwaiti Military Bases, Injuring Soldiers",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Southern Red Sea · 2h ago. Ongoing conflict in Yemen and Houthi attacks on Red Sea shipping are increasing pressure on global oil supply and prices.",
+        "title": "— S3 · Conflict · Kuwait City, Kuwait · 2h ago. Multiple drone strikes hit several Kuwaiti military installations, wounding a number of Kuwaiti soldiers as cross-border attacks from Iran intensify.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
