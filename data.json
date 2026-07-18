@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-18 03:12",
+  "updated_at_gst": "2026-07-18 04:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "EU urges Israel to halt settlement expansion as settlers attack children",
+        "published": "Fri, 17 Jul 2026 22:54:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "US CENTCOM Strikes Iran for Seventh Consecutive Night",
@@ -37,12 +43,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yanbu, Saudi Arabia · 8m ago. Saudi National Early Warning Platform warns of danger in Yanbu governorate following Iranian ballistic missile launches.",
+        "title": "Iran Claims Strikes on US Targets in Kuwait",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches 2 Ballistic Missiles From Khorram Abad",
+        "title": "— S3 · Conflict · Kuwait · 4m ago. Iran's army claims to have struck US ammo depots, headquarters, and bridges in Kuwait as part of its 14th phase of Operation Thunderbolt (Thaeqe).",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
