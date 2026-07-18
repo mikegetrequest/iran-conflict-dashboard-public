@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-19 00:34",
+  "updated_at_gst": "2026-07-19 01:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,64 +16,59 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
-        "published": "Sat, 18 Jul 2026 18:55:05 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss"
+        "title": "Palestinian teenage footballer dies a week after Israeli settler attack",
+        "published": "Sat, 18 Jul 2026 20:24:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/drone-video-shows-scale-of-major-wildfire-in-northern-spain?traffic_source=rss"
       },
       {
-        "title": "US military says two service members killed in Iranian strike in Jordan",
-        "published": "Sat, 18 Jul 2026 18:04:47 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/18/france-vs-england-live-fifa-world-cup-2026-third-place-playoff?traffic_source=rss"
+        "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
+        "published": "Sat, 18 Jul 2026 19:55:16 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/18/all-to-know-about-canadian-wildfire-smoke-air-quality-and-world-cup-final?traffic_source=rss"
       },
       {
-        "title": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
-        "published": "Sat, 18 Jul 2026 17:35:21 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/18/uks-josh-kerr-smashes-longstanding-world-mile-record-in-london?traffic_source=rss"
+        "title": "Israeli attacks on residential areas in Gaza kill eight",
+        "published": "Sat, 18 Jul 2026 18:45:49 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss"
       },
       {
-        "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
-        "published": "Sat, 18 Jul 2026 16:47:14 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/18/armed-groups-attack-malian-military-convoy-in-gao-region?traffic_source=rss"
+        "title": "Damage visible at Iran bridges and water plant after US attacks",
+        "published": "Sat, 18 Jul 2026 18:09:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss"
       },
       {
-        "title": "Belgium bans imports from Israeli settlements in occupied Palestine",
-        "published": "Sat, 18 Jul 2026 16:06:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid?traffic_source=rss"
-      },
-      {
-        "title": "Plumes of smoke rise over Kuwait after repeated Iranian attacks",
-        "published": "Sat, 18 Jul 2026 15:35:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss"
+        "title": "Armed groups attack Malian military convoy in Gao region",
+        "published": "Sat, 18 Jul 2026 16:24:29 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Strikes US Bases in Jordan, Bahrain, Saudi Arabia, Iraq",
+        "title": "US Strikes Iran for Seventh Night, Tankers Explode in Strait of Hormuz",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iran for Seventh Night, Tankers Explode in Strait of Hormuz",
+        "title": "Iranian Ballistic Missiles and Drones Kill 2 US Troops at Air Base in Jordan",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Ballistic Missiles and Drones Kill 2 US Troops at Air Base in Jordan",
+        "title": "— S4 · Conflict · Muwaffaq Salti Air Base, Jordan · 1d ago. Iranian missiles hit Muwaffaq Salti Air Base in Jordan, where the US had just deployed 12 F-16CJ Wild Weasel jets. Casualties and damage are unconfirmed.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Muwaffaq Salti Air Base, Jordan · 1d ago. Iranian missiles hit Muwaffaq Salti Air Base in Jordan, where the US had just deployed 12 F-16CJ Wild Weasel jets. Casualties and damage are unconfirmed.",
+        "title": "Iran Strikes US Bases in Kuwait and Syria With Missiles, Drones",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Bases in Kuwait and Syria With Missiles, Drones",
+        "title": "Lebanese Soldier Killed as Army Vehicle Hits Explosive in South Lebanon",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Lebanese Soldier Killed as Army Vehicle Hits Explosive in South Lebanon",
+        "title": "— S3 · Conflict · Mansouri, Lebanon · 2h ago. A Lebanese soldier was killed and two others wounded when a suspicious object exploded in an army vehicle in the town of Mansouri, southern Lebanon, the army reported.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
