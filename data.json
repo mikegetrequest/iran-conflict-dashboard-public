@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-18 14:44",
+  "updated_at_gst": "2026-07-18 15:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
+        "published": "Sat, 18 Jul 2026 11:10:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "Iran Strikes US Bases in Jordan, Bahrain, Saudi Arabia, Iraq",
@@ -37,12 +43,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Missiles From Southern Region",
+        "title": "Iran Strikes Key Oil Facility in Kuwait, Causing Damage and Injuries",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Fars Province, Iran · 1h ago. Iran launches at least two ballistic missiles from Fars Province, escalating the ongoing conflict with the US.",
+        "title": "— S3 · Conflict · Kuwait City, Kuwait · 9m ago. Iranian attacks caused significant material damage and some injuries at a key oil facility in Kuwait, according to Kuwait Petroleum Corporation.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
