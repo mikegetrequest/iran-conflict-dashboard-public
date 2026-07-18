@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-18 16:43",
+  "updated_at_gst": "2026-07-18 18:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Indian police forcibly hospitalise activist after 20-day hunger strike",
-        "published": "Sat, 18 Jul 2026 10:48:09 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/18/argentinas-new-york-fans-share-hopes-ahead-of-2026-world-cup-final?traffic_source=rss"
+        "title": "Ukrainian strikes hit Russian logistics center",
+        "published": "Sat, 18 Jul 2026 12:57:21 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/7/18/europe-should-look-to-africa-for-heatwave-solutions?traffic_source=rss"
       },
       {
-        "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
-        "published": "Sat, 18 Jul 2026 05:15:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/canadian-wildfire-smoke-shrouds-us-potential-risk-for-world-cup-final?traffic_source=rss"
-      },
-      {
-        "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
-        "published": "Sat, 18 Jul 2026 04:47:44 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/trump-jokes-that-england-turned-harry-kane-into-a-defensive?traffic_source=rss"
+        "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
+        "published": "Sat, 18 Jul 2026 11:10:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Drones Attack Sulaymaniyah, Iraqi Kurdistan",
+        "title": "US-Iran Strikes Disrupt Gulf Flights, Dubai Explosion Reported",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Sulaymaniyah, Iraq · 6m ago. Explosions and fire reported in Sulaymaniyah as Iranian drones strike the city again.",
+        "title": "Iran Accuses US of Striking Critical Infrastructure as War Intensifies",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
