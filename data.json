@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-18 19:26",
+  "updated_at_gst": "2026-07-18 20:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Ukrainian strikes hit Russian logistics center",
-        "published": "Sat, 18 Jul 2026 12:57:21 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/7/18/europe-should-look-to-africa-for-heatwave-solutions?traffic_source=rss"
+        "title": "Belgium bans imports from Israeli settlements in occupied Palestine",
+        "published": "Sat, 18 Jul 2026 16:06:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid?traffic_source=rss"
       },
       {
-        "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
-        "published": "Sat, 18 Jul 2026 11:10:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss"
+        "title": "Plumes of smoke rise over Kuwait after repeated Iranian attacks",
+        "published": "Sat, 18 Jul 2026 15:35:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss"
+      },
+      {
+        "title": "Iran suggests MoU ‘suspended’ amid reports 50 killed in US strikes in July",
+        "published": "Sat, 18 Jul 2026 12:59:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/ukrainian-strikes-hit-russian-logistics-center?traffic_source=rss"
+      },
+      {
+        "title": "Indian police forcibly hospitalise activist after 20-day hunger strike",
+        "published": "Sat, 18 Jul 2026 10:48:09 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/18/argentinas-new-york-fans-share-hopes-ahead-of-2026-world-cup-final?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US CENTCOM Strikes Iran for Seventh Consecutive Night",
+        "title": "US Strikes Iran for Seventh Night, Tankers Explode in Strait of Hormuz",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
