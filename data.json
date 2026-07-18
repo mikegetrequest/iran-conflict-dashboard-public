@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-18 13:06",
+  "updated_at_gst": "2026-07-18 14:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,23 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
-        "published": "Sat, 18 Jul 2026 05:15:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/canadian-wildfire-smoke-shrouds-us-potential-risk-for-world-cup-final?traffic_source=rss"
-      },
-      {
-        "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
-        "published": "Sat, 18 Jul 2026 04:47:44 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/trump-jokes-that-england-turned-harry-kane-into-a-defensive?traffic_source=rss"
-      },
-      {
-        "title": "Iranian official says the policy of negotiating during war is over",
-        "published": "Sat, 18 Jul 2026 02:09:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/18/israeli-army-destroys-three-schools-in-southern-lebanon-minister-says?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "Iran Strikes US Bases in Jordan, Bahrain, Saudi Arabia, Iraq",
@@ -43,22 +27,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US-Operated Air Base in Jordan With Ballistic Missiles and Drones",
+        "title": "US Strikes Airport, Bridges, Railway Station in Iran on Sixth Night of Campaign",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Muwaffaq Salti Air Base, Jordan · 23h ago. Iranian missiles hit Muwaffaq Salti Air Base in Jordan, where the US had just deployed 12 F-16CJ Wild Weasel jets. Casualties and damage are unconfirmed.",
+        "title": "Iran Strikes US Bases in Kuwait and Syria With Missiles, Drones",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Military Targets in Qatar, Kuwait, Bahrain as Conflict Widens",
+        "title": "Iran Launches Missiles From Southern Region",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Airport, Bridges, Railway Station in Iran on Sixth Night of Campaign",
+        "title": "— S3 · Conflict · Fars Province, Iran · 1h ago. Iran launches at least two ballistic missiles from Fars Province, escalating the ongoing conflict with the US.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
