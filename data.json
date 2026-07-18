@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-18 20:23",
+  "updated_at_gst": "2026-07-18 21:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
+        "published": "Sat, 18 Jul 2026 16:47:14 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/18/armed-groups-attack-malian-military-convoy-in-gao-region?traffic_source=rss"
+      },
       {
         "title": "Belgium bans imports from Israeli settlements in occupied Palestine",
         "published": "Sat, 18 Jul 2026 16:06:06 +0000",
