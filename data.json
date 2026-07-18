@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-18 04:13",
+  "updated_at_gst": "2026-07-18 07:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "EU urges Israel to halt settlement expansion as settlers attack children",
-        "published": "Fri, 17 Jul 2026 22:54:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss"
+        "title": "Iranian official says the policy of negotiating during war is over",
+        "published": "Sat, 18 Jul 2026 02:09:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/18/israeli-army-destroys-three-schools-in-southern-lebanon-minister-says?traffic_source=rss"
+      },
+      {
+        "title": "Targets of latest US strikes on Iran signal strategic shift",
+        "published": "Sat, 18 Jul 2026 01:54:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/analyst-questions-trumps-renewed-focus-on-us-election-integrity?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: US and Iran exchange deadly attacks for 7th night",
+        "published": "Sat, 18 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/17/eu-urges-israel-to-halt-settlement-expansion-as-settlers-attack-children?traffic_source=rss"
+      },
+      {
+        "title": "US launches seventh straight night of strikes on Iran",
+        "published": "Fri, 17 Jul 2026 22:11:12 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/17/tackling-messi-huge-challenge-for-spain-in-world-cup-final-merino?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Claims Strikes on US Targets in Kuwait",
+        "title": "Explosions Reported in Bahrain, Interceptions Near 5th Fleet Base",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Kuwait · 4m ago. Iran's army claims to have struck US ammo depots, headquarters, and bridges in Kuwait as part of its 14th phase of Operation Thunderbolt (Thaeqe).",
+        "title": "— S3 · Conflict · Manama, Bahrain · 26m ago. Several explosions and interceptions reported in Bahrain near the US 5th Fleet base and Isa Air Base, indicating ongoing kinetic activity.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
