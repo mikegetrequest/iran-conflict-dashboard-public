@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-18 22:13",
+  "updated_at_gst": "2026-07-18 23:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israeli attacks on residential areas in Gaza kill eight",
+        "published": "Sat, 18 Jul 2026 18:45:49 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss"
+      },
+      {
+        "title": "Damage visible at Iran bridges and water plant after US attacks",
+        "published": "Sat, 18 Jul 2026 18:09:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss"
+      },
+      {
         "title": "Armed groups attack Malian military convoy in Gao region",
         "published": "Sat, 18 Jul 2026 16:24:29 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss"
-      },
-      {
-        "title": "Ukrainian strikes hit Russian logistics center",
-        "published": "Sat, 18 Jul 2026 12:57:21 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/7/18/europe-should-look-to-africa-for-heatwave-solutions?traffic_source=rss"
-      },
-      {
-        "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
-        "published": "Sat, 18 Jul 2026 11:10:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,12 +53,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Airport, Bridges, Railway Station in Iran on Sixth Night of Campaign",
+        "title": "Iran Strikes US Bases in Kuwait and Syria With Missiles, Drones",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Bases in Kuwait and Syria With Missiles, Drones",
+        "title": "Iran Launches Missiles at Unidentified Vessel in Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
