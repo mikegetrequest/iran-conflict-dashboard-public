@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-19 15:47",
+  "updated_at_gst": "2026-07-19 16:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iranians suffer from power blackouts during war and heatwave",
-        "published": "Sun, 19 Jul 2026 11:16:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/19/why-is-india-vetting-books-in-kashmir-in-search-of-anti-national-content?traffic_source=rss"
+        "title": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
+        "published": "Sun, 19 Jul 2026 08:46:42 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss"
       },
       {
-        "title": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
-        "published": "Sun, 19 Jul 2026 08:49:56 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Israel demolishes Palestinian home in Masafer Yatta",
-        "published": "Sun, 19 Jul 2026 07:30:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss"
-      },
-      {
-        "title": "US bombs Iran for eighth-straight night",
-        "published": "Sun, 19 Jul 2026 05:08:20 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss"
+        "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+        "published": "Sun, 19 Jul 2026 07:28:08 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-fifa-world-cup-final-messi-yamal-prediction-time-lineups-team-news?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Kuwait · 1h ago. Air raid sirens sounded across Kuwait after Iranian missile and drone strikes, as US military claims retaliation.",
+        "title": "— S4 · Conflict · Kuwait · 2h ago. Air raid sirens sounded across Kuwait after Iranian missile and drone strikes, as US military claims retaliation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Ahvaz, Khuzestan, Iran · 9h ago. US airstrikes hit targets southeast of Ahvaz in Khuzestan Province, southwestern Iran, according to Tasnim News Agency, amid ongoing US-Iran war.",
+        "title": "— S4 · Conflict · Ahvaz, Khuzestan, Iran · 10h ago. US airstrikes hit targets southeast of Ahvaz in Khuzestan Province, southwestern Iran, according to Tasnim News Agency, amid ongoing US-Iran war.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
