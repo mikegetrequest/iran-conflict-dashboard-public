@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-19 03:39",
+  "updated_at_gst": "2026-07-19 05:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,21 +24,6 @@
         "title": "US military says two service members killed in Iranian strike in Jordan",
         "published": "Sat, 18 Jul 2026 18:04:47 +0000",
         "link": "https://www.aljazeera.com/sports/liveblog/2026/7/18/france-vs-england-live-fifa-world-cup-2026-third-place-playoff?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
-        "published": "Sat, 18 Jul 2026 17:35:21 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/18/uks-josh-kerr-smashes-longstanding-world-mile-record-in-london?traffic_source=rss"
-      },
-      {
-        "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
-        "published": "Sat, 18 Jul 2026 16:47:14 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/18/armed-groups-attack-malian-military-convoy-in-gao-region?traffic_source=rss"
-      },
-      {
-        "title": "Belgium bans imports from Israeli settlements in occupied Palestine",
-        "published": "Sat, 18 Jul 2026 16:06:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Ballistic Missiles Kill 2 US Troops at Air Base in Jordan",
+        "title": "Iranian Ballistic Missiles Kill 2 US Troops, Destroy Aircraft in Jordan",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Kurdish Opposition Bases in Erbil, Iraq",
+        "title": "Projectiles Strike Qeshm Island in Southern Iran",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Erbil, Iraq · 19m ago. Iranian airstrikes hit Kurdish opposition group bases in Erbil, northern Iraq, amid escalating regional tensions. No casualties reported yet.",
+        "title": "Iran Strikes Kurdish Opposition Bases in Erbil, Iraq",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Lebanese Soldier Killed as Army Vehicle Hits Explosive in South Lebanon",
+        "title": "— S3 · Conflict · Erbil, Iraq · 2h ago. Iranian airstrikes hit Kurdish opposition group bases in Erbil, northern Iraq, amid escalating regional tensions. No casualties reported yet.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
