@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-19 05:21",
+  "updated_at_gst": "2026-07-19 08:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,45 +16,30 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
-        "published": "Sat, 18 Jul 2026 18:55:05 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss"
+        "title": "At least one killed as Russian ballistic missiles hit Kyiv",
+        "published": "Sun, 19 Jul 2026 04:32:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss"
       },
       {
-        "title": "US military says two service members killed in Iranian strike in Jordan",
-        "published": "Sat, 18 Jul 2026 18:04:47 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/18/france-vs-england-live-fifa-world-cup-2026-third-place-playoff?traffic_source=rss"
+        "title": "Palestinian teenage footballer dies after Israeli settler attack",
+        "published": "Sun, 19 Jul 2026 02:57:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: US launches new strikes; Trump mourns killed soldiers",
+        "published": "Sun, 19 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/18/saka-hat-trick-helps-england-down-france-to-win-world-cup-2026-bronze-final?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Strikes Iran for Seventh Night, Tankers Explode in Strait of Hormuz",
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Ballistic Missiles Kill 2 US Troops, Destroy Aircraft in Jordan",
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
         "published": "line-2",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Iran Strikes US Bases in Kuwait and Syria With Missiles, Drones",
-        "published": "line-3",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Projectiles Strike Qeshm Island in Southern Iran",
-        "published": "line-4",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Iran Strikes Kurdish Opposition Bases in Erbil, Iraq",
-        "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Erbil, Iraq · 2h ago. Iranian airstrikes hit Kurdish opposition group bases in Erbil, northern Iraq, amid escalating regional tensions. No casualties reported yet.",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
