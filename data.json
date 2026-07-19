@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-19 13:23",
+  "updated_at_gst": "2026-07-19 14:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,59 +16,54 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
-        "published": "Sun, 19 Jul 2026 08:46:42 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss"
+        "title": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
+        "published": "Sun, 19 Jul 2026 08:49:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss"
       },
       {
-        "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
-        "published": "Sun, 19 Jul 2026 07:28:08 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-fifa-world-cup-final-messi-yamal-prediction-time-lineups-team-news?traffic_source=rss"
+        "title": "Israel demolishes Palestinian home in Masafer Yatta",
+        "published": "Sun, 19 Jul 2026 07:30:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss"
       },
       {
-        "title": "The number one health issue in Palestine is the Israeli occupation",
-        "published": "Sun, 19 Jul 2026 07:15:19 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss"
+        "title": "US bombs Iran for eighth-straight night",
+        "published": "Sun, 19 Jul 2026 05:08:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss"
       },
       {
-        "title": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
-        "published": "Sun, 19 Jul 2026 04:36:47 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss"
-      },
-      {
-        "title": "US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases",
-        "published": "Sun, 19 Jul 2026 04:16:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss"
+        "title": "At least one killed as Russian ballistic missiles hit Kyiv",
+        "published": "Sun, 19 Jul 2026 04:32:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Strikes Iran for Eighth Night; Iran Hits Kuwait, Bahrain in Retaliation, 2 US Soldiers Killed in Jordan Drone Attack, 1 Missing, Escalating Regional Conflict, US and Iran Exchange Strikes, IRGC Tar",
+        "title": "Sirens Blare Across Kuwait Amid Iran Strikes",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Targets Southeast of Ahvaz in Khuzestan, Iran",
+        "title": "— S4 · Conflict · Kuwait · 25m ago. Air raid sirens sounded across Kuwait after Iranian missile and drone strikes, as US military claims retaliation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Ahvaz, Khuzestan, Iran · 6h ago. US airstrikes hit targets southeast of Ahvaz in Khuzestan Province, southwestern Iran, according to Tasnim News Agency, amid ongoing US-Iran war.",
+        "title": "US Strikes Iran for Eighth Night; Iran Hits Kuwait, Bahrain in Retaliation, 2 US Soldiers Killed in Jordan Drone Attack, 1 Missing, Escalating Regional Conflict, US and Iran Exchange Strikes, IRGC Tar",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches Airstrikes on Iran in Strait of Hormuz",
+        "title": "US Strikes Targets Southeast of Ahvaz in Khuzestan, Iran",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 14h ago. US forces strike IRGC targets in the Strait of Hormuz, retaliating for a drone attack on a US base in Jordan that killed two American servicemembers.",
+        "title": "— S4 · Conflict · Ahvaz, Khuzestan, Iran · 8h ago. US airstrikes hit targets southeast of Ahvaz in Khuzestan Province, southwestern Iran, according to Tasnim News Agency, amid ongoing US-Iran war.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iran for Seventh Night, Tankers Explode in Strait of Hormuz",
+        "title": "US Launches Airstrikes on Iran in Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
