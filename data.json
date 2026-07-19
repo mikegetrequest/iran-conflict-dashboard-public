@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-19 08:40",
+  "updated_at_gst": "2026-07-19 11:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US bombs Iran for eighth-straight night",
+        "published": "Sun, 19 Jul 2026 05:08:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss"
+      },
+      {
         "title": "At least one killed as Russian ballistic missiles hit Kyiv",
         "published": "Sun, 19 Jul 2026 04:32:28 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss"
@@ -26,20 +31,40 @@
         "link": "https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges?traffic_source=rss"
       },
       {
-        "title": "Iran war live: US launches new strikes; Trump mourns killed soldiers",
+        "title": "Iran war live: US bombs Iran; Trump says soldiers killed ‘a sad thing’",
         "published": "Sun, 19 Jul 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/sports/2026/7/18/saka-hat-trick-helps-england-down-france-to-win-world-cup-2026-bronze-final?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "US and Iran Exchange Strikes After Two US Deaths in Jordan Attack",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "US Strikes Targets Southeast of Ahvaz in Khuzestan, Iran",
         "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S4 · Conflict · Ahvaz, Khuzestan, Iran · 4h ago. US airstrikes hit targets southeast of Ahvaz in Khuzestan Province, southwestern Iran, according to Tasnim News Agency, amid ongoing US-Iran war.",
+        "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "US Launches Airstrikes on Iran in Strait of Hormuz",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S4 · Conflict · Strait of Hormuz · 12h ago. US forces strike IRGC targets in the Strait of Hormuz, retaliating for a drone attack on a US base in Jordan that killed two American servicemembers.",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "US Strikes Iran for Seventh Night, Tankers Explode in Strait of Hormuz",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
