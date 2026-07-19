@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-19 22:26",
+  "updated_at_gst": "2026-07-19 23:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,18 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "‘Sacred unity’: Iran’s supreme leader calls for calm amid political divides",
+        "published": "Sun, 19 Jul 2026 18:29:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s President Joseph Aoun meets Rubio ahead of Trump talks",
+        "published": "Sun, 19 Jul 2026 18:24:33 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/19/nyc-swells-with-spanish-argentinian-fans-anticipating-world-cup-glory?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "Sirens Blare Across Kuwait Amid Iran Strikes",
@@ -22,27 +33,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Kuwait · 8h ago. Air raid sirens sounded across Kuwait after Iranian missile and drone strikes, as US military claims retaliation.",
+        "title": "— S4 · Conflict · Kuwait · 9h ago. Air raid sirens sounded across Kuwait after Iranian missile and drone strikes, as US military claims retaliation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iran for Eighth Night; Iran Hits Kuwait, Bahrain in Retaliation, 2 US Soldiers Killed in Jordan Drone Attack, 1 Missing, Escalating Regional Conflict, US and Iran Exchange Strikes, IRGC Tar",
+        "title": "US Strikes Targets Southeast of Ahvaz in Khuzestan, Iran",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Targets Southeast of Ahvaz in Khuzestan, Iran",
+        "title": "— S4 · Conflict · Ahvaz, Khuzestan, Iran · 17h ago. US airstrikes hit targets southeast of Ahvaz in Khuzestan Province, southwestern Iran, according to Tasnim News Agency, amid ongoing US-Iran war.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Ahvaz, Khuzestan, Iran · 15h ago. US airstrikes hit targets southeast of Ahvaz in Khuzestan Province, southwestern Iran, according to Tasnim News Agency, amid ongoing US-Iran war.",
+        "title": "US Launches Airstrikes on Iran in Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches Airstrikes on Iran in Strait of Hormuz",
+        "title": "— S4 · Conflict · Strait of Hormuz · 1d ago. US forces strike IRGC targets in the Strait of Hormuz, retaliating for a drone attack on a US base in Jordan that killed two American servicemembers.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
