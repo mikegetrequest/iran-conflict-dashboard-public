@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-19 18:17",
+  "updated_at_gst": "2026-07-19 19:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
-        "published": "Sun, 19 Jul 2026 08:46:42 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss"
+        "title": "Iran attacks US Gulf allies, causing a fire at Kuwait power plant",
+        "published": "Sun, 19 Jul 2026 14:27:53 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/who-controls-football-in-palestine?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon convicts influencer of smuggling drugs in biscuits",
+        "published": "Sun, 19 Jul 2026 13:56:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/19/why-were-andrew-and-tristan-tate-arrested-will-they-be-extradited-to-uk?traffic_source=rss"
+      },
+      {
+        "title": "Iranians suffer from power blackouts during war and heatwave",
+        "published": "Sun, 19 Jul 2026 11:16:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/19/why-is-india-vetting-books-in-kashmir-in-search-of-anti-national-content?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -28,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Kuwait · 4h ago. Air raid sirens sounded across Kuwait after Iranian missile and drone strikes, as US military claims retaliation.",
+        "title": "— S4 · Conflict · Kuwait · 5h ago. Air raid sirens sounded across Kuwait after Iranian missile and drone strikes, as US military claims retaliation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -43,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Ahvaz, Khuzestan, Iran · 11h ago. US airstrikes hit targets southeast of Ahvaz in Khuzestan Province, southwestern Iran, according to Tasnim News Agency, amid ongoing US-Iran war.",
+        "title": "— S4 · Conflict · Ahvaz, Khuzestan, Iran · 12h ago. US airstrikes hit targets southeast of Ahvaz in Khuzestan Province, southwestern Iran, according to Tasnim News Agency, amid ongoing US-Iran war.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
