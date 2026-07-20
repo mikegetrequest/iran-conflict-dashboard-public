@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-20 03:43",
+  "updated_at_gst": "2026-07-20 05:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "‘Sacred unity’: Iran’s supreme leader calls for calm amid political divides",
-        "published": "Sun, 19 Jul 2026 18:29:47 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss"
+        "title": "Iran war live: US military carries out another wave of strikes on Iran",
+        "published": "Mon, 20 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss"
       },
       {
-        "title": "Lebanon’s President Joseph Aoun meets Rubio ahead of Trump talks",
-        "published": "Sun, 19 Jul 2026 18:24:33 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/19/nyc-swells-with-spanish-argentinian-fans-anticipating-world-cup-glory?traffic_source=rss"
+        "title": "Israeli ministers join march to Gaza to demand return of settlements",
+        "published": "Sun, 19 Jul 2026 20:55:11 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules?traffic_source=rss"
+      },
+      {
+        "title": "Twin earthquakes strike Peru killing at least five",
+        "published": "Sun, 19 Jul 2026 20:11:51 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/7/19/the-uk-gets-its-seventh-prime-minister-in-10-years?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Launches Ballistic Missiles and Drones at Bahrain, Jordan, Kuwait, Iraq",
+        "title": "US Strikes Tabriz, Khorramabad in Ninth Night of Iran Bombing Campaign",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -38,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Kuwait · 13h ago. Air raid sirens sounded across Kuwait after Iranian missile and drone strikes, as US military claims retaliation.",
+        "title": "— S4 · Conflict · Kuwait · 15h ago. Air raid sirens sounded across Kuwait after Iranian missile and drone strikes, as US military claims retaliation.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
