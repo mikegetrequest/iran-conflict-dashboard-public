@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-20 19:09",
+  "updated_at_gst": "2026-07-20 20:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran says Spain World Cup win brings joy to critics of US, Israel",
-        "published": "Mon, 20 Jul 2026 11:50:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel?traffic_source=rss"
+        "title": "Lebanon’s military starts ‘pilot zone’ takeover in south",
+        "published": "Mon, 20 Jul 2026 16:13:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us?traffic_source=rss"
+      },
+      {
+        "title": "What we know about US soldiers killed in Iran war, and Iranian casualties",
+        "published": "Mon, 20 Jul 2026 14:34:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/20/petro-to-give-farewell-speech-amid-colombia-transfer-of-power-tensions?traffic_source=rss"
+      },
+      {
+        "title": "Israeli ministers and settlers call for return to Gaza settlements",
+        "published": "Mon, 20 Jul 2026 13:29:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/20/burnhams-move-to-scrap-uks-digital-id-plans-earns-cheers-and-criticism?traffic_source=rss"
+      },
+      {
+        "title": "Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?",
+        "published": "Mon, 20 Jul 2026 13:06:32 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/i-want-to-be-honest-with-you-says-new-uk-pm-andy-burnham?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Bahrain, Kuwait, Iraq, Jordan With Missiles And Drones",
+        "title": "Iran Launches Ballistic Missiles and Drones at Bahrain, Jordan, Kuwait, Iraq",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Ballistic Missile at Bahrain from Shiraz",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 9m ago. Israeli forces killed Salah Subhi Salah Qatrawi and Taher Ahmad Salem Abd al-Wahed, PIJ militants involved in the Nova festival abduction.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
