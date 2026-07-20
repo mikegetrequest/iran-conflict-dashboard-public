@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-20 22:47",
+  "updated_at_gst": "2026-07-21 00:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Lebanon’s military starts ‘pilot zone’ takeover in south",
-        "published": "Mon, 20 Jul 2026 16:13:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us?traffic_source=rss"
+        "title": "Iran condemns US attacks on civilian infrastructure",
+        "published": "Mon, 20 Jul 2026 20:02:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Trump vows Iran will ‘pay’ for killing US soldiers",
+        "published": "Mon, 20 Jul 2026 18:21:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/20/now-or-never-students-defy-delhi-lockdown-to-march-on-indias-parliament?traffic_source=rss"
+      },
+      {
+        "title": "Petrol prices climb as US–Iran tensions disrupt markets",
+        "published": "Mon, 20 Jul 2026 17:40:29 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/20/fifa-world-cup-five-key-takeaways-from-2026-edition-won-by-spain?traffic_source=rss"
+      },
+      {
+        "title": "Israeli air strike injures 14 in Gaza City",
+        "published": "Mon, 20 Jul 2026 16:45:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/philippine-sailor-injured-during-clash-with-chinese-coast-guard?traffic_source=rss"
+      },
+      {
+        "title": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
+        "published": "Mon, 20 Jul 2026 16:12:07 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/20/spain-go-back-to-the-top-of-fifa-rankings-morocco-reach-a-record-high?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
