@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-20 08:57",
+  "updated_at_gst": "2026-07-20 11:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
-        "published": "Mon, 20 Jul 2026 01:48:59 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss"
+        "title": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
+        "published": "Mon, 20 Jul 2026 04:52:56 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss"
       },
       {
-        "title": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
-        "published": "Sun, 19 Jul 2026 23:49:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/19/us-vice-president-jd-vance-and-his-wife-announce-birth-of-fourth-child?traffic_source=rss"
+        "title": "US service member killed during detonation of Iranian drone in Iraq",
+        "published": "Mon, 20 Jul 2026 02:11:53 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/20/mbappe-takes-home-second-golden-boot-spain-sweeps-world-cup-awards?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: US military completes ninth night of strikes on Iran",
+        "published": "Mon, 20 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,22 +43,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Sirens Blare Across Kuwait Amid Iran Strikes",
+        "title": "Iran Strikes Bahrain, Kuwait, Iraq, Jordan With Missiles And Drones",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Kuwait · 19h ago. Air raid sirens sounded across Kuwait after Iranian missile and drone strikes, as US military claims retaliation.",
+        "title": "Sirens Blare Across Kuwait Amid Iran Strikes",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Ballistic Missiles Kill 2 US Troops, Destroy Aircraft in Jordan",
+        "title": "— S4 · Conflict · Kuwait · 22h ago. Air raid sirens sounded across Kuwait after Iranian missile and drone strikes, as US military claims retaliation.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Kuwaiti Power and Water Plant Again, Injuring Firefighters",
+        "title": "Iranian Ballistic Missiles Kill 2 US Troops, Destroy Aircraft in Jordan",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
