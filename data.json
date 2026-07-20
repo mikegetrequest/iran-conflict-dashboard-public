@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-21 02:43",
+  "updated_at_gst": "2026-07-21 03:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Suspect charged in fatal attack on UK politician Ann Widdecombe",
+        "published": "Mon, 20 Jul 2026 23:21:12 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/20/argentina-minus-messi-return-home-after-world-cup-final-heartbreak?traffic_source=rss"
+      },
       {
         "title": "War on Iran: War resumes 30 days after MoU",
         "published": "Mon, 20 Jul 2026 22:26:49 +0000",
@@ -53,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Limah, Oman · 33m ago. UKMTO reports an attack on a tanker 8 nautical miles northeast of Limah, Oman. The vessel was struck and is reporting over VHF Channel 16. Incident under investigation.",
+        "title": "Mediators Propose 10-Day Truce to Iran Amid US Strikes",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
