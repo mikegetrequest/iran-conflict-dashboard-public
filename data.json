@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-20 05:24",
+  "updated_at_gst": "2026-07-20 08:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,44 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: US military carries out another wave of strikes on Iran",
-        "published": "Mon, 20 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss"
+        "title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
+        "published": "Mon, 20 Jul 2026 01:48:59 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss"
       },
       {
-        "title": "Israeli ministers join march to Gaza to demand return of settlements",
-        "published": "Sun, 19 Jul 2026 20:55:11 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules?traffic_source=rss"
-      },
-      {
-        "title": "Twin earthquakes strike Peru killing at least five",
-        "published": "Sun, 19 Jul 2026 20:11:51 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/7/19/the-uk-gets-its-seventh-prime-minister-in-10-years?traffic_source=rss"
+        "title": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
+        "published": "Sun, 19 Jul 2026 23:49:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/19/us-vice-president-jd-vance-and-his-wife-announce-birth-of-fourth-child?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Strikes Tabriz, Khorramabad in Ninth Night of Iran Bombing Campaign",
+        "title": "US Military Launches 9th Consecutive Night of Strikes on Iran",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Sirens Blare Across Kuwait Amid Iran Strikes",
+        "title": "US Strikes Tabriz, Khorramabad in Ninth Night of Iran Bombing Campaign Against IRGC Targets Across 11 Cities, Strait of Hormuz Region, and Missile Fields; Sirens Sound in Kuwait, Bahrain; Vessel Catch",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Kuwait · 15h ago. Air raid sirens sounded across Kuwait after Iranian missile and drone strikes, as US military claims retaliation.",
+        "title": "Sirens Blare Across Kuwait Amid Iran Strikes",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Ballistic Missiles Kill 2 US Troops, Destroy Aircraft in Jordan",
+        "title": "— S4 · Conflict · Kuwait · 19h ago. Air raid sirens sounded across Kuwait after Iranian missile and drone strikes, as US military claims retaliation.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Kuwaiti Power and Water Plant Again, Injuring Firefighters",
+        "title": "Iranian Ballistic Missiles Kill 2 US Troops, Destroy Aircraft in Jordan",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Bases Across Middle East, Kills 2 US Troops in Jordan",
+        "title": "Iran Strikes Kuwaiti Power and Water Plant Again, Injuring Firefighters",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
