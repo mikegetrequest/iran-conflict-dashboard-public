@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-20 14:37",
+  "updated_at_gst": "2026-07-20 16:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran says Spain World Cup win brings joy to critics of US, Israel",
+        "published": "Mon, 20 Jul 2026 11:50:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel?traffic_source=rss"
+      },
+      {
         "title": "What does Iran’s attack on Kuwait infrastructure mean for Gulf?",
         "published": "Mon, 20 Jul 2026 10:08:00 +0000",
         "link": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spanish-boy-13-killed-in-fountain-collapse-during-celebrations?traffic_source=rss"
@@ -24,16 +29,6 @@
         "title": "Police attack Cockroach activists as thousands march on Indian parliament",
         "published": "Mon, 20 Jul 2026 09:51:25 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/20/turkiye-and-libyas-haftar-are-boosting-military-ties-is-egypt-worried?traffic_source=rss"
-      },
-      {
-        "title": "Rubio: US ‘open to diplomacy’ after ninth night of bombing Iran",
-        "published": "Mon, 20 Jul 2026 08:41:06 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/20/key-takeaways-from-the-world-cup-2026-final-as-spain-beat-argentina?traffic_source=rss"
-      },
-      {
-        "title": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
-        "published": "Mon, 20 Jul 2026 04:52:56 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Bases Across Middle East, Kills 2 US Troops in Jordan",
+        "title": "US Identifies Two Soldiers Killed in Iranian Attack on Jordan",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
