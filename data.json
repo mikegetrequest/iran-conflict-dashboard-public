@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-20 11:54",
+  "updated_at_gst": "2026-07-20 14:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "What does Iran’s attack on Kuwait infrastructure mean for Gulf?",
+        "published": "Mon, 20 Jul 2026 10:08:00 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spanish-boy-13-killed-in-fountain-collapse-during-celebrations?traffic_source=rss"
+      },
+      {
+        "title": "Police attack Cockroach activists as thousands march on Indian parliament",
+        "published": "Mon, 20 Jul 2026 09:51:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/20/turkiye-and-libyas-haftar-are-boosting-military-ties-is-egypt-worried?traffic_source=rss"
+      },
+      {
+        "title": "Rubio: US ‘open to diplomacy’ after ninth night of bombing Iran",
+        "published": "Mon, 20 Jul 2026 08:41:06 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/20/key-takeaways-from-the-world-cup-2026-final-as-spain-beat-argentina?traffic_source=rss"
+      },
+      {
         "title": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
         "published": "Mon, 20 Jul 2026 04:52:56 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "US service member killed during detonation of Iranian drone in Iraq",
-        "published": "Mon, 20 Jul 2026 02:11:53 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/20/mbappe-takes-home-second-golden-boot-spain-sweeps-world-cup-awards?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: US military completes ninth night of strikes on Iran",
-        "published": "Mon, 20 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Sirens Blare Across Kuwait Amid Iran Strikes",
+        "title": "Iranian Ballistic Missiles Kill 2 US Troops, Destroy Aircraft in Jordan",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Kuwait · 22h ago. Air raid sirens sounded across Kuwait after Iranian missile and drone strikes, as US military claims retaliation.",
+        "title": "Iran Strikes Kuwaiti Power and Water Plant Again, Injuring Firefighters",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Ballistic Missiles Kill 2 US Troops, Destroy Aircraft in Jordan",
+        "title": "Iran Strikes US Bases Across Middle East, Kills 2 US Troops in Jordan",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
