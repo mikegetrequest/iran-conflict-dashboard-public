@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-21 20:51",
+  "updated_at_gst": "2026-07-21 22:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Lebanon’s goal to end hostilities with Israel ‘forever’, says president",
+        "published": "Tue, 21 Jul 2026 17:30:32 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/21/salah-to-besiktas-footballs-transfer-window-centre-stage-after-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Trump vows to help Lebanon but offers no timeline for Israeli withdrawal",
+        "published": "Tue, 21 Jul 2026 16:58:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/21/police-arrest-indian-opposition-leader-gandhi-as-protests-continue-to-grow?traffic_source=rss"
+      },
+      {
+        "title": "Civilians faced attacks, abuse in joint US-Ecuador operations, HRW says",
+        "published": "Tue, 21 Jul 2026 16:53:24 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/7/21/external-review-finds-no-wrongdoing-in-gates-foundation-epstein?traffic_source=rss"
+      },
+      {
         "title": "Israel has ‘no interest’ in joining US war on Iran, says Smotrich",
         "published": "Tue, 21 Jul 2026 14:42:21 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/21/saudi-condemns-houthi-blockade-how-will-the-rest-of-the-world-be-impacted?traffic_source=rss"
-      },
-      {
-        "title": "ASEAN diplomats voice ‘serious concern’ over Iran war and energy crisis",
-        "published": "Tue, 21 Jul 2026 13:43:48 +0000",
-        "link": "https://www.aljazeera.com/video/money-works/2026/7/21/what-does-a-heatwave-cost?traffic_source=rss"
-      },
-      {
-        "title": "‘There is ‌no safe place’: Israeli attack kills family of six in Gaza",
-        "published": "Tue, 21 Jul 2026 13:26:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/21/trumps-new-50-percent-canada-tariffs-what-products-are-affected-and-why?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,27 +43,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Missiles and Drones at US Bases in Bahrain, Jordan, and Kuwait",
+        "title": "Patriot Missiles Launched From Erbil Airbase in Iraq",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Kurdish Opposition Groups in Iraq's Kurdistan Region",
+        "title": "— S3 · Conflict · Erbil Airbase, Iraq · 10m ago. Dozens of Patriot missiles launched from Erbil Airbase in northern Iraq to intercept incoming Iranian missiles amid ongoing US-Iran conflict.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Kurdistan Region, Iraq · 2h ago. Iran renews drone and missile attacks on Kurdish Iranian opposition groups and energy infrastructure in Iraqi Kurdistan amid US tensions.",
+        "title": "Iran Strikes Kurdish Opposition Groups in Iraq's Kurdistan Region",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Ballistic Missile From Lar, Fars Province",
+        "title": "— S3 · Conflict · Kurdistan Region, Iraq · 3h ago. Iran renews drone and missile attacks on Kurdish Iranian opposition groups and energy infrastructure in Iraqi Kurdistan amid US tensions.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Lar, Fars Province, Iran · 3h ago. Iran launched a ballistic missile from Lar, Fars Province, amid ongoing US-Iran conflict; destination unclear.",
+        "title": "Iran Launches Ballistic Missile From Lar, Fars Province",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
