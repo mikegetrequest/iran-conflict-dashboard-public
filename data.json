@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-21 13:56",
+  "updated_at_gst": "2026-07-21 15:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?",
-        "published": "Tue, 21 Jul 2026 09:04:50 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mamdani-says-he-takes-netanyahus-icc-arrest-warrant?traffic_source=rss"
-      },
-      {
-        "title": "Five Palestinians killed in fire after Israeli attack in Gaza",
-        "published": "Tue, 21 Jul 2026 07:55:43 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/21/world-cup-messi-thanks-argentina-fans-wound-will-take-time-to-heal?traffic_source=rss"
-      },
-      {
-        "title": "‘Active in BDS’: Document reveals how Israel scrutinised global NGOs",
-        "published": "Tue, 21 Jul 2026 06:26:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss"
+        "title": "Israeli forces open fire on children in Syrian village",
+        "published": "Tue, 21 Jul 2026 08:39:16 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/21/bangladesh-face-australia-test-might-as-cummins-hazlewood-and-lyon-return?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,27 +28,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Missiles and Drones at US Bases in Bahrain, Jordan, Kuwait, and Iraq",
+        "title": "Iran Launches Missiles and Drones at US Bases in Bahrain, Jordan, and Kuwait",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Ballistic Missiles Kill 2 US Troops, Destroy Aircraft in Jordan",
+        "title": "Iran Steps Up Attacks in Return to War with US",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Kuwaiti Power and Water Plant Again, Injuring Firefighters",
+        "title": "— S3 · Conflict · Persian Gulf · 7m ago. Iran has escalated its attacks, signaling a return to open conflict with the United States, following recent US military actions in the region.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Open Fire on Children in Syrian Village",
+        "title": "Iran Strikes Kuwaiti Power and Desalination Plants",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Syria · 1h ago. Israeli military personnel fired on a group of children in an unspecified Syrian village, raising tensions along the border.",
+        "title": "US Strikes Sever Fiber-Optic Links in Southern Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
