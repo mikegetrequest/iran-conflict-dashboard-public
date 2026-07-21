@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-21 23:56",
+  "updated_at_gst": "2026-07-22 00:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Can mediators broker a truce between the US and Iran?",
-        "published": "Tue, 21 Jul 2026 19:27:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/rescuers-search-for-flood-survivors-in-afghanistan?traffic_source=rss"
+        "title": "Iranians struggle to get by amid US war and domestic woes",
+        "published": "Tue, 21 Jul 2026 17:49:33 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/police-detain-rahul-gandhi-at-protest-outside-pm-modis-home?traffic_source=rss"
       },
       {
-        "title": "Trump says he’s open to talks with Hezbollah, vows to help Lebanon",
-        "published": "Tue, 21 Jul 2026 19:16:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/instagram-on-trial-for-allegedly-harming-kids?traffic_source=rss"
-      },
-      {
-        "title": "Netherlands to sanction trade with illegal Israeli settlements",
-        "published": "Tue, 21 Jul 2026 18:41:52 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/7/21/the-houthis-may-soon-discover-the-limits-of-saudi-strategic-patience?traffic_source=rss"
+        "title": "Lebanon’s goal to end hostilities with Israel ‘forever’, says president",
+        "published": "Tue, 21 Jul 2026 17:30:32 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/21/salah-to-besiktas-footballs-transfer-window-centre-stage-after-world-cup?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 2h ago. US B-1 bombers are en route to Iran for airstrikes on missile-related targets, the first such mission since the 40-day war.",
+        "title": "— S4 · Conflict · Tehran, Iran · 3h ago. US B-1 bombers are en route to Iran for airstrikes on missile-related targets, the first such mission since the 40-day war.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Deir Jarir, West Bank, Palestine · 2h ago. Israeli settlers, reportedly with IDF present, raided Deir Jarir in the West Bank, killing two Palestinians and wounding a third.",
+        "title": "Iran Strikes US Military Bases in Jordan, Bahrain, and Kuwait",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranians Face Soaring Hardship Amid US War and Domestic Crises",
+        "title": "Iran Strikes Radar Installations on Kuwait's Bubiyan Island",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Humanitarian · Iran · 2h ago. Rising living costs, electricity cuts, and bombarded infrastructure deepen civilian suffering in Iran during ongoing conflict with the US.",
+        "title": "— S3 · Conflict · Bubiyan Island, Kuwait · 52m ago. Iranian forces strike radar installations on Bubiyan Island, part of a broader effort to dismantle CENTCOM's radar network in Kuwait.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
