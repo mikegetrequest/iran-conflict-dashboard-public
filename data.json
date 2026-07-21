@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-21 15:42",
+  "updated_at_gst": "2026-07-21 17:09",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli forces open fire on children in Syrian village",
-        "published": "Tue, 21 Jul 2026 08:39:16 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/21/bangladesh-face-australia-test-might-as-cummins-hazlewood-and-lyon-return?traffic_source=rss"
+        "title": "Iran war: Look beyond stocks to understand state of economy, experts say",
+        "published": "Tue, 21 Jul 2026 12:34:05 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/21/how-a-64-team-world-cup-could-transform-footballs-economics?traffic_source=rss"
+      },
+      {
+        "title": "Hamas’s new leader must bridge a movement divided over Iran",
+        "published": "Tue, 21 Jul 2026 11:24:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/21/wont-back-down-indian-student-protesters-return-after-police-crackdown?traffic_source=rss"
+      },
+      {
+        "title": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
+        "published": "Tue, 21 Jul 2026 11:10:02 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/21/arizonas-primary-elections-which-us-races-to-watch-and-why-they-matter?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s Joseph Aoun to meet Trump: What to expect",
+        "published": "Tue, 21 Jul 2026 10:27:31 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/21/who-scored-the-most-goals-kept-clean-sheets-made-assists-fifa-world-cup-yellow-cards-saves?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,22 +48,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Steps Up Attacks in Return to War with US",
+        "title": "UN Condemns Intensifying Israeli Attacks in Gaza",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Persian Gulf · 7m ago. Iran has escalated its attacks, signaling a return to open conflict with the United States, following recent US military actions in the region.",
+        "title": "— S3 · Conflict · Erbil Air Base, Iraq · 50m ago. Sgt. Michael Emmanuel Swinton, 30, died during controlled detonation of an Iranian one-way attack drone at Erbil Air Base, Iraq on July 19, 2026.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Kuwaiti Power and Desalination Plants",
+        "title": "US Base in Erbil, Iraq, Sustains Damage From Attacks",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Sever Fiber-Optic Links in Southern Iran",
+        "title": "— S3 · Conflict · Erbil, Iraq · 1h ago. Satellite imagery confirms destruction of a tent housing Reconnaissance Balloon equipment at the US base in Erbil, Iraq, amid ongoing US-Iran conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
