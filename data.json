@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-21 17:09",
+  "updated_at_gst": "2026-07-21 19:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war: Look beyond stocks to understand state of economy, experts say",
-        "published": "Tue, 21 Jul 2026 12:34:05 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/21/how-a-64-team-world-cup-could-transform-footballs-economics?traffic_source=rss"
+        "title": "Israel has ‘no interest’ in joining US war on Iran, says Smotrich",
+        "published": "Tue, 21 Jul 2026 14:42:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/21/saudi-condemns-houthi-blockade-how-will-the-rest-of-the-world-be-impacted?traffic_source=rss"
       },
       {
-        "title": "Hamas’s new leader must bridge a movement divided over Iran",
-        "published": "Tue, 21 Jul 2026 11:24:05 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/21/wont-back-down-indian-student-protesters-return-after-police-crackdown?traffic_source=rss"
+        "title": "ASEAN diplomats voice ‘serious concern’ over Iran war and energy crisis",
+        "published": "Tue, 21 Jul 2026 13:43:48 +0000",
+        "link": "https://www.aljazeera.com/video/money-works/2026/7/21/what-does-a-heatwave-cost?traffic_source=rss"
       },
       {
-        "title": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
-        "published": "Tue, 21 Jul 2026 11:10:02 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/21/arizonas-primary-elections-which-us-races-to-watch-and-why-they-matter?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon’s Joseph Aoun to meet Trump: What to expect",
-        "published": "Tue, 21 Jul 2026 10:27:31 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/21/who-scored-the-most-goals-kept-clean-sheets-made-assists-fifa-world-cup-yellow-cards-saves?traffic_source=rss"
+        "title": "‘There is ‌no safe place’: Israeli attack kills family of six in Gaza",
+        "published": "Tue, 21 Jul 2026 13:26:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/21/trumps-new-50-percent-canada-tariffs-what-products-are-affected-and-why?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,22 +43,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "UN Condemns Intensifying Israeli Attacks in Gaza",
+        "title": "Iran Strikes Kurdish Opposition Groups in Iraq's Kurdistan Region",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Erbil Air Base, Iraq · 50m ago. Sgt. Michael Emmanuel Swinton, 30, died during controlled detonation of an Iranian one-way attack drone at Erbil Air Base, Iraq on July 19, 2026.",
+        "title": "— S3 · Conflict · Kurdistan Region, Iraq · 2m ago. Iran renews drone and missile attacks on Kurdish Iranian opposition groups and energy infrastructure in Iraqi Kurdistan amid US tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Base in Erbil, Iraq, Sustains Damage From Attacks",
+        "title": "Iran Launches Ballistic Missile From Lar, Fars Province",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Erbil, Iraq · 1h ago. Satellite imagery confirms destruction of a tent housing Reconnaissance Balloon equipment at the US base in Erbil, Iraq, amid ongoing US-Iran conflict.",
+        "title": "— S3 · Conflict · Lar, Fars Province, Iran · 2h ago. Iran launched a ballistic missile from Lar, Fars Province, amid ongoing US-Iran conflict; destination unclear.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
