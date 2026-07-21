@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-22 00:58",
+  "updated_at_gst": "2026-07-22 02:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iranians struggle to get by amid US war and domestic woes",
-        "published": "Tue, 21 Jul 2026 17:49:33 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/police-detain-rahul-gandhi-at-protest-outside-pm-modis-home?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon’s goal to end hostilities with Israel ‘forever’, says president",
-        "published": "Tue, 21 Jul 2026 17:30:32 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/21/salah-to-besiktas-footballs-transfer-window-centre-stage-after-world-cup?traffic_source=rss"
+        "title": "Iran holds funerals for children killed in Minab school strike",
+        "published": "Tue, 21 Jul 2026 21:13:02 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,7 +28,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 3h ago. US B-1 bombers are en route to Iran for airstrikes on missile-related targets, the first such mission since the 40-day war.",
+        "title": "— S4 · Conflict · Tehran, Iran · 4h ago. US B-1 bombers are en route to Iran for airstrikes on missile-related targets, the first such mission since the 40-day war.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bubiyan Island, Kuwait · 52m ago. Iranian forces strike radar installations on Bubiyan Island, part of a broader effort to dismantle CENTCOM's radar network in Kuwait.",
+        "title": "— S3 · Conflict · Bubiyan Island, Kuwait · 2h ago. Iranian forces strike radar installations on Bubiyan Island, part of a broader effort to dismantle CENTCOM's radar network in Kuwait.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
