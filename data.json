@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-21 08:39",
+  "updated_at_gst": "2026-07-21 11:25",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,30 +16,55 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire",
-        "published": "Tue, 21 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/20/msf-demands-israel-release-detained-palestinian-healthcare-workers?traffic_source=rss"
+        "title": "Lebanese return to ‘pilot zone’ villages they say Israel never occupied",
+        "published": "Tue, 21 Jul 2026 03:29:37 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss"
       },
       {
-        "title": "Suspect charged in fatal attack on UK politician Ann Widdecombe",
-        "published": "Mon, 20 Jul 2026 23:21:12 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/20/argentina-minus-messi-return-home-after-world-cup-final-heartbreak?traffic_source=rss"
+        "title": "US military releases footage of tenth consecutive night of strikes on Iran",
+        "published": "Tue, 21 Jul 2026 03:15:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why?traffic_source=rss"
       },
       {
-        "title": "War on Iran: War resumes 30 days after MoU",
-        "published": "Mon, 20 Jul 2026 22:26:49 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/moroccan-born-man-dies-while-detained-by-police-in-italy?traffic_source=rss"
+        "title": "US attacks Iran for 10th consecutive night",
+        "published": "Tue, 21 Jul 2026 00:06:33 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss"
+      },
+      {
+        "title": "MSF demands Israel release detained Palestinian healthcare workers",
+        "published": "Mon, 20 Jul 2026 23:41:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/20/suspect-charged-in-fatal-attack-on-uk-politician-ann-widdecombe?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "US Strikes Iran for 10th Consecutive Night, Hits Bandar Abbas and Qeshm Island; Iran Attacks Kuwait and Jordan, Houthis Threaten Shipping in Bab el-Mandeb Strait, Targeting Saudi Arabia; US Central Co",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "Iranian Ballistic Missiles Kill 2 US Troops, Destroy Aircraft in Jordan",
         "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Iran Strikes Kuwaiti Power and Water Plant Again, Injuring Firefighters",
+        "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. Israeli forces killed Adham Ibrahim Sha'aban Nasman, a senior Hamas commander involved in the Oct. 7 attacks and hostage-taking, in a joint IDF-Shin Bet operation.",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Israel Raises Flag, Sets Checkpoint in South Lebanon",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Southern Lebanon · 5h ago. Israeli forces establish a checkpoint and raise the Israeli flag in southern Lebanon, marking the start of an occupation.",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
