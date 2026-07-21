@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-21 11:25",
+  "updated_at_gst": "2026-07-21 13:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Lebanese return to ‘pilot zone’ villages they say Israel never occupied",
-        "published": "Tue, 21 Jul 2026 03:29:37 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss"
+        "title": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?",
+        "published": "Tue, 21 Jul 2026 09:04:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mamdani-says-he-takes-netanyahus-icc-arrest-warrant?traffic_source=rss"
       },
       {
-        "title": "US military releases footage of tenth consecutive night of strikes on Iran",
-        "published": "Tue, 21 Jul 2026 03:15:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why?traffic_source=rss"
+        "title": "Five Palestinians killed in fire after Israeli attack in Gaza",
+        "published": "Tue, 21 Jul 2026 07:55:43 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/21/world-cup-messi-thanks-argentina-fans-wound-will-take-time-to-heal?traffic_source=rss"
       },
       {
-        "title": "US attacks Iran for 10th consecutive night",
-        "published": "Tue, 21 Jul 2026 00:06:33 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss"
-      },
-      {
-        "title": "MSF demands Israel release detained Palestinian healthcare workers",
-        "published": "Mon, 20 Jul 2026 23:41:28 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/20/suspect-charged-in-fatal-attack-on-uk-politician-ann-widdecombe?traffic_source=rss"
+        "title": "‘Active in BDS’: Document reveals how Israel scrutinised global NGOs",
+        "published": "Tue, 21 Jul 2026 06:26:35 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,27 +38,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Ballistic Missiles Kill 2 US Troops, Destroy Aircraft in Jordan",
+        "title": "Iran Launches Missiles and Drones at US Bases in Bahrain, Jordan, Kuwait, and Iraq",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Kuwaiti Power and Water Plant Again, Injuring Firefighters",
+        "title": "Iranian Ballistic Missiles Kill 2 US Troops, Destroy Aircraft in Jordan",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. Israeli forces killed Adham Ibrahim Sha'aban Nasman, a senior Hamas commander involved in the Oct. 7 attacks and hostage-taking, in a joint IDF-Shin Bet operation.",
+        "title": "Iran Strikes Kuwaiti Power and Water Plant Again, Injuring Firefighters",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Raises Flag, Sets Checkpoint in South Lebanon",
+        "title": "Israeli Forces Open Fire on Children in Syrian Village",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon · 5h ago. Israeli forces establish a checkpoint and raise the Israeli flag in southern Lebanon, marking the start of an occupation.",
+        "title": "— S3 · Conflict · Syria · 1h ago. Israeli military personnel fired on a group of children in an unspecified Syrian village, raising tensions along the border.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
