@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-22 20:12",
+  "updated_at_gst": "2026-07-22 21:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "War on Iran: Hegseth wants $70B more to keep fighting",
-        "published": "Wed, 22 Jul 2026 15:52:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/22/proposed-us-saudi-nuclear-energy-deal-what-we-know-so-far?traffic_source=rss"
+        "title": "From towns to zones: Why Israel gives military names to civilian areas",
+        "published": "Wed, 22 Jul 2026 15:36:51 +0000",
+        "link": "https://www.aljazeera.com/video/people-power/2026/7/22/elon-and-the-other-gaza?traffic_source=rss"
       },
       {
-        "title": "‘This land will remain ours’ says a resident in Lebanon’s ‘pilot zone’",
-        "published": "Wed, 22 Jul 2026 13:07:59 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/22/just-want-to-go-back-lebanese-await-return-as-army-enters-pilot-zone?traffic_source=rss"
+        "title": "Trump threatens to bomb Iranian bridges, power plants over ship attacks",
+        "published": "Wed, 22 Jul 2026 15:24:13 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/7/22/the-morocco-algeria-rivalry-is-remaking-europes-north-africa-policy?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strike leaves two Palestinians burnt beyond recognition",
+        "published": "Wed, 22 Jul 2026 13:23:49 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/the-indian-football-tournament-where-goats-replace-trophies?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Kabudarahang County, Iran · 15h ago. US forces attacked Kabudarahang County in central Iran, expanding the strike campaign to a new area.",
+        "title": "— S4 · Conflict · Kabudarahang County, Iran · 16h ago. US forces attacked Kabudarahang County in central Iran, expanding the strike campaign to a new area.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -43,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Bushehr, Iran · 17h ago. Multiple US airstrikes targeted the city of Bushehr in southern Iran. Casualties and damage not yet confirmed.",
+        "title": "— S4 · Conflict · Bushehr, Iran · 19h ago. Multiple US airstrikes targeted the city of Bushehr in southern Iran. Casualties and damage not yet confirmed.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 22h ago. US B-1 bombers are en route to Iran for airstrikes on missile-related targets, the first such mission since the 40-day war.",
+        "title": "— S4 · Conflict · Tehran, Iran · 1d ago. US B-1 bombers are en route to Iran for airstrikes on missile-related targets, the first such mission since the 40-day war.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
