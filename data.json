@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-22 15:22",
+  "updated_at_gst": "2026-07-22 16:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,59 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US Secretary of State say Iran is in ‘a lot of trouble’",
-        "published": "Wed, 22 Jul 2026 11:05:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss"
-      },
-      {
-        "title": "America’s decades-old bipartisan consensus on Israel has been shattered",
-        "published": "Wed, 22 Jul 2026 09:45:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/22/russia-reports-injuries-after-top-online-retailer-wildberries-hit-again?traffic_source=rss"
-      },
-      {
-        "title": "Ossoff challenges Hegseth on cost and duration of Iran war",
-        "published": "Wed, 22 Jul 2026 09:30:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/al-jazeera-reports-from-anti-us-protest-outside-asean-summit?traffic_source=rss"
-      },
-      {
-        "title": "Iran, Gulf hit as Hormuz, Bab al-Mandeb close: What’s the latest?",
-        "published": "Wed, 22 Jul 2026 08:43:26 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/22/mexico-goalkeeper-guillermo-ochoa-retires-after-22-year-career?traffic_source=rss"
-      },
-      {
-        "title": "Air defences activate in Iran and flames rise from US attacks",
-        "published": "Wed, 22 Jul 2026 07:28:29 +0000",
-        "link": "https://www.aljazeera.com/video/featured-documentaries/2026/7/22/algeria-toxic-colonisation?traffic_source=rss"
+        "title": "Iran war’s $37bn price tag: Why does the Pentagon want $67bn more?",
+        "published": "Wed, 22 Jul 2026 12:05:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/22/creeping-death-israel-weaponises-yellow-line-to-annex-gaza?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Forces Attack Kabudarahang County in Central Iran",
+        "title": "US Missile Strikes Hit Iranian Island Near Strait of Hormuz",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Kabudarahang County, Iran · 10h ago. US forces attacked Kabudarahang County in central Iran, expanding the strike campaign to a new area.",
+        "title": "— S4 · Conflict · Larak Island, Iran · 1h ago. American missile strikes target Larak Island, a strategic Iranian island overlooking the Strait of Hormuz, according to Iranian state media Tasnim.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches 11th Night of Airstrikes on Iran, Including Tehran and Strait of Hormuz Areas, Expanding to New Provinces and Targeting Military Sites, Naval Capabilities, and Drone Storage to Degrade Thr",
+        "title": "US Forces Attack Kabudarahang County in Central Iran",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Bushehr, Iran · 13h ago. Multiple US airstrikes targeted the city of Bushehr in southern Iran. Casualties and damage not yet confirmed.",
+        "title": "— S4 · Conflict · Kabudarahang County, Iran · 11h ago. US forces attacked Kabudarahang County in central Iran, expanding the strike campaign to a new area.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "American B-1 Bombers Head to Iran to Strike Missile Cities",
+        "title": "US Launches 11th Night of Airstrikes on Iran, Including Tehran and Strait of Hormuz Areas, Expanding to New Provinces and Targeting Military Sites, Naval Capabilities, and Drone Storage to Degrade Thr",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 17h ago. US B-1 bombers are en route to Iran for airstrikes on missile-related targets, the first such mission since the 40-day war.",
+        "title": "— S4 · Conflict · Bushehr, Iran · 14h ago. Multiple US airstrikes targeted the city of Bushehr in southern Iran. Casualties and damage not yet confirmed.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
