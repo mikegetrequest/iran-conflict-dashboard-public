@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-23 00:03",
+  "updated_at_gst": "2026-07-23 01:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,23 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Trump push for Syrian intervention against Hezbollah ‘short-sighted’",
-        "published": "Wed, 22 Jul 2026 17:18:14 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
-        "published": "Wed, 22 Jul 2026 16:35:33 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/justice-for-lorenzo-protests-disrupt-houston-council-meeting?traffic_source=rss"
-      },
-      {
-        "title": "War on Iran: Hegseth wants $70B more to keep fighting",
-        "published": "Wed, 22 Jul 2026 15:52:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/22/proposed-us-saudi-nuclear-energy-deal-what-we-know-so-far?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "US Forces Attack Kabudarahang County in Central Iran",
@@ -38,7 +22,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Kabudarahang County, Iran · 19h ago. US forces attacked Kabudarahang County in central Iran, expanding the strike campaign to a new area.",
+        "title": "— S4 · Conflict · Kabudarahang County, Iran · 20h ago. US forces attacked Kabudarahang County in central Iran, expanding the strike campaign to a new area.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +32,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Bushehr, Iran · 21h ago. Multiple US airstrikes targeted the city of Bushehr in southern Iran. Casualties and damage not yet confirmed.",
+        "title": "— S4 · Conflict · Bushehr, Iran · 23h ago. Multiple US airstrikes targeted the city of Bushehr in southern Iran. Casualties and damage not yet confirmed.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
