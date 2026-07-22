@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-22 07:52",
+  "updated_at_gst": "2026-07-22 10:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
-        "published": "Wed, 22 Jul 2026 03:46:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/22/more-than-140-dead-missing-on-refugee-boat-stranded-off-mauritania?traffic_source=rss"
+        "title": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
+        "published": "Wed, 22 Jul 2026 05:02:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/guyana-ferry-capsize-death-toll-rises-to-53-as-survivors-describe-terror?traffic_source=rss"
       },
       {
-        "title": "Former Biden official can’t see ‘pilot zones’ scheme working in Lebanon",
-        "published": "Wed, 22 Jul 2026 01:21:29 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/leopard-caught-on-camera-storming-into-a-store-in-rajasthan-india?traffic_source=rss"
+        "title": "US attacks Iran for 11th consecutive night",
+        "published": "Tue, 21 Jul 2026 23:46:00 +0000",
+        "link": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss"
       },
       {
-        "title": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
-        "published": "Wed, 22 Jul 2026 00:00:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss"
-      },
-      {
-        "title": "Iran holds funerals for children killed in Minab school strike",
-        "published": "Tue, 21 Jul 2026 21:13:02 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss"
+        "title": "Trump administration attacks US left, alleging Cuba ties: Key takeaways",
+        "published": "Tue, 21 Jul 2026 22:55:43 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Kabudarahang County, Iran · 2h ago. US forces attacked Kabudarahang County in central Iran, expanding the strike campaign to a new area.",
+        "title": "— S4 · Conflict · Kabudarahang County, Iran · 5h ago. US forces attacked Kabudarahang County in central Iran, expanding the strike campaign to a new area.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches 11th Straight Night of Airstrikes on Iran Near Strait of Hormuz",
+        "title": "US Launches 11th Night of Airstrikes on Iran, Including Tehran and Strait of Hormuz Areas, Expanding to New Provinces and Targeting Military Sites, Naval Capabilities, and Drone Storage to Degrade Thr",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Bushehr, Iran · 5h ago. Multiple US airstrikes targeted the city of Bushehr in southern Iran. Casualties and damage not yet confirmed.",
+        "title": "— S4 · Conflict · Bushehr, Iran · 7h ago. Multiple US airstrikes targeted the city of Bushehr in southern Iran. Casualties and damage not yet confirmed.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -63,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 10h ago. US B-1 bombers are en route to Iran for airstrikes on missile-related targets, the first such mission since the 40-day war.",
+        "title": "— S4 · Conflict · Tehran, Iran · 12h ago. US B-1 bombers are en route to Iran for airstrikes on missile-related targets, the first such mission since the 40-day war.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
