@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-22 03:24",
+  "updated_at_gst": "2026-07-22 04:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran holds funerals for children killed in Minab school strike",
-        "published": "Tue, 21 Jul 2026 21:13:02 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss"
+        "title": "Explosions in Iran as US launches new strikes",
+        "published": "Tue, 21 Jul 2026 23:46:00 +0000",
+        "link": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss"
+      },
+      {
+        "title": "Trump administration attacks US left, alleging Cuba ties: Key takeaways",
+        "published": "Tue, 21 Jul 2026 22:55:43 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss"
+      },
+      {
+        "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
+        "published": "Tue, 21 Jul 2026 21:17:06 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss"
+      },
+      {
+        "title": "Daytime Russian strike kills three in Zaporizhzhia",
+        "published": "Tue, 21 Jul 2026 20:48:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss"
+      },
+      {
+        "title": "Kuwaitis ration electricity after Iranian strikes hit power grid",
+        "published": "Tue, 21 Jul 2026 20:06:57 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/21/us-judge-blocks-trump-bid-to-strip-work-permits-from-immigrants?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— S4 · Conflict · Bushehr, Iran · 35m ago. Multiple US airstrikes targeted the city of Bushehr in southern Iran. Casualties and damage not yet confirmed.",
+        "title": "— S4 · Conflict · Bushehr, Iran · 1h ago. Multiple US airstrikes targeted the city of Bushehr in southern Iran. Casualties and damage not yet confirmed.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -33,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 5h ago. US B-1 bombers are en route to Iran for airstrikes on missile-related targets, the first such mission since the 40-day war.",
+        "title": "— S4 · Conflict · Tehran, Iran · 6h ago. US B-1 bombers are en route to Iran for airstrikes on missile-related targets, the first such mission since the 40-day war.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +68,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Airstrikes Target City of Fasa in Southern Iran",
+        "title": "Multiple Explosions Heard in Pardis, Tehran Province, Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
