@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-22 18:52",
+  "updated_at_gst": "2026-07-22 20:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli strike leaves two Palestinians burnt beyond recognition",
-        "published": "Wed, 22 Jul 2026 13:23:49 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/the-indian-football-tournament-where-goats-replace-trophies?traffic_source=rss"
+        "title": "War on Iran: Hegseth wants $70B more to keep fighting",
+        "published": "Wed, 22 Jul 2026 15:52:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/22/proposed-us-saudi-nuclear-energy-deal-what-we-know-so-far?traffic_source=rss"
       },
       {
-        "title": "Settlers attack Palestinian towns in occupied West Bank",
-        "published": "Wed, 22 Jul 2026 12:51:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/22/can-the-suez-save-asian-oil-consumers-after-houthis-shut-bab-al-mandeb?traffic_source=rss"
-      },
-      {
-        "title": "‘Creeping death’: Israel weaponises ‘Yellow Line’ to annex Gaza",
-        "published": "Wed, 22 Jul 2026 11:52:29 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/22/italy-makes-financial-exceptions-in-bid-to-hire-pep-guardiola-as-coach?traffic_source=rss"
-      },
-      {
-        "title": "US Secretary of State say Iran is in ‘a lot of trouble’",
-        "published": "Wed, 22 Jul 2026 11:05:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss"
+        "title": "‘This land will remain ours’ says a resident in Lebanon’s ‘pilot zone’",
+        "published": "Wed, 22 Jul 2026 13:07:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/22/just-want-to-go-back-lebanese-await-return-as-army-enters-pilot-zone?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Kabudarahang County, Iran · 13h ago. US forces attacked Kabudarahang County in central Iran, expanding the strike campaign to a new area.",
+        "title": "— S4 · Conflict · Kabudarahang County, Iran · 15h ago. US forces attacked Kabudarahang County in central Iran, expanding the strike campaign to a new area.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Bushehr, Iran · 16h ago. Multiple US airstrikes targeted the city of Bushehr in southern Iran. Casualties and damage not yet confirmed.",
+        "title": "— S4 · Conflict · Bushehr, Iran · 17h ago. Multiple US airstrikes targeted the city of Bushehr in southern Iran. Casualties and damage not yet confirmed.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -63,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 21h ago. US B-1 bombers are en route to Iran for airstrikes on missile-related targets, the first such mission since the 40-day war.",
+        "title": "— S4 · Conflict · Tehran, Iran · 22h ago. US B-1 bombers are en route to Iran for airstrikes on missile-related targets, the first such mission since the 40-day war.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
