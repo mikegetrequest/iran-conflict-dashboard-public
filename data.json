@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-24 01:53",
+  "updated_at_gst": "2026-07-24 02:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US-Saudi nuclear deal hinges on normalisation with Israel",
-        "published": "Thu, 23 Jul 2026 21:41:25 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/rally-attendee-steals-the-show-by-mimicking-trumps-gestures?traffic_source=rss"
+        "title": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
+        "published": "Thu, 23 Jul 2026 21:43:28 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss"
       },
       {
-        "title": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
-        "published": "Thu, 23 Jul 2026 19:58:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss"
+        "title": "Children wounded in Israeli strike on Khan Younis",
+        "published": "Thu, 23 Jul 2026 18:55:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/23/world-bank-estimates-venezuela-earthquakes-caused-19-6bn-in-damage?traffic_source=rss"
+      },
+      {
+        "title": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
+        "published": "Thu, 23 Jul 2026 18:34:41 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/bordeaux-wildfire-burns-3100-hectares-20000-evacuated?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Persian Gulf · 3m ago. US President Trump threatens massive strikes after Iranian attacks on Bahrain, Kuwait, and Jordan escalate Gulf tensions.",
+        "title": "— S3 · Conflict · Persian Gulf · 54m ago. US President Trump threatens massive strikes after Iranian attacks on Bahrain, Kuwait, and Jordan escalate Gulf tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Tehran, Iran · 9m ago. Twitter account reports B-1B Lancers will participate in tonight's strikes against Iran, based on spotters and public information.",
+        "title": "— S3 · Political · Tehran, Iran · 1h ago. Twitter account reports B-1B Lancers will participate in tonight's strikes against Iran, based on spotters and public information.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
