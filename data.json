@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-23 17:18",
+  "updated_at_gst": "2026-07-23 19:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,44 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Can Iran withstand new pressure from the US?",
-        "published": "Thu, 23 Jul 2026 11:55:23 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/7/23/iraq-pm-heads-to-iran-can-baghdad-redefine-its-relationship-with-tehran?traffic_source=rss"
+        "title": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
+        "published": "Thu, 23 Jul 2026 11:53:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss"
       },
       {
-        "title": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
-        "published": "Thu, 23 Jul 2026 11:36:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/israel-releases-35-detainees-from-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Rubio says US policy on Iran is ‘a head for an eye’",
-        "published": "Thu, 23 Jul 2026 11:12:18 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/right-wing-israeli-groups-storm-al-aqsa-as-palestinians-barred-from-worship?traffic_source=rss"
+        "title": "Israel releases 35 detainees from Gaza",
+        "published": "Thu, 23 Jul 2026 11:36:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/23/why-a-north-sea-oilfield-is-emerging-as-british-pm-burnhams-big-test?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Strikes Hit Ali Al Salem Air Base in Kuwait, Buildings Destroyed",
+        "title": "UN Chief Warns US-Israel War on Iran Pushes Region to Edge of Unimaginable",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Ali Al Salem Air Base, Kuwait · 11m ago. New strikes hit Ali Al Salem Air Base in Kuwait, destroying multiple buildings amid ongoing US-Iran conflict.",
+        "title": "Israeli Forces Continue Attacks Across Southern Lebanon",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Hamas Praises Stabbing Attack in West Bank",
+        "title": "— S3 · Conflict · Southern Lebanon · 43m ago. Israeli forces continue attacks across southern Lebanon despite the deployment of the Lebanese army, escalating tensions in the region.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · West Bank, Palestine · 17m ago. Hamas issued a statement praising the stabbing attack near Alon Moreh in the occupied West Bank, calling it a heroic act of resistance.",
+        "title": "— S3 · Economic · Bab el-Mandeb · 54m ago. Brent crude oil prices reach $100/barrel as conflict in Bab el-Mandeb escalates and Trump threatens Iranian energy infrastructure.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Oil Soars Close to US$100 on Fresh Middle East Attacks",
+        "title": "Yemen Strikes Sanaa Runway to Block Iranian Weapons Flight to Houthis",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Middle East · 1h ago. Oil prices surged towards $100 per barrel following new attacks in the Middle East, indicating heightened geopolitical risk to oil supply from the region.",
+        "title": "— S3 · Political · Sanaa, Yemen · 1h ago. Iran sent leaders from the Revolutionary Guard and missile-related equipment to the Houthis in Yemen, according to sources.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
