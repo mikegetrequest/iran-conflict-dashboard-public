@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-24 00:48",
+  "updated_at_gst": "2026-07-24 01:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US-Saudi nuclear deal hinges on normalisation with Israel",
+        "published": "Thu, 23 Jul 2026 21:41:25 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/rally-attendee-steals-the-show-by-mimicking-trumps-gestures?traffic_source=rss"
+      },
+      {
         "title": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
         "published": "Thu, 23 Jul 2026 19:58:34 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
-        "published": "Thu, 23 Jul 2026 16:48:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation?traffic_source=rss"
-      },
-      {
-        "title": "US House votes to limit Iran war for first time since ceasefire breakdown",
-        "published": "Thu, 23 Jul 2026 16:12:43 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/7/23/the-missing-half-of-mediation?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,27 +33,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Resumes Full-Scale Airbridge to Middle East Amid Iran War Re-Escalation",
+        "title": "Iran Strikes King Faisal Air Base in Jordan, US Evacuates Aircraft",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Middle East · 4m ago. Dozens of USAF transport flights hop from European bases to the Middle East as the Iran war re-escalates, resuming a full-scale airbridge.",
+        "title": "Trump Warns of Largest Strikes on Iran as Tehran Attacks Gulf States",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "CENTCOM Redirects 12 Vessels, Disables 1 in Iran Naval Blockade",
+        "title": "— S3 · Conflict · Persian Gulf · 3m ago. US President Trump threatens massive strikes after Iranian attacks on Bahrain, Kuwait, and Jordan escalate Gulf tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Children Wounded in Israeli Strike on Khan Younis",
+        "title": "B-1B Lancers to Join Strikes Against Iran Tonight",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 2h ago. An Israeli strike hit a tent sheltering displaced people in Khan Younis, Gaza Strip, wounding children, raising concerns about civilian casualties.",
+        "title": "— S3 · Political · Tehran, Iran · 9m ago. Twitter account reports B-1B Lancers will participate in tonight's strikes against Iran, based on spotters and public information.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
