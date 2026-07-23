@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-23 03:51",
+  "updated_at_gst": "2026-07-23 05:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,54 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US launches new strikes as Iran warns of regional turmoil",
-        "published": "Wed, 22 Jul 2026 21:41:32 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss"
+        "title": "US House passes $1.15 trillion military bill expanding Israel cooperation",
+        "published": "Thu, 23 Jul 2026 00:29:52 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/ai-china-dark-factories-and-the-future-of-the-us-auto-industry?traffic_source=rss"
       },
       {
-        "title": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
-        "published": "Wed, 22 Jul 2026 20:20:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/22/un-rights-chief-condemns-nicaraguas-decision-to-abolish-elections?traffic_source=rss"
+        "title": "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers",
+        "published": "Thu, 23 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/austrian-home-where-hitler-was-born-reopened-as-police-station?traffic_source=rss"
       },
       {
-        "title": "Trump: Iran will ‘pay a big price’ for US troop deaths",
-        "published": "Wed, 22 Jul 2026 20:06:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss"
+        "title": "Yemen’s Houthis claim attack on two Saudi oil tankers",
+        "published": "Wed, 22 Jul 2026 22:26:14 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/22/rubio-says-us-china-must-work-through-big-differences-at-asean-meeting?traffic_source=rss"
+      },
+      {
+        "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
+        "published": "Wed, 22 Jul 2026 22:03:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Forces Attack Kabudarahang County in Central Iran",
+        "title": "US Launches 11th Night of Airstrikes on Iran, Including Tehran and Strait of Hormuz Areas, Expanding to New Provinces and Targeting Military Sites, Naval Capabilities, and Drone Storage to Degrade Thr",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Kabudarahang County, Iran · 22h ago. US forces attacked Kabudarahang County in central Iran, expanding the strike campaign to a new area.",
+        "title": "Iran Strikes US Military Bases in Jordan, Bahrain, and Kuwait",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches 11th Night of Airstrikes on Iran, Including Tehran and Strait of Hormuz Areas, Expanding to New Provinces and Targeting Military Sites, Naval Capabilities, and Drone Storage to Degrade Thr",
+        "title": "US Strikes Target Site Near Andimeshk, Iran",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Bushehr, Iran · 1d ago. Multiple US airstrikes targeted the city of Bushehr in southern Iran. Casualties and damage not yet confirmed.",
+        "title": "— S3 · Conflict · Andimeshk, Khuzestan, Iran · 1h ago. US airstrikes hit Andimeshk in Khuzestan Province, Iran, as part of ongoing US-Iran conflict.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iran for 10th Consecutive Night, Hits Bandar Abbas and Qeshm Island; Iran Attacks Kuwait and Jordan, Houthis Threaten Shipping in Bab el-Mandeb Strait, Targeting Saudi Arabia; US Central Co",
+        "title": "US Airstrike Hits Iranian Police Rest Area Near Shalamcheh Border Crossing, Several Killed",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Military Bases in Jordan, Bahrain, and Kuwait",
+        "title": "— S3 · Conflict · Shalamcheh, Khuzestan, Iran · 1h ago. Deputy Security Governor of Khuzestan Province Valiollah Hayati confirms US airstrike near the Shalamcheh passenger border crossing between Iran and Iraq.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
