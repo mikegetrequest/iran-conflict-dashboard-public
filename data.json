@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-23 13:43",
+  "updated_at_gst": "2026-07-23 15:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran, Houthis strike tankers as US bombing continues: What’s the latest?",
-        "published": "Thu, 23 Jul 2026 09:20:46 +0000",
-        "link": "https://www.aljazeera.com/features/2026/7/23/televising-our-revolution-indias-gen-z-flips-modis-social-media-game?traffic_source=rss"
+        "title": "Will the war on Iran affect ASEAN’s efforts to tackle regional issues?",
+        "published": "Thu, 23 Jul 2026 05:44:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/aje-onl-nf_france-battles-massive-wildfires-amid-extreme-heat-230726?traffic_source=rss"
       },
       {
-        "title": "More than 2,300 Israelis storm Al-Aqsa Mosque in Jerusalem",
-        "published": "Thu, 23 Jul 2026 09:18:37 +0000",
-        "link": "https://www.aljazeera.com/features/2026/7/23/back-from-the-dead-the-continuing-agony-of-gazas-9500-missing-persons?traffic_source=rss"
-      },
-      {
-        "title": "Indian activist Wangchuk sets conditions to end hunger strike",
-        "published": "Thu, 23 Jul 2026 08:19:22 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/7/23/photos-gazas-shelter-crisis?traffic_source=rss"
-      },
-      {
-        "title": "Travellers panic as US attacks Iran-Iraq border crossing",
-        "published": "Thu, 23 Jul 2026 07:56:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/23/indias-modi-promises-fast-track-courts-for-exam-fraud-fuelling-protests?traffic_source=rss"
-      },
-      {
-        "title": "Israel building earthen barrier in Gaza to entrench division of the enclave",
-        "published": "Thu, 23 Jul 2026 05:15:27 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/23/guyana-ferry-disaster-families-demand-answers-as-around-100-feared-dead?traffic_source=rss"
+        "title": "US attacks Iran for 12th night as the House approves defence spending",
+        "published": "Thu, 23 Jul 2026 05:36:27 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,27 +33,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran and Houthis Strike Tankers as US Bombing Continues",
+        "title": "Houthis Attack Saudi Oil Tankers in Red Sea",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bab el-Mandeb · 16m ago. Iranian and Houthi forces attacked tankers, disrupting shipping in the Bab el-Mandeb Strait and Strait of Hormuz, while US bombing operations persist in the region.",
+        "title": "— S3 · Conflict · Bab el-Mandeb · 3m ago. Houthi forces are reportedly targeting Saudi oil tankers in the Red Sea, raising concerns about major energy supply implications amidst renewed tensions with Iran.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US B-1B Bombers Strike IRGC Sites in Iran",
+        "title": "US Troops Killed in Trump's Iran War Remembered",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Tehran, Iran · 6h ago. First US strikes on Iran since ceasefire failed; B-1B Lancers hit IRGC-operated sites, per US officials.",
+        "title": "— S3 · Conflict · Middle East · 1h ago. The Pentagon identified four US service members killed in the Middle East over the past week, bringing the total to 18 US troops killed in the ongoing conflict with Iran.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US B-1 Lancer Bomber Strikes IRGC Targets in Iran\n\nAn improved title that includes the specific aircraft type for clarity while staying within the 80-character limit and maintaining the wire-service h",
+        "title": "Ramat Gan Opens Bomb Shelters as US, Iran Intensify Strikes",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
