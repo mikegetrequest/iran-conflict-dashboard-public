@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-23 05:27",
+  "updated_at_gst": "2026-07-23 08:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US House passes $1.15 trillion military bill expanding Israel cooperation",
-        "published": "Thu, 23 Jul 2026 00:29:52 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/ai-china-dark-factories-and-the-future-of-the-us-auto-industry?traffic_source=rss"
+        "title": "Five soldiers killed in southern Thailand checkpoint attack",
+        "published": "Thu, 23 Jul 2026 03:53:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/calls-for-moroccan-rappers-release-outside-a-casablanca-court?traffic_source=rss"
       },
       {
-        "title": "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers",
-        "published": "Thu, 23 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/austrian-home-where-hitler-was-born-reopened-as-police-station?traffic_source=rss"
+        "title": "Armed attackers kill more than 20 in northwest Nigeria",
+        "published": "Thu, 23 Jul 2026 03:21:00 +0000",
+        "link": "https://www.aljazeera.com/features/2026/7/23/in-gaza-a-long-path-to-recovery-for-one-woman-who-lost-eye-and-daughter?traffic_source=rss"
       },
       {
-        "title": "Yemen’s Houthis claim attack on two Saudi oil tankers",
-        "published": "Wed, 22 Jul 2026 22:26:14 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/22/rubio-says-us-china-must-work-through-big-differences-at-asean-meeting?traffic_source=rss"
-      },
-      {
-        "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
-        "published": "Wed, 22 Jul 2026 22:03:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss"
+        "title": "US launches new strikes as Iran warns of regional turmoil",
+        "published": "Wed, 22 Jul 2026 21:41:32 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,22 +43,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Target Site Near Andimeshk, Iran",
+        "title": "US B-1B Bombers Strike IRGC Sites in Iran",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Andimeshk, Khuzestan, Iran · 1h ago. US airstrikes hit Andimeshk in Khuzestan Province, Iran, as part of ongoing US-Iran conflict.",
+        "title": "— S3 · Conflict · Tehran, Iran · 34m ago. First US strikes on Iran since ceasefire failed; B-1B Lancers hit IRGC-operated sites, per US officials.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Airstrike Hits Iranian Police Rest Area Near Shalamcheh Border Crossing, Several Killed",
+        "title": "US B-1 Lancer Bomber Strikes IRGC Targets in Iran\n\nAn improved title that includes the specific aircraft type for clarity while staying within the 80-character limit and maintaining the wire-service h",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Shalamcheh, Khuzestan, Iran · 1h ago. Deputy Security Governor of Khuzestan Province Valiollah Hayati confirms US airstrike near the Shalamcheh passenger border crossing between Iran and Iraq.",
+        "title": "— S3 · Conflict · Iran · 2h ago. The U.S. military used a B-1 long-range bomber to strike Islamic Revolutionary Guard Corps targets in Iran, U.S. officials said.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
