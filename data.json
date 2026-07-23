@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-23 23:52",
+  "updated_at_gst": "2026-07-24 00:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
+        "published": "Thu, 23 Jul 2026 19:58:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss"
+      },
+      {
         "title": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
         "published": "Thu, 23 Jul 2026 16:48:55 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation?traffic_source=rss"
@@ -28,13 +33,33 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "UN Chief Warns US-Israel War on Iran Pushes Region to Edge of Unimaginable",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "US Resumes Full-Scale Airbridge to Middle East Amid Iran War Re-Escalation",
         "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Political · Middle East · 4m ago. Dozens of USAF transport flights hop from European bases to the Middle East as the Iran war re-escalates, resuming a full-scale airbridge.",
+        "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "CENTCOM Redirects 12 Vessels, Disables 1 in Iran Naval Blockade",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Children Wounded in Israeli Strike on Khan Younis",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 2h ago. An Israeli strike hit a tent sheltering displaced people in Khan Younis, Gaza Strip, wounding children, raising concerns about civilian casualties.",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
