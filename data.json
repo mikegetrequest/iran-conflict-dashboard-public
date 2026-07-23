@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-23 19:29",
+  "updated_at_gst": "2026-07-23 20:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
-        "published": "Thu, 23 Jul 2026 11:53:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss"
+        "title": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
+        "published": "Thu, 23 Jul 2026 16:48:55 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation?traffic_source=rss"
       },
       {
-        "title": "Israel releases 35 detainees from Gaza",
-        "published": "Thu, 23 Jul 2026 11:36:28 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/23/why-a-north-sea-oilfield-is-emerging-as-british-pm-burnhams-big-test?traffic_source=rss"
+        "title": "US House votes to limit Iran war for first time since ceasefire breakdown",
+        "published": "Thu, 23 Jul 2026 16:12:43 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/7/23/the-missing-half-of-mediation?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,27 +33,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Continue Attacks Across Southern Lebanon",
+        "title": "Iran Continues Death Sentences for January Protesters",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon · 43m ago. Israeli forces continue attacks across southern Lebanon despite the deployment of the Lebanese army, escalating tensions in the region.",
+        "title": "— S3 · Political · Iran · 8m ago. Iran continues issuing death sentences to individuals involved in January protests, ongoing suppression of dissent.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Bab el-Mandeb · 54m ago. Brent crude oil prices reach $100/barrel as conflict in Bab el-Mandeb escalates and Trump threatens Iranian energy infrastructure.",
+        "title": "Israeli Drone Strike Wounds Paramedics in Southern Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen Strikes Sanaa Runway to Block Iranian Weapons Flight to Houthis",
+        "title": "— S3 · Conflict · Southern Lebanon · 55m ago. An Israeli drone strike wounded paramedics in southern Lebanon, state media reports.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Sanaa, Yemen · 1h ago. Iran sent leaders from the Revolutionary Guard and missile-related equipment to the Houthis in Yemen, according to sources.",
+        "title": "Iran Claims Ballistic Missile Hit US Barracks in Kuwait",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
