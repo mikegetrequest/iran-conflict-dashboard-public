@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-23 15:43",
+  "updated_at_gst": "2026-07-23 17:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Will the war on Iran affect ASEAN’s efforts to tackle regional issues?",
-        "published": "Thu, 23 Jul 2026 05:44:13 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/aje-onl-nf_france-battles-massive-wildfires-amid-extreme-heat-230726?traffic_source=rss"
+        "title": "Can Iran withstand new pressure from the US?",
+        "published": "Thu, 23 Jul 2026 11:55:23 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/7/23/iraq-pm-heads-to-iran-can-baghdad-redefine-its-relationship-with-tehran?traffic_source=rss"
       },
       {
-        "title": "US attacks Iran for 12th night as the House approves defence spending",
-        "published": "Thu, 23 Jul 2026 05:36:27 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss"
+        "title": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
+        "published": "Thu, 23 Jul 2026 11:36:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/israel-releases-35-detainees-from-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Rubio says US policy on Iran is ‘a head for an eye’",
+        "published": "Thu, 23 Jul 2026 11:12:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/right-wing-israeli-groups-storm-al-aqsa-as-palestinians-barred-from-worship?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Launches 11th Night of Airstrikes on Iran, Including Tehran and Strait of Hormuz Areas, Expanding to New Provinces and Targeting Military Sites, Naval Capabilities, and Drone Storage to Degrade Thr",
+        "title": "Strikes Hit Ali Al Salem Air Base in Kuwait, Buildings Destroyed",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Attack Saudi Oil Tankers in Red Sea",
+        "title": "— S3 · Conflict · Ali Al Salem Air Base, Kuwait · 11m ago. New strikes hit Ali Al Salem Air Base in Kuwait, destroying multiple buildings amid ongoing US-Iran conflict.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bab el-Mandeb · 3m ago. Houthi forces are reportedly targeting Saudi oil tankers in the Red Sea, raising concerns about major energy supply implications amidst renewed tensions with Iran.",
+        "title": "Hamas Praises Stabbing Attack in West Bank",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Troops Killed in Trump's Iran War Remembered",
+        "title": "— S3 · Political · West Bank, Palestine · 17m ago. Hamas issued a statement praising the stabbing attack near Alon Moreh in the occupied West Bank, calling it a heroic act of resistance.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Middle East · 1h ago. The Pentagon identified four US service members killed in the Middle East over the past week, bringing the total to 18 US troops killed in the ongoing conflict with Iran.",
+        "title": "Oil Soars Close to US$100 on Fresh Middle East Attacks",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ramat Gan Opens Bomb Shelters as US, Iran Intensify Strikes",
+        "title": "— S3 · Economic · Middle East · 1h ago. Oil prices surged towards $100 per barrel following new attacks in the Middle East, indicating heightened geopolitical risk to oil supply from the region.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
