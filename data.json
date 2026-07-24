@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-24 21:56",
+  "updated_at_gst": "2026-07-24 23:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
+        "published": "Fri, 24 Jul 2026 18:15:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/trumps-israel-condition-on-saudi-nuclear-deal?traffic_source=rss"
+      },
+      {
+        "title": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp",
+        "published": "Fri, 24 Jul 2026 18:01:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-raids-hospital-shuts-off-nablus-following-deadly-settler-attack?traffic_source=rss"
+      },
+      {
         "title": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
         "published": "Fri, 24 Jul 2026 16:01:18 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-builds-gaza-barrier-as-politicians-push-for-settlements?traffic_source=rss"
-      },
-      {
-        "title": "US summons Malaysia envoy over Israel policy",
-        "published": "Fri, 24 Jul 2026 12:49:27 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/24/bangladesh-president-mohammed-shahabuddin-resigns?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Plans West Bank Operation After Settler Attack Kills Six",
+        "title": "US Airstrike Hits Near Shalamcheh Border Crossing, Iraq",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Expands Attacks in Iran as Trump Warns Tehran and Houthis",
+        "title": "— S3 · Conflict · Shalamcheh Border Crossing, Iraq · 55m ago. US airstrike targets area near the Shalamcheh border crossing in southern Iraq, part of ongoing US-Iran military operations.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Bombs US Bases in Gulf, Three American Soldiers Killed",
+        "title": "Israeli Strikes Leave Huge Crater in Gaza Refugee Camp",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
