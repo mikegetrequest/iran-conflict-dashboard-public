@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-24 05:23",
+  "updated_at_gst": "2026-07-24 08:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,64 +16,54 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel bombs Gaza after displacement orders, kills two Palestinians",
-        "published": "Fri, 24 Jul 2026 00:29:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks?traffic_source=rss"
+        "title": "US launches 13th night of strikes as Iran warns of escalation in the Gulf",
+        "published": "Fri, 24 Jul 2026 02:25:41 +0000",
+        "link": "https://www.aljazeera.com/features/2026/7/24/theres-no-salary-drc-health-workers-tell-of-hardship-as-ebola-spreads?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump weighs ‘massive attack’ on Iran",
-        "published": "Fri, 24 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/23/trump-expands-voluntary-pledge-to-blunt-ai-driven-utility-bill-surges?traffic_source=rss"
+        "title": "Analyst: voting against Iran war funding a tough sell for Congress",
+        "published": "Fri, 24 Jul 2026 00:30:43 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss"
       },
       {
-        "title": "Two Palestinians killed as Israel intensifies strikes on Gaza City",
-        "published": "Thu, 23 Jul 2026 23:53:13 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-the-houthi-red-sea-blockade-will-impact-the-world?traffic_source=rss"
+        "title": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
+        "published": "Fri, 24 Jul 2026 00:03:25 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran?traffic_source=rss"
       },
       {
-        "title": "Arab and Muslim countries condemn Israeli storming of Al-Aqsa Mosque",
-        "published": "Thu, 23 Jul 2026 22:51:20 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/is-this-italys-george-floyd?traffic_source=rss"
-      },
-      {
-        "title": "US war on Iran: The $110 billion price tag",
-        "published": "Thu, 23 Jul 2026 22:04:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss"
-      },
-      {
-        "title": "US-Saudi nuclear deal hinges on normalisation with Israel",
-        "published": "Thu, 23 Jul 2026 21:41:25 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/rally-attendee-steals-the-show-by-mimicking-trumps-gestures?traffic_source=rss"
+        "title": "US attacks Iran for 13th night as Trump threatens ‘bigger’ strikes",
+        "published": "Thu, 23 Jul 2026 21:43:28 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Strikes IRGC Targets Near Ahvaz, Iran, for 13th Consecutive Night",
+        "title": "US Strikes Iranian Military Targets for 13th Consecutive Night",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 2h ago. CENTCOM announces 13th consecutive night of US airstrikes against IRGC targets in Iran, beginning at 6:45 p.m. ET as operations continue to protect commercial shipping.",
+        "title": "UN Chief Warns US-Israel War on Iran Pushes Region to Edge of Unimaginable",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "UN Chief Warns US-Israel War on Iran Pushes Region to Edge of Unimaginable",
+        "title": "US Completes 12th Consecutive Night of Airstrikes on Southern Iran",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Completes 12th Consecutive Night of Airstrikes on Southern Iran",
+        "title": "Iran Strikes King Faisal Air Base in Jordan, US Evacuates Aircraft",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes King Faisal Air Base in Jordan, US Evacuates Aircraft",
+        "title": "Iranian Drone Strike Hits US HIMARS Launcher in Kuwait",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosions Reported Across Multiple Cities in Iran",
+        "title": "Iran Launches Ballistic Missiles at Bases in Jordan\n\nTargeting Jordan amid ongoing US-Iran tensions, Iran fired multiple ballistic missiles from Tehran and Isfahan provinces. No confirmation of casual",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
