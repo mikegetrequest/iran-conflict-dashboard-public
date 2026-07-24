@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-24 18:40",
+  "updated_at_gst": "2026-07-24 21:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Five killed in occupied West Bank after Israeli settlers attack",
-        "published": "Fri, 24 Jul 2026 13:19:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss"
+        "title": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
+        "published": "Fri, 24 Jul 2026 16:01:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-builds-gaza-barrier-as-politicians-push-for-settlements?traffic_source=rss"
       },
       {
-        "title": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
-        "published": "Fri, 24 Jul 2026 09:35:39 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/24/germany-appoint-klopp-as-ex-liverpool-coach-sought-to-lift-world-cup-blues?traffic_source=rss"
+        "title": "US summons Malaysia envoy over Israel policy",
+        "published": "Fri, 24 Jul 2026 12:49:27 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/24/bangladesh-president-mohammed-shahabuddin-resigns?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,27 +33,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "UN Chief Warns US-Israel War on Iran Pushes Region to Edge of Unimaginable",
+        "title": "US Completes 12th Consecutive Night of Airstrikes on Southern Iran",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Completes 12th Consecutive Night of Airstrikes on Southern Iran",
+        "title": "Iran Strikes King Faisal Air Base in Jordan, US Evacuates Aircraft",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes King Faisal Air Base in Jordan, US Evacuates Aircraft",
+        "title": "Israel Plans West Bank Operation After Settler Attack Kills Six",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Netanyahu Orders Tougher West Bank Measures After Deadly Attack",
+        "title": "US Expands Attacks in Iran as Trump Warns Tehran and Houthis",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "B-1B Lancers Strike Deep Inside Iran",
+        "title": "Iran Bombs US Bases in Gulf, Three American Soldiers Killed",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
