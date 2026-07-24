@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-24 08:40",
+  "updated_at_gst": "2026-07-24 11:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Indian activist Wangchuk ends 26-day hunger strike",
+        "published": "Fri, 24 Jul 2026 07:08:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss"
+      },
+      {
+        "title": "Israel carries out blasts across south Lebanon despite ‘ceasefire’ deal",
+        "published": "Fri, 24 Jul 2026 04:39:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/albanian-police-use-water-cannon-on-protesters-over-kushner-linked-resort?traffic_source=rss"
+      },
+      {
         "title": "US launches 13th night of strikes as Iran warns of escalation in the Gulf",
         "published": "Fri, 24 Jul 2026 02:25:41 +0000",
         "link": "https://www.aljazeera.com/features/2026/7/24/theres-no-salary-drc-health-workers-tell-of-hardship-as-ebola-spreads?traffic_source=rss"
@@ -29,11 +39,6 @@
         "title": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
         "published": "Fri, 24 Jul 2026 00:03:25 +0000",
         "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "US attacks Iran for 13th night as Trump threatens ‘bigger’ strikes",
-        "published": "Thu, 23 Jul 2026 21:43:28 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,12 +63,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Drone Strike Hits US HIMARS Launcher in Kuwait",
+        "title": "Israeli Settler Killed, Three Injured in West Bank Clashes",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Ballistic Missiles at Bases in Jordan\n\nTargeting Jordan amid ongoing US-Iran tensions, Iran fired multiple ballistic missiles from Tehran and Isfahan provinces. No confirmation of casual",
+        "title": "— S3 · Conflict · West Bank, Palestine · 23m ago. One Israeli settler was killed and three others injured in clashes in the West Bank, marking a significant escalation.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
