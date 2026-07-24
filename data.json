@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-24 15:28",
+  "updated_at_gst": "2026-07-24 16:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
+        "published": "Fri, 24 Jul 2026 11:45:04 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/24/australia-world-cup-star-volpato-in-speeding-and-cocaine-charge-police-say?traffic_source=rss"
+      },
+      {
         "title": "Israel’s illegal settlements are Europe’s credibility test",
         "published": "Fri, 24 Jul 2026 09:59:37 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
         "published": "Fri, 24 Jul 2026 07:59:01 +0000",
         "link": "https://www.aljazeera.com/sports/2026/7/24/real-madrid-legend-ancelotti-rivals-barcelona-great-guardiola-for-italy-job?traffic_source=rss"
-      },
-      {
-        "title": "Indian activist Wangchuk ends 26-day hunger strike",
-        "published": "Fri, 24 Jul 2026 07:08:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US-Iran Fighting Escalates Near US Base in Iraq, Sirens in Bahrain",
+        "title": "Israeli Military Vehicles Storm Nablus, West Bank",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Army Investigation Says Settlers Caused Deadly West Bank Shootout",
+        "title": "— S3 · Conflict · Nablus, West Bank, Palestine · 1m ago. More than a dozen Israeli military vehicles entered Nablus following a shootout, escalating tensions in the West Bank.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
