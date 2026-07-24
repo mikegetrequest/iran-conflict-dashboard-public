@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-24 13:40",
+  "updated_at_gst": "2026-07-24 15:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israel’s illegal settlements are Europe’s credibility test",
+        "published": "Fri, 24 Jul 2026 09:59:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss"
+      },
+      {
         "title": "US attacks Iran for 13th consecutive night",
         "published": "Fri, 24 Jul 2026 08:39:53 +0000",
         "link": "https://www.aljazeera.com/sports/2026/7/24/sooryavanshi-18-ball-fifty-tops-tremendous-india-t20-win-over-zimbabwe?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Indian activist Wangchuk ends 26-day hunger strike",
         "published": "Fri, 24 Jul 2026 07:08:21 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss"
-      },
-      {
-        "title": "Israel carries out blasts across south Lebanon despite ‘ceasefire’ deal",
-        "published": "Fri, 24 Jul 2026 04:39:50 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/albanian-police-use-water-cannon-on-protesters-over-kushner-linked-resort?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Erbil, Iraq · 13m ago. An explosion was reported near the US consulate compound in Erbil, Iraq, attributed to Iranian missile and drone strikes.",
+        "title": "US-Iran Fighting Escalates Near US Base in Iraq, Sirens in Bahrain",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Third West Bank Attack in 24 Hours Prompts Calls for Iron Fist Response",
+        "title": "Israeli Army Investigation Says Settlers Caused Deadly West Bank Shootout",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
