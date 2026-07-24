@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-24 03:46",
+  "updated_at_gst": "2026-07-24 05:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
-        "published": "Thu, 23 Jul 2026 21:43:28 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss"
+        "title": "Israel bombs Gaza after displacement orders, kills two Palestinians",
+        "published": "Fri, 24 Jul 2026 00:29:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks?traffic_source=rss"
       },
       {
-        "title": "Children wounded in Israeli strike on Khan Younis",
-        "published": "Thu, 23 Jul 2026 18:55:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/23/world-bank-estimates-venezuela-earthquakes-caused-19-6bn-in-damage?traffic_source=rss"
+        "title": "Iran war live: Trump weighs ‘massive attack’ on Iran",
+        "published": "Fri, 24 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/23/trump-expands-voluntary-pledge-to-blunt-ai-driven-utility-bill-surges?traffic_source=rss"
+      },
+      {
+        "title": "Two Palestinians killed as Israel intensifies strikes on Gaza City",
+        "published": "Thu, 23 Jul 2026 23:53:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-the-houthi-red-sea-blockade-will-impact-the-world?traffic_source=rss"
+      },
+      {
+        "title": "Arab and Muslim countries condemn Israeli storming of Al-Aqsa Mosque",
+        "published": "Thu, 23 Jul 2026 22:51:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/is-this-italys-george-floyd?traffic_source=rss"
+      },
+      {
+        "title": "US war on Iran: The $110 billion price tag",
+        "published": "Thu, 23 Jul 2026 22:04:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss"
+      },
+      {
+        "title": "US-Saudi nuclear deal hinges on normalisation with Israel",
+        "published": "Thu, 23 Jul 2026 21:41:25 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/rally-attendee-steals-the-show-by-mimicking-trumps-gestures?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 26m ago. CENTCOM announces 13th consecutive night of US airstrikes against IRGC targets in Iran, beginning at 6:45 p.m. ET as operations continue to protect commercial shipping.",
+        "title": "— S4 · Conflict · Iran · 2h ago. CENTCOM announces 13th consecutive night of US airstrikes against IRGC targets in Iran, beginning at 6:45 p.m. ET as operations continue to protect commercial shipping.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +73,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Airstrikes Hit Iranian City of Ahvaz",
+        "title": "Explosions Reported Across Multiple Cities in Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
