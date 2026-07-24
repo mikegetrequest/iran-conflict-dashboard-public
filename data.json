@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-25 00:42",
+  "updated_at_gst": "2026-07-25 01:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran’s Abbas Araghchi vows ‘we fear no one’",
+        "published": "Fri, 24 Jul 2026 21:24:38 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/24/fury-dominates-wach-in-thailand-boxing-bout-ahead-of-joshua-showdown?traffic_source=rss"
+      },
+      {
         "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
         "published": "Fri, 24 Jul 2026 18:15:01 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/trumps-israel-condition-on-saudi-nuclear-deal?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp",
         "published": "Fri, 24 Jul 2026 18:01:18 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-raids-hospital-shuts-off-nablus-following-deadly-settler-attack?traffic_source=rss"
-      },
-      {
-        "title": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
-        "published": "Fri, 24 Jul 2026 16:01:18 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-builds-gaza-barrier-as-politicians-push-for-settlements?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,22 +43,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes King Faisal Air Base in Jordan, US Evacuates Aircraft",
+        "title": "IRGC Strike Destroys US THAAD System at Jordan Air Base",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes Hit Houthi-Controlled Hodeidah Port in Yemen",
+        "title": "— S3 · Conflict · Muwaffaq Salti Air Base, Jordan · 23m ago. Iran's IRGC claims destruction of a US THAAD system at Muwaffaq Salti Air Base, Jordan, with satellite imagery confirming an impact on July 24.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Hudaydah, Yemen · 51m ago. Airstrikes targeted Houthi-controlled areas in the port city of Hudaydah, Yemen, amid ongoing regional conflict.",
+        "title": "— S3 · Conflict · Bahrain · 23m ago. An explosion or impact is reported in Bahrain, possibly as part of ongoing regional attacks.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Missile Strikes Tanker Disha Near Strait of Hormuz",
+        "title": "— S3 · Conflict · Behbahan, Iran · 55m ago. A strike hit Behbahan, Khuzestan Province, Iran, amid ongoing US-Iran hostilities. Eyewitness reports target at 30.6N, 50.18E.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
