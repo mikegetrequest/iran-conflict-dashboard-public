@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-24 11:23",
+  "updated_at_gst": "2026-07-24 13:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US attacks Iran for 13th consecutive night",
+        "published": "Fri, 24 Jul 2026 08:39:53 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/24/sooryavanshi-18-ball-fifty-tops-tremendous-india-t20-win-over-zimbabwe?traffic_source=rss"
+      },
+      {
+        "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
+        "published": "Fri, 24 Jul 2026 07:59:01 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/24/real-madrid-legend-ancelotti-rivals-barcelona-great-guardiola-for-italy-job?traffic_source=rss"
+      },
+      {
         "title": "Indian activist Wangchuk ends 26-day hunger strike",
         "published": "Fri, 24 Jul 2026 07:08:21 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss"
@@ -24,21 +34,6 @@
         "title": "Israel carries out blasts across south Lebanon despite ‘ceasefire’ deal",
         "published": "Fri, 24 Jul 2026 04:39:50 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/albanian-police-use-water-cannon-on-protesters-over-kushner-linked-resort?traffic_source=rss"
-      },
-      {
-        "title": "US launches 13th night of strikes as Iran warns of escalation in the Gulf",
-        "published": "Fri, 24 Jul 2026 02:25:41 +0000",
-        "link": "https://www.aljazeera.com/features/2026/7/24/theres-no-salary-drc-health-workers-tell-of-hardship-as-ebola-spreads?traffic_source=rss"
-      },
-      {
-        "title": "Analyst: voting against Iran war funding a tough sell for Congress",
-        "published": "Fri, 24 Jul 2026 00:30:43 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss"
-      },
-      {
-        "title": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
-        "published": "Fri, 24 Jul 2026 00:03:25 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Settler Killed, Three Injured in West Bank Clashes",
+        "title": "— S3 · Conflict · Erbil, Iraq · 13m ago. An explosion was reported near the US consulate compound in Erbil, Iraq, attributed to Iranian missile and drone strikes.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 23m ago. One Israeli settler was killed and three others injured in clashes in the West Bank, marking a significant escalation.",
+        "title": "Third West Bank Attack in 24 Hours Prompts Calls for Iron Fist Response",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
