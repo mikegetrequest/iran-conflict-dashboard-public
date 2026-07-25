@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-26 02:14",
+  "updated_at_gst": "2026-07-26 03:25",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli forces tear gas journalists reporting Nablus shootout",
-        "published": "Sat, 25 Jul 2026 21:08:24 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss"
+        "title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
+        "published": "Sat, 25 Jul 2026 23:16:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/fire-tears-through-indonesian-village-in-west-java?traffic_source=rss"
       },
       {
-        "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
-        "published": "Sat, 25 Jul 2026 20:00:43 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss"
+        "title": "One dead, 17 injured as car reportedly strikes crowd at Berlin LGBTQ event",
+        "published": "Sat, 25 Jul 2026 22:31:19 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss"
       },
       {
-        "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
-        "published": "Sat, 25 Jul 2026 12:49:06 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss"
+        "title": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
+        "published": "Sat, 25 Jul 2026 18:14:54 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/why-epsteins-survivors-are-still-fighting?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s government spars with state TV as mediators push talks with US",
+        "published": "Sat, 25 Jul 2026 16:39:16 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss"
+      },
+      {
+        "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
+        "published": "Sat, 25 Jul 2026 15:52:19 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/the-battle-over-al-aqsa?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,27 +48,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Pauses Nightly Strikes on Iran as Houthis Clash With Saudis",
+        "title": "Israeli Drone Strike Kills One Near Al-Aqsa Hospital in Gaza",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Red Sea · 18m ago. Washington halts 13-night streak of escalating strikes on Iran without explanation, while Houthi forces engage Saudi military in southern Red Sea region.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 49m ago. At least one Palestinian killed and several wounded when Israeli drones struck near Al-Aqsa hospital in Gaza.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Releases List of Damages Inflicted on US Military Since Start of War",
+        "title": "US Pauses Nightly Strikes on Iran as Houthis Clash With Saudis",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Army Gunfire Kills Seven Palestinians in Gaza",
+        "title": "— S3 · Conflict · Southern Red Sea · 1h ago. Washington halts 13-night streak of escalating strikes on Iran without explanation, while Houthi forces engage Saudi military in southern Red Sea region.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Israeli forces killed at least seven Palestinians and wounded 20 in Gaza since morning, hospital sources told Al Jazeera.",
+        "title": "Iran Releases List of Damages Inflicted on US Military Since Start of War",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
