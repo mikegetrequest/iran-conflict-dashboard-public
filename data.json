@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-25 14:49",
+  "updated_at_gst": "2026-07-25 15:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
-        "published": "Sat, 25 Jul 2026 09:54:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
-        "published": "Sat, 25 Jul 2026 00:31:16 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/25/un-rights-chief-turk-wins-second-term-despite-us-and-israeli-opposition?traffic_source=rss"
+        "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
+        "published": "Sat, 25 Jul 2026 09:10:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,27 +28,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes Hit Marib and Al Jawf in Yemen",
+        "title": "US Navy Strikes Sanctioned Tanker DISHA Near Yemen",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Marib, Yemen · 50m ago. Saudi airstrikes target Marib and Al Jawf governorates in Yemen, expanding the campaign beyond Hodeidah and Sanaa.",
+        "title": "— S3 · Conflict · Southern Red Sea · 9m ago. The US Navy struck the sanctioned tanker DISHA near Yemen after it breached the blockade perimeter. The vessel had transported Iranian LPG to Houthis.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Trump Negotiates Under Threat of Major Strike Amid Aramco Fire",
+        "title": "Saudi Airstrikes Hit Houthi Positions in Marib and Al Jawf, Yemen",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Jets Attempt Attack on Yemen, Met by Air Defense",
+        "title": "Trump Negotiates Under Threat of Major Strike Amid Aramco Fire",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi-Led Coalition Strikes Houthi Targets in Yemen After Red Sea Attacks",
+        "title": "Saudi Jets Attempt Attack on Yemen, Met by Air Defense",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
