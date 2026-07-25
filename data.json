@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-25 16:54",
+  "updated_at_gst": "2026-07-25 18:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "War on Iran: Phase II: Day 14",
+        "published": "Sat, 25 Jul 2026 13:49:12 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss"
+      },
+      {
+        "title": "Baby rescued after Israeli settlers set home on fire amid raids",
+        "published": "Sat, 25 Jul 2026 12:41:14 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit?traffic_source=rss"
+      },
+      {
         "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
         "published": "Sat, 25 Jul 2026 09:10:01 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss"
@@ -23,32 +33,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "US Strikes Iranian Military Targets for 13th Consecutive Night",
+        "title": "Israeli Drone Strike Kills Police Chief in Gaza Strip",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Drone Strike Kills Police Chief in Gaza Strip",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. An Israeli drone strike killed a police chief in the Gaza Strip, escalating the ongoing conflict.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 23m ago. An Israeli drone strike killed a police chief in the Gaza Strip, escalating the ongoing conflict.",
+        "title": "US Navy Strikes Sanctioned Tanker DISHA Near Yemen",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Navy Strikes Sanctioned Tanker DISHA Near Yemen",
+        "title": "— S3 · Conflict · Southern Red Sea · 3h ago. The US Navy struck the sanctioned tanker DISHA near Yemen after it breached the blockade perimeter. The vessel had transported Iranian LPG to Houthis.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Red Sea · 1h ago. The US Navy struck the sanctioned tanker DISHA near Yemen after it breached the blockade perimeter. The vessel had transported Iranian LPG to Houthis.",
+        "title": "Saudi Airstrikes Hit Houthi Positions in Marib and Al Jawf, Yemen",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes Hit Houthi Positions in Marib and Al Jawf, Yemen",
+        "title": "Israel Arrests Dozens of Palestinians in West Bank Amid Settler Attacks",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
