@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-25 08:35",
+  "updated_at_gst": "2026-07-25 11:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
-        "published": "Sat, 25 Jul 2026 00:31:16 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/25/un-rights-chief-turk-wins-second-term-despite-us-and-israeli-opposition?traffic_source=rss"
+        "title": "UN rights chief Turk wins second term despite US and Israeli opposition",
+        "published": "Sat, 25 Jul 2026 00:16:32 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
-        "published": "Sat, 25 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s Abbas Araghchi vows ‘we fear no one’",
-        "published": "Fri, 24 Jul 2026 21:24:38 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/24/fury-dominates-wach-in-thailand-boxing-bout-ahead-of-joshua-showdown?traffic_source=rss"
+        "title": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+        "published": "Fri, 24 Jul 2026 23:53:32 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/24/what-do-football-fans-have-in-store-to-beat-post-world-cup-blues?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,27 +33,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Forces Attack Abha, Saudi Arabia, Flights Grounded",
+        "title": "Saudi-Led Coalition Strikes Houthi Targets in Yemen After Red Sea Attacks",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Abha, Saudi Arabia · 3h ago. Houthi strikes on southwestern Saudi city of Abha disrupt air traffic as Red Sea conflict escalates with Saudi retaliatory strikes.",
+        "title": "— S3 · Conflict · Sanaa, Yemen · 32m ago. The Saudi-led coalition struck Houthi military targets in Yemen following recent Red Sea ship attacks, warning of further action if hostilities continue.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Launch Ballistic Missiles, Drones at Saudi Aramco Terminal in Jazan",
+        "title": "Houthis Claim Strike on Saudi Aramco Jazan Refinery",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Jizan, Saudi Arabia · 3h ago. Houthi forces strike Saudi Aramco terminal in Jazan with ballistic missiles and drones, causing fires. Retaliation for Saudi airstrikes on Hudaydah. Casualties unclear.",
+        "title": "Houthi Forces Attack Abha, Saudi Arabia, Flights Grounded",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Missile Impact Near US Navy 5th Fleet HQ in Bahrain",
+        "title": "— S3 · Conflict · Abha, Saudi Arabia · 5h ago. Houthi strikes on southwestern Saudi city of Abha disrupt air traffic as Red Sea conflict escalates with Saudi retaliatory strikes.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
