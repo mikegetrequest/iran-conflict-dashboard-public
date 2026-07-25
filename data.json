@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-25 18:24",
+  "updated_at_gst": "2026-07-25 19:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -33,32 +33,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Drone Strike Kills Police Chief in Gaza Strip",
+        "title": "US and Iran Exchange Strikes Across Middle East",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. An Israeli drone strike killed a police chief in the Gaza Strip, escalating the ongoing conflict.",
+        "title": "— S3 · Conflict · Kharg Island, Iran · 26m ago. Airstrikes hit the northern half of Kharg Island in Iran, reportedly avoiding major oil infrastructure. Multiple strikes reported.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Navy Strikes Sanctioned Tanker DISHA Near Yemen",
+        "title": "Israeli Drone Strike Kills Police Chief in Gaza Strip",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Red Sea · 3h ago. The US Navy struck the sanctioned tanker DISHA near Yemen after it breached the blockade perimeter. The vessel had transported Iranian LPG to Houthis.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. An Israeli drone strike killed a police chief in the Gaza Strip, escalating the ongoing conflict.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes Hit Houthi Positions in Marib and Al Jawf, Yemen",
+        "title": "US Navy Strikes Sanctioned Tanker DISHA Near Yemen",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Arrests Dozens of Palestinians in West Bank Amid Settler Attacks",
+        "title": "— S3 · Conflict · Southern Red Sea · 4h ago. The US Navy struck the sanctioned tanker DISHA near Yemen after it breached the blockade perimeter. The vessel had transported Iranian LPG to Houthis.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
