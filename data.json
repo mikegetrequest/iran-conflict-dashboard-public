@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-26 01:13",
+  "updated_at_gst": "2026-07-26 02:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israeli forces tear gas journalists reporting Nablus shootout",
+        "published": "Sat, 25 Jul 2026 21:08:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss"
+      },
+      {
         "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
         "published": "Sat, 25 Jul 2026 20:00:43 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
         "published": "Sat, 25 Jul 2026 12:49:06 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss"
-      },
-      {
-        "title": "At least 15 killed in Ukrainian and Russian strikes as holiday camp hit",
-        "published": "Sat, 25 Jul 2026 12:41:02 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-faces-backlash-for-using-palestinian-as-an-insult?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,27 +38,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Releases List of Damages Inflicted on US Military Since Start of War",
+        "title": "US Pauses Nightly Strikes on Iran as Houthis Clash With Saudis",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Army Gunfire Kills Seven Palestinians in Gaza",
+        "title": "— S3 · Conflict · Southern Red Sea · 18m ago. Washington halts 13-night streak of escalating strikes on Iran without explanation, while Houthi forces engage Saudi military in southern Red Sea region.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. Israeli forces killed at least seven Palestinians and wounded 20 in Gaza since morning, hospital sources told Al Jazeera.",
+        "title": "Iran Releases List of Damages Inflicted on US Military Since Start of War",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Kills Hamas Nukhba Commander in Central Gaza",
+        "title": "Israeli Army Gunfire Kills Seven Palestinians in Gaza",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. IDF airstrike kills Mohand Assad Mahmoud Abu Ghazal, a Hamas Nukhba squad leader, and two other militants in central and northern Gaza.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Israeli forces killed at least seven Palestinians and wounded 20 in Gaza since morning, hospital sources told Al Jazeera.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
