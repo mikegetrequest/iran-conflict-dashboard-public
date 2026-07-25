@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-25 03:52",
+  "updated_at_gst": "2026-07-25 05:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,45 +16,40 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran’s Abbas Araghchi vows ‘we fear no one’",
-        "published": "Fri, 24 Jul 2026 21:24:38 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/24/fury-dominates-wach-in-thailand-boxing-bout-ahead-of-joshua-showdown?traffic_source=rss"
+        "title": "UN rights chief Turk wins second term despite US and Israeli opposition",
+        "published": "Sat, 25 Jul 2026 00:16:32 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss"
       },
       {
-        "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
-        "published": "Fri, 24 Jul 2026 18:15:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/trumps-israel-condition-on-saudi-nuclear-deal?traffic_source=rss"
+        "title": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+        "published": "Fri, 24 Jul 2026 23:53:32 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/24/what-do-football-fans-have-in-store-to-beat-post-world-cup-blues?traffic_source=rss"
+      },
+      {
+        "title": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list",
+        "published": "Fri, 24 Jul 2026 20:51:13 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/7/24/us-small-businesses-challenge-trumps-new-forced-labor-tariffs?traffic_source=rss"
+      },
+      {
+        "title": "Israeli settlers escalate attacks on Palestinians near Nablus",
+        "published": "Fri, 24 Jul 2026 20:40:27 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/24/venezuela-to-exit-international-criminal-court-accusing-it-of-bias?traffic_source=rss"
+      },
+      {
+        "title": "Saudi Arabia strikes Houthi-held Hodeidah, Yemeni group says",
+        "published": "Fri, 24 Jul 2026 20:27:16 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/7/24/canada-marks-gordie-howe-bridge-opening-without-us-after-trade-war-deepens?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Strikes Iranian Military Targets for 13th Consecutive Night",
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Completes 12th Consecutive Night of Airstrikes on Southern Iran",
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
         "published": "line-2",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Iranian Missile Impact Near US Navy 5th Fleet HQ in Bahrain",
-        "published": "line-3",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Manama, Bahrain · 2h ago. Video footage shows impact of an Iranian short-range ballistic missile near the US Navy 5th Fleet Headquarters in Manama, Bahrain.",
-        "published": "line-4",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "IRGC Strike Destroys US THAAD System at Jordan Air Base",
-        "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Muwaffaq Salti Air Base, Jordan · 2h ago. Iran's IRGC claims destruction of a US THAAD system at Muwaffaq Salti Air Base, Jordan, with satellite imagery confirming an impact on July 24.",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
