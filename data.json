@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-25 05:23",
+  "updated_at_gst": "2026-07-25 08:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,40 +16,50 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UN rights chief Turk wins second term despite US and Israeli opposition",
-        "published": "Sat, 25 Jul 2026 00:16:32 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss"
+        "title": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
+        "published": "Sat, 25 Jul 2026 00:31:16 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/25/un-rights-chief-turk-wins-second-term-despite-us-and-israeli-opposition?traffic_source=rss"
       },
       {
-        "title": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
-        "published": "Fri, 24 Jul 2026 23:53:32 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/24/what-do-football-fans-have-in-store-to-beat-post-world-cup-blues?traffic_source=rss"
+        "title": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+        "published": "Sat, 25 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss"
       },
       {
-        "title": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list",
-        "published": "Fri, 24 Jul 2026 20:51:13 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/7/24/us-small-businesses-challenge-trumps-new-forced-labor-tariffs?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settlers escalate attacks on Palestinians near Nablus",
-        "published": "Fri, 24 Jul 2026 20:40:27 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/24/venezuela-to-exit-international-criminal-court-accusing-it-of-bias?traffic_source=rss"
-      },
-      {
-        "title": "Saudi Arabia strikes Houthi-held Hodeidah, Yemeni group says",
-        "published": "Fri, 24 Jul 2026 20:27:16 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/7/24/canada-marks-gordie-howe-bridge-opening-without-us-after-trade-war-deepens?traffic_source=rss"
+        "title": "Iran’s Abbas Araghchi vows ‘we fear no one’",
+        "published": "Fri, 24 Jul 2026 21:24:38 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/24/fury-dominates-wach-in-thailand-boxing-bout-ahead-of-joshua-showdown?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "US Strikes Iranian Military Targets for 13th Consecutive Night",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "Houthi Forces Attack Abha, Saudi Arabia, Flights Grounded",
         "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Abha, Saudi Arabia · 3h ago. Houthi strikes on southwestern Saudi city of Abha disrupt air traffic as Red Sea conflict escalates with Saudi retaliatory strikes.",
+        "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Houthis Launch Ballistic Missiles, Drones at Saudi Aramco Terminal in Jazan",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Jizan, Saudi Arabia · 3h ago. Houthi forces strike Saudi Aramco terminal in Jazan with ballistic missiles and drones, causing fires. Retaliation for Saudi airstrikes on Hudaydah. Casualties unclear.",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Iranian Missile Impact Near US Navy 5th Fleet HQ in Bahrain",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
