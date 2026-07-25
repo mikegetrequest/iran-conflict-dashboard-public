@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-25 21:46",
+  "updated_at_gst": "2026-07-25 22:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran’s government spars with state TV as mediators push talks with US",
-        "published": "Sat, 25 Jul 2026 16:39:16 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss"
+        "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
+        "published": "Sat, 25 Jul 2026 12:49:06 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss"
       },
       {
-        "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
-        "published": "Sat, 25 Jul 2026 15:52:19 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/the-battle-over-al-aqsa?traffic_source=rss"
-      },
-      {
-        "title": "War on Iran: Phase II: Day 14",
-        "published": "Sat, 25 Jul 2026 13:49:12 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss"
-      },
-      {
-        "title": "Baby rescued after Israeli settlers set home on fire amid raids",
-        "published": "Sat, 25 Jul 2026 12:41:14 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit?traffic_source=rss"
+        "title": "At least 11 killed in Ukrainian and Russian strikes as holiday camp hit",
+        "published": "Sat, 25 Jul 2026 12:41:02 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-faces-backlash-for-using-palestinian-as-an-insult?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,27 +33,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Thousands of Israelis Storm Al-Aqsa Mosque Compound Under Police Protection",
+        "title": "Israel Kills Hamas Nukhba Commander in Central Gaza",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Al-Aqsa Mosque, Jerusalem · 1h ago. Large groups of Israeli protesters entered the Al-Aqsa Mosque compound in Jerusalem, escorted by Israeli police, sparking tensions and clashes.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 14m ago. IDF airstrike kills Mohand Assad Mahmoud Abu Ghazal, a Hamas Nukhba squad leader, and two other militants in central and northern Gaza.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Kharg Island, Iran · 3h ago. Airstrikes hit the northern half of Kharg Island in Iran, reportedly avoiding major oil infrastructure. Multiple strikes reported.",
+        "title": "Airstrikes Hit Houthi Positions in Ad Dali Governorate, Yemen",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Drone Strike Kills Police Chief in Gaza Strip",
+        "title": "— S3 · Conflict · Ad Dali Governorate, Yemen · 46m ago. Saudi-led coalition airstrikes target Ansarullah (Houthi) positions in northern Ad Dali Governorate, a strategic area in southern Yemen.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 5h ago. An Israeli drone strike killed a police chief in the Gaza Strip, escalating the ongoing conflict.",
+        "title": "— S3 · Conflict · Saudi Arabia · 49m ago. Houthi forces launched attacks on oil sites in Saudi Arabia, continuing regional hostilities amid a lull in US-Iran strikes.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
