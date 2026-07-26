@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-26 13:31",
+  "updated_at_gst": "2026-07-26 15:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel debate boils over in the United States",
-        "published": "Sun, 26 Jul 2026 08:53:39 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss"
+        "title": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
+        "published": "Sun, 26 Jul 2026 07:55:30 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/26/tour-de-france-final-stage-shortened-as-emergency-teams-tackle-wildfires?traffic_source=rss"
+      },
+      {
+        "title": "Israeli settlers set fire to mosque in occupied West Bank",
+        "published": "Sun, 26 Jul 2026 07:12:26 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/26/cape-verde-world-cup-star-vozinha-agrees-deal-with-chiles-colo-colo?traffic_source=rss"
       },
       {
         "title": "US military disables tanker accused of breaking the Iran blockade",
         "published": "Sun, 26 Jul 2026 04:33:16 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss"
-      },
-      {
-        "title": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
-        "published": "Sun, 26 Jul 2026 03:49:29 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/26/can-zimbabwes-mineral-ambitions-benefit-smaller-producers?traffic_source=rss"
-      },
-      {
-        "title": "Israel arrests nine at Tel Aviv protest against West Bank settler violence",
-        "published": "Sun, 26 Jul 2026 01:52:56 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,27 +38,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Al Jaber Air Base in Kuwait, Destroys Hangars and Barracks",
+        "title": "Israel Conducts Incursion and Shelling in Southern Syria",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Al Jaber Air Base, Kuwait · 4h ago. Satellite imagery confirms destruction of hangars, barracks, and radar at Al Jaber Air Base in Kuwait from Iranian ballistic missile attack.",
+        "title": "— S3 · Conflict · Quneitra, Syria · 2h ago. Israeli forces crossed into Quneitra province, shelling targets as officials confirm intent to maintain a security zone.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "West Bank Mosque Set on Fire in Apparent Revenge Attack",
+        "title": "Israeli Settlers Torch Two Mosques in West Bank Qusra Mosque Among Them",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 4h ago. A mosque in West Bank set on fire with graffiti 'Revenge for Benayahu' in apparent revenge for shooting death of Israeli major.",
+        "title": "— S3 · Conflict · Qusra, West Bank, Palestine · 4h ago. Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces conducted arrests across the West Bank.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IDF Prepares to Demolish Homes of West Bank Shooting Attackers",
+        "title": "Iran Strikes Al Jaber Air Base in Kuwait, Destroys Hangars and Barracks",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
