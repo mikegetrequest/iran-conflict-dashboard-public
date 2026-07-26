@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-27 01:15",
+  "updated_at_gst": "2026-07-27 02:25",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
-        "published": "Sun, 26 Jul 2026 19:31:58 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss"
+        "title": "Israeli government nods to international stabilisation force in Gaza",
+        "published": "Sun, 26 Jul 2026 21:10:07 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss"
       },
       {
-        "title": "Police shoot dead Berlin Pride car-ramming attack suspect",
-        "published": "Sun, 26 Jul 2026 17:51:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss"
+        "title": "US and Iran hit pause on strikes for second day",
+        "published": "Sun, 26 Jul 2026 20:55:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/26/former-president-hernandez-returns-to-honduras-after-trump-pardon?traffic_source=rss"
+      },
+      {
+        "title": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
+        "published": "Sun, 26 Jul 2026 19:27:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/46-people-rescued-from-sunken-ship-in-south-china-sea?traffic_source=rss"
+      },
+      {
+        "title": "Israeli settlers burn two mosques in occupied West Bank",
+        "published": "Sun, 26 Jul 2026 18:51:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss"
+      },
+      {
+        "title": "Israel launches military incursion into Syria amid UN condemnation",
+        "published": "Sun, 26 Jul 2026 17:40:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss"
+      },
+      {
+        "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
+        "published": "Sun, 26 Jul 2026 16:49:59 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/heatwave-drives-major-wildfires-across-north-africa?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 6h ago. Israel conducts a double tap airstrike in central Gaza, a tactic targeting rescuers following an initial strike.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 7h ago. Israel conducts a double tap airstrike in central Gaza, a tactic targeting rescuers following an initial strike.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +68,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 9h ago. The Lebanese army reports ongoing Israeli attacks on southern Lebanon, with no immediate casualty figures.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 11h ago. The Lebanese army reports ongoing Israeli attacks on southern Lebanon, with no immediate casualty figures.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
