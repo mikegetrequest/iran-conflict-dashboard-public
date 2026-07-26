@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-26 08:49",
+  "updated_at_gst": "2026-07-26 11:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,17 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+        "title": "Israeli settlers set fire to mosque in occupied West Bank",
+        "published": "Sun, 26 Jul 2026 07:12:26 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/26/cape-verde-world-cup-star-vozinha-agrees-deal-with-chiles-colo-colo?traffic_source=rss"
+      },
+      {
+        "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+        "published": "Sun, 26 Jul 2026 04:40:17 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
         "published": "Sun, 26 Jul 2026 00:00:25 +0000",
         "link": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss"
       },
@@ -24,11 +34,6 @@
         "title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
         "published": "Sat, 25 Jul 2026 23:16:45 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/fire-tears-through-indonesian-village-in-west-java?traffic_source=rss"
-      },
-      {
-        "title": "One dead, 16 injured as car strikes crowd at Berlin LGBTQ event",
-        "published": "Sat, 25 Jul 2026 22:31:19 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,27 +43,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Tehran Summons Ukrainian Diplomat After Kyiv Bombs Iranian Ship",
+        "title": "Israeli Settlers Set Fire to Mosque Near Nablus, West Bank",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Tehran, Iran · 37m ago. Iran has condemned a Ukrainian attack on one of its commercial vessels, leading to Tehran summoning a Ukrainian diplomat to protest the incident.",
+        "title": "— S3 · Conflict · Qusra, West Bank, Palestine · 11m ago. Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces conducted arrests across the West Bank.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Drone Strike Kills One Near Al-Aqsa Hospital in Gaza",
+        "title": "Iran Strikes Al Jaber Air Base in Kuwait, Destroys Hangars and Barracks",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 6h ago. At least one Palestinian killed and several wounded when Israeli drones struck near Al-Aqsa hospital in Gaza.",
+        "title": "— S3 · Conflict · Al Jaber Air Base, Kuwait · 2h ago. Satellite imagery confirms destruction of hangars, barracks, and radar at Al Jaber Air Base in Kuwait from Iranian ballistic missile attack.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Pauses Nightly Strikes on Iran as Houthis Clash With Saudis",
+        "title": "West Bank Mosque Set on Fire in Apparent Revenge Attack",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
