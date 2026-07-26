@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-26 03:25",
+  "updated_at_gst": "2026-07-26 05:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+        "published": "Sun, 26 Jul 2026 00:00:25 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss"
+      },
       {
         "title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
         "published": "Sat, 25 Jul 2026 23:16:45 +0000",
@@ -34,11 +39,6 @@
         "title": "Iran’s government spars with state TV as mediators push talks with US",
         "published": "Sat, 25 Jul 2026 16:39:16 +0000",
         "link": "https://www.aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss"
-      },
-      {
-        "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
-        "published": "Sat, 25 Jul 2026 15:52:19 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/the-battle-over-al-aqsa?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 49m ago. At least one Palestinian killed and several wounded when Israeli drones struck near Al-Aqsa hospital in Gaza.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. At least one Palestinian killed and several wounded when Israeli drones struck near Al-Aqsa hospital in Gaza.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -63,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Red Sea · 1h ago. Washington halts 13-night streak of escalating strikes on Iran without explanation, while Houthi forces engage Saudi military in southern Red Sea region.",
+        "title": "— S3 · Conflict · Southern Red Sea · 3h ago. Washington halts 13-night streak of escalating strikes on Iran without explanation, while Houthi forces engage Saudi military in southern Red Sea region.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
