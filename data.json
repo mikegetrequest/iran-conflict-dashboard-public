@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-26 15:11",
+  "updated_at_gst": "2026-07-26 16:34",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,12 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
+        "title": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
+        "published": "Sun, 26 Jul 2026 11:18:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/26/female-football-referee-suffers-concussion-amid-male-players-melee?traffic_source=rss"
+      },
+      {
+        "title": "Israel raids West Bank live: PM Netanyahu threatens ‘more broad action’",
         "published": "Sun, 26 Jul 2026 07:55:30 +0000",
         "link": "https://www.aljazeera.com/sports/2026/7/26/tour-de-france-final-stage-shortened-as-emergency-teams-tackle-wildfires?traffic_source=rss"
       },
@@ -24,11 +29,6 @@
         "title": "Israeli settlers set fire to mosque in occupied West Bank",
         "published": "Sun, 26 Jul 2026 07:12:26 +0000",
         "link": "https://www.aljazeera.com/sports/2026/7/26/cape-verde-world-cup-star-vozinha-agrees-deal-with-chiles-colo-colo?traffic_source=rss"
-      },
-      {
-        "title": "US military disables tanker accused of breaking the Iran blockade",
-        "published": "Sun, 26 Jul 2026 04:33:16 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,27 +38,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Conducts Incursion and Shelling in Southern Syria",
+        "title": "Israel Continues Attacks on Southern Lebanon, Lebanese Army Says",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Quneitra, Syria · 2h ago. Israeli forces crossed into Quneitra province, shelling targets as officials confirm intent to maintain a security zone.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 43m ago. The Lebanese army reports ongoing Israeli attacks on southern Lebanon, with no immediate casualty figures.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Settlers Torch Two Mosques in West Bank Qusra Mosque Among Them",
+        "title": "Israel Conducts Incursion and Shelling in Southern Syria",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Qusra, West Bank, Palestine · 4h ago. Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces conducted arrests across the West Bank.",
+        "title": "— S3 · Conflict · Quneitra, Syria · 3h ago. Israeli forces crossed into Quneitra province, shelling targets as officials confirm intent to maintain a security zone.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Al Jaber Air Base in Kuwait, Destroys Hangars and Barracks",
+        "title": "Israeli Settlers Torch Two Mosques in West Bank Qusra Mosque Among Them",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
