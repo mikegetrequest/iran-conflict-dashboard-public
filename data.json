@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-26 11:28",
+  "updated_at_gst": "2026-07-26 13:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli settlers set fire to mosque in occupied West Bank",
-        "published": "Sun, 26 Jul 2026 07:12:26 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/26/cape-verde-world-cup-star-vozinha-agrees-deal-with-chiles-colo-colo?traffic_source=rss"
+        "title": "Israel debate boils over in the United States",
+        "published": "Sun, 26 Jul 2026 08:53:39 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss"
       },
       {
-        "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
-        "published": "Sun, 26 Jul 2026 04:40:17 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss"
+        "title": "US military disables tanker accused of breaking the Iran blockade",
+        "published": "Sun, 26 Jul 2026 04:33:16 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
-        "published": "Sun, 26 Jul 2026 00:00:25 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss"
+        "title": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
+        "published": "Sun, 26 Jul 2026 03:49:29 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/26/can-zimbabwes-mineral-ambitions-benefit-smaller-producers?traffic_source=rss"
       },
       {
-        "title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
-        "published": "Sat, 25 Jul 2026 23:16:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/fire-tears-through-indonesian-village-in-west-java?traffic_source=rss"
+        "title": "Israel arrests nine at Tel Aviv protest against West Bank settler violence",
+        "published": "Sun, 26 Jul 2026 01:52:56 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,27 +43,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Settlers Set Fire to Mosque Near Nablus, West Bank",
+        "title": "Iran Strikes Al Jaber Air Base in Kuwait, Destroys Hangars and Barracks",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Qusra, West Bank, Palestine · 11m ago. Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces conducted arrests across the West Bank.",
+        "title": "— S3 · Conflict · Al Jaber Air Base, Kuwait · 4h ago. Satellite imagery confirms destruction of hangars, barracks, and radar at Al Jaber Air Base in Kuwait from Iranian ballistic missile attack.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Al Jaber Air Base in Kuwait, Destroys Hangars and Barracks",
+        "title": "West Bank Mosque Set on Fire in Apparent Revenge Attack",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Al Jaber Air Base, Kuwait · 2h ago. Satellite imagery confirms destruction of hangars, barracks, and radar at Al Jaber Air Base in Kuwait from Iranian ballistic missile attack.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 4h ago. A mosque in West Bank set on fire with graffiti 'Revenge for Benayahu' in apparent revenge for shooting death of Israeli major.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "West Bank Mosque Set on Fire in Apparent Revenge Attack",
+        "title": "IDF Prepares to Demolish Homes of West Bank Shooting Attackers",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
