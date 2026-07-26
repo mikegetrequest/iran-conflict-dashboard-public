@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-26 22:51",
+  "updated_at_gst": "2026-07-27 00:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Berlin police shoot dead suspect in car-ramming attack at Pride event",
-        "published": "Sun, 26 Jul 2026 17:51:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss"
+        "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
+        "published": "Sun, 26 Jul 2026 19:31:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss"
       },
       {
-        "title": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
-        "published": "Sun, 26 Jul 2026 13:51:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss"
+        "title": "Police shoot dead Berlin Pride car-ramming attack suspect",
+        "published": "Sun, 26 Jul 2026 17:51:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 4h ago. Israel conducts a double tap airstrike in central Gaza, a tactic targeting rescuers following an initial strike.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 5h ago. Israel conducts a double tap airstrike in central Gaza, a tactic targeting rescuers following an initial strike.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 7h ago. The Lebanese army reports ongoing Israeli attacks on southern Lebanon, with no immediate casualty figures.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 8h ago. The Lebanese army reports ongoing Israeli attacks on southern Lebanon, with no immediate casualty figures.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
