@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-26 16:34",
+  "updated_at_gst": "2026-07-26 18:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
-        "published": "Sun, 26 Jul 2026 11:18:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/26/female-football-referee-suffers-concussion-amid-male-players-melee?traffic_source=rss"
+        "title": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
+        "published": "Sun, 26 Jul 2026 13:51:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss"
       },
       {
-        "title": "Israel raids West Bank live: PM Netanyahu threatens ‘more broad action’",
-        "published": "Sun, 26 Jul 2026 07:55:30 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/26/tour-de-france-final-stage-shortened-as-emergency-teams-tackle-wildfires?traffic_source=rss"
+        "title": "From paradise to ‘pilot zone’ disaster: Returning to destroyed Lebanon home",
+        "published": "Sun, 26 Jul 2026 13:34:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank?traffic_source=rss"
       },
       {
-        "title": "Israeli settlers set fire to mosque in occupied West Bank",
-        "published": "Sun, 26 Jul 2026 07:12:26 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/26/cape-verde-world-cup-star-vozinha-agrees-deal-with-chiles-colo-colo?traffic_source=rss"
+        "title": "Iran’s army issues warning ahead of Netanyahu’s US visit",
+        "published": "Sun, 26 Jul 2026 11:56:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/no-accountability-for-settler-war-crimes-against?traffic_source=rss"
+      },
+      {
+        "title": "Malaysia to host rescheduled Bahrain Grand Prix F1 race in October",
+        "published": "Sun, 26 Jul 2026 11:28:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss"
+      },
+      {
+        "title": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
+        "published": "Sun, 26 Jul 2026 10:45:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/who-is-indias-new-education-minister?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 43m ago. The Lebanese army reports ongoing Israeli attacks on southern Lebanon, with no immediate casualty figures.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 3h ago. The Lebanese army reports ongoing Israeli attacks on southern Lebanon, with no immediate casualty figures.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Quneitra, Syria · 3h ago. Israeli forces crossed into Quneitra province, shelling targets as officials confirm intent to maintain a security zone.",
+        "title": "— S3 · Conflict · Quneitra, Syria · 5h ago. Israeli forces crossed into Quneitra province, shelling targets as officials confirm intent to maintain a security zone.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
