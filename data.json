@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-26 05:02",
+  "updated_at_gst": "2026-07-26 08:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -26,19 +26,9 @@
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/fire-tears-through-indonesian-village-in-west-java?traffic_source=rss"
       },
       {
-        "title": "One dead, 17 injured as car reportedly strikes crowd at Berlin LGBTQ event",
+        "title": "One dead, 16 injured as car strikes crowd at Berlin LGBTQ event",
         "published": "Sat, 25 Jul 2026 22:31:19 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss"
-      },
-      {
-        "title": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
-        "published": "Sat, 25 Jul 2026 18:14:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/why-epsteins-survivors-are-still-fighting?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s government spars with state TV as mediators push talks with US",
-        "published": "Sat, 25 Jul 2026 16:39:16 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,27 +38,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Drone Strike Kills One Near Al-Aqsa Hospital in Gaza",
+        "title": "Tehran Summons Ukrainian Diplomat After Kyiv Bombs Iranian Ship",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. At least one Palestinian killed and several wounded when Israeli drones struck near Al-Aqsa hospital in Gaza.",
+        "title": "— S3 · Conflict · Tehran, Iran · 37m ago. Iran has condemned a Ukrainian attack on one of its commercial vessels, leading to Tehran summoning a Ukrainian diplomat to protest the incident.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Pauses Nightly Strikes on Iran as Houthis Clash With Saudis",
+        "title": "Israeli Drone Strike Kills One Near Al-Aqsa Hospital in Gaza",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Red Sea · 3h ago. Washington halts 13-night streak of escalating strikes on Iran without explanation, while Houthi forces engage Saudi military in southern Red Sea region.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 6h ago. At least one Palestinian killed and several wounded when Israeli drones struck near Al-Aqsa hospital in Gaza.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Releases List of Damages Inflicted on US Military Since Start of War",
+        "title": "US Pauses Nightly Strikes on Iran as Houthis Clash With Saudis",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
