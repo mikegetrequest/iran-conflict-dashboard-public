@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-27 15:50",
+  "updated_at_gst": "2026-07-27 18:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Why has the US halted its bombing of Iran?",
-        "published": "Mon, 27 Jul 2026 10:55:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/27/israeli-forces-storm-multiple-west-bank-towns-settler-violence-worsens?traffic_source=rss"
+        "title": "Israel’s approval of limited Gaza force a calculated manoeuvre, experts say",
+        "published": "Mon, 27 Jul 2026 12:58:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/dutch-pair-banned-from-bali-after-run-club-excludes?traffic_source=rss"
       },
       {
-        "title": "German arms export licences for Israel surge with focus on sub project",
-        "published": "Mon, 27 Jul 2026 07:20:07 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss"
+        "title": "Moment Ukrainian drones strike Russia’s Belgorod",
+        "published": "Mon, 27 Jul 2026 10:59:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces storm multiple West Bank towns, settler violence worsens",
+        "published": "Mon, 27 Jul 2026 10:41:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/27/sam-altman-says-ai-has-entered-singularity-should-we-be-worried?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Forces Attack Gaza Civilians Near UN School",
+        "title": "Drones Attack Iran's Neighbors Amid US Bombing Pause",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 38m ago. Israeli forces attacked civilians sheltering outside a UN school in the Gaza Strip, marking a kinetic military action with civilian impact.",
+        "title": "— S3 · Conflict · Iran · 8m ago. Drones attacked Iran's neighbors, seemingly testing a pause in US bombing, which had halted 13 successive nights of intensifying strikes over the weekend.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Strikes Hit Kurdish Party Positions in Koy Sanjaq, Iraq",
+        "title": "Saudi Arabia Condemns Iraqi Militia Attacks on Capital",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Koy Sanjaq, Erbil Province, Iraq · 2h ago. Strikes hit Kurdish party positions in Koy Sanjaq, Erbil Province, Iraq. No group has claimed responsibility.",
+        "title": "— S3 · Political · Riyadh, Saudi Arabia · 26m ago. Saudi foreign ministry denounces strikes on Riyadh and oil infrastructure by Iran-backed Iraqi militias, urges Iraq to prevent use of its territory.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Drones Strike Aramco Facility in Abqaiq, Saudi Arabia",
+        "title": "Palestinian Dies in Israeli Strike on Central Gaza",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Oil Prices Fall as US and Iran Pause Strikes for Second Day",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 30m ago. A Palestinian died from injuries sustained in an Israeli airstrike in central Gaza.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
