@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-28 02:47",
+  "updated_at_gst": "2026-07-28 03:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,54 +16,64 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Has Burnham kept his promise to do better on Israel’s war on Gaza?",
-        "published": "Mon, 27 Jul 2026 20:12:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/unreleased-footage-reveals-lindsey-grahams-push-for-war-on-iran?traffic_source=rss"
+        "title": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
+        "published": "Mon, 27 Jul 2026 21:17:15 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss"
       },
       {
-        "title": "Why have US-Lebanon direct flights been banned for 40 years?",
-        "published": "Mon, 27 Jul 2026 19:24:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/27/pakistan-administered-kashmir-opens-polls-in-violence-wracked-vote?traffic_source=rss"
+        "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+        "published": "Mon, 27 Jul 2026 21:04:09 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/7/27/will-perus-new-leader-keiko-fujimori-reject-her-fathers-legacy?traffic_source=rss"
       },
       {
-        "title": "Are the US and Iran heading towards a forever war?",
-        "published": "Mon, 27 Jul 2026 18:40:34 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanons-displaced-endure-exhaustion-and?traffic_source=rss"
+        "title": "British court dismisses Bahrain’s bid to block activists’ spyware lawsuit",
+        "published": "Mon, 27 Jul 2026 20:32:59 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/7/27/hakeem-jeffries-puts-affordability-at-centre-of-democrats-midterm-campaign?traffic_source=rss"
       },
       {
-        "title": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
-        "published": "Mon, 27 Jul 2026 17:58:27 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss"
+        "title": "Unreleased footage reveals Lindsey Graham’s push for war on Iran",
+        "published": "Mon, 27 Jul 2026 20:09:16 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spain-protests-mass-touristification-of-mallorca?traffic_source=rss"
+      },
+      {
+        "title": "UN eyeing potential Israeli war crimes in Lebanon",
+        "published": "Mon, 27 Jul 2026 19:32:53 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/why-have-us-lebanon-direct-flights-been-banned-for-40-years?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s displaced endure ‘exhaustion and despair’",
+        "published": "Mon, 27 Jul 2026 18:28:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Attack on Northern Iraq Gas Field Reported by Iran State Media",
+        "title": "Iran Set to Execute Three Political Prisoners in Isfahan",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Mosul, Iraq · 57m ago. Iran state media reports an attack on the largest gas field in northern Iraq, raising tensions in the region.",
+        "title": "— S3 · Political · Isfahan, Iran · 7m ago. Three young Iranian political prisoners in Isfahan's Alikhani Square face imminent execution for demanding freedom, according to activists.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Uneasy Pause in US-Iran Fighting Holds Amid Concerns Over Interceptor Stockpiles",
+        "title": "Iran Prepares Public Hanging of 3 Political Prisoners",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Saudi Arabia · 1h ago. The pause in direct US-Iran fighting continues, but concerns grow over interceptor stockpiles as Iranian proxies attack Saudi oil infrastructure.",
+        "title": "— S3 · Humanitarian · Tehran, Iran · 12m ago. Iranian authorities prepare cranes for the public execution of three political prisoners in Tehran, drawing international condemnation amid ongoing US-Iran tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Large Drone Attack on Multiple Cities in Iraqi Kurdistan",
+        "title": "Attack on Northern Iraq Gas Field Reported by Iran State Media",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Airstrikes Kill 1,700 Civilians in Iran",
+        "title": "— S3 · Conflict · Mosul, Iraq · 2h ago. Iran state media reports an attack on the largest gas field in northern Iraq, raising tensions in the region.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
