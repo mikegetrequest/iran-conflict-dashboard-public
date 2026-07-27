@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-27 12:29",
+  "updated_at_gst": "2026-07-27 15:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,44 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
-        "published": "Mon, 27 Jul 2026 06:15:01 +0000",
-        "link": "https://www.aljazeera.com/features/2026/7/27/climate-change-presents-new-threat-to-philippines-unesco-rice-terraces?traffic_source=rss"
+        "title": "Why has the US halted its bombing of Iran?",
+        "published": "Mon, 27 Jul 2026 10:55:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/27/israeli-forces-storm-multiple-west-bank-towns-settler-violence-worsens?traffic_source=rss"
       },
       {
-        "title": "Lebanese return to homes of rubble left by Israel in so-called pilot zones",
-        "published": "Mon, 27 Jul 2026 01:40:16 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_guterres-tours-syrias-assad-prison-in-sednaya-260726?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
-        "published": "Mon, 27 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss"
+        "title": "German arms export licences for Israel surge with focus on sub project",
+        "published": "Mon, 27 Jul 2026 07:20:07 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Oil Prices Fall as US Pauses Strikes on Iran for Diplomacy",
+        "title": "Israeli Forces Attack Gaza Civilians Near UN School",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Pentagon Lists Four US Troops Killed During Iran Ceasefire",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 38m ago. Israeli forces attacked civilians sheltering outside a UN school in the Gaza Strip, marking a kinetic military action with civilian impact.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 3h ago. Pentagon lists four US troops killed during a ceasefire with Iran, classifying deaths separately from Operation Epic Fury casualties.",
+        "title": "Strikes Hit Kurdish Party Positions in Koy Sanjaq, Iraq",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Lebanese Return to Rubble Homes in Israeli Pilot Zones",
+        "title": "— S3 · Conflict · Koy Sanjaq, Erbil Province, Iraq · 2h ago. Strikes hit Kurdish party positions in Koy Sanjaq, Erbil Province, Iraq. No group has claimed responsibility.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 6h ago. Civilians find homes destroyed by Israeli military in southern Lebanon; Lebanese army accuses Israel of bulldozing homes and blocking escort efforts.",
+        "title": "Houthi Drones Strike Aramco Facility in Abqaiq, Saudi Arabia",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Carries Out Double Tap Strike in Central Gaza",
+        "title": "Oil Prices Fall as US and Iran Pause Strikes for Second Day",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
