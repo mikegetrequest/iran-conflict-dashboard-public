@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-27 08:59",
+  "updated_at_gst": "2026-07-27 12:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
-        "published": "Mon, 27 Jul 2026 03:34:06 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/firefighters-battle-to-contain-wildfires-still-burning-near-bordeaux?traffic_source=rss"
+        "title": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
+        "published": "Mon, 27 Jul 2026 06:15:01 +0000",
+        "link": "https://www.aljazeera.com/features/2026/7/27/climate-change-presents-new-threat-to-philippines-unesco-rice-terraces?traffic_source=rss"
       },
       {
-        "title": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
-        "published": "Sun, 26 Jul 2026 23:44:29 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss"
+        "title": "Lebanese return to homes of rubble left by Israel in so-called pilot zones",
+        "published": "Mon, 27 Jul 2026 01:40:16 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_guterres-tours-syrias-assad-prison-in-sednaya-260726?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
+        "published": "Mon, 27 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Lebanese Return to Rubble Homes in Israeli Pilot Zones",
+        "title": "Oil Prices Fall as US Pauses Strikes on Iran for Diplomacy",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 3h ago. Civilians find homes destroyed by Israeli military in southern Lebanon; Lebanese army accuses Israel of bulldozing homes and blocking escort efforts.",
+        "title": "Pentagon Lists Four US Troops Killed During Iran Ceasefire",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Carries Out Double Tap Strike in Central Gaza",
+        "title": "— S3 · Conflict · Iran · 3h ago. Pentagon lists four US troops killed during a ceasefire with Iran, classifying deaths separately from Operation Epic Fury casualties.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 14h ago. Israel conducts a double tap airstrike in central Gaza, a tactic targeting rescuers following an initial strike.",
+        "title": "Lebanese Return to Rubble Homes in Israeli Pilot Zones",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Continues Attacks on Southern Lebanon, Lebanese Army Says",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 6h ago. Civilians find homes destroyed by Israeli military in southern Lebanon; Lebanese army accuses Israel of bulldozing homes and blocking escort efforts.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 17h ago. The Lebanese army reports ongoing Israeli attacks on southern Lebanon, with no immediate casualty figures.",
+        "title": "Israel Carries Out Double Tap Strike in Central Gaza",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
