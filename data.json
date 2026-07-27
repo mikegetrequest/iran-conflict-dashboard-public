@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-27 18:05",
+  "updated_at_gst": "2026-07-27 20:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,44 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel’s approval of limited Gaza force a calculated manoeuvre, experts say",
-        "published": "Mon, 27 Jul 2026 12:58:20 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/dutch-pair-banned-from-bali-after-run-club-excludes?traffic_source=rss"
+        "title": "Israeli raid sparks fire at UN Palestinian refugee centre",
+        "published": "Mon, 27 Jul 2026 15:39:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/27/mapping-israeli-settler-violence-in-the-west-bank?traffic_source=rss"
       },
       {
-        "title": "Moment Ukrainian drones strike Russia’s Belgorod",
-        "published": "Mon, 27 Jul 2026 10:59:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran?traffic_source=rss"
-      },
-      {
-        "title": "Israeli forces storm multiple West Bank towns, settler violence worsens",
-        "published": "Mon, 27 Jul 2026 10:41:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/27/sam-altman-says-ai-has-entered-singularity-should-we-be-worried?traffic_source=rss"
+        "title": "How Israel uses settler-soldier terror to colonise the West Bank",
+        "published": "Mon, 27 Jul 2026 15:27:09 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/why-venezuela-is-leaving-the-icc?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Drones Attack Iran's Neighbors Amid US Bombing Pause",
+        "title": "UN Official Says Beirut Residential Attack Broke War Laws",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 8m ago. Drones attacked Iran's neighbors, seemingly testing a pause in US bombing, which had halted 13 successive nights of intensifying strikes over the weekend.",
+        "title": "— S3 · Conflict · Beirut, Lebanon · 44m ago. UN human rights chief Volker Türk says principles of distinction, precaution, proportionality were violated in a strike on a residential building in Beirut.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Arabia Condemns Iraqi Militia Attacks on Capital",
+        "title": "Israeli Raid Sparks Fire at UN Palestinian Refugee Centre",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Riyadh, Saudi Arabia · 26m ago. Saudi foreign ministry denounces strikes on Riyadh and oil infrastructure by Iran-backed Iraqi militias, urges Iraq to prevent use of its territory.",
+        "title": "Drones Attack Iran's Neighbors Amid US Bombing Pause",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Palestinian Dies in Israeli Strike on Central Gaza",
+        "title": "— S3 · Conflict · Iran · 3h ago. Drones attacked Iran's neighbors, seemingly testing a pause in US bombing, which had halted 13 successive nights of intensifying strikes over the weekend.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 30m ago. A Palestinian died from injuries sustained in an Israeli airstrike in central Gaza.",
+        "title": "Palestinian Dies in Israeli Strike on Central Gaza",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
