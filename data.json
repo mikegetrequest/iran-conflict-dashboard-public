@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-28 01:33",
+  "updated_at_gst": "2026-07-28 02:47",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -34,41 +34,36 @@
         "title": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
         "published": "Mon, 27 Jul 2026 17:58:27 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss"
-      },
-      {
-        "title": "Will UNESCO’s heritage listing halt Israeli plans for West Bank’s Sebastia?",
-        "published": "Mon, 27 Jul 2026 17:36:12 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/27/what-drove-venezuelas-decision-to-leave-the-icc?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Launches Large Drone Attack on Multiple Cities in Iraqi Kurdistan",
+        "title": "Attack on Northern Iraq Gas Field Reported by Iran State Media",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Airstrikes Kill 1,700 Civilians in Iran",
+        "title": "— S3 · Conflict · Mosul, Iraq · 57m ago. Iran state media reports an attack on the largest gas field in northern Iraq, raising tensions in the region.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Tehran, Iran · 43m ago. Airstrikes have reportedly killed an estimated 1,700 Iranian civilians, devastating infrastructure and deepening the country's economic crisis, according to the NYT.",
+        "title": "Uneasy Pause in US-Iran Fighting Holds Amid Concerns Over Interceptor Stockpiles",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian State Media Video Threatens to Kill Melania Trump",
+        "title": "— S3 · Conflict · Saudi Arabia · 1h ago. The pause in direct US-Iran fighting continues, but concerns grow over interceptor stockpiles as Iranian proxies attack Saudi oil infrastructure.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Ramps Up Pressure With Drone Attacks and Shipping Disruptions",
+        "title": "Iran Launches Large Drone Attack on Multiple Cities in Iraqi Kurdistan",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 4h ago. Iran pauses direct strikes but escalates with drone attacks and shipping disruptions amid US-Iran tensions in the Strait of Hormuz.",
+        "title": "Airstrikes Kill 1,700 Civilians in Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
