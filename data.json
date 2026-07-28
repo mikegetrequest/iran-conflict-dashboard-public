@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-28 16:17",
+  "updated_at_gst": "2026-07-28 18:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,35 +14,56 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Pregnant Palestinian woman loses baby after Israeli checkpoint stop",
+        "published": "Tue, 28 Jul 2026 13:02:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/moment-canadian-politician-accidentally-reads-ai-prompt-during-speech?traffic_source=rss"
+      },
+      {
+        "title": "‘We’re here to stay’: West Bank Palestinians defy Israeli attacks",
+        "published": "Tue, 28 Jul 2026 12:32:42 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/us-walks-out-on-france-at-un-over-north-korea-russia-comparison?traffic_source=rss"
+      },
+      {
+        "title": "Why has Iran’s economy not collapsed under US war pressure?",
+        "published": "Tue, 28 Jul 2026 12:30:18 +0000",
+        "link": "https://www.aljazeera.com/video/this-is-america/2026/7/28/fatal-shooting-in-ice-operations?traffic_source=rss"
+      },
+      {
+        "title": "Israeli settler attack on at-Tuwani",
+        "published": "Tue, 28 Jul 2026 11:27:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Settler Attack on at-Tuwani in West Bank",
+        "title": "Jordan Intercepts 70 Iranian Ballistic Missiles and 25 Drones",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · at-Tuwani, West Bank, Palestine · 29m ago. An Israeli settler attack occurred in at-Tuwani, West Bank, as settler violence in the occupied territories reaches record highs, exacerbating tensions.",
+        "title": "— S3 · Conflict · Amman, Jordan · 47m ago. Jordanian Armed Forces intercepted 70 ballistic missiles and 25 drones launched by Iran over 16 days, per official news agency Petra.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Attack Damages Saudi Aramco's Jazan Refinery, Halting Operations",
+        "title": "Pregnant Palestinian Woman Loses Baby After Israeli Checkpoint Stop",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Jazan, Saudi Arabia · 29m ago. Saudi Aramco's 400,000 bpd Jazan refinery was damaged in an attack on Saturday, forcing a shutdown of operations.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 2h ago. A pregnant Palestinian woman miscarried after being stopped at an Israeli military checkpoint in the West Bank, highlighting ongoing tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Orders Takeover of West Bank Refugee Camp",
+        "title": "Israeli Settler Attack on at-Tuwani in West Bank",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 1h ago. Israeli Defense Minister Israel Katz orders the takeover of a refugee camp in the occupied West Bank amid escalating violence.",
+        "title": "— S3 · Conflict · at-Tuwani, West Bank, Palestine · 3h ago. An Israeli settler attack occurred in at-Tuwani, West Bank, as settler violence in the occupied territories reaches record highs, exacerbating tensions.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
