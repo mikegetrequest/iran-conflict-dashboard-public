@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-28 08:33",
+  "updated_at_gst": "2026-07-28 11:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
-        "published": "Tue, 28 Jul 2026 03:16:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/28/us-warns-hundreds-of-boeing-jets-may-require-seat-safety-inspections?traffic_source=rss"
+        "title": "Israeli ex-generals urge Trump to push Netanyahu on ‘settler terror’",
+        "published": "Tue, 28 Jul 2026 04:43:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss"
       },
       {
-        "title": "Trump says Iran talks taking place during pause in US military strikes",
-        "published": "Tue, 28 Jul 2026 02:47:55 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/ebola-response-workers-strike-in-dr-congo-as-death-toll-spikes?traffic_source=rss"
+        "title": "Ebola response workers strike in DR Congo as death toll spikes",
+        "published": "Tue, 28 Jul 2026 02:33:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/28/how-telehealth-is-helping-close-the-healthcare-gap-in-rural-zimbabwe?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump says ‘friendly’ talks ongoing; Netanyahu arrives in US",
-        "published": "Tue, 28 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss"
+        "title": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
+        "published": "Tue, 28 Jul 2026 00:51:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/savannah-guthrie-pleads-for-help-to-find-missing-mother?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Basij Accused of Massacre Against Protesters in Isfahan, Iran",
+        "title": "Israel Conducts Bombing Demolition Operations In Southern Lebanon",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Isfahan, Iran · 3h ago. Opposition claims Basij forces are carrying out a massacre against protesters in Isfahan using heavy machine guns; internet access reportedly restricted.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 2h ago. Israel conducting 'bombing, demolition operations' in southern Lebanon, according to the Lebanese National News Agency (NNA).",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Prepares Public Hanging of 3 Political Prisoners",
+        "title": "Basij Accused of Massacre Against Protesters in Isfahan, Iran",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Humanitarian · Tehran, Iran · 5h ago. Iranian authorities prepare cranes for the public execution of three political prisoners in Tehran, drawing international condemnation amid ongoing US-Iran tensions.",
+        "title": "— S3 · Conflict · Isfahan, Iran · 6h ago. Opposition claims Basij forces are carrying out a massacre against protesters in Isfahan using heavy machine guns; internet access reportedly restricted.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Attack on Northern Iraq Gas Field Reported by Iran State Media",
+        "title": "Iran Executes Three Political Prisoners in Isfahan",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Mosul, Iraq · 7h ago. Iran state media reports an attack on the largest gas field in northern Iraq, raising tensions in the region.",
+        "title": "— S3 · Political · Isfahan, Iran · 8h ago. Iranian authorities executed three political prisoners in Isfahan; security forces used force against families protesting the executions.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
