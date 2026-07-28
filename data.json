@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-28 14:04",
+  "updated_at_gst": "2026-07-28 16:17",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,46 +14,35 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
-        "published": "Tue, 28 Jul 2026 03:16:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/28/us-warns-hundreds-of-boeing-jets-may-require-seat-safety-inspections?traffic_source=rss"
-      },
-      {
-        "title": "Trump says Iran talks taking place during pause in US military strikes",
-        "published": "Tue, 28 Jul 2026 02:47:55 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/ebola-response-workers-strike-in-dr-congo-as-death-toll-spikes?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
-        "title": "Israeli Defense Minister Says US Jets Strike Iran From Israeli Bases",
+        "title": "Israeli Settler Attack on at-Tuwani in West Bank",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Israel · 24m ago. Israel Katz tells Channel 14 that US fighter jets are taking off from Israeli bases to strike Iran, and Iran is aware. Clarification: refers to active strike period, not recent days.",
+        "title": "— S3 · Conflict · at-Tuwani, West Bank, Palestine · 29m ago. An Israeli settler attack occurred in at-Tuwani, West Bank, as settler violence in the occupied territories reaches record highs, exacerbating tensions.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Expands Military Zone in Gaza, Forcing Displacement",
+        "title": "Attack Damages Saudi Aramco's Jazan Refinery, Halting Operations",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Conducts Bombing Demolition Operations In Southern Lebanon",
+        "title": "— S3 · Conflict · Jazan, Saudi Arabia · 29m ago. Saudi Aramco's 400,000 bpd Jazan refinery was damaged in an attack on Saturday, forcing a shutdown of operations.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 4h ago. Israel conducting 'bombing, demolition operations' in southern Lebanon, according to the Lebanese National News Agency (NNA).",
+        "title": "Israel Orders Takeover of West Bank Refugee Camp",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Basij Accused of Massacre Against Protesters in Isfahan, Iran",
+        "title": "— S3 · Conflict · West Bank, Palestine · 1h ago. Israeli Defense Minister Israel Katz orders the takeover of a refugee camp in the occupied West Bank amid escalating violence.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
