@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-28 05:19",
+  "updated_at_gst": "2026-07-28 08:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,59 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
-        "published": "Tue, 28 Jul 2026 00:51:50 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/savannah-guthrie-pleads-for-help-to-find-missing-mother?traffic_source=rss"
+        "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+        "published": "Tue, 28 Jul 2026 03:16:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/28/us-warns-hundreds-of-boeing-jets-may-require-seat-safety-inspections?traffic_source=rss"
       },
       {
-        "title": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
-        "published": "Mon, 27 Jul 2026 21:17:15 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss"
+        "title": "Trump says Iran talks taking place during pause in US military strikes",
+        "published": "Tue, 28 Jul 2026 02:47:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/ebola-response-workers-strike-in-dr-congo-as-death-toll-spikes?traffic_source=rss"
       },
       {
-        "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
-        "published": "Mon, 27 Jul 2026 21:04:09 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/7/27/will-perus-new-leader-keiko-fujimori-reject-her-fathers-legacy?traffic_source=rss"
-      },
-      {
-        "title": "British court dismisses Bahrain’s bid to block activists’ spyware lawsuit",
-        "published": "Mon, 27 Jul 2026 20:32:59 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/7/27/hakeem-jeffries-puts-affordability-at-centre-of-democrats-midterm-campaign?traffic_source=rss"
-      },
-      {
-        "title": "Unreleased footage reveals Lindsey Graham’s push for war on Iran",
-        "published": "Mon, 27 Jul 2026 20:09:16 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spain-protests-mass-touristification-of-mallorca?traffic_source=rss"
+        "title": "Iran war live: Trump says ‘friendly’ talks ongoing; Netanyahu arrives in US",
+        "published": "Tue, 28 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Prepares Public Hanging of 3 Political Prisoners",
+        "title": "Basij Accused of Massacre Against Protesters in Isfahan, Iran",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Humanitarian · Tehran, Iran · 2h ago. Iranian authorities prepare cranes for the public execution of three political prisoners in Tehran, drawing international condemnation amid ongoing US-Iran tensions.",
+        "title": "— S3 · Conflict · Isfahan, Iran · 3h ago. Opposition claims Basij forces are carrying out a massacre against protesters in Isfahan using heavy machine guns; internet access reportedly restricted.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Attack on Northern Iraq Gas Field Reported by Iran State Media",
+        "title": "Iran Prepares Public Hanging of 3 Political Prisoners",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Mosul, Iraq · 3h ago. Iran state media reports an attack on the largest gas field in northern Iraq, raising tensions in the region.",
+        "title": "— S3 · Humanitarian · Tehran, Iran · 5h ago. Iranian authorities prepare cranes for the public execution of three political prisoners in Tehran, drawing international condemnation amid ongoing US-Iran tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Uneasy Pause in US-Iran Fighting Holds Amid Concerns Over Interceptor Stockpiles",
+        "title": "Attack on Northern Iraq Gas Field Reported by Iran State Media",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Saudi Arabia · 4h ago. The pause in direct US-Iran fighting continues, but concerns grow over interceptor stockpiles as Iranian proxies attack Saudi oil infrastructure.",
+        "title": "— S3 · Conflict · Mosul, Iraq · 7h ago. Iran state media reports an attack on the largest gas field in northern Iraq, raising tensions in the region.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
