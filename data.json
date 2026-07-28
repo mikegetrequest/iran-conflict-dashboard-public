@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-28 23:01",
+  "updated_at_gst": "2026-07-29 00:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,54 +16,44 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
-        "published": "Tue, 28 Jul 2026 18:24:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss"
+        "title": "War on Iran: Phase II: Day 17",
+        "published": "Tue, 28 Jul 2026 17:15:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house?traffic_source=rss"
       },
       {
-        "title": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows",
-        "published": "Tue, 28 Jul 2026 18:01:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/wildfire-leaves-biscarrosse-commercial-district-in-ruins?traffic_source=rss"
-      },
-      {
-        "title": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
-        "published": "Tue, 28 Jul 2026 15:28:33 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss"
-      },
-      {
-        "title": "German investigators find apparent motive after Berlin Pride attack",
-        "published": "Tue, 28 Jul 2026 15:20:43 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/28/fifa-world-cup-for-india-football-qualification-is-still-just-a-distant-dream?traffic_source=rss"
+        "title": "Is Netanyahu’s Trump card losing its power in Israel?",
+        "published": "Tue, 28 Jul 2026 15:39:42 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Closures Leave West Bank Patients Trapped",
+        "title": "Israeli Artillery Pounds Nabatieh al-Fawqa in Southern Lebanon",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Airstrike Destroys Mosque and Displaced Tents in Gaza City",
+        "title": "— S3 · Conflict · Nabatieh al-Fawqa, Lebanon · 18m ago. Israeli forces shelled areas around Nabatieh al-Fawqa in southern Lebanon amid ongoing cross-border tensions with Hezbollah.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza City, Gaza Strip, Palestine · 38m ago. Israeli airstrike destroys a mosque and displacement tents near YMCA in Gaza City, damaging homes and leaving hundreds homeless.",
+        "title": "— S3 · Humanitarian · Gaza Strip, Palestine · 1h ago. Doctors at Al-Awda Hospital report a sharp rise in miscarriages, with about 70% of pregnancy losses linked to Israel's military campaign and blockade.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Forces Turn Back 18 Ships Amid Renewed Iran Blockade",
+        "title": "Israeli Closures Leave West Bank Patients Trapped",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 57m ago. CENTCOM reports US forces turned back 18 ships due to a renewed Iranian blockade, indicating escalating tensions in the region.",
+        "title": "Israeli Airstrike Destroys Mosque and Displaced Tents in Gaza City",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Satellite Confirms Houthi Strike Damage at Jazan Oil Refinery",
+        "title": "— S3 · Conflict · Gaza City, Gaza Strip, Palestine · 2h ago. Israeli airstrike destroys a mosque and displacement tents near YMCA in Gaza City, damaging homes and leaving hundreds homeless.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
