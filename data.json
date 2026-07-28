@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-29 02:48",
+  "updated_at_gst": "2026-07-29 03:47",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
-        "published": "Tue, 28 Jul 2026 20:29:42 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/protests-in-dc-against-netanyahus-meeting-with-trump?traffic_source=rss"
+        "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
+        "published": "Tue, 28 Jul 2026 23:16:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss"
+      },
+      {
+        "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
+        "published": "Tue, 28 Jul 2026 21:24:20 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss"
+      },
+      {
+        "title": "Iran and Oman exchange proposals to manage Strait of Hormuz",
+        "published": "Tue, 28 Jul 2026 21:01:19 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss"
+      },
+      {
+        "title": "How US defence aid shaped Israel’s military developments since Oct 7, 2023",
+        "published": "Tue, 28 Jul 2026 20:11:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/28/new-poll-shows-confusion-over-democratic-socialists-of-america-ideals?traffic_source=rss"
+      },
+      {
+        "title": "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
+        "published": "Tue, 28 Jul 2026 18:24:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss"
+      },
+      {
+        "title": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows",
+        "published": "Tue, 28 Jul 2026 18:01:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/wildfire-leaves-biscarrosse-commercial-district-in-ruins?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -28,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Muwaffaq Salti Air Base, Jordan · 32m ago. Iran launched ballistic missiles toward Muwaffaq Salti Air Base in Jordan, which hosts US forces, according to a senior American official.",
+        "title": "— S3 · Conflict · Muwaffaq Salti Air Base, Jordan · 2h ago. Iran launched ballistic missiles toward Muwaffaq Salti Air Base in Jordan, which hosts US forces, according to a senior American official.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Multiple Ballistic Missiles From Several Regions",
+        "title": "Iran Launches Ballistic Missiles at US Bases; All Intercepted by CENTCOM",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 54m ago. Iran launched multiple ballistic missiles from several regions, including at least one from Khomein in Markazi Province. The intended targets remain unknown, raising regional tensions.",
+        "title": "— S3 · Conflict · Iran · 2h ago. Iran launched multiple ballistic missiles from several regions, including at least one from Khomein in Markazi Province. The intended targets remain unknown, raising regional tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +73,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nabatieh al-Fawqa, Lebanon · 2h ago. Israeli forces shelled areas around Nabatieh al-Fawqa in southern Lebanon amid ongoing cross-border tensions with Hezbollah.",
+        "title": "— S3 · Conflict · Nabatieh al-Fawqa, Lebanon · 3h ago. Israeli forces shelled areas around Nabatieh al-Fawqa in southern Lebanon amid ongoing cross-border tensions with Hezbollah.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
