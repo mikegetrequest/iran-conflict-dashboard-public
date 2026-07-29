@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-30 00:05",
+  "updated_at_gst": "2026-07-30 01:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
+        "published": "Wed, 29 Jul 2026 20:31:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss"
+      },
+      {
         "title": "Iran pushes back against US as regional attacks heat up",
         "published": "Wed, 29 Jul 2026 17:45:27 +0000",
         "link": "https://www.aljazeera.com/economy/2026/7/29/democrat-senators-ask-us-sec-to-probe-trump-medias-fast-feed-sale?traffic_source=rss"
-      },
-      {
-        "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
-        "published": "Wed, 29 Jul 2026 15:43:05 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,22 +38,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Pushes Back Against US as Regional Attacks Heat Up",
+        "title": "Israel Roof Knocks Building in Central Gaza",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. A new round of strikes raises fears of escalation as Iran rejects an Omani proposal for joint oversight of the Strait of Hormuz.",
+        "title": "— S3 · Conflict · Gaza City, Gaza Strip, Palestine · 28m ago. Israeli Air Force UAV dropped a roof-knock munition on a building in central Gaza as a warning before a potential strike.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Bombs Mosque in Northern Gaza, Claims Weapons Depot",
+        "title": "US-Saudi Strikes Kill 7 PMF Fighters in Miqdadiyah and Nineveh",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. Israeli military bombed a mosque in northern Gaza, claiming Hamas stored weapons there; Palestinian sources deny the claim.",
+        "title": "— S3 · Conflict · Miqdadiyah, Diyala, Iraq · 37m ago. US and Saudi airstrikes target PMF 24th Brigade base in Miqdadiyah, Diyala, and kill 7 PMF 30th Brigade members in Nineveh Plains, Iraq.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
