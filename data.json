@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-29 22:49",
+  "updated_at_gst": "2026-07-30 00:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work",
-        "published": "Wed, 29 Jul 2026 17:16:39 +0000",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss"
+        "title": "Iran pushes back against US as regional attacks heat up",
+        "published": "Wed, 29 Jul 2026 17:45:27 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/7/29/democrat-senators-ask-us-sec-to-probe-trump-medias-fast-feed-sale?traffic_source=rss"
       },
       {
-        "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
-        "published": "Wed, 29 Jul 2026 14:27:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss"
+        "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
+        "published": "Wed, 29 Jul 2026 15:43:05 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 38m ago. A new round of strikes raises fears of escalation as Iran rejects an Omani proposal for joint oversight of the Strait of Hormuz.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. A new round of strikes raises fears of escalation as Iran rejects an Omani proposal for joint oversight of the Strait of Hormuz.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 59m ago. Israeli military bombed a mosque in northern Gaza, claiming Hamas stored weapons there; Palestinian sources deny the claim.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. Israeli military bombed a mosque in northern Gaza, claiming Hamas stored weapons there; Palestinian sources deny the claim.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
