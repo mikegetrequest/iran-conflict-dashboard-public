@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-30 02:25",
+  "updated_at_gst": "2026-07-30 03:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,39 +16,44 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
-        "published": "Wed, 29 Jul 2026 20:31:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss"
+        "title": "Trump threatens Iran strikes after attack on US base in Jordan",
+        "published": "Wed, 29 Jul 2026 21:18:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss"
+      },
+      {
+        "title": "New investigation shows how an Israeli settler escaped justice",
+        "published": "Wed, 29 Jul 2026 19:55:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/ice-cream-for-education-gaza-cafe-raises-funds-for-studies?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Fires Ballistic Missiles at US Base in Jordan, All Intercepted",
+        "title": "Iran Strikes US Air Base in Jordan With Ballistic Missiles, All Intercepted by US and Jordanian Forces, US and Saudi Arabia Strike Militias in Iraq in Retaliation, Raising Fears of Wider War, July 29,",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Fires Ballistic Missiles at US Bases Across Middle East, All Intercepted",
+        "title": "Three Blasts Near Military Base in Nurabad, Iran, Cause Unknown",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US-Saudi Airstrikes Target PMF Militia in Bartella, Nineveh",
+        "title": "— S3 · Conflict · Nurabad, Iran · 30m ago. Reports indicate three explosions in Nurabad, Fars Province, Iran; cause and casualties unclear.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bartella, Nineveh, Iraq · 4m ago. US and Saudi forces conducted airstrikes against Iran-backed Popular Mobilization Forces in Bartella, Nineveh province, Iraq, escalating regional tensions.",
+        "title": "Houthi Ballistic Missiles Strike Riyadh Airport, Airspace Closed Over Dammam",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Ballistic Missiles Strike Riyadh Airport, Airspace Closed Over Dammam",
+        "title": "Saudi Airstrike Kills Senior Houthi Member in Iraq",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrike Kills Senior Houthi Member in Iraq",
+        "title": "— S3 · Conflict · Baghdad, Iraq · 2h ago. Senior Houthi member Mohammed Khaled Al-Ayashi killed in Saudi airstrike targeting Iran-linked militia positions in Iraq.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
