@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-29 05:20",
+  "updated_at_gst": "2026-07-29 08:38",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,59 +16,54 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
-        "published": "Tue, 28 Jul 2026 23:16:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss"
+        "title": "Israel kills Palestinian, destroys mosque in Gaza",
+        "published": "Wed, 29 Jul 2026 02:45:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report?traffic_source=rss"
       },
       {
-        "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
-        "published": "Tue, 28 Jul 2026 21:24:20 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss"
+        "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
+        "published": "Wed, 29 Jul 2026 01:37:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/29/after-fleeing-sudans-war-refugees-battle-thirst-in-chads-camps?traffic_source=rss"
       },
       {
-        "title": "Iran and Oman exchange proposals to manage Strait of Hormuz",
-        "published": "Tue, 28 Jul 2026 21:01:19 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss"
+        "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
+        "published": "Wed, 29 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss"
       },
       {
-        "title": "How US defence aid shaped Israel’s military developments since Oct 7, 2023",
-        "published": "Tue, 28 Jul 2026 20:11:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/28/new-poll-shows-confusion-over-democratic-socialists-of-america-ideals?traffic_source=rss"
-      },
-      {
-        "title": "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
-        "published": "Tue, 28 Jul 2026 18:24:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss"
+        "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
+        "published": "Tue, 28 Jul 2026 20:29:42 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/protests-in-dc-against-netanyahus-meeting-with-trump?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Airstrike Hits Dibs in Kirkuk, Iraq",
+        "title": "Iran Fires Ballistic Missiles at US Base in Jordan, All Intercepted",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Dibs, Kirkuk, Iraq · 14m ago. An airstrike struck the town of Dibs in Kirkuk Province, Iraq. No immediate reports on casualties or the party responsible.",
+        "title": "Houthi Ballistic Missile Damages ARAMCO Depot in Yanbu, Saudi Arabia",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US and Saudi Forces Strike Iran-Backed Militias in Baghdad, Iraq",
+        "title": "— S3 · Conflict · Yanbu Industrial City, Saudi Arabia · 36m ago. Satellite imagery confirms Houthi ballistic missile strike damaged an ARAMCO fuel depot and a blending plant in Yanbu Industrial City, Saudi Arabia.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Baghdad, Iraq · 55m ago. US and Saudi forces carried out airstrikes on Iranian-backed militias in Baghdad, Iraq, following over 30 drone attacks on Saudi infrastructure directed by the IRGC.",
+        "title": "Iran Says 3 Oil Tankers Hit by Missiles in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Accuses IRGC of Surprise Ballistic Missile Attacks",
+        "title": "— S3 · Conflict · Strait of Hormuz · 1h ago. Iran announces that three oil tankers escorted by the US Navy were hit by missiles in the Strait of Hormuz, escalating maritime conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 59m ago. The US claims Iran's IRGC launched surprise ballistic missile attacks, while Saudi Arabia intercepted drones amid heightened tensions over the Strait of Hormuz.",
+        "title": "Iran to Receive Chinese Shoulder-Launched Missile Systems Within Weeks, Sources Say",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
