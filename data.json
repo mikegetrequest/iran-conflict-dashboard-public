@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-29 14:25",
+  "updated_at_gst": "2026-07-29 16:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,11 +24,6 @@
         "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
         "published": "Wed, 29 Jul 2026 05:43:03 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss"
-      },
-      {
-        "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
-        "published": "Wed, 29 Jul 2026 02:54:45 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,27 +33,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US and Saudi Arabia Strike Iran-Backed Groups in Iraq",
+        "title": "Iran Fires Ballistic Missiles at US Bases Across Middle East, All Intercepted",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Eastern Jordan, Jordan · 9m ago. Loud explosions reported near US military bases in Jordan; Iraqi Popular Mobilization Forces suspected of launching strikes.",
+        "title": "Iraqi President Condemns Saudi-US Strike on Paramilitary Soldiers",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US War Department Records Detail 400+ Casualties in Iran War",
+        "title": "— S3 · Conflict · Baghdad, Iraq · 13m ago. Iraqi President condemns joint US-Saudi airstrike on paramilitary soldiers as a violation of Iraqi sovereignty.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Tehran, Iran · 19m ago. Newly obtained records show at least 17 life-threatening injuries and 170 TBI cases among US forces from Feb 28 to Apr 8.",
+        "title": "Iran Attacks Israel as US Assets Deploy",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Missile Strike Hits Ali Al-Salem Air Base in Kuwait",
+        "title": "— S3 · Conflict · Israel · 31m ago. Iran launches attacks on Israel, signaling a message as the US deploys military assets to the region, escalating tensions.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
