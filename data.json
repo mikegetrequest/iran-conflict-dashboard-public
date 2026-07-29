@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-29 20:13",
+  "updated_at_gst": "2026-07-29 21:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work",
+        "published": "Wed, 29 Jul 2026 17:16:39 +0000",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss"
+      },
       {
         "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
         "published": "Wed, 29 Jul 2026 14:27:45 +0000",
@@ -33,22 +38,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Drones Strike Gas Tankers Near Port Said, Egypt",
+        "title": "Saudi-US Strikes Kill 4 IRGC Members in Karbala",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Drone Strikes US-Owned LNG Carrier at Egypt's Damietta Port",
+        "title": "— S3 · Conflict · Karbala, Iraq · 11m ago. Joint Saudi-US airstrikes in Karbala, Iraq, killed four IRGC members identified as Ali Asghar Astaneh, Abolfazl Mottaqi, Morteza Akbari, and Amir Abbas Darham Foroush.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran War Paralyzes Iraq's Umm Qasr Port",
+        "title": "Israeli Airstrikes Kill 2 Palestinians in Gaza City, Khan Younis",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Launches New Strikes in Gaza",
+        "title": "— S3 · Conflict · Gaza City, Palestine · 11m ago. Separate Israeli air strikes killed two Palestinians in Gaza City and Khan Younis.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
