@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-29 08:38",
+  "updated_at_gst": "2026-07-29 11:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -21,19 +21,14 @@
         "link": "https://www.aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report?traffic_source=rss"
       },
       {
-        "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
+        "title": "Iraqi armed groups condemn “dangerous escalation” after US-Saudi strikes",
         "published": "Wed, 29 Jul 2026 01:37:23 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/29/after-fleeing-sudans-war-refugees-battle-thirst-in-chads-camps?traffic_source=rss"
       },
       {
-        "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
+        "title": "Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan",
         "published": "Wed, 29 Jul 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss"
-      },
-      {
-        "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
-        "published": "Tue, 28 Jul 2026 20:29:42 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/protests-in-dc-against-netanyahus-meeting-with-trump?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yanbu Industrial City, Saudi Arabia · 36m ago. Satellite imagery confirms Houthi ballistic missile strike damaged an ARAMCO fuel depot and a blending plant in Yanbu Industrial City, Saudi Arabia.",
+        "title": "— S3 · Conflict · Yanbu Industrial City, Saudi Arabia · 4h ago. Satellite imagery confirms Houthi ballistic missile strike damaged an ARAMCO fuel depot and a blending plant in Yanbu Industrial City, Saudi Arabia.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 1h ago. Iran announces that three oil tankers escorted by the US Navy were hit by missiles in the Strait of Hormuz, escalating maritime conflict.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 4h ago. Iran announces that three oil tankers escorted by the US Navy were hit by missiles in the Strait of Hormuz, escalating maritime conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
