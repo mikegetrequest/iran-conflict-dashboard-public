@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-29 11:35",
+  "updated_at_gst": "2026-07-29 14:25",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel kills Palestinian, destroys mosque in Gaza",
-        "published": "Wed, 29 Jul 2026 02:45:59 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report?traffic_source=rss"
+        "title": "Russian industrial sites on fire after Ukrainian drone attacks",
+        "published": "Wed, 29 Jul 2026 07:57:04 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/7/29/ipls-business-value-rockets-to-20-billion-as-india-cricket-league-soars?traffic_source=rss"
       },
       {
-        "title": "Iraqi armed groups condemn “dangerous escalation” after US-Saudi strikes",
-        "published": "Wed, 29 Jul 2026 01:37:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/29/after-fleeing-sudans-war-refugees-battle-thirst-in-chads-camps?traffic_source=rss"
+        "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+        "published": "Wed, 29 Jul 2026 05:43:03 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss"
       },
       {
-        "title": "Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan",
-        "published": "Wed, 29 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss"
+        "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
+        "published": "Wed, 29 Jul 2026 02:54:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,27 +38,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Ballistic Missile Damages ARAMCO Depot in Yanbu, Saudi Arabia",
+        "title": "US and Saudi Arabia Strike Iran-Backed Groups in Iraq",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yanbu Industrial City, Saudi Arabia · 4h ago. Satellite imagery confirms Houthi ballistic missile strike damaged an ARAMCO fuel depot and a blending plant in Yanbu Industrial City, Saudi Arabia.",
+        "title": "— S3 · Conflict · Eastern Jordan, Jordan · 9m ago. Loud explosions reported near US military bases in Jordan; Iraqi Popular Mobilization Forces suspected of launching strikes.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Says 3 Oil Tankers Hit by Missiles in Strait of Hormuz",
+        "title": "US War Department Records Detail 400+ Casualties in Iran War",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 4h ago. Iran announces that three oil tankers escorted by the US Navy were hit by missiles in the Strait of Hormuz, escalating maritime conflict.",
+        "title": "— S3 · Conflict · Tehran, Iran · 19m ago. Newly obtained records show at least 17 life-threatening injuries and 170 TBI cases among US forces from Feb 28 to Apr 8.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran to Receive Chinese Shoulder-Launched Missile Systems Within Weeks, Sources Say",
+        "title": "Iranian Missile Strike Hits Ali Al-Salem Air Base in Kuwait",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
