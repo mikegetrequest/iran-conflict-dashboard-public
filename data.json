@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-29 16:26",
+  "updated_at_gst": "2026-07-29 18:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russian industrial sites on fire after Ukrainian drone attacks",
-        "published": "Wed, 29 Jul 2026 07:57:04 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/29/ipls-business-value-rockets-to-20-billion-as-india-cricket-league-soars?traffic_source=rss"
-      },
-      {
-        "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
-        "published": "Wed, 29 Jul 2026 05:43:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss"
+        "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
+        "published": "Wed, 29 Jul 2026 14:27:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,22 +33,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iraqi President Condemns Saudi-US Strike on Paramilitary Soldiers",
+        "title": "Iran Attacks Israel as US Assets Deploy",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Baghdad, Iraq · 13m ago. Iraqi President condemns joint US-Saudi airstrike on paramilitary soldiers as a violation of Iraqi sovereignty.",
+        "title": "— S3 · Conflict · Israel · 3h ago. Iran launches attacks on Israel, signaling a message as the US deploys military assets to the region, escalating tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Attacks Israel as US Assets Deploy",
+        "title": "US Strikes Border Point Near Piranshahr, Iran, in Retaliation for Cargo Ship Attack in Strait of Hormuz\n\n&lt;json&gt;\n[{\"title\":\"US Strikes Border Point Near Piranshahr, Iran, in Retaliation for Cargo Ship",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Israel · 31m ago. Iran launches attacks on Israel, signaling a message as the US deploys military assets to the region, escalating tensions.",
+        "title": "— S3 · Conflict · West Azerbaijan Province, Iran · 3h ago. US forces conducted an attack in West Azerbaijan Province, Iran, as part of ongoing military operations.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
