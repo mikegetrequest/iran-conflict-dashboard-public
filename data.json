@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-30 07:48",
+  "updated_at_gst": "2026-07-30 10:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
-        "published": "Thu, 30 Jul 2026 01:04:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/30/trump-cuts-who-off-from-gavi-vaccine-alliance?traffic_source=rss"
+        "title": "US launches ‘powerful’ strikes on Iran after Jordan attack",
+        "published": "Thu, 30 Jul 2026 04:55:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/30/evo-morales-defiant-after-new-bolivia-arrest-warrant?traffic_source=rss"
       },
       {
-        "title": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning",
-        "published": "Thu, 30 Jul 2026 00:23:13 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss"
+        "title": "US launches another round of attacks on Iran",
+        "published": "Thu, 30 Jul 2026 03:56:07 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss"
       },
       {
-        "title": "Israel slams Canada for statement opposing West Bank settlement expansion",
-        "published": "Wed, 29 Jul 2026 23:29:24 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/29/trump-appeals-83-3m-e-jean-carroll-civil-verdict-to-us-supreme-court?traffic_source=rss"
+        "title": "Living with fear: Inside a southern Lebanon village divided by Israel",
+        "published": "Thu, 30 Jul 2026 02:45:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/30/after-a-deadly-raid-a-displaced-nigerian-mother-finds-a-lifeline-in-sewing?traffic_source=rss"
       },
       {
-        "title": "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’",
-        "published": "Wed, 29 Jul 2026 23:10:15 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss"
-      },
-      {
-        "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
-        "published": "Wed, 29 Jul 2026 20:31:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss"
+        "title": "Iran war live: US attack kills Iranian couple, toddler on Qeshm Island",
+        "published": "Thu, 30 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 2h ago. US Central Command strikes dozens of IRGC military sites across Iran overnight in retaliation for Iranian missile attacks on US forces the previous day.",
+        "title": "— S4 · Conflict · Iran · 5h ago. US Central Command strikes dozens of IRGC military sites across Iran overnight in retaliation for Iranian missile attacks on US forces the previous day.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 3h ago. U.S. forces began launching strikes against Iran at 8 p.m. ET today, a powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 6h ago. U.S. forces began launching strikes against Iran at 8 p.m. ET today, a powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
