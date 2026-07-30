@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-30 10:14",
+  "updated_at_gst": "2026-07-30 13:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Is Israel repeating the Crusaders’ fatal mistake?",
+        "published": "Thu, 30 Jul 2026 07:13:43 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss"
+      },
+      {
         "title": "US launches ‘powerful’ strikes on Iran after Jordan attack",
         "published": "Thu, 30 Jul 2026 04:55:36 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/30/evo-morales-defiant-after-new-bolivia-arrest-warrant?traffic_source=rss"
       },
       {
-        "title": "US launches another round of attacks on Iran",
+        "title": "US launches ‘heavy wave’ of new strikes on Iran",
         "published": "Thu, 30 Jul 2026 03:56:07 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss"
-      },
-      {
-        "title": "Living with fear: Inside a southern Lebanon village divided by Israel",
-        "published": "Thu, 30 Jul 2026 02:45:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/30/after-a-deadly-raid-a-displaced-nigerian-mother-finds-a-lifeline-in-sewing?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: US attack kills Iranian couple, toddler on Qeshm Island",
-        "published": "Thu, 30 Jul 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 5h ago. US Central Command strikes dozens of IRGC military sites across Iran overnight in retaliation for Iranian missile attacks on US forces the previous day.",
+        "title": "— S4 · Conflict · Iran · 7h ago. US Central Command strikes dozens of IRGC military sites across Iran overnight in retaliation for Iranian missile attacks on US forces the previous day.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 6h ago. U.S. forces began launching strikes against Iran at 8 p.m. ET today, a powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 9h ago. U.S. forces began launching strikes against Iran at 8 p.m. ET today, a powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches HIMARS Missiles From Kuwait Into Iran, Reports of Strikes on Kish Island",
+        "title": "US Airstrikes Hit Qeshm Island and Multiple Iranian Cities in Retaliation for Missile Attack on Jordan Bases",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Air Base in Jordan With Ballistic Missiles, All Intercepted by US and Jordanian Forces, US and Saudi Arabia Strike Militias in Iraq in Retaliation, Raising Fears of Wider War, July 29,",
+        "title": "US Launches HIMARS Missiles From Kuwait Into Iran, Reports of Strikes on Kish Island",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
