@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-30 16:59",
+  "updated_at_gst": "2026-07-30 19:09",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,11 +24,6 @@
         "title": "Attack on northwest Pakistan police post kills 11 officers",
         "published": "Thu, 30 Jul 2026 10:21:02 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks",
-        "published": "Thu, 30 Jul 2026 09:10:07 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/30/protest-group-says-30-dead-in-pakistan-administered-kashmir-vote?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 11h ago. US Central Command strikes dozens of IRGC military sites across Iran overnight in retaliation for Iranian missile attacks on US forces the previous day.",
+        "title": "— S4 · Conflict · Iran · 13h ago. US Central Command strikes dozens of IRGC military sites across Iran overnight in retaliation for Iranian missile attacks on US forces the previous day.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 13h ago. U.S. forces began launching strikes against Iran at 8 p.m. ET today, a powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 15h ago. U.S. forces began launching strikes against Iran at 8 p.m. ET today, a powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
