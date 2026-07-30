@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-30 03:27",
+  "updated_at_gst": "2026-07-30 04:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran war live: Trump threatens to hit ‘very hard’ over strikes on Jordan",
+        "published": "Thu, 30 Jul 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss"
+      },
+      {
         "title": "Trump threatens Iran strikes after attack on US base in Jordan",
         "published": "Wed, 29 Jul 2026 21:18:24 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss"
@@ -28,32 +33,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Strikes US Air Base in Jordan With Ballistic Missiles, All Intercepted by US and Jordanian Forces, US and Saudi Arabia Strike Militias in Iraq in Retaliation, Raising Fears of Wider War, July 29,",
+        "title": "US Launches Retaliatory Strikes on Iran After Jordan Attack Attempted Missile Attack on US Forces in Jordan the Previous Day, CENTCOM confirms. Large-scale bombing campaign targets multiple areas acro",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Three Blasts Near Military Base in Nurabad, Iran, Cause Unknown",
+        "title": "— S4 · Conflict · Strait of Hormuz · 27m ago. U.S. forces began launching strikes against Iran at 8 p.m. ET today, a powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nurabad, Iran · 30m ago. Reports indicate three explosions in Nurabad, Fars Province, Iran; cause and casualties unclear.",
+        "title": "US Launches HIMARS Missiles From Kuwait Into Iran, Reports of Strikes on Kish Island",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Ballistic Missiles Strike Riyadh Airport, Airspace Closed Over Dammam",
+        "title": "Iran Strikes US Air Base in Jordan With Ballistic Missiles, All Intercepted by US and Jordanian Forces, US and Saudi Arabia Strike Militias in Iraq in Retaliation, Raising Fears of Wider War, July 29,",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrike Kills Senior Houthi Member in Iraq",
+        "title": "US Launches Fresh Airstrikes on Iran After Days-Long Pause",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Baghdad, Iraq · 2h ago. Senior Houthi member Mohammed Khaled Al-Ayashi killed in Saudi airstrike targeting Iran-linked militia positions in Iraq.",
+        "title": "— S3 · Conflict · Iran · 11m ago. US military announces new airstrikes on Iranian targets early Thursday, raising fears of a return to all-out war after a brief lull in attacks.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
