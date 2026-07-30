@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-31 02:31",
+  "updated_at_gst": "2026-07-31 03:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Will Saudi Arabia be dragged further into the war in Iran?",
-        "published": "Thu, 30 Jul 2026 21:00:28 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/prague-zoo-keeps-polar-bears-cool-with-ice-amid-heatwave?traffic_source=rss"
+        "title": "Security camera shows ‘Russian missile’ exploding in Poland",
+        "published": "Thu, 30 Jul 2026 20:39:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/30/father-of-georgia-apalachee-school-shooter-sentenced-to-15-years-in-prison?traffic_source=rss"
+      },
+      {
+        "title": "US authorities probe cyberattack on water systems in Minnesota",
+        "published": "Thu, 30 Jul 2026 20:32:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/palestine-action-co-founder-wins-uk-supreme-court-appeal-bid?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -28,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 21h ago. US Central Command strikes dozens of IRGC military sites across Iran overnight in retaliation for Iranian missile attacks on US forces the previous day.",
+        "title": "— S4 · Conflict · Iran · 22h ago. US Central Command strikes dozens of IRGC military sites across Iran overnight in retaliation for Iranian missile attacks on US forces the previous day.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -38,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 22h ago. U.S. forces began launching strikes against Iran at 8 p.m. ET today, a powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 23h ago. U.S. forces began launching strikes against Iran at 8 p.m. ET today, a powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
