@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-31 22:01",
+  "updated_at_gst": "2026-07-31 23:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russia and Ukraine report casualties as they continue to trade attacks",
-        "published": "Fri, 31 Jul 2026 14:22:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/31/turkiyes-davutoglu-steps-back-from-politics-a-timeline-of-his-career?traffic_source=rss"
+        "title": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
+        "published": "Fri, 31 Jul 2026 19:18:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss"
+      },
+      {
+        "title": "Why is Israel arming illegal settlers?",
+        "published": "Fri, 31 Jul 2026 18:02:14 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -28,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Erbil, Iraq · 57m ago. US forces are nearing full withdrawal from Iraq as bases in the Kurdistan Region face attacks from Iran and its proxies.",
+        "title": "— S3 · Conflict · Erbil, Iraq · 3h ago. US forces are nearing full withdrawal from Iraq as bases in the Kurdistan Region face attacks from Iran and its proxies.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -38,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Jerusalem, Israel · 1h ago. Secretary Rubio praises the new Israel-Lebanon deal and the Hamas disarmament agreement, calling them unprecedented steps.",
+        "title": "— S3 · Political · Jerusalem, Israel · 3h ago. Secretary Rubio praises the new Israel-Lebanon deal and the Hamas disarmament agreement, calling them unprecedented steps.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. Israel claims it killed a Hamas deputy commander in an attack on Gaza, escalating the conflict amid ongoing ceasefire negotiations.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Israel claims it killed a Hamas deputy commander in an attack on Gaza, escalating the conflict amid ongoing ceasefire negotiations.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
