@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-31 14:25",
+  "updated_at_gst": "2026-07-31 16:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: IRGC claims ‘retaliatory attack’ on Kuwait",
-        "published": "Fri, 31 Jul 2026 06:49:38 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss"
+        "title": "Eleven Palestinians, including children, injured in Israel’s Nablus raids",
+        "published": "Fri, 31 Jul 2026 09:33:37 +0000",
+        "link": "https://www.aljazeera.com/features/longform/2026/7/31/her-mother-said-no-to-a-phone-then-came-the-gaza-genocide?traffic_source=rss"
+      },
+      {
+        "title": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
+        "published": "Fri, 31 Jul 2026 09:09:54 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/hamas-agrees-to-phased-disarmament-in-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces blow up structures near Lebanon’s Beaufort Castle",
+        "published": "Fri, 31 Jul 2026 08:03:29 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-liberia-cocaine-burning-lr?traffic_source=rss"
+      },
+      {
+        "title": "Pakistan’s attacks on Afghanistan are about more than the TTP",
+        "published": "Fri, 31 Jul 2026 06:50:52 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,22 +48,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Navy Tightens Blockade Around Iran, Boards Ships in Gulf",
+        "title": "IDF Kills Two Hamas Officials in Gaza Strikes",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Drone Strikes Kurdish Militant Positions in Erbil, Iraq",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 14m ago. The IDF conducted strikes in the Gaza Strip, eliminating Muhammad al-Abed, a Hamas supply official, and Ahmad Ma'in Muhammad Anker, a Hamas commander.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Erbil, Iraq · 4h ago. IRGC used Shahed-136 kamikaze drones to strike bases of Kurdish militant groups in Iraqi Kurdistan, hitting Erbil.",
+        "title": "Iran Military Ran $4 Billion Gambling Network to Dodge Sanctions",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Arrest 7 Palestinians in Nablus Governorate",
+        "title": "— S3 · Economic · Iran · 1h ago. Report reveals Iran's military operated a $4 billion gambling network to circumvent international sanctions, highlighting illicit financial activities.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
