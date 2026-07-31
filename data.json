@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-01 01:01",
+  "updated_at_gst": "2026-08-01 02:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,39 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Poland protests to Russian ambassador over missile incursion",
-        "published": "Fri, 31 Jul 2026 19:48:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss"
+        "title": "Israeli settlers vandalise Palestinian cemetery in West Bank",
+        "published": "Fri, 31 Jul 2026 22:12:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss"
+      },
+      {
+        "title": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
+        "published": "Fri, 31 Jul 2026 19:18:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss"
+      },
+      {
+        "title": "Why is Israel arming illegal settlers?",
+        "published": "Fri, 31 Jul 2026 18:02:14 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Navy Enforces Blockade Against Iran in Strait of Hormuz",
+        "title": "Russia Provides Satellite Intelligence to Iran",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Air Strike Wounds 10, Destroys Home in Nuseirat Camp",
+        "title": "Houthi Attacks on Saudi Tankers Trigger Surge in Red Sea Escort Requests",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Nears Iraq Withdrawal Amid Attacks on Kurdistan Bases",
+        "title": "— S3 · Conflict · Southern Red Sea · 1h ago. Houthi attacks on Saudi tankers in the Southern Red Sea have led to a major jump in escort requests, according to the Red Sea Maritime Security Task Force commander.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Erbil, Iraq · 4h ago. US forces are nearing full withdrawal from Iraq as bases in the Kurdistan Region face attacks from Iran and its proxies.",
+        "title": "US Navy Enforces Blockade Against Iran in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Praises Israel-Lebanon Deal and Hamas Disarmament",
+        "title": "Israel Air Strike Wounds 10, Destroys Home in Nuseirat Camp",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Jerusalem, Israel · 4h ago. Secretary Rubio praises the new Israel-Lebanon deal and the Hamas disarmament agreement, calling them unprecedented steps.",
+        "title": "— S3 · Conflict · Nuseirat Refugee Camp, Gaza Strip, Palestine · 2h ago. An Israeli airstrike on the Nuseirat refugee camp in central Gaza wounded at least 10 people and destroyed a home, adding to the ongoing conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
