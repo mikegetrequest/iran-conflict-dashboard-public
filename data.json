@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-31 16:23",
+  "updated_at_gst": "2026-07-31 18:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Eleven Palestinians, including children, injured in Israel’s Nablus raids",
-        "published": "Fri, 31 Jul 2026 09:33:37 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/7/31/her-mother-said-no-to-a-phone-then-came-the-gaza-genocide?traffic_source=rss"
-      },
-      {
-        "title": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
-        "published": "Fri, 31 Jul 2026 09:09:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/hamas-agrees-to-phased-disarmament-in-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Israeli forces blow up structures near Lebanon’s Beaufort Castle",
-        "published": "Fri, 31 Jul 2026 08:03:29 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-liberia-cocaine-burning-lr?traffic_source=rss"
-      },
-      {
-        "title": "Pakistan’s attacks on Afghanistan are about more than the TTP",
-        "published": "Fri, 31 Jul 2026 06:50:52 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss"
+        "title": "Russia’s Africa Corps killed Mali civilians in air strike: HRW",
+        "published": "Fri, 31 Jul 2026 11:41:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,27 +28,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches HIMARS Missiles From Kuwait Into Iran, Reports of Strikes on Kish Island",
+        "title": "IRGC Takes Over Wartime Decision Making in Iran",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IDF Kills Two Hamas Officials in Gaza Strikes",
+        "title": "— S3 · Political · Tehran, Iran · 27m ago. The Islamic Revolutionary Guard Corps has reportedly taken full control of wartime decision-making in Iran, sidelining moderate voices, according to US officials.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 14m ago. The IDF conducted strikes in the Gaza Strip, eliminating Muhammad al-Abed, a Hamas supply official, and Ahmad Ma'in Muhammad Anker, a Hamas commander.",
+        "title": "Israeli Airstrike Kills Palestinian in Central Gaza",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Military Ran $4 Billion Gambling Network to Dodge Sanctions",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. An Israeli airstrike in central Gaza killed a Palestinian civilian, adding to the ongoing toll in the conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Iran · 1h ago. Report reveals Iran's military operated a $4 billion gambling network to circumvent international sanctions, highlighting illicit financial activities.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 1h ago. A Palestinian was shot during a march by Israeli settlers through West Bank towns, organized in memory of two Israelis killed last week.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
