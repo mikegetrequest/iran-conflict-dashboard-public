@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-31 05:27",
+  "updated_at_gst": "2026-07-31 08:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Southern Lebanese towns near Beaufort Castle hit by Israeli strikes",
+        "published": "Fri, 31 Jul 2026 04:09:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs?traffic_source=rss"
+      },
+      {
+        "title": "Israeli soldiers mutiny at notorious Sde Teiman base",
+        "published": "Fri, 31 Jul 2026 01:43:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-deploys-military-to-ceuta-after-deadly-migrant-surge?traffic_source=rss"
+      },
+      {
         "title": "US Escalation with Iran is ‘pointless’, warns former US diplomat",
         "published": "Fri, 31 Jul 2026 00:08:12 +0000",
         "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss"
@@ -24,42 +34,17 @@
         "title": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
         "published": "Thu, 30 Jul 2026 23:51:40 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/30/uk-left-wing-mp-diane-abbott-reinstated-by-labour-party-after-suspension?traffic_source=rss"
-      },
-      {
-        "title": "Will Saudi Arabia be dragged further into the war in Iran?",
-        "published": "Thu, 30 Jul 2026 21:00:28 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/prague-zoo-keeps-polar-bears-cool-with-ice-amid-heatwave?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Launches Heavy Strikes on IRGC Military Sites Across Iran",
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 1d ago. US Central Command strikes dozens of IRGC military sites across Iran overnight in retaliation for Iranian missile attacks on US forces the previous day.",
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
         "published": "line-2",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "US Launches Retaliatory Strikes on Iran After Jordan Attack Attempted Missile Attack on US Forces in Jordan the Previous Day, CENTCOM confirms. Large-scale bombing campaign targets multiple areas acro",
-        "published": "line-3",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S4 · Conflict · Strait of Hormuz · 1d ago. U.S. forces began launching strikes against Iran at 8 p.m. ET today, a powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East.",
-        "published": "line-4",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "US Airstrikes on Qeshm Island Kill Three Civilians, Injure Two Children in Iran Retaliation Campaign for Jordan Bases Attack; IRGC Site Also Hit Amidst Widespread Damage and Power Outages Across South",
-        "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "US Launches HIMARS Missiles From Kuwait Into Iran, Reports of Strikes on Kish Island",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
