@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-31 23:58",
+  "updated_at_gst": "2026-08-01 01:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
-        "published": "Fri, 31 Jul 2026 19:18:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss"
-      },
-      {
-        "title": "Why is Israel arming illegal settlers?",
-        "published": "Fri, 31 Jul 2026 18:02:14 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss"
+        "title": "Poland protests to Russian ambassador over missile incursion",
+        "published": "Fri, 31 Jul 2026 19:48:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Nears Iraq Withdrawal Amid Attacks on Kurdistan Bases",
+        "title": "US Navy Enforces Blockade Against Iran in Strait of Hormuz",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Erbil, Iraq · 3h ago. US forces are nearing full withdrawal from Iraq as bases in the Kurdistan Region face attacks from Iran and its proxies.",
+        "title": "Israel Air Strike Wounds 10, Destroys Home in Nuseirat Camp",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Praises Israel-Lebanon Deal and Hamas Disarmament",
+        "title": "US Nears Iraq Withdrawal Amid Attacks on Kurdistan Bases",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Jerusalem, Israel · 3h ago. Secretary Rubio praises the new Israel-Lebanon deal and the Hamas disarmament agreement, calling them unprecedented steps.",
+        "title": "— S3 · Conflict · Erbil, Iraq · 4h ago. US forces are nearing full withdrawal from Iraq as bases in the Kurdistan Region face attacks from Iran and its proxies.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Claims Killing of Hamas Deputy Commander in Gaza Attack",
+        "title": "US Praises Israel-Lebanon Deal and Hamas Disarmament",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Israel claims it killed a Hamas deputy commander in an attack on Gaza, escalating the conflict amid ongoing ceasefire negotiations.",
+        "title": "— S3 · Political · Jerusalem, Israel · 4h ago. Secretary Rubio praises the new Israel-Lebanon deal and the Hamas disarmament agreement, calling them unprecedented steps.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
