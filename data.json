@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-31 08:54",
+  "updated_at_gst": "2026-07-31 11:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,35 +16,45 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran war live: IRGC claims ‘retaliatory attack’ on Kuwait",
+        "published": "Fri, 31 Jul 2026 06:49:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss"
+      },
+      {
         "title": "Southern Lebanese towns near Beaufort Castle hit by Israeli strikes",
         "published": "Fri, 31 Jul 2026 04:09:08 +0000",
         "link": "https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs?traffic_source=rss"
-      },
-      {
-        "title": "Israeli soldiers mutiny at notorious Sde Teiman base",
-        "published": "Fri, 31 Jul 2026 01:43:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-deploys-military-to-ceuta-after-deadly-migrant-surge?traffic_source=rss"
-      },
-      {
-        "title": "US Escalation with Iran is ‘pointless’, warns former US diplomat",
-        "published": "Fri, 31 Jul 2026 00:08:12 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss"
-      },
-      {
-        "title": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
-        "published": "Thu, 30 Jul 2026 23:51:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/30/uk-left-wing-mp-diane-abbott-reinstated-by-labour-party-after-suspension?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "US Airstrikes on Qeshm Island Kill Three Civilians, Injure Two Children in Iran Retaliation Campaign for Jordan Bases Attack; IRGC Site Also Hit Amidst Widespread Damage and Power Outages Across South",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "US Launches HIMARS Missiles From Kuwait Into Iran, Reports of Strikes on Kish Island",
         "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Iran · 16m ago. Reports indicate at least two ballistic missile launches from Iran. Target and impact are unknown.",
+        "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Iranian Drone Strikes Kurdish Militant Positions in Erbil, Iraq",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Erbil, Iraq · 1h ago. IRGC used Shahed-136 kamikaze drones to strike bases of Kurdish militant groups in Iraqi Kurdistan, hitting Erbil.",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Israeli Forces Arrest 7 Palestinians in Nablus Governorate",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
