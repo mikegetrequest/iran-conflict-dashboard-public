@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-07-31 18:43",
+  "updated_at_gst": "2026-07-31 20:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russia’s Africa Corps killed Mali civilians in air strike: HRW",
-        "published": "Fri, 31 Jul 2026 11:41:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss"
+        "title": "Russia and Ukraine report casualties as they continue to trade attacks",
+        "published": "Fri, 31 Jul 2026 14:22:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/7/31/turkiyes-davutoglu-steps-back-from-politics-a-timeline-of-his-career?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Airstrikes on Qeshm Island Kill Three Civilians, Injure Two Children in Iran Retaliation Campaign for Jordan Bases Attack; IRGC Site Also Hit Amidst Widespread Damage and Power Outages Across South",
+        "title": "Oil Prices Rise After Iran Stops Ships in Strait of Hormuz",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -33,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Tehran, Iran · 27m ago. The Islamic Revolutionary Guard Corps has reportedly taken full control of wartime decision-making in Iran, sidelining moderate voices, according to US officials.",
+        "title": "— S3 · Political · Tehran, Iran · 2h ago. The Islamic Revolutionary Guard Corps has reportedly taken full control of wartime decision-making in Iran, sidelining moderate voices, according to US officials.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -43,12 +43,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. An Israeli airstrike in central Gaza killed a Palestinian civilian, adding to the ongoing toll in the conflict.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. An Israeli airstrike in central Gaza killed a Palestinian civilian, adding to the ongoing toll in the conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 1h ago. A Palestinian was shot during a march by Israeli settlers through West Bank towns, organized in memory of two Israelis killed last week.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 3h ago. A Palestinian was shot during a march by Israeli settlers through West Bank towns, organized in memory of two Israelis killed last week.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
