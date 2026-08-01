@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-02 02:22",
+  "updated_at_gst": "2026-08-02 03:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
+        "published": "Sat, 01 Aug 2026 22:34:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss"
+      },
       {
         "title": "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?",
         "published": "Sat, 01 Aug 2026 21:42:26 +0000",
@@ -33,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bint Jbeil District, Lebanon · 1h ago. Israeli forces opened fire in the Bint Jbeil district of southern Lebanon, according to state media.",
+        "title": "— S3 · Conflict · Bint Jbeil District, Lebanon · 2h ago. Israeli forces opened fire in the Bint Jbeil district of southern Lebanon, according to state media.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -43,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 4h ago. Medical sources report 7 dead in Israeli strikes across Gaza, per Al Jazeera. Ongoing escalation.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 5h ago. Medical sources report 7 dead in Israeli strikes across Gaza, per Al Jazeera. Ongoing escalation.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Tehran, Iran · 4h ago. Iran's Armed Forces have been placed on highest combat readiness, and military commanders are barred from public appearances amid escalating tensions.",
+        "title": "— S3 · Political · Tehran, Iran · 5h ago. Iran's Armed Forces have been placed on highest combat readiness, and military commanders are barred from public appearances amid escalating tensions.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
