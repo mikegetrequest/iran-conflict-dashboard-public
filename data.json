@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-01 18:42",
+  "updated_at_gst": "2026-08-01 19:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli strike destroys Gaza hospital warehouse",
-        "published": "Sat, 01 Aug 2026 14:07:36 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss"
+        "title": "Sde Teiman walkout lays bare an Israeli military running out of trust",
+        "published": "Sat, 01 Aug 2026 12:40:36 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss"
       },
       {
-        "title": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
-        "published": "Sat, 01 Aug 2026 12:44:54 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss"
-      },
-      {
-        "title": "Iran: The Making of a War",
-        "published": "Sat, 01 Aug 2026 10:30:00 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/1/uefa-welcomes-fifa-world-cup-standdown-after-voting-to-boycott?traffic_source=rss"
-      },
-      {
-        "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
-        "published": "Sat, 01 Aug 2026 09:47:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss"
+        "title": "Trump mimics sound of Patriot missile interceptions",
+        "published": "Sat, 01 Aug 2026 11:21:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/1/indias-modi-says-he-forgives-students-who-abused-him-in-cockroach-protests?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Kuwait City, Kuwait · 4h ago. A drone attack struck Kuwait City, prompting Kuwait to reserve the right to take all measures to protect security.",
+        "title": "— S3 · Conflict · Kuwait City, Kuwait · 5h ago. A drone attack struck Kuwait City, prompting Kuwait to reserve the right to take all measures to protect security.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nabatiyeh, Lebanon · 4h ago. Residents of Nabatiyeh return to assess damage after the Israeli invasion, highlighting the enduring impact of the conflict.",
+        "title": "— S3 · Conflict · Nabatiyeh, Lebanon · 6h ago. Residents of Nabatiyeh return to assess damage after the Israeli invasion, highlighting the enduring impact of the conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
