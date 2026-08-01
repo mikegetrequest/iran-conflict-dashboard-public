@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-01 20:44",
+  "updated_at_gst": "2026-08-01 21:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli forces detain residents and demolish homes in southern Syria",
+        "published": "Sat, 01 Aug 2026 17:28:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss"
+      },
       {
         "title": "Sde Teiman walkout lays bare an Israeli military running out of trust",
         "published": "Sat, 01 Aug 2026 12:40:36 +0000",
@@ -33,12 +38,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Lebanon · 22m ago. Israeli forces killed several Hezbollah members in a raid in southern Lebanon; an Israeli officer was also wounded in the operation.",
+        "title": "— S3 · Conflict · Lebanon · 1h ago. Israeli forces killed several Hezbollah members in a raid in southern Lebanon; an Israeli officer was also wounded in the operation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 43m ago. Gaza Health Ministry reports 152 Palestinians killed in July, including 21 children, amid ongoing Israeli military operations.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. Gaza Health Ministry reports 152 Palestinians killed in July, including 21 children, amid ongoing Israeli military operations.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Kuwait City, Kuwait · 6h ago. A drone attack struck Kuwait City, prompting Kuwait to reserve the right to take all measures to protect security.",
+        "title": "— S3 · Conflict · Kuwait City, Kuwait · 7h ago. A drone attack struck Kuwait City, prompting Kuwait to reserve the right to take all measures to protect security.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
