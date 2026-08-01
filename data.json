@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-02 00:02",
+  "updated_at_gst": "2026-08-02 01:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
-        "published": "Sat, 01 Aug 2026 16:07:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss"
+        "title": "Palestinian children among those detained by Israel in West Bank raids",
+        "published": "Sat, 01 Aug 2026 18:51:14 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss"
       },
       {
-        "title": "Israeli strike destroys Gaza hospital warehouse",
-        "published": "Sat, 01 Aug 2026 14:07:36 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss"
+        "title": "At least 9 people killed in Russian missile attacks on Kyiv",
+        "published": "Sat, 01 Aug 2026 17:45:26 +0000",
+        "link": "https://www.aljazeera.com/features/longform/2026/8/1/care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces detain residents and demolish homes in southern Syria",
+        "published": "Sat, 01 Aug 2026 17:28:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Attacks Kill 7 in Gaza Since Dawn",
+        "title": "Israeli Army Opens Fire in Bint Jbeil, Southern Lebanon",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. Medical sources report 7 dead in Israeli strikes across Gaza, per Al Jazeera. Ongoing escalation.",
+        "title": "— S3 · Conflict · Bint Jbeil District, Lebanon · 11m ago. Israeli forces opened fire in the Bint Jbeil district of southern Lebanon, according to state media.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Puts Armed Forces on Highest Combat Readiness",
+        "title": "Israeli Attacks Kill 7 in Gaza Since Dawn",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Tehran, Iran · 2h ago. Iran's Armed Forces have been placed on highest combat readiness, and military commanders are barred from public appearances amid escalating tensions.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Medical sources report 7 dead in Israeli strikes across Gaza, per Al Jazeera. Ongoing escalation.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Detain Residents, Demolish Homes in Southern Syria",
+        "title": "Iran Puts Armed Forces on Highest Combat Readiness",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Kills Hezbollah Members in Southern Lebanon, Officer Wounded",
+        "title": "— S3 · Political · Tehran, Iran · 3h ago. Iran's Armed Forces have been placed on highest combat readiness, and military commanders are barred from public appearances amid escalating tensions.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
