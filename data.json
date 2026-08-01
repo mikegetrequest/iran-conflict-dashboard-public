@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-01 08:44",
+  "updated_at_gst": "2026-08-01 11:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -21,39 +21,39 @@
         "link": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss"
       },
       {
-        "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+        "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
         "published": "Sat, 01 Aug 2026 02:06:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Air Strikes and Artillery Cause Widespread Destruction Across Gaza",
+        "title": "Iran Strikes Tanker in Persian Gulf, Crew Abandons Vessel",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. Israeli air strikes and artillery bombardments cause widespread destruction across the Gaza Strip, with multiple areas hit.",
+        "title": "— S3 · Conflict · Persian Gulf · 1h ago. UKMTO reports a tanker crew abandoned ship after hearing a splash in the Persian Gulf, likely an Iranian strike. No confirmation from Iran.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Russia Provides Satellite Intelligence to Iran",
+        "title": "US Airstrike Kills Family on Qeshm Island, Iran",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attacks on Saudi Tankers Trigger Surge in Red Sea Escort Requests",
+        "title": "— S3 · Conflict · Qeshm Island, Iran · 2h ago. A US airstrike with a 2,000-pound bomb killed a husband, wife, and their 2-year-old son on Qeshm Island, Iran. Two other children from the family were also injured.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Red Sea · 8h ago. Houthi attacks on Saudi tankers in the Southern Red Sea have led to a major jump in escort requests, according to the Red Sea Maritime Security Task Force commander.",
+        "title": "Israeli Air Strikes and Artillery Cause Widespread Destruction Across Gaza",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Tanker as US Enforces Blockade in Strait of Hormuz",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 4h ago. Israeli air strikes and artillery bombardments cause widespread destruction across the Gaza Strip, with multiple areas hit.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
