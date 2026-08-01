@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-01 22:49",
+  "updated_at_gst": "2026-08-02 00:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,11 +24,6 @@
         "title": "Israeli strike destroys Gaza hospital warehouse",
         "published": "Sat, 01 Aug 2026 14:07:36 +0000",
         "link": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss"
-      },
-      {
-        "title": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
-        "published": "Sat, 01 Aug 2026 12:44:54 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +33,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 33m ago. Medical sources report 7 dead in Israeli strikes across Gaza, per Al Jazeera. Ongoing escalation.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. Medical sources report 7 dead in Israeli strikes across Gaza, per Al Jazeera. Ongoing escalation.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Tehran, Iran · 46m ago. Iran's Armed Forces have been placed on highest combat readiness, and military commanders are barred from public appearances amid escalating tensions.",
+        "title": "— S3 · Political · Tehran, Iran · 2h ago. Iran's Armed Forces have been placed on highest combat readiness, and military commanders are barred from public appearances amid escalating tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
