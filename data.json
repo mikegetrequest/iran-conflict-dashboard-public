@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-01 14:57",
+  "updated_at_gst": "2026-08-01 15:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,54 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran: The Making of a War",
-        "published": "Sat, 01 Aug 2026 10:30:00 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/1/uefa-welcomes-fifa-world-cup-standdown-after-voting-to-boycott?traffic_source=rss"
-      },
-      {
-        "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
-        "published": "Sat, 01 Aug 2026 09:47:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss"
-      },
-      {
-        "title": "Is Israel really ready to withdraw from Gaza?",
-        "published": "Sat, 01 Aug 2026 03:21:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss"
-      },
-      {
-        "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
-        "published": "Sat, 01 Aug 2026 02:06:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss"
+        "title": "Trump mimics sound of Patriot missile interceptions",
+        "published": "Sat, 01 Aug 2026 11:21:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/1/indias-modi-says-he-forgives-students-who-abused-him-in-cockroach-protests?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— S3 · Conflict · Kuwait City, Kuwait · 26m ago. A drone attack struck Kuwait City, prompting Kuwait to reserve the right to take all measures to protect security.",
+        "title": "Israeli Strike Destroys Medical Warehouses in Deir el-Balah, Gaza",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Lebanese Return to Nabatiyeh After Israeli Invasion",
+        "title": "— S3 · Conflict · Kuwait City, Kuwait · 1h ago. A drone attack struck Kuwait City, prompting Kuwait to reserve the right to take all measures to protect security.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nabatiyeh, Lebanon · 43m ago. Residents of Nabatiyeh return to assess damage after the Israeli invasion, highlighting the enduring impact of the conflict.",
+        "title": "Lebanese Return to Nabatiyeh After Israeli Invasion",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosion Reported in Eslamabad-e Gharb, Iran",
+        "title": "— S3 · Conflict · Nabatiyeh, Lebanon · 2h ago. Residents of Nabatiyeh return to assess damage after the Israeli invasion, highlighting the enduring impact of the conflict.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Eslamabad-e Gharb, Iran · 59m ago. An explosion was reported in Shaabad, Eslamabad-e Gharb, Kermanshah Province, Iran. Cause and casualties are unknown.",
+        "title": "Explosion Reported in Eslamabad-e Gharb, Iran",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Attacks Kurdish Party Bases in Iraq, Groups Deny US Aid",
+        "title": "— S3 · Conflict · Eslamabad-e Gharb, Iran · 2h ago. An explosion was reported in Shaabad, Eslamabad-e Gharb, Kermanshah Province, Iran. Cause and casualties are unknown.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
