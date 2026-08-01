@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-01 05:01",
+  "updated_at_gst": "2026-08-01 08:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,59 +16,44 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
-        "published": "Sat, 01 Aug 2026 00:48:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss"
+        "title": "Is Israel really ready to withdraw from Gaza?",
+        "published": "Sat, 01 Aug 2026 03:21:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond",
-        "published": "Fri, 31 Jul 2026 23:59:40 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss"
-      },
-      {
-        "title": "Analyst: the US faces a strategic ‘dead end’ in Iran",
-        "published": "Fri, 31 Jul 2026 23:30:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/31/us-proposes-cuts-to-colorado-river-use-for-arizona-california-and-nevada?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settlers vandalise Palestinian cemetery in West Bank",
-        "published": "Fri, 31 Jul 2026 22:12:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss"
-      },
-      {
-        "title": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
-        "published": "Fri, 31 Jul 2026 19:18:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss"
+        "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+        "published": "Sat, 01 Aug 2026 02:06:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Russia Provides Satellite Intelligence to Iran",
+        "title": "Israeli Air Strikes and Artillery Cause Widespread Destruction Across Gaza",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attacks on Saudi Tankers Trigger Surge in Red Sea Escort Requests",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. Israeli air strikes and artillery bombardments cause widespread destruction across the Gaza Strip, with multiple areas hit.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Red Sea · 4h ago. Houthi attacks on Saudi tankers in the Southern Red Sea have led to a major jump in escort requests, according to the Red Sea Maritime Security Task Force commander.",
+        "title": "Russia Provides Satellite Intelligence to Iran",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Navy Enforces Blockade Against Iran in Strait of Hormuz",
+        "title": "Houthi Attacks on Saudi Tankers Trigger Surge in Red Sea Escort Requests",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Air Strike Wounds 10, Destroys Home in Nuseirat Camp",
+        "title": "— S3 · Conflict · Southern Red Sea · 8h ago. Houthi attacks on Saudi tankers in the Southern Red Sea have led to a major jump in escort requests, according to the Red Sea Maritime Security Task Force commander.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nuseirat Refugee Camp, Gaza Strip, Palestine · 5h ago. An Israeli airstrike on the Nuseirat refugee camp in central Gaza wounded at least 10 people and destroyed a home, adding to the ongoing conflict.",
+        "title": "Iran Strikes Tanker as US Enforces Blockade in Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
