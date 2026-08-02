@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-02 18:20",
+  "updated_at_gst": "2026-08-02 19:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,35 +14,41 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Israel’s influence industry in the US",
+        "published": "Sun, 02 Aug 2026 12:02:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
-        "title": "Pentagon Withdraws Forces from Bahrain and Kuwait After Iranian Strikes",
+        "title": "Israeli Forces Burn Houses in Southern Lebanon",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Persian Gulf · 20m ago. The Pentagon has withdrawn American forces from bases in Bahrain and Kuwait due to intensified Iranian strikes, with troops being transferred to Israel and Europe.",
+        "title": "— S3 · Conflict · Al-Mashaa, Tyre District, Lebanon · 17m ago. Israeli forces are burning houses in the Al-Mashaa area between Al-Mansouri and Majdal Zoun in the Tyre district, southern Lebanon.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "401st Brigade Ends Southern Lebanon Mission, Destroys 1,200 Hezbollah Sites",
+        "title": "Israeli Strike Kills Mujahideen Brigades Commander in Nuseirat Camp",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attacks Kill 11 in Gaza on Sunday",
+        "title": "Israeli Airstrike Kills PIJ Commander in Gaza Strip",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. At least 11 Palestinians killed in Israeli attacks across Gaza on Sunday, per Al Jazeera.",
+        "title": "— S3 · Conflict · Deir al Balah, Gaza Strip, Palestine · 27m ago. Israeli airstrike kills Saraya Al-Quds (PIJ) commander Mahmoud Fatayer on Abu Areef Street in Deir al Balah, Gaza Strip.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Netivot, Israel · 4h ago. A man was arrested after a shooting in Netivot, Israel, killed one and injured another; security footage captured the attack.",
+        "title": "Pentagon Withdraws Forces from Bahrain and Kuwait After Iranian Strikes",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
