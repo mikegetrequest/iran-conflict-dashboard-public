@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-02 22:49",
+  "updated_at_gst": "2026-08-03 00:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
+        "published": "Sun, 02 Aug 2026 19:39:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss"
+      },
       {
         "title": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
         "published": "Sun, 02 Aug 2026 18:28:13 +0000",
@@ -43,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Al-Mashaa, Tyre District, Lebanon · 4h ago. Israeli forces are burning houses in the Al-Mashaa area between Al-Mansouri and Majdal Zoun in the Tyre district, southern Lebanon.",
+        "title": "— S3 · Conflict · Al-Mashaa, Tyre District, Lebanon · 5h ago. Israeli forces are burning houses in the Al-Mashaa area between Al-Mansouri and Majdal Zoun in the Tyre district, southern Lebanon.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Deir al Balah, Gaza Strip, Palestine · 4h ago. Israeli airstrike kills Saraya Al-Quds (PIJ) commander Mahmoud Fatayer on Abu Areef Street in Deir al Balah, Gaza Strip.",
+        "title": "— S3 · Conflict · Deir al Balah, Gaza Strip, Palestine · 5h ago. Israeli airstrike kills Saraya Al-Quds (PIJ) commander Mahmoud Fatayer on Abu Areef Street in Deir al Balah, Gaza Strip.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
