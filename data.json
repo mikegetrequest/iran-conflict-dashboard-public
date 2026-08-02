@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-02 21:49",
+  "updated_at_gst": "2026-08-02 22:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli settlers shoot Palestinian child during farm raid",
-        "published": "Sun, 02 Aug 2026 15:36:28 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss"
+        "title": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
+        "published": "Sun, 02 Aug 2026 18:28:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/2/republican-senator-says-former-son-in-law-should-resign-from-us-congress?traffic_source=rss"
       },
       {
-        "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
-        "published": "Sun, 02 Aug 2026 14:11:54 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/8/2/rubios-bypass-plan-can-the-world-escape-the-strait-of-hormuz-chokepoint?traffic_source=rss"
+        "title": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
+        "published": "Sun, 02 Aug 2026 17:57:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss"
+      },
+      {
+        "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
+        "published": "Sun, 02 Aug 2026 17:06:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss"
+      },
+      {
+        "title": "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
+        "published": "Sun, 02 Aug 2026 16:10:32 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Al-Mashaa, Tyre District, Lebanon · 3h ago. Israeli forces are burning houses in the Al-Mashaa area between Al-Mansouri and Majdal Zoun in the Tyre district, southern Lebanon.",
+        "title": "— S3 · Conflict · Al-Mashaa, Tyre District, Lebanon · 4h ago. Israeli forces are burning houses in the Al-Mashaa area between Al-Mansouri and Majdal Zoun in the Tyre district, southern Lebanon.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Deir al Balah, Gaza Strip, Palestine · 3h ago. Israeli airstrike kills Saraya Al-Quds (PIJ) commander Mahmoud Fatayer on Abu Areef Street in Deir al Balah, Gaza Strip.",
+        "title": "— S3 · Conflict · Deir al Balah, Gaza Strip, Palestine · 4h ago. Israeli airstrike kills Saraya Al-Quds (PIJ) commander Mahmoud Fatayer on Abu Areef Street in Deir al Balah, Gaza Strip.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
