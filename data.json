@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-02 08:46",
+  "updated_at_gst": "2026-08-02 11:25",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,30 +16,65 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
-        "published": "Sun, 02 Aug 2026 03:36:43 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss"
+        "title": "Three dead including female bomber in Moscow restaurant attack",
+        "published": "Sun, 02 Aug 2026 04:44:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/why-isnt-anyone-challenging-infantino-for-fifas-top-job?traffic_source=rss"
       },
       {
-        "title": "Singapore bans UK band Massive Attack over Palestinian flag",
-        "published": "Sat, 01 Aug 2026 23:57:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss"
+        "title": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
+        "published": "Sun, 02 Aug 2026 02:58:51 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-criticism-of-spain-on-border-management-legitimate-or-politics?traffic_source=rss"
       },
       {
-        "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
-        "published": "Sat, 01 Aug 2026 22:31:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss"
+        "title": "US embassies issue alerts after Trump vows to hit Iran ‘hard’",
+        "published": "Sun, 02 Aug 2026 02:24:11 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/thirteen-dead-in-peruvian-tourist-plane-crash-over-nazca-lines?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Trump cancels attack, calls for a ‘rapid’ deal on Hormuz",
+        "published": "Sun, 02 Aug 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss"
+      },
+      {
+        "title": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
+        "published": "Sat, 01 Aug 2026 22:34:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss"
+      },
+      {
+        "title": "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?",
+        "published": "Sat, 01 Aug 2026 21:42:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "Israel Strikes Gaza, Kills Two Hamas Commanders",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "— S3 · Conflict · Strait of Hormuz · 3h ago. Qatari LNG tanker Gaslog Shanghai struck under US escort in Strait of Hormuz on July 31; vessel now anchored with damage. No immediate claim.",
         "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Trump Cancels Iran Strike Amid Escalating US-Iran Conflict",
+        "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Israeli Strikes Kill at Least Four in Gaza Despite Trump Announcing Breakthrough",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Israeli Army Opens Fire in Bint Jbeil, Southern Lebanon",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Bint Jbeil District, Lebanon · 10h ago. Israeli forces opened fire in the Bint Jbeil district of southern Lebanon, according to state media.",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
