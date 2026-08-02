@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-02 11:25",
+  "updated_at_gst": "2026-08-02 13:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -34,16 +34,6 @@
         "title": "Iran war live: Trump cancels attack, calls for a ‘rapid’ deal on Hormuz",
         "published": "Sun, 02 Aug 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss"
-      },
-      {
-        "title": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
-        "published": "Sat, 01 Aug 2026 22:34:36 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?",
-        "published": "Sat, 01 Aug 2026 21:42:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 3h ago. Qatari LNG tanker Gaslog Shanghai struck under US escort in Strait of Hormuz on July 31; vessel now anchored with damage. No immediate claim.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 5h ago. Qatari LNG tanker Gaslog Shanghai struck under US escort in Strait of Hormuz on July 31; vessel now anchored with damage. No immediate claim.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -63,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Strikes Kill at Least Four in Gaza Despite Trump Announcing Breakthrough",
+        "title": "Trump Halts Iran Strikes After Strait of Hormuz Deal Framework Agreed",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Army Opens Fire in Bint Jbeil, Southern Lebanon",
+        "title": "Israeli Airstrikes Kill Seven in Gaza Despite Ceasefire Deal Progress",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bint Jbeil District, Lebanon · 10h ago. Israeli forces opened fire in the Bint Jbeil district of southern Lebanon, according to state media.",
+        "title": "Israeli Army Opens Fire in Bint Jbeil, Southern Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
