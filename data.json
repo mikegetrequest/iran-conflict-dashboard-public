@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-02 13:27",
+  "updated_at_gst": "2026-08-02 14:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,54 +16,59 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Three dead including female bomber in Moscow restaurant attack",
-        "published": "Sun, 02 Aug 2026 04:44:55 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/why-isnt-anyone-challenging-infantino-for-fifas-top-job?traffic_source=rss"
+        "title": "Israeli soldiers jailed over Sde Teiman walkout",
+        "published": "Sun, 02 Aug 2026 10:31:32 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss"
       },
       {
-        "title": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
-        "published": "Sun, 02 Aug 2026 02:58:51 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-criticism-of-spain-on-border-management-legitimate-or-politics?traffic_source=rss"
+        "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+        "published": "Sun, 02 Aug 2026 09:43:10 +0000",
+        "link": "https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss"
       },
       {
-        "title": "US embassies issue alerts after Trump vows to hit Iran ‘hard’",
-        "published": "Sun, 02 Aug 2026 02:24:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/thirteen-dead-in-peruvian-tourist-plane-crash-over-nazca-lines?traffic_source=rss"
+        "title": "Trump ‘cancels attack on Iran’ saying deal is near",
+        "published": "Sun, 02 Aug 2026 08:43:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/petro-urges-global-support-to-stop-possible-us-invasion-of-cuba?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump cancels attack, calls for a ‘rapid’ deal on Hormuz",
-        "published": "Sun, 02 Aug 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss"
+        "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
+        "published": "Sun, 02 Aug 2026 05:27:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss"
+      },
+      {
+        "title": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
+        "published": "Sun, 02 Aug 2026 03:36:43 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israel Strikes Gaza, Kills Two Hamas Commanders",
+        "title": "— S3 · Conflict · Netivot, Israel · 27m ago. A man was arrested after a shooting in Netivot, Israel, killed one and injured another; security footage captured the attack.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 5h ago. Qatari LNG tanker Gaslog Shanghai struck under US escort in Strait of Hormuz on July 31; vessel now anchored with damage. No immediate claim.",
+        "title": "Israel Strikes Gaza, Kills Two Hamas Commanders",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Trump Cancels Iran Strike Amid Escalating US-Iran Conflict",
+        "title": "— S3 · Conflict · Strait of Hormuz · 6h ago. Qatari LNG tanker Gaslog Shanghai struck under US escort in Strait of Hormuz on July 31; vessel now anchored with damage. No immediate claim.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Trump Halts Iran Strikes After Strait of Hormuz Deal Framework Agreed",
+        "title": "Trump Cancels Iran Strike Amid Escalating US-Iran Conflict",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Airstrikes Kill Seven in Gaza Despite Ceasefire Deal Progress",
+        "title": "Trump Halts Iran Strikes After Strait of Hormuz Deal Framework Agreed",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Army Opens Fire in Bint Jbeil, Southern Lebanon",
+        "title": "Israeli Airstrikes Kill Seven in Gaza Despite Ceasefire Deal Progress",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
