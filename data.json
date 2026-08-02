@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-02 16:55",
+  "updated_at_gst": "2026-08-02 18:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,61 +14,35 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Israel’s influence industry in the US",
-        "published": "Sun, 02 Aug 2026 12:02:04 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss"
-      },
-      {
-        "title": "Israeli soldiers jailed over Sde Teiman walkout",
-        "published": "Sun, 02 Aug 2026 10:31:32 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss"
-      },
-      {
-        "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-        "published": "Sun, 02 Aug 2026 09:43:10 +0000",
-        "link": "https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss"
-      },
-      {
-        "title": "Trump ‘cancels attack on Iran’ saying deal is near",
-        "published": "Sun, 02 Aug 2026 08:43:15 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/petro-urges-global-support-to-stop-possible-us-invasion-of-cuba?traffic_source=rss"
-      },
-      {
-        "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-        "published": "Sun, 02 Aug 2026 05:27:04 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
-        "title": "401st Brigade Ends Southern Lebanon Mission, Destroys 1,200 Hezbollah Sites",
+        "title": "Pentagon Withdraws Forces from Bahrain and Kuwait After Iranian Strikes",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attacks Kill 11 in Gaza on Sunday",
+        "title": "— S3 · Political · Persian Gulf · 20m ago. The Pentagon has withdrawn American forces from bases in Bahrain and Kuwait due to intensified Iranian strikes, with troops being transferred to Israel and Europe.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. At least 11 Palestinians killed in Israeli attacks across Gaza on Sunday, per Al Jazeera.",
+        "title": "401st Brigade Ends Southern Lebanon Mission, Destroys 1,200 Hezbollah Sites",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Netivot, Israel · 2h ago. A man was arrested after a shooting in Netivot, Israel, killed one and injured another; security footage captured the attack.",
+        "title": "Israeli Attacks Kill 11 in Gaza on Sunday",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Gaza, Kills Two Hamas Commanders",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. At least 11 Palestinians killed in Israeli attacks across Gaza on Sunday, per Al Jazeera.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 8h ago. Qatari LNG tanker Gaslog Shanghai struck under US escort in Strait of Hormuz on July 31; vessel now anchored with damage. No immediate claim.",
+        "title": "— S3 · Conflict · Netivot, Israel · 4h ago. A man was arrested after a shooting in Netivot, Israel, killed one and injured another; security footage captured the attack.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
