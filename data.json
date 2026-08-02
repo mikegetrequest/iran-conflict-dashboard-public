@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-03 02:15",
+  "updated_at_gst": "2026-08-03 03:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
-        "published": "Sun, 02 Aug 2026 19:39:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss"
+        "title": "Sudan army drone attack on Darfur kills 35, rights group says",
+        "published": "Sun, 02 Aug 2026 22:51:09 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss"
       },
       {
-        "title": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
-        "published": "Sun, 02 Aug 2026 18:28:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/2/republican-senator-says-former-son-in-law-should-resign-from-us-congress?traffic_source=rss"
+        "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
+        "published": "Sun, 02 Aug 2026 21:18:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss"
       },
       {
-        "title": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
-        "published": "Sun, 02 Aug 2026 17:57:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss"
+        "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
+        "published": "Sun, 02 Aug 2026 19:08:06 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss"
       },
       {
-        "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
-        "published": "Sun, 02 Aug 2026 17:06:30 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss"
+        "title": "Russian and Ukrainian strikes kill 14 on both sides",
+        "published": "Sun, 02 Aug 2026 18:37:23 +0000",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Al-Mashaa, Tyre District, Lebanon · 7h ago. Israeli forces are burning houses in the Al-Mashaa area between Al-Mansouri and Majdal Zoun in the Tyre district, southern Lebanon.",
+        "title": "— S3 · Conflict · Al-Mashaa, Tyre District, Lebanon · 8h ago. Israeli forces are burning houses in the Al-Mashaa area between Al-Mansouri and Majdal Zoun in the Tyre district, southern Lebanon.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Deir al Balah, Gaza Strip, Palestine · 7h ago. Israeli airstrike kills Saraya Al-Quds (PIJ) commander Mahmoud Fatayer on Abu Areef Street in Deir al Balah, Gaza Strip.",
+        "title": "— S3 · Conflict · Deir al Balah, Gaza Strip, Palestine · 8h ago. Israeli airstrike kills Saraya Al-Quds (PIJ) commander Mahmoud Fatayer on Abu Areef Street in Deir al Balah, Gaza Strip.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
