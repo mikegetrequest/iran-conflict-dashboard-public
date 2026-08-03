@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-03 05:01",
+  "updated_at_gst": "2026-08-03 08:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,59 +16,44 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump says new round of Iran talks will begin Monday",
-        "published": "Sun, 02 Aug 2026 23:48:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss"
+        "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+        "published": "Mon, 03 Aug 2026 00:00:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss"
       },
       {
-        "title": "Sudan army drone attack on Darfur kills 35, rights group says",
-        "published": "Sun, 02 Aug 2026 22:51:09 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss"
-      },
-      {
-        "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
-        "published": "Sun, 02 Aug 2026 21:18:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss"
-      },
-      {
-        "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
-        "published": "Sun, 02 Aug 2026 19:08:06 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss"
-      },
-      {
-        "title": "Russian and Ukrainian strikes kill 14 on both sides",
-        "published": "Sun, 02 Aug 2026 18:37:23 +0000",
-        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss"
+        "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
+        "published": "Sun, 02 Aug 2026 19:39:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US CENTCOM Drops 900kg Bomb on Civilian House in Ahvaz, Iran",
+        "title": "Iranian Forces Fire Projectile at Oil Tanker in Strait of Hormuz",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Ahvaz, Khuzestan, Iran · 20m ago. US Central Command dropped a 900kg bomb on a civilian house in Ahvaz, Khuzestan Province, southern Iran. No immediate casualty figures.",
+        "title": "US Bomb Hits Civilian Home on Qeshm Island, Iran",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Burn Houses in Southern Lebanon",
+        "title": "US CENTCOM Drops 900kg Bomb on Civilian House in Ahvaz, Iran",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Al-Mashaa, Tyre District, Lebanon · 10h ago. Israeli forces are burning houses in the Al-Mashaa area between Al-Mansouri and Majdal Zoun in the Tyre district, southern Lebanon.",
+        "title": "— S3 · Conflict · Ahvaz, Khuzestan, Iran · 4h ago. US Central Command dropped a 900kg bomb on a civilian house in Ahvaz, Khuzestan Province, southern Iran. No immediate casualty figures.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Strike Kills Mujahideen Brigades Commander in Nuseirat Camp",
+        "title": "Israeli Forces Burn Houses in Southern Lebanon",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Airstrike Kills PIJ Commander in Gaza Strip",
+        "title": "— S3 · Conflict · Al-Mashaa, Tyre District, Lebanon · 14h ago. Israeli forces are burning houses in the Al-Mashaa area between Al-Mansouri and Majdal Zoun in the Tyre district, southern Lebanon.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
