@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-03 20:43",
+  "updated_at_gst": "2026-08-03 22:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US",
+        "published": "Mon, 03 Aug 2026 17:38:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss"
+      },
+      {
         "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
         "published": "Mon, 03 Aug 2026 16:33:08 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss"
-      },
-      {
-        "title": "Massive Attack says members held after pro-Palestine display in Singapore",
-        "published": "Mon, 03 Aug 2026 13:23:21 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/8/3/why-genocide-keeps-repeating-in-sudan?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. The IDF eliminated Mahmoud Fatair, a PIJ Nukhba commander who infiltrated Israel on Oct. 7 and participated in holding hostage Rom Braslavski in Gaza.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. The IDF eliminated Mahmoud Fatair, a PIJ Nukhba commander who infiltrated Israel on Oct. 7 and participated in holding hostage Rom Braslavski in Gaza.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -38,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Israeli airstrikes kill at least 18 Palestinians in Gaza in one of the deadliest days since the ceasefire, undermining US peace efforts.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 4h ago. Israeli airstrikes kill at least 18 Palestinians in Gaza in one of the deadliest days since the ceasefire, undermining US peace efforts.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 6h ago. Israel intensifies airstrikes on Gaza and presents hardline demands, undermining a US-backed peace roadmap. No specific casualty figures reported.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 7h ago. Israel intensifies airstrikes on Gaza and presents hardline demands, undermining a US-backed peace roadmap. No specific casualty figures reported.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
