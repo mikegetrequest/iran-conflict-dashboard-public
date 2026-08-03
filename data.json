@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-03 12:17",
+  "updated_at_gst": "2026-08-03 15:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,54 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
-        "published": "Mon, 03 Aug 2026 03:17:33 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss"
+        "title": "Ukraine strikes Russia’s biggest retailer again",
+        "published": "Mon, 03 Aug 2026 11:03:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss"
       },
       {
-        "title": "Trump says new round of Iran talks will begin Monday",
-        "published": "Sun, 02 Aug 2026 23:48:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss"
+        "title": "Trump says new Iran negotiations starting: What we know",
+        "published": "Mon, 03 Aug 2026 09:44:53 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come?traffic_source=rss"
       },
       {
-        "title": "Sudan army drone attack on Darfur kills 35, rights group says",
-        "published": "Sun, 02 Aug 2026 22:51:09 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss"
-      },
-      {
-        "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
-        "published": "Sun, 02 Aug 2026 21:18:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss"
+        "title": "‘US backs off from Iran before markets open on weekdays’",
+        "published": "Mon, 03 Aug 2026 08:55:13 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/3/michael-thorbjornsen-wins-first-pga-tour-title-at-rocket-classic?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "US Seeks New Blockade Against Iranian Ports",
+        "title": "Israel Escalates Attacks on Gaza, Defying US Peace Plan",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Forces Fire Projectile at Oil Tanker in Strait of Hormuz",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 41m ago. Israel intensifies airstrikes on Gaza and presents hardline demands, undermining a US-backed peace roadmap. No specific casualty figures reported.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Bomb Hits Civilian Home on Qeshm Island, Iran",
+        "title": "Saudi Arabia Prepares Military Operations as Houthis Resume Strikes",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US CENTCOM Drops 900kg Bomb on Civilian House in Ahvaz, Iran",
+        "title": "— S3 · Conflict · Saudi Arabia · 1h ago. Saudi Arabia is preparing military operations in response to renewed Houthi strikes on Saudi territory and shipping, escalating tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Ahvaz, Khuzestan, Iran · 8h ago. US Central Command dropped a 900kg bomb on a civilian house in Ahvaz, Khuzestan Province, southern Iran. No immediate casualty figures.",
+        "title": "Israeli Settlers Rampage Through West Bank Villages",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Burn Houses in Southern Lebanon",
+        "title": "Iran Shoots Down US MQ-9 Drone Over Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
