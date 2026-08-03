@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-03 15:51",
+  "updated_at_gst": "2026-08-03 18:09",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,44 +24,8 @@
         "title": "Trump says new Iran negotiations starting: What we know",
         "published": "Mon, 03 Aug 2026 09:44:53 +0000",
         "link": "https://www.aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come?traffic_source=rss"
-      },
-      {
-        "title": "‘US backs off from Iran before markets open on weekdays’",
-        "published": "Mon, 03 Aug 2026 08:55:13 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/3/michael-thorbjornsen-wins-first-pga-tour-title-at-rocket-classic?traffic_source=rss"
       }
     ],
-    "monitor_the_situation": [
-      {
-        "title": "Israel Escalates Attacks on Gaza, Defying US Peace Plan",
-        "published": "line-1",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 41m ago. Israel intensifies airstrikes on Gaza and presents hardline demands, undermining a US-backed peace roadmap. No specific casualty figures reported.",
-        "published": "line-2",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Saudi Arabia Prepares Military Operations as Houthis Resume Strikes",
-        "published": "line-3",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Saudi Arabia · 1h ago. Saudi Arabia is preparing military operations in response to renewed Houthi strikes on Saudi territory and shipping, escalating tensions.",
-        "published": "line-4",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Israeli Settlers Rampage Through West Bank Villages",
-        "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Iran Shoots Down US MQ-9 Drone Over Strait of Hormuz",
-        "published": "line-6",
-        "link": "https://monitor-the-situation.com/middle-east"
-      }
-    ]
+    "monitor_the_situation": []
   }
 }
