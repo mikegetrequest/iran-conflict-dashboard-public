@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-03 03:24",
+  "updated_at_gst": "2026-08-03 05:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump says new round of Iran talks will begin Monday",
+        "published": "Sun, 02 Aug 2026 23:48:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss"
+      },
       {
         "title": "Sudan army drone attack on Darfur kills 35, rights group says",
         "published": "Sun, 02 Aug 2026 22:51:09 +0000",
@@ -38,32 +43,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Forces Burn Houses in Southern Lebanon",
+        "title": "US CENTCOM Drops 900kg Bomb on Civilian House in Ahvaz, Iran",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Al-Mashaa, Tyre District, Lebanon · 8h ago. Israeli forces are burning houses in the Al-Mashaa area between Al-Mansouri and Majdal Zoun in the Tyre district, southern Lebanon.",
+        "title": "— S3 · Conflict · Ahvaz, Khuzestan, Iran · 20m ago. US Central Command dropped a 900kg bomb on a civilian house in Ahvaz, Khuzestan Province, southern Iran. No immediate casualty figures.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Strike Kills Mujahideen Brigades Commander in Nuseirat Camp",
+        "title": "Israeli Forces Burn Houses in Southern Lebanon",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Airstrike Kills PIJ Commander in Gaza Strip",
+        "title": "— S3 · Conflict · Al-Mashaa, Tyre District, Lebanon · 10h ago. Israeli forces are burning houses in the Al-Mashaa area between Al-Mansouri and Majdal Zoun in the Tyre district, southern Lebanon.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Deir al Balah, Gaza Strip, Palestine · 8h ago. Israeli airstrike kills Saraya Al-Quds (PIJ) commander Mahmoud Fatayer on Abu Areef Street in Deir al Balah, Gaza Strip.",
+        "title": "Israeli Strike Kills Mujahideen Brigades Commander in Nuseirat Camp",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Pentagon Withdraws Forces from Bahrain and Kuwait After Iranian Strikes",
+        "title": "Israeli Airstrike Kills PIJ Commander in Gaza Strip",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
