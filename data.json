@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-04 03:57",
+  "updated_at_gst": "2026-08-04 05:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump says talks with Iran are ‘last chance’ to forge a deal",
-        "published": "Mon, 03 Aug 2026 19:45:30 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss"
+        "title": "Will Israel withdraw from Gaza if Hamas disarms?",
+        "published": "Mon, 03 Aug 2026 21:05:11 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss"
       },
       {
-        "title": "Israel top court hears challenge to UNRWA ban",
-        "published": "Mon, 03 Aug 2026 18:13:43 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/drone-slams-into-russian-beach-killing-at-least-7-people?traffic_source=rss"
-      },
-      {
-        "title": "New illegal Israeli outpost spotted in occupied West Bank",
-        "published": "Mon, 03 Aug 2026 17:07:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss"
+        "title": "Can Netanyahu survive Israel’s most consequential election?",
+        "published": "Mon, 03 Aug 2026 18:16:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— S3 · Economic · Strait of Hormuz · 12m ago. US strikes on Iran disrupt oil flows through Strait of Hormuz, causing gasoline price spikes and blackouts across energy-importing Asian nations.",
+        "title": "— S3 · Economic · Strait of Hormuz · 2h ago. US strikes on Iran disrupt oil flows through Strait of Hormuz, causing gasoline price spikes and blackouts across energy-importing Asian nations.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,12 +43,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza City, Gaza Strip, Palestine · 4h ago. Israeli attack southwest of Gaza City kills two people.",
+        "title": "— S3 · Conflict · Gaza City, Gaza Strip, Palestine · 6h ago. Israeli attack southwest of Gaza City kills two people.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 8h ago. The IDF eliminated Mahmoud Fatair, a PIJ Nukhba commander who infiltrated Israel on Oct. 7 and participated in holding hostage Rom Braslavski in Gaza.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 10h ago. The IDF eliminated Mahmoud Fatair, a PIJ Nukhba commander who infiltrated Israel on Oct. 7 and participated in holding hostage Rom Braslavski in Gaza.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
