@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-05 00:05",
+  "updated_at_gst": "2026-08-05 01:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,54 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel election pressure fuels settlement push as West Bank violence surges",
-        "published": "Tue, 04 Aug 2026 18:08:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss"
+        "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
+        "published": "Tue, 04 Aug 2026 21:11:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss"
       },
       {
-        "title": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
-        "published": "Tue, 04 Aug 2026 17:03:24 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss"
+        "title": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
+        "published": "Tue, 04 Aug 2026 20:59:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss"
+      },
+      {
+        "title": "Argentina grain exports halt as maritime pilots strike over Milei decree",
+        "published": "Tue, 04 Aug 2026 20:20:11 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss"
+      },
+      {
+        "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
+        "published": "Tue, 04 Aug 2026 18:34:48 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Forces Fire Tear Gas, Destroy Monuments in West Bank",
+        "title": "Funeral Held for Family Killed in US Strike on Iran's Qeshm Island",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 49m ago. Israeli forces fired tear gas and destroyed monuments in the occupied West Bank, escalating tensions amid ongoing violence.",
+        "title": "— S3 · Conflict · Qeshm Island, Iran · 9m ago. A funeral was held for a family killed in a US strike on Qeshm Island, Iran, highlighting civilian casualties in ongoing tensions.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosion Wounds 18 in Tehran Industrial Zone",
+        "title": "— S3 · Conflict · Nevatim Air Base, Israel · 34m ago. New satellite imagery reveals a destroyed shelter and crater at Nevatim Air Base, indicating a recent strike.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Disaster · Tehran, Iran · 3h ago. A mysterious explosion in an industrial zone in Tehran, Iran, wounded at least 18 people, with opposition groups suspecting sabotage.",
+        "title": "Strait of Hormuz Southern Route Remains Open After Bulk Carrier Strike",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Indian Vessel Sinks Near Yemeni Waters After Projectile Strike; Crew Rescued by Yemeni Coast Guard",
+        "title": "Israeli Military Detonates Explosion in Haddatha, Lebanon",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Military Destroys Weapon Production Machines in West Bank",
+        "title": "— S3 · Conflict · Haddatha, Lebanon · 45m ago. Israeli forces set off an explosion in the southern Lebanese village of Haddatha, part of ongoing operations against Hezbollah.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
