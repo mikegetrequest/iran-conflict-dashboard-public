@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-04 18:55",
+  "updated_at_gst": "2026-08-04 20:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,54 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Why did Trump attack Jeanine Pirro over US reflecting pool ‘vandalism’?",
+        "published": "Tue, 04 Aug 2026 16:01:35 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/4/guatemala-issues-second-highest-danger-alert-after-fuego-volcano-erupts?traffic_source=rss"
+      },
+      {
+        "title": "Crews battle wildfire that shut down major highways in Israel",
+        "published": "Tue, 04 Aug 2026 15:52:57 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/4/migrants-stranded-in-ceuta-hope-for-a-better-future?traffic_source=rss"
+      },
+      {
         "title": "Why are oil companies posting record profits amid Iran war disruption?",
         "published": "Tue, 04 Aug 2026 14:04:28 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/4/spanish-pm-sanchez-faces-criticism-as-eu-meets-over-ceuta-crossings?traffic_source=rss"
-      },
-      {
-        "title": "Seventh round of Israel-Lebanon talks begins – what’s on the agenda?",
-        "published": "Tue, 04 Aug 2026 12:22:19 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens?traffic_source=rss"
-      },
-      {
-        "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
-        "published": "Tue, 04 Aug 2026 11:26:28 +0000",
-        "link": "https://www.aljazeera.com/video/money-works/2026/8/4/why-israels-economy-hasnt-collapsed-during-a-multi-front-war?traffic_source=rss"
-      },
-      {
-        "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
-        "published": "Tue, 04 Aug 2026 10:53:33 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/4/italy-suspends-free-movement-with-spain-is-schengen-in-crisis-after-ceuta?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— S3 · Conflict · Beirut, Lebanon · 13m ago. The anniversary of the Beirut port blast is overshadowed as southern Lebanon faces new destruction from Israeli attacks, forcing residents to rebuild their lives again.",
+        "title": "Israeli Military Destroys Weapon Production Machines in West Bank",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Mass Funeral in Gaza for 112 Killed in 2023 Israeli Strike",
+        "title": "— S3 · Conflict · West Bank, Palestine · 29m ago. Israeli forces struck weapon production machinery in the occupied West Bank, the military said, targeting militant infrastructure.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza City, Gaza Strip, Palestine · 50m ago. Bodies of 112 Palestinians from two extended families recovered from rubble in Gaza City, nearly three years after an Israeli airstrike.",
+        "title": "— S3 · Conflict · Beirut, Lebanon · 2h ago. The anniversary of the Beirut port blast is overshadowed as southern Lebanon faces new destruction from Israeli attacks, forcing residents to rebuild their lives again.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Depleted Most Long-Range Precision Missiles in Iran War",
+        "title": "Mass Funeral in Gaza for 112 Al-Hassayn Clan Members Killed in 2023 Strike",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 5h ago. The US has depleted most of its long-range precision missile stockpile during the five-month conflict with Iran, raising concerns about military readiness for future engagements.",
+        "title": "US Depleted Most Long-Range Precision Missiles in Iran War",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Drone Attack on US Military Base Near Strait of Hormuz",
+        "title": "— S3 · Conflict · Iran · 7h ago. The US has depleted most of its long-range precision missile stockpile during the five-month conflict with Iran, raising concerns about military readiness for future engagements.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
