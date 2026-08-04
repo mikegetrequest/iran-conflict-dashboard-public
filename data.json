@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-04 11:29",
+  "updated_at_gst": "2026-08-04 14:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,44 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UFC’s Allan Nascimento dead aged 34 after apparent heart attack",
-        "published": "Tue, 04 Aug 2026 07:19:29 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss"
+        "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+        "published": "Tue, 04 Aug 2026 06:00:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss"
       },
       {
-        "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
-        "published": "Tue, 04 Aug 2026 01:43:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’",
-        "published": "Tue, 04 Aug 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash?traffic_source=rss"
+        "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+        "published": "Tue, 04 Aug 2026 02:56:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "IDF Destroys Hezbollah Tunnel Systems in Southern Lebanon",
+        "title": "Iran Launches Drone Attack on US Military Base Near Strait of Hormuz",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon · 1h ago. Israel Defense Forces destroy Hezbollah tunnel networks in southern Lebanon intended for attacks on Israeli troops.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 12m ago. IRGC drone strike targets US base near Strait of Hormuz; shipping disrupted as Pezeshkian vows defense.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Strait of Hormuz · 8h ago. US strikes on Iran disrupt oil flows through Strait of Hormuz, causing gasoline price spikes and blackouts across energy-importing Asian nations.",
+        "title": "Israel Destroys Rafi-Nia Synagogue in Tehran, Iran",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Drone Strikes on US Military in Kuwait",
+        "title": "— S3 · Conflict · Tehran, Iran · 56m ago. An Israeli airstrike destroyed the historic Rafi-Nia synagogue in Tehran, a significant site for one of the Middle East's largest Jewish communities outside of Israel.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Strike Kills Two in Gaza City",
+        "title": "Cars Burn in Reported Settler Attack in West Bank",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza City, Gaza Strip, Palestine · 11h ago. Israeli attack southwest of Gaza City kills two people.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 1h ago. Cars were set ablaze in a reported settler attack in the West Bank, escalating tensions in the region amidst ongoing Israeli-Palestinian conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
