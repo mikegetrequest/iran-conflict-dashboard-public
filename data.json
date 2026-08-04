@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-04 22:20",
+  "updated_at_gst": "2026-08-05 00:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,44 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Why did Trump attack Jeanine Pirro over US reflecting pool ‘vandalism’?",
-        "published": "Tue, 04 Aug 2026 16:01:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/4/guatemala-issues-second-highest-danger-alert-after-fuego-volcano-erupts?traffic_source=rss"
+        "title": "Israel election pressure fuels settlement push as West Bank violence surges",
+        "published": "Tue, 04 Aug 2026 18:08:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss"
       },
       {
-        "title": "Crews battle wildfire that shut down major highways in Israel",
-        "published": "Tue, 04 Aug 2026 15:52:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/4/migrants-stranded-in-ceuta-hope-for-a-better-future?traffic_source=rss"
+        "title": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
+        "published": "Tue, 04 Aug 2026 17:03:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Explosion Wounds 18 in Tehran Industrial Zone",
+        "title": "Israeli Forces Fire Tear Gas, Destroy Monuments in West Bank",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Disaster · Tehran, Iran · 1h ago. A mysterious explosion in an industrial zone in Tehran, Iran, wounded at least 18 people, with opposition groups suspecting sabotage.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 49m ago. Israeli forces fired tear gas and destroyed monuments in the occupied West Bank, escalating tensions amid ongoing violence.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Indian Vessel Sinks Near Yemeni Waters After Projectile Strike; Crew Rescued by Yemeni Coast Guard",
+        "title": "Explosion Wounds 18 in Tehran Industrial Zone",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Military Destroys Weapon Production Machines in West Bank",
+        "title": "— S3 · Disaster · Tehran, Iran · 3h ago. A mysterious explosion in an industrial zone in Tehran, Iran, wounded at least 18 people, with opposition groups suspecting sabotage.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 2h ago. Israeli forces struck weapon production machinery in the occupied West Bank, the military said, targeting militant infrastructure.",
+        "title": "Indian Vessel Sinks Near Yemeni Waters After Projectile Strike; Crew Rescued by Yemeni Coast Guard",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Beirut, Lebanon · 4h ago. The anniversary of the Beirut port blast is overshadowed as southern Lebanon faces new destruction from Israeli attacks, forcing residents to rebuild their lives again.",
+        "title": "Israeli Military Destroys Weapon Production Machines in West Bank",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
