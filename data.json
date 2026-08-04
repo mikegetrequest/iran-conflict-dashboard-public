@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-05 01:44",
+  "updated_at_gst": "2026-08-05 02:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -29,11 +29,6 @@
         "title": "Argentina grain exports halt as maritime pilots strike over Milei decree",
         "published": "Tue, 04 Aug 2026 20:20:11 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss"
-      },
-      {
-        "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
-        "published": "Tue, 04 Aug 2026 18:34:48 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,12 +38,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Qeshm Island, Iran · 9m ago. A funeral was held for a family killed in a US strike on Qeshm Island, Iran, highlighting civilian casualties in ongoing tensions.",
+        "title": "— S3 · Conflict · Qeshm Island, Iran · 1h ago. A funeral was held for a family killed in a US strike on Qeshm Island, Iran, highlighting civilian casualties in ongoing tensions.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nevatim Air Base, Israel · 34m ago. New satellite imagery reveals a destroyed shelter and crater at Nevatim Air Base, indicating a recent strike.",
+        "title": "— S3 · Conflict · Nevatim Air Base, Israel · 2h ago. New satellite imagery reveals a destroyed shelter and crater at Nevatim Air Base, indicating a recent strike.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -63,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Haddatha, Lebanon · 45m ago. Israeli forces set off an explosion in the southern Lebanese village of Haddatha, part of ongoing operations against Hezbollah.",
+        "title": "— S3 · Conflict · Haddatha, Lebanon · 2h ago. Israeli forces set off an explosion in the southern Lebanese village of Haddatha, part of ongoing operations against Hezbollah.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
