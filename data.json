@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-04 14:08",
+  "updated_at_gst": "2026-08-04 16:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+        "published": "Tue, 04 Aug 2026 11:26:28 +0000",
+        "link": "https://www.aljazeera.com/video/money-works/2026/8/4/why-israels-economy-hasnt-collapsed-during-a-multi-front-war?traffic_source=rss"
+      },
+      {
+        "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
+        "published": "Tue, 04 Aug 2026 10:53:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/4/italy-suspends-free-movement-with-spain-is-schengen-in-crisis-after-ceuta?traffic_source=rss"
+      },
+      {
         "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
         "published": "Tue, 04 Aug 2026 06:00:10 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss"
-      },
-      {
-        "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
-        "published": "Tue, 04 Aug 2026 02:56:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Launches Drone Attack on US Military Base Near Strait of Hormuz",
+        "title": "US Depleted Most Long-Range Precision Missiles in Iran War",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 12m ago. IRGC drone strike targets US base near Strait of Hormuz; shipping disrupted as Pezeshkian vows defense.",
+        "title": "— S3 · Conflict · Iran · 2h ago. The US has depleted most of its long-range precision missile stockpile during the five-month conflict with Iran, raising concerns about military readiness for future engagements.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Destroys Rafi-Nia Synagogue in Tehran, Iran",
+        "title": "Iran Launches Drone Attack on US Military Base Near Strait of Hormuz",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Tehran, Iran · 56m ago. An Israeli airstrike destroyed the historic Rafi-Nia synagogue in Tehran, a significant site for one of the Middle East's largest Jewish communities outside of Israel.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. IRGC drone strike targets US base near Strait of Hormuz; shipping disrupted as Pezeshkian vows defense.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Cars Burn in Reported Settler Attack in West Bank",
+        "title": "Israel Destroys Rafi-Nia Synagogue in Tehran, Iran",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 1h ago. Cars were set ablaze in a reported settler attack in the West Bank, escalating tensions in the region amidst ongoing Israeli-Palestinian conflict.",
+        "title": "— S3 · Conflict · Tehran, Iran · 3h ago. An Israeli airstrike destroyed the historic Rafi-Nia synagogue in Tehran, a significant site for one of the Middle East's largest Jewish communities outside of Israel.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
