@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-05 03:51",
+  "updated_at_gst": "2026-08-05 05:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
+        "published": "Wed, 05 Aug 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss"
+      },
       {
         "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
         "published": "Tue, 04 Aug 2026 21:11:50 +0000",
@@ -33,32 +38,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "US Used 'Virtually All' Long-Range Precision Missiles in Iran War",
+        "title": "Ship Sinks in Red Sea Amid US-Iran Tensions",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Multiple Explosions Reported in Dubai",
+        "title": "— S3 · Conflict · Red Sea · 1h ago. A ship sank in the Red Sea amid ongoing US-Iran conflict and maritime tensions, as the US seeks a deal on the Strait of Hormuz.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Dubai, United Arab Emirates · 1h ago. Locals report nearly a half-dozen loud booms in Dubai this evening; cause and casualties unknown.",
+        "title": "US Used 'Virtually All' Long-Range Precision Missiles in Iran War",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Funeral Held for Family Killed in US Strike on Iran's Qeshm Island",
+        "title": "Multiple Explosions Reported at Jebel Ali Port in Dubai",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Qeshm Island, Iran · 2h ago. A funeral was held for a family killed in a US strike on Qeshm Island, Iran, highlighting civilian casualties in ongoing tensions.",
+        "title": "Funeral Held for Family Killed in US Strike on Iran's Qeshm Island",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nevatim Air Base, Israel · 3h ago. New satellite imagery reveals a destroyed shelter and crater at Nevatim Air Base, indicating a recent strike.",
+        "title": "— S3 · Conflict · Qeshm Island, Iran · 4h ago. A funeral was held for a family killed in a US strike on Qeshm Island, Iran, highlighting civilian casualties in ongoing tensions.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
