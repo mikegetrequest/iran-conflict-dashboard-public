@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-05 23:27",
+  "updated_at_gst": "2026-08-06 00:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
-        "published": "Wed, 05 Aug 2026 17:12:34 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/5/liv-golf-secures-lead-investor-for-player-driven-life-after-saudi-future?traffic_source=rss"
-      },
-      {
-        "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
-        "published": "Wed, 05 Aug 2026 16:42:24 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/5/pope-leo-xiv-to-visit-peru-argentina-and-uruguay-in-november?traffic_source=rss"
-      },
-      {
-        "title": "War on Iran: US-Iran deal edges closer",
-        "published": "Wed, 05 Aug 2026 15:12:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport?traffic_source=rss"
+        "title": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
+        "published": "Wed, 05 Aug 2026 17:41:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Houthis Attack Saudi Oil Tankers in Red Sea, Gulf of Aden",
+        "title": "Israeli Forces Fire Artillery in Majdel Zoun, Lebanon",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Red Sea · 10m ago. Yemen's Houthi rebels claim missile attacks on two Saudi oil tankers, one off Yanbu in the Red Sea and another in the Gulf of Aden, escalating maritime tensions.",
+        "title": "— S3 · Conflict · Majdel Zoun, Lebanon · 21m ago. Israeli artillery strikes the southern Lebanese village of Majdel Zoun, according to Lebanese state media, amid ongoing cross-border hostilities.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Claim Ballistic Missile Strike on Saudi Tanker in Gulf of Aden, Yemen Coast Guard Denies Hit",
+        "title": "Houthis Attack Saudi Oil Tankers in Red Sea, Gulf of Aden",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IDF Demolishes Hezbollah Tunnel in Srebbine, Lebanon",
+        "title": "— S3 · Conflict · Red Sea · 1h ago. Yemen's Houthi rebels claim missile attacks on two Saudi oil tankers, one off Yanbu in the Red Sea and another in the Gulf of Aden, escalating maritime tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IDF Soldiers Plant Explosives West of Zawtar El Charqiyeh, Lebanon",
+        "title": "Houthis Claim Ballistic Missile Strike on Saudi Tanker in Gulf of Aden, Yemen Coast Guard Denies Hit",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Zawtar El Charqiyeh, Lebanon · 4h ago. Israeli Ground Forces soldiers were observed planting explosives near a house west of Zawtar El Charqiyeh, Lebanon.",
+        "title": "IDF Demolishes Hezbollah Tunnel in Srebbine, Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
