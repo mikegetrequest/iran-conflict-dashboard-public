@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-05 16:20",
+  "updated_at_gst": "2026-08-05 18:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,64 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
-        "published": "Wed, 05 Aug 2026 12:07:56 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-stage-sit-in-against-settler-violence-linked-smotrich-funds?traffic_source=rss"
+        "title": "Gaza father opens play center to restore childhood amid Israeli attacks",
+        "published": "Wed, 05 Aug 2026 14:08:46 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/5/boxer-chapman-recovering-after-emergency-surgery-for-brain-bleed?traffic_source=rss"
       },
       {
-        "title": "Turkish cargo ship catches fire after Black Sea drone attack",
-        "published": "Wed, 05 Aug 2026 11:49:25 +0000",
-        "link": "https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss"
+        "title": "UN rights chief says Iran executed at least 56 people since March",
+        "published": "Wed, 05 Aug 2026 12:58:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/5/pakistans-khan-in-jail-for-3-years-pti-amnesty-slam-solitary-confinement?traffic_source=rss"
       },
       {
-        "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
-        "published": "Wed, 05 Aug 2026 11:01:32 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/vozinha-moves-on-from-world-cup-says-colo-colo-is-the-best?traffic_source=rss"
-      },
-      {
-        "title": "Israeli raid deepens fears across West Bank refugee camps",
-        "published": "Wed, 05 Aug 2026 10:30:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss"
-      },
-      {
-        "title": "How Israeli restrictions on Palestinians’ movement break up the West Bank",
-        "published": "Wed, 05 Aug 2026 10:09:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/5/reform-uk-plan-to-return-asylum-seekers-using-navy-dangerous-in-practice?traffic_source=rss"
-      },
-      {
-        "title": "Trump hails progress but warned Iran of ‘hard hit’ if no deal reached",
-        "published": "Wed, 05 Aug 2026 09:05:46 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/5/cape-verdes-world-cup-hero-social-media-sensation-vozinha-joins-colo-colo?traffic_source=rss"
+        "title": "Israeli forces detain Palestinians during raid in occupied West Bank",
+        "published": "Wed, 05 Aug 2026 11:31:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Forces Detain Palestinians During Raid in West Bank",
+        "title": "Israeli Airstrike Kills One, Injures 11 in Tibnin, Lebanon",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 20m ago. Israeli forces detained Palestinians and reportedly beat a journalist and locals during a raid in the occupied West Bank, escalating tensions in the territory.",
+        "title": "— S3 · Conflict · Tibnin, Lebanon · 41m ago. An Israeli air attack on Tibnin, Lebanon, killed one person and injured 11 others, according to Lebanese state media, escalating tensions in the region.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Bombs Road Near Missile Base in Lorestan Province, Iran",
+        "title": "Israeli Drone Targets Mosque in Southern Lebanon",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Sarab-e Key Hatam, Lorestan Province, Iran · 43m ago. Israeli airstrike hits a road near a missile base in western Iran, near Sarab-e Key Hatam village. Geolocation confirms the strike.",
+        "title": "— S3 · Conflict · Southern Lebanon · 1h ago. An Israeli drone targeted a mosque near Tabbone cemetery in southern Lebanon, according to reports.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Raid Deepens Fears Across West Bank Refugee Camps",
+        "title": "Israel Strikes Mansouri, Lebanon, After Hezbollah Violation",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosive Device Kills Two Israeli Soldiers in South Lebanon",
+        "title": "— S3 · Conflict · Mansouri, Lebanon · 2h ago. IAF airstrikes hit Mansouri after IDF evacuation order, responding to a Hezbollah violation and escalating the Israel-Hezbollah conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
