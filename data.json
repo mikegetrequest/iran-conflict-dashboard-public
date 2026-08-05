@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-05 05:20",
+  "updated_at_gst": "2026-08-05 08:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -29,11 +29,6 @@
         "title": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
         "published": "Tue, 04 Aug 2026 20:59:32 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss"
-      },
-      {
-        "title": "Argentina grain exports halt as maritime pilots strike over Milei decree",
-        "published": "Tue, 04 Aug 2026 20:20:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Red Sea · 1h ago. A ship sank in the Red Sea amid ongoing US-Iran conflict and maritime tensions, as the US seeks a deal on the Strait of Hormuz.",
+        "title": "— S3 · Conflict · Red Sea · 5h ago. A ship sank in the Red Sea amid ongoing US-Iran conflict and maritime tensions, as the US seeks a deal on the Strait of Hormuz.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -63,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Qeshm Island, Iran · 4h ago. A funeral was held for a family killed in a US strike on Qeshm Island, Iran, highlighting civilian casualties in ongoing tensions.",
+        "title": "— S3 · Conflict · Qeshm Island, Iran · 7h ago. A funeral was held for a family killed in a US strike on Qeshm Island, Iran, highlighting civilian casualties in ongoing tensions.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
