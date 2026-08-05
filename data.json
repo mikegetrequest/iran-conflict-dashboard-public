@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-05 08:35",
+  "updated_at_gst": "2026-08-05 11:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,44 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
-        "published": "Wed, 05 Aug 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss"
+        "title": "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
+        "published": "Wed, 05 Aug 2026 03:48:21 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss"
       },
       {
-        "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
-        "published": "Tue, 04 Aug 2026 21:11:50 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss"
-      },
-      {
-        "title": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
-        "published": "Tue, 04 Aug 2026 20:59:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss"
+        "title": "Israel approves $37m to seize more than 70 occupied West Bank sites",
+        "published": "Wed, 05 Aug 2026 03:19:59 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Ship Sinks in Red Sea Amid US-Iran Tensions",
+        "title": "Houthis Strike Saudi Oil Tanker NCC WAFA in Northern Red Sea",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Red Sea · 5h ago. A ship sank in the Red Sea amid ongoing US-Iran conflict and maritime tensions, as the US seeks a deal on the Strait of Hormuz.",
+        "title": "— S3 · Conflict · Northern Red Sea · 24m ago. Yemen's Ansarallah forces say they hit the Saudi oil tanker NCC WAFA with ballistic missiles in the northern Red Sea, the 8th Saudi tanker targeted and 29 redirected.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Used 'Virtually All' Long-Range Precision Missiles in Iran War",
+        "title": "Ship Sinks in Red Sea Amid US-Iran Tensions",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Multiple Explosions Reported at Jebel Ali Port in Dubai",
+        "title": "— S3 · Conflict · Red Sea · 8h ago. A ship sank in the Red Sea amid ongoing US-Iran conflict and maritime tensions, as the US seeks a deal on the Strait of Hormuz.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Funeral Held for Family Killed in US Strike on Iran's Qeshm Island",
+        "title": "US Used 'Virtually All' Long-Range Precision Missiles in Iran War",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Qeshm Island, Iran · 7h ago. A funeral was held for a family killed in a US strike on Qeshm Island, Iran, highlighting civilian casualties in ongoing tensions.",
+        "title": "Multiple Explosions Reported at Jebel Ali Port in Dubai",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
