@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-05 18:41",
+  "updated_at_gst": "2026-08-05 20:25",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,41 +24,36 @@
         "title": "UN rights chief says Iran executed at least 56 people since March",
         "published": "Wed, 05 Aug 2026 12:58:22 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/5/pakistans-khan-in-jail-for-3-years-pti-amnesty-slam-solitary-confinement?traffic_source=rss"
-      },
-      {
-        "title": "Israeli forces detain Palestinians during raid in occupied West Bank",
-        "published": "Wed, 05 Aug 2026 11:31:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Airstrike Kills One, Injures 11 in Tibnin, Lebanon",
+        "title": "IDF Demolishes Hezbollah Tunnel in Srebbine, Lebanon",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Tibnin, Lebanon · 41m ago. An Israeli air attack on Tibnin, Lebanon, killed one person and injured 11 others, according to Lebanese state media, escalating tensions in the region.",
+        "title": "IDF Soldiers Plant Explosives West of Zawtar El Charqiyeh, Lebanon",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Drone Targets Mosque in Southern Lebanon",
+        "title": "— S3 · Conflict · Zawtar El Charqiyeh, Lebanon · 1h ago. Israeli Ground Forces soldiers were observed planting explosives near a house west of Zawtar El Charqiyeh, Lebanon.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon · 1h ago. An Israeli drone targeted a mosque near Tabbone cemetery in southern Lebanon, according to reports.",
+        "title": "Israeli Airstrike Kills One, Injures 11 in Tibnin, Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Mansouri, Lebanon, After Hezbollah Violation",
+        "title": "— S3 · Conflict · Tibnin, Lebanon · 2h ago. An Israeli air attack on Tibnin, Lebanon, killed one person and injured 11 others, according to Lebanese state media, escalating tensions in the region.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Mansouri, Lebanon · 2h ago. IAF airstrikes hit Mansouri after IDF evacuation order, responding to a Hezbollah violation and escalating the Israel-Hezbollah conflict.",
+        "title": "Israeli Drone Targets Mosque in Southern Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
