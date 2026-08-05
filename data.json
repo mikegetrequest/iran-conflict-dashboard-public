@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-06 00:42",
+  "updated_at_gst": "2026-08-06 02:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,39 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
-        "published": "Wed, 05 Aug 2026 17:41:24 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary?traffic_source=rss"
+        "title": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
+        "published": "Wed, 05 Aug 2026 17:12:34 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/5/liv-golf-secures-lead-investor-for-player-driven-life-after-saudi-future?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Forces Fire Artillery in Majdel Zoun, Lebanon",
+        "title": "Three Palestinians Injured in Settler Attack Near Nablus",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Majdel Zoun, Lebanon · 21m ago. Israeli artillery strikes the southern Lebanese village of Majdel Zoun, according to Lebanese state media, amid ongoing cross-border hostilities.",
+        "title": "— S3 · Conflict · Nablus, West Bank, Palestine · 32m ago. Israeli settlers attacked Palestinians near Nablus in the West Bank, leaving three injured amid rising settler violence in the territory.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Attack Saudi Oil Tankers in Red Sea, Gulf of Aden",
+        "title": "UN Says Drone Strikes Drive Most Civilian Deaths in Sudan",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Red Sea · 1h ago. Yemen's Houthi rebels claim missile attacks on two Saudi oil tankers, one off Yanbu in the Red Sea and another in the Gulf of Aden, escalating maritime tensions.",
+        "title": "— S3 · Conflict · Khartoum, Sudan · 57m ago. The United Nations reports over 80% of civilian deaths in Sudan this year come from drone attacks, signaling a worsening conflict as aerial strikes intensify.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Claim Ballistic Missile Strike on Saudi Tanker in Gulf of Aden, Yemen Coast Guard Denies Hit",
+        "title": "Israeli Military Mistakenly Launches Interceptor in Southern Lebanon",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IDF Demolishes Hezbollah Tunnel in Srebbine, Lebanon",
+        "title": "— S3 · Conflict · Southern Lebanon · 1h ago. The Israeli military confirmed it mistakenly launched an interceptor missile at its own forces' fire in southern Lebanon, indicating a potential friendly fire incident.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
