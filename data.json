@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-05 20:25",
+  "updated_at_gst": "2026-08-05 21:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
+        "published": "Wed, 05 Aug 2026 17:41:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary?traffic_source=rss"
+      },
+      {
         "title": "Gaza father opens play center to restore childhood amid Israeli attacks",
         "published": "Wed, 05 Aug 2026 14:08:46 +0000",
         "link": "https://www.aljazeera.com/sports/2026/8/5/boxer-chapman-recovering-after-emergency-surgery-for-brain-bleed?traffic_source=rss"
-      },
-      {
-        "title": "UN rights chief says Iran executed at least 56 people since March",
-        "published": "Wed, 05 Aug 2026 12:58:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/5/pakistans-khan-in-jail-for-3-years-pti-amnesty-slam-solitary-confinement?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Zawtar El Charqiyeh, Lebanon · 1h ago. Israeli Ground Forces soldiers were observed planting explosives near a house west of Zawtar El Charqiyeh, Lebanon.",
+        "title": "— S3 · Conflict · Zawtar El Charqiyeh, Lebanon · 3h ago. Israeli Ground Forces soldiers were observed planting explosives near a house west of Zawtar El Charqiyeh, Lebanon.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Tibnin, Lebanon · 2h ago. An Israeli air attack on Tibnin, Lebanon, killed one person and injured 11 others, according to Lebanese state media, escalating tensions in the region.",
+        "title": "— S3 · Conflict · Tibnin, Lebanon · 4h ago. An Israeli air attack on Tibnin, Lebanon, killed one person and injured 11 others, according to Lebanese state media, escalating tensions in the region.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
