@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-05 11:29",
+  "updated_at_gst": "2026-08-05 14:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
-        "published": "Wed, 05 Aug 2026 03:48:21 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss"
+        "title": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
+        "published": "Wed, 05 Aug 2026 09:16:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss"
       },
       {
-        "title": "Israel approves $37m to seize more than 70 occupied West Bank sites",
-        "published": "Wed, 05 Aug 2026 03:19:59 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss"
+        "title": "Japan tests US-Tomahawk missile as it moves away from Post-WWII status",
+        "published": "Wed, 05 Aug 2026 08:37:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/5/fuego-volcano-in-guatemala-spews-more-ash-and-mud-1700-evacuated?traffic_source=rss"
+      },
+      {
+        "title": "AI models attempted ‘unsanctioned’ cyberattacks in tests, watchdog says",
+        "published": "Wed, 05 Aug 2026 08:14:54 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/massive-fire-at-chemical-factory-forces-evacuations-in-brazil?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Houthis Strike Saudi Oil Tanker NCC WAFA in Northern Red Sea",
+        "title": "Israel Kills Four Palestinians in Gaza",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Northern Red Sea · 24m ago. Yemen's Ansarallah forces say they hit the Saudi oil tanker NCC WAFA with ballistic missiles in the northern Red Sea, the 8th Saudi tanker targeted and 29 redirected.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 40m ago. Israeli forces kill four more Palestinians in Gaza, raising the death toll to 73,381 since October 2025 amid ongoing ceasefire violations.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ship Sinks in Red Sea Amid US-Iran Tensions",
+        "title": "Israeli Forces Conduct Gunfire and Shelling Across Gaza Strip",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Red Sea · 8h ago. A ship sank in the Red Sea amid ongoing US-Iran conflict and maritime tensions, as the US seeks a deal on the Strait of Hormuz.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 51m ago. Israeli forces conduct gunfire and shelling across the Gaza Strip, escalating violence in the ongoing conflict.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Used 'Virtually All' Long-Range Precision Missiles in Iran War",
+        "title": "— S3 · Conflict · Bab el-Mandeb · 3h ago. Houthis say eight Saudi tankers have been targeted since the blockade began, escalating maritime attacks in the Red Sea.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Multiple Explosions Reported at Jebel Ali Port in Dubai",
+        "title": "Houthis Strike Saudi Oil Tanker NCC WAFA in Northern Red Sea",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
