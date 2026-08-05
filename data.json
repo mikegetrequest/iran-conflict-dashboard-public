@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-05 14:06",
+  "updated_at_gst": "2026-08-05 16:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,64 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
-        "published": "Wed, 05 Aug 2026 09:16:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss"
+        "title": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
+        "published": "Wed, 05 Aug 2026 12:07:56 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-stage-sit-in-against-settler-violence-linked-smotrich-funds?traffic_source=rss"
       },
       {
-        "title": "Japan tests US-Tomahawk missile as it moves away from Post-WWII status",
-        "published": "Wed, 05 Aug 2026 08:37:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/5/fuego-volcano-in-guatemala-spews-more-ash-and-mud-1700-evacuated?traffic_source=rss"
+        "title": "Turkish cargo ship catches fire after Black Sea drone attack",
+        "published": "Wed, 05 Aug 2026 11:49:25 +0000",
+        "link": "https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss"
       },
       {
-        "title": "AI models attempted ‘unsanctioned’ cyberattacks in tests, watchdog says",
-        "published": "Wed, 05 Aug 2026 08:14:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/massive-fire-at-chemical-factory-forces-evacuations-in-brazil?traffic_source=rss"
+        "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
+        "published": "Wed, 05 Aug 2026 11:01:32 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/vozinha-moves-on-from-world-cup-says-colo-colo-is-the-best?traffic_source=rss"
+      },
+      {
+        "title": "Israeli raid deepens fears across West Bank refugee camps",
+        "published": "Wed, 05 Aug 2026 10:30:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss"
+      },
+      {
+        "title": "How Israeli restrictions on Palestinians’ movement break up the West Bank",
+        "published": "Wed, 05 Aug 2026 10:09:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/5/reform-uk-plan-to-return-asylum-seekers-using-navy-dangerous-in-practice?traffic_source=rss"
+      },
+      {
+        "title": "Trump hails progress but warned Iran of ‘hard hit’ if no deal reached",
+        "published": "Wed, 05 Aug 2026 09:05:46 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/5/cape-verdes-world-cup-hero-social-media-sensation-vozinha-joins-colo-colo?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israel Kills Four Palestinians in Gaza",
+        "title": "Israeli Forces Detain Palestinians During Raid in West Bank",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 40m ago. Israeli forces kill four more Palestinians in Gaza, raising the death toll to 73,381 since October 2025 amid ongoing ceasefire violations.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 20m ago. Israeli forces detained Palestinians and reportedly beat a journalist and locals during a raid in the occupied West Bank, escalating tensions in the territory.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Conduct Gunfire and Shelling Across Gaza Strip",
+        "title": "Israel Bombs Road Near Missile Base in Lorestan Province, Iran",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 51m ago. Israeli forces conduct gunfire and shelling across the Gaza Strip, escalating violence in the ongoing conflict.",
+        "title": "— S3 · Conflict · Sarab-e Key Hatam, Lorestan Province, Iran · 43m ago. Israeli airstrike hits a road near a missile base in western Iran, near Sarab-e Key Hatam village. Geolocation confirms the strike.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bab el-Mandeb · 3h ago. Houthis say eight Saudi tankers have been targeted since the blockade began, escalating maritime attacks in the Red Sea.",
+        "title": "Israeli Raid Deepens Fears Across West Bank Refugee Camps",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Strike Saudi Oil Tanker NCC WAFA in Northern Red Sea",
+        "title": "Explosive Device Kills Two Israeli Soldiers in South Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
