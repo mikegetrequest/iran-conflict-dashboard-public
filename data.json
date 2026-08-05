@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-06 02:02",
+  "updated_at_gst": "2026-08-06 03:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,39 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
-        "published": "Wed, 05 Aug 2026 17:12:34 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/5/liv-golf-secures-lead-investor-for-player-driven-life-after-saudi-future?traffic_source=rss"
+        "title": "Israeli occupation destroys farmland and lives in southern Syria",
+        "published": "Wed, 05 Aug 2026 22:01:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Three Palestinians Injured in Settler Attack Near Nablus",
+        "title": "Israeli Strike Hits Burj Al-Shamali, Lebanon",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nablus, West Bank, Palestine · 32m ago. Israeli settlers attacked Palestinians near Nablus in the West Bank, leaving three injured amid rising settler violence in the territory.",
+        "title": "— S3 · Conflict · Burj Al-Shamali, Lebanon · 24m ago. An Israeli strike targeted the town of Burj Al-Shamali in the Tyre district of southern Lebanon, as reported by Al Jazeera.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "UN Says Drone Strikes Drive Most Civilian Deaths in Sudan",
+        "title": "Israel Destroys Farmland in Southern Syria",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khartoum, Sudan · 57m ago. The United Nations reports over 80% of civilian deaths in Sudan this year come from drone attacks, signaling a worsening conflict as aerial strikes intensify.",
+        "title": "— S3 · Conflict · Southern Syria · 59m ago. Israeli forces destroyed agricultural land in southern Syria, impacting local livelihoods and exacerbating humanitarian concerns in the region.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Military Mistakenly Launches Interceptor in Southern Lebanon",
+        "title": "Three Palestinians Injured in Settler Attack Near Nablus",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon · 1h ago. The Israeli military confirmed it mistakenly launched an interceptor missile at its own forces' fire in southern Lebanon, indicating a potential friendly fire incident.",
+        "title": "— S3 · Conflict · Nablus, West Bank, Palestine · 2h ago. Israeli settlers attacked Palestinians near Nablus in the West Bank, leaving three injured amid rising settler violence in the territory.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
