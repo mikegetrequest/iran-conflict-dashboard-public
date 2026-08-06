@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-06 13:17",
+  "updated_at_gst": "2026-08-06 15:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,55 +16,30 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
-        "published": "Thu, 06 Aug 2026 07:36:56 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss"
+        "title": "Ebola outbreak accelerates as healthcare workers strike over pay",
+        "published": "Thu, 06 Aug 2026 11:20:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss"
       },
       {
-        "title": "A US proposal for missile defense that’s been tried before",
-        "published": "Thu, 06 Aug 2026 06:51:27 +0000",
-        "link": "https://www.aljazeera.com/video/project-force-2/2026/8/6/ukraine-escalates-strikes-on-russian-shipping?traffic_source=rss"
+        "title": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
+        "published": "Thu, 06 Aug 2026 09:17:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/6/sheikh-hasina-vows-to-return-but-will-bangladesh-accept-fugitive-ex-pm?traffic_source=rss"
       },
       {
-        "title": "Could the Iran war derail Donald Trump’s legacy?",
-        "published": "Thu, 06 Aug 2026 03:43:14 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss"
-      },
-      {
-        "title": "Lightning strike kills Thai footballer during match",
-        "published": "Thu, 06 Aug 2026 02:39:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/6/how-gambian-women-are-restoring-the-mangroves-protecting-banjul?traffic_source=rss"
+        "title": "Iran anthem protest: Female footballers ‘proud’ to become Australian",
+        "published": "Thu, 06 Aug 2026 08:15:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Houthis Launch Anti-Ship Missile Toward Bab el-Mandeb Strait",
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Red Sea · 1h ago. Yemen's Houthi rebels launched an anti-ship ballistic missile towards the Southern Red Sea, following a reported blast in Sana'a.",
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
         "published": "line-2",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Yemen Launches Ballistic Missiles at Saudi Arabia",
-        "published": "line-3",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 1h ago. Ballistic missiles were launched from Yemen toward Saudi Arabia, with Riyadh as the apparent target area. No impact or casualty details are yet available.",
-        "published": "line-4",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Israel Strikes South Lebanon After Two Soldiers Killed",
-        "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Lebanon · 2h ago. Israeli retaliatory strikes in southern Lebanon kill at least one after two Israeli soldiers were killed Wednesday; violence flares as Rome talks continue.",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
