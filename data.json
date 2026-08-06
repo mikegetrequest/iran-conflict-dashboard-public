@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-06 17:28",
+  "updated_at_gst": "2026-08-06 19:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,49 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "The old pact between Israel’s government and military has broken down",
-        "published": "Thu, 06 Aug 2026 13:04:09 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/6/fifa-and-infantino-debate-set-to-outlive-morocco-truce-what-to-know?traffic_source=rss"
+        "title": "Trump vows to find ‘leakers’ after reports of depleted Iran war munitions",
+        "published": "Thu, 06 Aug 2026 15:13:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/6/unicef-says-one-child-killed-per-day-in-gaza-since-ceasefire-2?traffic_source=rss"
       },
       {
-        "title": "Ebola outbreak accelerates as healthcare workers strike over pay",
-        "published": "Thu, 06 Aug 2026 11:20:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss"
+        "title": "War on Iran: Iran and Oman agree on Strait of Hormuz deal",
+        "published": "Thu, 06 Aug 2026 14:57:04 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/6/real-madrid-sign-ivory-coasts-yan-diomande-for-record-fee-from-rp-leipzig?traffic_source=rss"
       },
       {
-        "title": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
-        "published": "Thu, 06 Aug 2026 09:17:56 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/6/sheikh-hasina-vows-to-return-but-will-bangladesh-accept-fugitive-ex-pm?traffic_source=rss"
+        "title": "Iran tightens security grip at home as war conditions with US linger",
+        "published": "Thu, 06 Aug 2026 13:16:03 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/6/will-the-us-iran-war-and-hormuz-deadlock-last-for-months?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Hamas Terrorists Push Palestinians to Kill Israeli-Backed Militia Members",
+        "title": "Israeli Settlers Burn Homes in Khirbet al-Tuba, West Bank",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attacks Kill 30 Yemeni Government Troops",
+        "title": "— S3 · Conflict · Khirbet al-Tuba, West Bank, Palestine · 3m ago. Israeli settlers attacked the Palestinian community of Khirbet al-Tuba, burning homes and causing damage, as observed by AFP journalists.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yemen · 46m ago. At least 30 Yemeni government troops were killed in Houthi attacks on military camps, according to sources, highlighting ongoing conflict in Yemen.",
+        "title": "Yemeni Armed Forces Strike Saudi Mercenary Camps with Missiles and Drones in Yemen",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Nahariya's Byzantine Church Reopens After Hezbollah Rocket Hit",
+        "title": "Houthi Forces Strike Saudi-Backed Militants in Marib, 45 Killed in Missile and Drone Attack",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nahariya, Israel · 46m ago. A Byzantine church in Nahariya, Israel, has reopened to the public four months after being hit by a Hezbollah rocket, signifying recovery efforts following the attack.",
+        "title": "Hamas Terrorists Push Palestinians to Kill Israeli-Backed Militia Members",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Indian National Dies After Blast in Dubai",
+        "title": "Houthi Attacks Kill 30 Yemeni Government Troops",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
