@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-06 15:37",
+  "updated_at_gst": "2026-08-06 17:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "The old pact between Israel’s government and military has broken down",
+        "published": "Thu, 06 Aug 2026 13:04:09 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/6/fifa-and-infantino-debate-set-to-outlive-morocco-truce-what-to-know?traffic_source=rss"
+      },
+      {
         "title": "Ebola outbreak accelerates as healthcare workers strike over pay",
         "published": "Thu, 06 Aug 2026 11:20:41 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss"
@@ -24,22 +29,37 @@
         "title": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
         "published": "Thu, 06 Aug 2026 09:17:56 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/6/sheikh-hasina-vows-to-return-but-will-bangladesh-accept-fugitive-ex-pm?traffic_source=rss"
-      },
-      {
-        "title": "Iran anthem protest: Female footballers ‘proud’ to become Australian",
-        "published": "Thu, 06 Aug 2026 08:15:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "Hamas Terrorists Push Palestinians to Kill Israeli-Backed Militia Members",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "Houthi Attacks Kill 30 Yemeni Government Troops",
         "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Yemen · 46m ago. At least 30 Yemeni government troops were killed in Houthi attacks on military camps, according to sources, highlighting ongoing conflict in Yemen.",
+        "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Nahariya's Byzantine Church Reopens After Hezbollah Rocket Hit",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Nahariya, Israel · 46m ago. A Byzantine church in Nahariya, Israel, has reopened to the public four months after being hit by a Hezbollah rocket, signifying recovery efforts following the attack.",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Indian National Dies After Blast in Dubai",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
