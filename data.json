@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-08 00:26",
+  "updated_at_gst": "2026-08-08 01:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+        "published": "Fri, 07 Aug 2026 21:02:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss"
+      },
+      {
         "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
         "published": "Fri, 07 Aug 2026 18:54:55 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss"
@@ -28,32 +33,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "Israel Shells al-Mansouri, Lebanon; House Catches Fire",
+        "title": "US Navy Enforces Iran Blockade, Disables Two Vessels",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · al-Mansouri, Lebanon · 23m ago. Lebanese state media reports that a house caught fire in al-Mansouri, Lebanon, after Israeli shelling, indicating continued cross-border kinetic activity.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 27m ago. CENTCOM reports 51 commercial vessels redirected, two boarded, and two disabled during the US naval blockade of Iran, enforced by USS Mason and other warships.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemeni Armed Forces Strike Saudi Military Gatherings in Sanaa",
+        "title": "CENTCOM Redirects 44 Vessels, Disables 2 in Iran Blockade",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Sanaa, Yemen · 3h ago. Yemeni Armed Forces, including Ansarallah, launched new attacks against Saudi military gatherings, indicating continued conflict despite recent truce efforts.",
+        "title": "Houthi Attacks Kill 10 in Marib, Yemen",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Arabia Depletes Patriot Interceptors in Iran War",
+        "title": "— S3 · Conflict · Marib, Yemen · 8m ago. Houthi rebels launched new attacks in Yemen's oil-rich Marib province, killing at least eight government forces and two civilians, escalating the ongoing conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 3h ago. Saudi Arabia used 86% of its 2,800 Patriot PAC-3 interceptors in the first 38 days of combat in the Iran War, leaving only 400 by April.",
+        "title": "Israel Shells al-Mansouri, Lebanon; House Catches Fire",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
