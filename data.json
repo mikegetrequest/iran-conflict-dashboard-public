@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-07 10:39",
+  "updated_at_gst": "2026-08-07 12:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -21,7 +21,7 @@
         "link": "https://www.aljazeera.com/news/2026/8/7/new-mexico-court-orders-meta-to-pay-567m-over-harm-to-youths?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump says war can’t ‘go much longer’; Hormuz deal close",
+        "title": "Iran war live: Trump expects war to end ‘pretty soon’; Hormuz deal close",
         "published": "Fri, 07 Aug 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/features/2026/8/6/travel-restrictions-from-israel-and-europe-trap-students-in-gaza?traffic_source=rss"
       },
@@ -33,32 +33,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "— S3 · Conflict · Ramat Gan, Israel · 43m ago. Seven people treated for smoke inhalation after suspected arson caused three fires in Ramat Gan, Israel; investigation underway.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 6m ago. Israeli forces arrested a Nukhba terrorist involved in the October 7 attacks while he drove a humanitarian aid truck, raising concerns about aid diversion.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemeni Armed Forces Attack Saudi-Backed Forces in Hadhramaut",
+        "title": "— S3 · Conflict · Ramat Gan, Israel · 2h ago. Seven people treated for smoke inhalation after suspected arson caused three fires in Ramat Gan, Israel; investigation underway.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Hadhramaut, Yemen · 1h ago. Yemeni Armed Forces, including Ansarallah, launched new attacks against Saudi-backed forces in Hadhramaut, Yemen, specifically targeting Seiyun Airport.",
+        "title": "Yemeni Armed Forces Attack Saudi-Backed Forces in Hadhramaut",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Missile and Drone Barrage Shatters Fragile Yemen Truce",
+        "title": "— S3 · Conflict · Hadhramaut, Yemen · 3h ago. Yemeni Armed Forces, including Ansarallah, launched new attacks against Saudi-backed forces in Hadhramaut, Yemen, specifically targeting Seiyun Airport.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Sanaa, Yemen · 3h ago. A missile and drone barrage has shattered a fragile truce in Yemen, wounding dozens more. The attack underscores the collapse of ceasefire efforts amid ongoing Houthi offensives.",
+        "title": "Missile and Drone Barrage Shatters Fragile Yemen Truce",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attack Kills 17 Yemeni Soldiers",
+        "title": "— S3 · Conflict · Sanaa, Yemen · 4h ago. A missile and drone barrage has shattered a fragile truce in Yemen, wounding dozens more. The attack underscores the collapse of ceasefire efforts amid ongoing Houthi offensives.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
