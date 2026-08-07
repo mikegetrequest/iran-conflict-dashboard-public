@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-07 17:44",
+  "updated_at_gst": "2026-08-07 18:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
+        "published": "Fri, 07 Aug 2026 14:22:24 +0000",
+        "link": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss"
+      },
       {
         "title": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
         "published": "Fri, 07 Aug 2026 12:28:52 +0000",
@@ -38,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Marib, Yemen · 1h ago. Yemen's health minister reports two killed and 14 wounded in Houthi missile strikes on Marib, amid ongoing conflict.",
+        "title": "— S3 · Conflict · Marib, Yemen · 2h ago. Yemen's health minister reports two killed and 14 wounded in Houthi missile strikes on Marib, amid ongoing conflict.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 3h ago. Iranian air defenses shot down a US F-15 during the ongoing war; wreckage of the cockpit and ejection seat was shown. IRGC reportedly used a new air defense system.",
+        "title": "— S3 · Conflict · Iran · 4h ago. Iranian air defenses shot down a US F-15 during the ongoing war; wreckage of the cockpit and ejection seat was shown. IRGC reportedly used a new air defense system.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 6h ago. Israeli forces arrested a Nukhba terrorist involved in the October 7 attacks while he drove a humanitarian aid truck, raising concerns about aid diversion.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 7h ago. Israeli forces arrested a Nukhba terrorist involved in the October 7 attacks while he drove a humanitarian aid truck, raising concerns about aid diversion.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Ramat Gan, Israel · 8h ago. Seven people treated for smoke inhalation after suspected arson caused three fires in Ramat Gan, Israel; investigation underway.",
+        "title": "— S3 · Conflict · Ramat Gan, Israel · 9h ago. Seven people treated for smoke inhalation after suspected arson caused three fires in Ramat Gan, Israel; investigation underway.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
