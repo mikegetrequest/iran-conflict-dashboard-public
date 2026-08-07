@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-07 20:38",
+  "updated_at_gst": "2026-08-07 21:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,35 +14,46 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
+        "published": "Fri, 07 Aug 2026 14:22:24 +0000",
+        "link": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
+        "published": "Fri, 07 Aug 2026 12:28:52 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
-        "title": "— S3 · Disaster · Dubai, United Arab Emirates · 19m ago. Extreme heatwaves are affecting multiple regions globally, with Dubai, Spain, and Algeria experiencing scorching temperatures and deadly conditions.",
+        "title": "Saudi Arabia Depletes Patriot Interceptors in Iran War",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Three UAE Vessels Attacked in Persian Gulf This Week",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 20m ago. Saudi Arabia used 86% of its 2,800 Patriot PAC-3 interceptors in the first 38 days of combat in the Iran War, leaving only 400 by April.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Persian Gulf · 40m ago. HFI Research reports three UAE vessels were attacked this week amid Strait of Hormuz tensions; UAE has not reported the incidents to UKMTO.",
+        "title": "Yemen Naval Forces Stop Attack on Oil Tanker in Red Sea",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Gaza Residents Wary as Israeli Strikes Ease",
+        "title": "— S3 · Conflict · Red Sea · 51m ago. Yemen's naval forces say they intercepted and halted an attack on an oil tanker in the Red Sea. The assailants and vessel's condition are not yet confirmed.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. Warplane and drone activity subsides in Gaza, but Palestinians remain cautious, fearing renewed Israeli military action after days of eased strikes.",
+        "title": "— S3 · Disaster · Dubai, United Arab Emirates · 1h ago. Extreme heatwaves are affecting multiple regions globally, with Dubai, Spain, and Algeria experiencing scorching temperatures and deadly conditions.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Military Fires on Utility Workers in Bint Jbeil, Lebanon",
+        "title": "Three UAE Vessels Attacked in Persian Gulf This Week",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
