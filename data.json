@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-07 13:28",
+  "updated_at_gst": "2026-08-07 14:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians",
-        "published": "Fri, 07 Aug 2026 01:51:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/7/new-mexico-court-orders-meta-to-pay-567m-over-harm-to-youths?traffic_source=rss"
+        "title": "Earthquake strikes as doctors perform surgery",
+        "published": "Fri, 07 Aug 2026 07:43:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Hadhramaut, Yemen · 4h ago. Yemeni Armed Forces, including Ansarallah, launched new attacks against Saudi-backed forces in Hadhramaut, Yemen, specifically targeting Seiyun Airport.",
+        "title": "— S3 · Conflict · Hadhramaut, Yemen · 5h ago. Yemeni Armed Forces, including Ansarallah, launched new attacks against Saudi-backed forces in Hadhramaut, Yemen, specifically targeting Seiyun Airport.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Sanaa, Yemen · 6h ago. A missile and drone barrage has shattered a fragile truce in Yemen, wounding dozens more. The attack underscores the collapse of ceasefire efforts amid ongoing Houthi offensives.",
+        "title": "— S3 · Conflict · Sanaa, Yemen · 7h ago. A missile and drone barrage has shattered a fragile truce in Yemen, wounding dozens more. The attack underscores the collapse of ceasefire efforts amid ongoing Houthi offensives.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
