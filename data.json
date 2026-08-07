@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-07 21:37",
+  "updated_at_gst": "2026-08-07 22:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,44 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
-        "published": "Fri, 07 Aug 2026 14:22:24 +0000",
-        "link": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
-        "published": "Fri, 07 Aug 2026 12:28:52 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide?traffic_source=rss"
+        "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+        "published": "Fri, 07 Aug 2026 16:42:35 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Saudi Arabia Depletes Patriot Interceptors in Iran War",
+        "title": "Yemeni Armed Forces Strike Saudi Military Gatherings in Sanaa",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 20m ago. Saudi Arabia used 86% of its 2,800 Patriot PAC-3 interceptors in the first 38 days of combat in the Iran War, leaving only 400 by April.",
+        "title": "— S3 · Conflict · Sanaa, Yemen · 56m ago. Yemeni Armed Forces, including Ansarallah, launched new attacks against Saudi military gatherings, indicating continued conflict despite recent truce efforts.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen Naval Forces Stop Attack on Oil Tanker in Red Sea",
+        "title": "Saudi Arabia Depletes Patriot Interceptors in Iran War",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Red Sea · 51m ago. Yemen's naval forces say they intercepted and halted an attack on an oil tanker in the Red Sea. The assailants and vessel's condition are not yet confirmed.",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 1h ago. Saudi Arabia used 86% of its 2,800 Patriot PAC-3 interceptors in the first 38 days of combat in the Iran War, leaving only 400 by April.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Disaster · Dubai, United Arab Emirates · 1h ago. Extreme heatwaves are affecting multiple regions globally, with Dubai, Spain, and Algeria experiencing scorching temperatures and deadly conditions.",
+        "title": "Yemen Naval Forces Stop Attack on Oil Tanker in Red Sea",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Three UAE Vessels Attacked in Persian Gulf This Week",
+        "title": "— S3 · Conflict · Red Sea · 2h ago. Yemen's naval forces say they intercepted and halted an attack on an oil tanker in the Red Sea. The assailants and vessel's condition are not yet confirmed.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
