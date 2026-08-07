@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-07 18:42",
+  "updated_at_gst": "2026-08-07 19:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,54 +16,39 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
-        "published": "Fri, 07 Aug 2026 14:22:24 +0000",
-        "link": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
-        "published": "Fri, 07 Aug 2026 12:28:52 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide?traffic_source=rss"
-      },
-      {
-        "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
-        "published": "Fri, 07 Aug 2026 11:11:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss"
-      },
-      {
-        "title": "Why Trump is caught in an ‘escalation trap’ with Iran",
-        "published": "Fri, 07 Aug 2026 11:03:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss"
+        "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+        "published": "Fri, 07 Aug 2026 10:52:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Houthi Missile Strikes Kill 2, Wound 14 in Marib, Yemen",
+        "title": "Gaza Residents Wary as Israeli Strikes Ease",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Marib, Yemen · 2h ago. Yemen's health minister reports two killed and 14 wounded in Houthi missile strikes on Marib, amid ongoing conflict.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 5m ago. Warplane and drone activity subsides in Gaza, but Palestinians remain cautious, fearing renewed Israeli military action after days of eased strikes.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US F-15 Fighter Jet Shot Down Over Iran",
+        "title": "Israeli Military Fires on Utility Workers in Bint Jbeil, Lebanon",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 4h ago. Iranian air defenses shot down a US F-15 during the ongoing war; wreckage of the cockpit and ejection seat was shown. IRGC reportedly used a new air defense system.",
+        "title": "— S3 · Conflict · Bint Jbeil, Lebanon · 29m ago. Lebanese state media reports that the Israeli military fired upon water-utility workers in Bint Jbeil, Lebanon.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 7h ago. Israeli forces arrested a Nukhba terrorist involved in the October 7 attacks while he drove a humanitarian aid truck, raising concerns about aid diversion.",
+        "title": "Gulf Cooperation Council Condemns Houthi Attack in Najran",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Ramat Gan, Israel · 9h ago. Seven people treated for smoke inhalation after suspected arson caused three fires in Ramat Gan, Israel; investigation underway.",
+        "title": "— S3 · Political · Najran, Saudi Arabia · 39m ago. The Gulf Cooperation Council condemns the Houthi strike that wounded 11 civilians in Najran, joining Qatar and the Arab League in backing Saudi Arabia.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
