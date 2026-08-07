@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-07 07:41",
+  "updated_at_gst": "2026-08-07 09:25",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -38,32 +38,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "Houthi Attack Kills 17 Yemeni Soldiers",
+        "title": "Missile and Drone Barrage Shatters Fragile Yemen Truce",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yemen · 4h ago. Yemen's military reports that 17 soldiers were killed in a Houthi attack, adding to ongoing conflict in the region.",
+        "title": "— S3 · Conflict · Sanaa, Yemen · 2h ago. A missile and drone barrage has shattered a fragile truce in Yemen, wounding dozens more. The attack underscores the collapse of ceasefire efforts amid ongoing Houthi offensives.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attacks Injure 11 Civilians in Najran",
+        "title": "Houthi Attack Kills 17 Yemeni Soldiers",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Strait of Hormuz · 6h ago. Oil prices rose sharply due to reports of a potential ban on US and Israeli vessels using the Strait of Hormuz, raising market concerns about global oil supply.",
+        "title": "— S3 · Conflict · Yemen · 6h ago. Yemen's military reports that 17 soldiers were killed in a Houthi attack, adding to ongoing conflict in the region.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Strait of Hormuz · 6h ago. Hundreds of vessels are stranded in the Strait of Hormuz due to ongoing tensions and negotiations between Iran and Oman, causing significant disruption to global trade.",
+        "title": "Houthi Attacks Injure 11 Civilians in Najran",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Hostile Targets in Strait of Hormuz",
+        "title": "— S3 · Economic · Strait of Hormuz · 8h ago. Oil prices rose sharply due to reports of a potential ban on US and Israeli vessels using the Strait of Hormuz, raising market concerns about global oil supply.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
