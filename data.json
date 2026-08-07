@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-08 02:01",
+  "updated_at_gst": "2026-08-08 03:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
-        "published": "Fri, 07 Aug 2026 21:02:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss"
-      },
-      {
-        "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-        "published": "Fri, 07 Aug 2026 18:54:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss"
-      },
-      {
-        "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
-        "published": "Fri, 07 Aug 2026 14:22:24 +0000",
-        "link": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss"
+        "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+        "published": "Fri, 07 Aug 2026 16:42:35 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,27 +28,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attacks Kill 10 in Marib, Yemen",
+        "title": "Israel Shells Ali al-Taher Heights in Lebanon",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Marib, Yemen · 1h ago. Houthi rebels launched new attacks in Yemen's oil-rich Marib province, killing at least eight government forces and two civilians, escalating the ongoing conflict.",
+        "title": "— S3 · Conflict · Ali al-Taher Heights, Lebanon · 44m ago. Lebanon's National News Agency says Israeli artillery targeted the Ali al-Taher heights in southern Lebanon, the latest in ongoing cross-border strikes.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Shells al-Mansouri, Lebanon; House Catches Fire",
+        "title": "Houthi Attacks Kill 10 in Marib, Yemen",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · al-Mansouri, Lebanon · 2h ago. Lebanese state media reports that a house caught fire in al-Mansouri, Lebanon, after Israeli shelling, indicating continued cross-border kinetic activity.",
+        "title": "— S3 · Conflict · Marib, Yemen · 2h ago. Houthi rebels launched new attacks in Yemen's oil-rich Marib province, killing at least eight government forces and two civilians, escalating the ongoing conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemeni Armed Forces Strike Saudi Military Gatherings in Sanaa",
+        "title": "Israel Shells al-Mansouri, Lebanon; House Catches Fire",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
