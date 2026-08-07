@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-07 22:37",
+  "updated_at_gst": "2026-08-07 23:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-        "published": "Fri, 07 Aug 2026 16:42:35 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss"
+        "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+        "published": "Fri, 07 Aug 2026 18:54:55 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss"
+      },
+      {
+        "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
+        "published": "Fri, 07 Aug 2026 14:22:24 +0000",
+        "link": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
+        "published": "Fri, 07 Aug 2026 12:28:52 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -28,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Sanaa, Yemen · 56m ago. Yemeni Armed Forces, including Ansarallah, launched new attacks against Saudi military gatherings, indicating continued conflict despite recent truce efforts.",
+        "title": "— S3 · Conflict · Sanaa, Yemen · 2h ago. Yemeni Armed Forces, including Ansarallah, launched new attacks against Saudi military gatherings, indicating continued conflict despite recent truce efforts.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -38,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 1h ago. Saudi Arabia used 86% of its 2,800 Patriot PAC-3 interceptors in the first 38 days of combat in the Iran War, leaving only 400 by April.",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 2h ago. Saudi Arabia used 86% of its 2,800 Patriot PAC-3 interceptors in the first 38 days of combat in the Iran War, leaving only 400 by April.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Red Sea · 2h ago. Yemen's naval forces say they intercepted and halted an attack on an oil tanker in the Red Sea. The assailants and vessel's condition are not yet confirmed.",
+        "title": "— S3 · Conflict · Red Sea · 3h ago. Yemen's naval forces say they intercepted and halted an attack on an oil tanker in the Red Sea. The assailants and vessel's condition are not yet confirmed.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
