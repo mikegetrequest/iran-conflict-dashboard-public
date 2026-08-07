@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-07 19:41",
+  "updated_at_gst": "2026-08-07 20:38",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,41 +14,35 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
-        "published": "Fri, 07 Aug 2026 10:52:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
-        "title": "Gaza Residents Wary as Israeli Strikes Ease",
+        "title": "— S3 · Disaster · Dubai, United Arab Emirates · 19m ago. Extreme heatwaves are affecting multiple regions globally, with Dubai, Spain, and Algeria experiencing scorching temperatures and deadly conditions.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 5m ago. Warplane and drone activity subsides in Gaza, but Palestinians remain cautious, fearing renewed Israeli military action after days of eased strikes.",
+        "title": "Three UAE Vessels Attacked in Persian Gulf This Week",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Military Fires on Utility Workers in Bint Jbeil, Lebanon",
+        "title": "— S3 · Conflict · Persian Gulf · 40m ago. HFI Research reports three UAE vessels were attacked this week amid Strait of Hormuz tensions; UAE has not reported the incidents to UKMTO.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bint Jbeil, Lebanon · 29m ago. Lebanese state media reports that the Israeli military fired upon water-utility workers in Bint Jbeil, Lebanon.",
+        "title": "Gaza Residents Wary as Israeli Strikes Ease",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Gulf Cooperation Council Condemns Houthi Attack in Najran",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. Warplane and drone activity subsides in Gaza, but Palestinians remain cautious, fearing renewed Israeli military action after days of eased strikes.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Najran, Saudi Arabia · 39m ago. The Gulf Cooperation Council condemns the Houthi strike that wounded 11 civilians in Najran, joining Qatar and the Arab League in backing Saudi Arabia.",
+        "title": "Israeli Military Fires on Utility Workers in Bint Jbeil, Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
