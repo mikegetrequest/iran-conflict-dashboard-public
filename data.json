@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-06 19:42",
+  "updated_at_gst": "2026-08-07 04:34",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,49 +16,59 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump vows to find ‘leakers’ after reports of depleted Iran war munitions",
-        "published": "Thu, 06 Aug 2026 15:13:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/6/unicef-says-one-child-killed-per-day-in-gaza-since-ceasefire-2?traffic_source=rss"
+        "title": "‘No red line’: South Lebanon residents outraged as Israel resumes strikes",
+        "published": "Thu, 06 Aug 2026 23:46:37 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-signs-executive-orders-banning-so-called-birth?traffic_source=rss"
       },
       {
-        "title": "War on Iran: Iran and Oman agree on Strait of Hormuz deal",
-        "published": "Thu, 06 Aug 2026 14:57:04 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/6/real-madrid-sign-ivory-coasts-yan-diomande-for-record-fee-from-rp-leipzig?traffic_source=rss"
+        "title": "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’",
+        "published": "Thu, 06 Aug 2026 23:34:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/6/how-abdul-el-sayeds-extraordinary-win-stunned-pro-israel-establishment?traffic_source=rss"
       },
       {
-        "title": "Iran tightens security grip at home as war conditions with US linger",
-        "published": "Thu, 06 Aug 2026 13:16:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/6/will-the-us-iran-war-and-hormuz-deadlock-last-for-months?traffic_source=rss"
+        "title": "How fragile is Lebanon’s uneasy peace?",
+        "published": "Thu, 06 Aug 2026 20:38:29 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/6/us-senator-mcconnell-says-hes-been-discharged-from-rehabilitation-centre?traffic_source=rss"
+      },
+      {
+        "title": "Israeli settler charged over Palestinian activist’s killing",
+        "published": "Thu, 06 Aug 2026 19:48:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/deadly-explosion-on-minibus-near-damascus?traffic_source=rss"
+      },
+      {
+        "title": "Israeli attacks wound eight in Lebanon despite Rome talks",
+        "published": "Thu, 06 Aug 2026 19:21:33 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Settlers Burn Homes in Khirbet al-Tuba, West Bank",
+        "title": "Houthi Attack Kills 17 Yemeni Soldiers",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khirbet al-Tuba, West Bank, Palestine · 3m ago. Israeli settlers attacked the Palestinian community of Khirbet al-Tuba, burning homes and causing damage, as observed by AFP journalists.",
+        "title": "— S3 · Conflict · Yemen · 53m ago. Yemen's military reports that 17 soldiers were killed in a Houthi attack, adding to ongoing conflict in the region.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemeni Armed Forces Strike Saudi Mercenary Camps with Missiles and Drones in Yemen",
+        "title": "Houthi Attacks Injure 11 Civilians in Najran",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Forces Strike Saudi-Backed Militants in Marib, 45 Killed in Missile and Drone Attack",
+        "title": "— S3 · Economic · Strait of Hormuz · 3h ago. Oil prices rose sharply due to reports of a potential ban on US and Israeli vessels using the Strait of Hormuz, raising market concerns about global oil supply.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Hamas Terrorists Push Palestinians to Kill Israeli-Backed Militia Members",
+        "title": "— S3 · Economic · Strait of Hormuz · 3h ago. Hundreds of vessels are stranded in the Strait of Hormuz due to ongoing tensions and negotiations between Iran and Oman, causing significant disruption to global trade.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attacks Kill 30 Yemeni Government Troops",
+        "title": "Iran Strikes Hostile Targets in Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
