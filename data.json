@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-08 16:20",
+  "updated_at_gst": "2026-08-08 17:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,13 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "How Israel’s occupation fuels resistance",
-        "published": "Sat, 08 Aug 2026 10:40:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "Israeli Attacks Kill 1,257 in Gaza Since Ceasefire",
@@ -33,22 +27,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Qatar Condemns Iranian Attack on UAE Tanker in Strait of Hormuz",
+        "title": "Ansarallah Missiles Hit Saudi-Backed Militants in Al Dhale, Yemen",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Strait of Hormuz · 4m ago. Qatar issued a condemnation of Iran's attack on a UAE oil tanker in the Strait of Hormuz, as tensions escalate.",
+        "title": "UAE Condemns Houthi Attack on Saudi Arabia's Najran Region",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ansarallah Missiles Hit Saudi-Backed Militants in Al Dhale, Yemen",
+        "title": "— S3 · Conflict · Najran, Saudi Arabia · 3h ago. The United Arab Emirates condemned a Houthi attack on Saudi Arabia's Najran region, highlighting ongoing regional tensions and the humanitarian impact of the conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "UAE Condemns Houthi Attack on Saudi Arabia's Najran Region",
+        "title": "Israeli Forces Advance Into Mays al-Jabal, Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
