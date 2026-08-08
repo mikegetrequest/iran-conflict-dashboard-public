@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-08 13:59",
+  "updated_at_gst": "2026-08-08 14:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -23,33 +23,13 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Attacks Kill 1,257 in Gaza Since Ceasefire",
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "CENTCOM Redirects 44 Vessels, Disables 2 in Iran Blockade",
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
         "published": "line-2",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Israeli Settlers Attack Palestinian Home Near Bethlehem",
-        "published": "line-3",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Bethlehem, West Bank, Palestine · 1h ago. Israeli settlers attacked a Palestinian home near Bethlehem in the West Bank, escalating tensions in the area.",
-        "published": "line-4",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Israeli Gunfire Injures Three Palestinians North of Khan Younis",
-        "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 4h ago. At least three Palestinians were injured by Israeli gunfire north of Khan Younis in the Gaza Strip, according to live updates.",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
