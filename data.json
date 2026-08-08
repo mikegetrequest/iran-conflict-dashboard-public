@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-08 17:23",
+  "updated_at_gst": "2026-08-08 18:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom",
+        "published": "Sat, 08 Aug 2026 13:42:06 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "Israeli Attacks Kill 1,257 in Gaza Since Ceasefire",
@@ -27,22 +33,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ansarallah Missiles Hit Saudi-Backed Militants in Al Dhale, Yemen",
+        "title": "Israel Indicts Settler for Death of Palestinian Activist in West Bank",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "UAE Condemns Houthi Attack on Saudi Arabia's Najran Region",
+        "title": "Commercial Vessel Attacked in Strait of Hormuz, Fire Extinguished",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Najran, Saudi Arabia · 3h ago. The United Arab Emirates condemned a Houthi attack on Saudi Arabia's Najran region, highlighting ongoing regional tensions and the humanitarian impact of the conflict.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 35m ago. A commercial vessel was reportedly attacked and caught fire while transiting a US-secured lane in the Strait of Hormuz, with NASA FIRMS detecting a drifting fire.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Advance Into Mays al-Jabal, Lebanon",
+        "title": "Ansarallah Missiles Hit Saudi-Backed Militants in Al Dhale, Yemen",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
