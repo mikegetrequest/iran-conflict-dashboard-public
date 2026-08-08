@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-08 11:25",
+  "updated_at_gst": "2026-08-08 12:04",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,22 +14,36 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Russian strikes near Ukrainian capital kill three, including child",
-        "published": "Sat, 08 Aug 2026 04:18:45 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "CENTCOM Redirects 44 Vessels, Disables 2 in Iran Blockade",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "Israeli Gunfire Injures Three Palestinians North of Khan Younis",
         "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 2h ago. At least three Palestinians were injured by Israeli gunfire north of Khan Younis in the Gaza Strip, according to live updates.",
+        "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Saudi-Backed Forces Strike Ansarallah Positions in Sanaa",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Sanaa, Yemen · 5h ago. Yemen's Saudi-backed government forces announced strikes on Ansarallah (Houthi) positions along the line of contact in Sanaa, escalating the ongoing conflict.",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Houthi Attack Wounds 11 Civilians in Southern Saudi Arabia",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
