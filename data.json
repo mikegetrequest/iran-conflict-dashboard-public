@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-08 09:12",
+  "updated_at_gst": "2026-08-08 10:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,18 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Russian strikes near Ukrainian capital kill three, including child",
+        "published": "Sat, 08 Aug 2026 04:18:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
+        "published": "Sat, 08 Aug 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "CENTCOM Redirects 44 Vessels, Disables 2 in Iran Blockade",
@@ -22,27 +33,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi-Backed Forces Strike Ansarallah Positions in Sanaa",
+        "title": "Israeli Gunfire Injures Three Palestinians North of Khan Younis",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Sanaa, Yemen · 2h ago. Yemen's Saudi-backed government forces announced strikes on Ansarallah (Houthi) positions along the line of contact in Sanaa, escalating the ongoing conflict.",
+        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 15m ago. At least three Palestinians were injured by Israeli gunfire north of Khan Younis in the Gaza Strip, according to live updates.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attack Wounds 11 Civilians in Southern Saudi Arabia",
+        "title": "Saudi-Backed Forces Strike Ansarallah Positions in Sanaa",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Saudi Arabia · 3h ago. A Houthi attack on southern Saudi Arabia wounded 11 civilians, prompting the kingdom to warn of imminent coordinated attacks by Houthis and Iran-backed Iraqi militias.",
+        "title": "— S3 · Conflict · Sanaa, Yemen · 3h ago. Yemen's Saudi-backed government forces announced strikes on Ansarallah (Houthi) positions along the line of contact in Sanaa, escalating the ongoing conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Aden, Yemen · 3h ago. Yemeni Armed Forces (Ansarallah) launched drone strikes on Saudi-backed militant positions in Aden, with an explosion reported at a military camp.",
+        "title": "Houthi Attack Wounds 11 Civilians in Southern Saudi Arabia",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
