@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-09 02:52",
+  "updated_at_gst": "2026-08-09 03:16",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -33,33 +33,13 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Attacks Kill 1,257 in Gaza Since Ceasefire",
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "CENTCOM Redirects 44 Vessels, Disables 2 in Iran Blockade",
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
         "published": "line-2",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Israeli Forces Carry Out New Demolitions in Southern Lebanon",
-        "published": "line-3",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Zawtar al-Sharqiya, Lebanon · 2m ago. Lebanese sources report explosions targeting homes and infrastructure in Zawtar al-Sharqiya, southern Lebanon, as Israeli forces conduct new demolition operations.",
-        "published": "line-4",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Israeli Forces Attack Mosque in Idhna, Arrest 7",
-        "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Idhna, West Bank, Palestine · 17m ago. Israeli forces raided Nabi Saleh Mosque in Idhna, West Bank, arresting seven Palestinians, per Palestinian media.",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
