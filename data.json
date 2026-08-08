@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-08 04:42",
+  "updated_at_gst": "2026-08-08 06:47",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -29,11 +29,6 @@
         "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
         "published": "Fri, 07 Aug 2026 21:02:31 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss"
-      },
-      {
-        "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-        "published": "Fri, 07 Aug 2026 18:54:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,27 +38,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Six Palestinians Injured in Israeli Attacks Across West Bank",
+        "title": "Houthi Attack Wounds 11 Civilians in Southern Saudi Arabia",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 1h ago. Six Palestinians, including medics, injured in Israeli attacks across the West Bank; officials report over 11,000 attacks since January.",
+        "title": "— S3 · Conflict · Southern Saudi Arabia · 13m ago. A Houthi attack on southern Saudi Arabia wounded 11 civilians, prompting the kingdom to warn of imminent coordinated attacks by Houthis and Iran-backed Iraqi militias.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Shells Ali al-Taher Heights in Lebanon",
+        "title": "— S3 · Conflict · Aden, Yemen · 22m ago. Yemeni Armed Forces (Ansarallah) launched drone strikes on Saudi-backed militant positions in Aden, with an explosion reported at a military camp.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Ali al-Taher Heights, Lebanon · 2h ago. Lebanon's National News Agency says Israeli artillery targeted the Ali al-Taher heights in southern Lebanon, the latest in ongoing cross-border strikes.",
+        "title": "Six Palestinians Injured in Israeli Attacks Across West Bank",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attacks Kill 10 in Marib, Yemen",
+        "title": "— S3 · Conflict · West Bank, Palestine · 3h ago. Six Palestinians, including medics, injured in Israeli attacks across the West Bank; officials report over 11,000 attacks since January.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
