@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-08 23:05",
+  "updated_at_gst": "2026-08-08 23:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
-        "published": "Sat, 08 Aug 2026 15:42:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss"
+        "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
+        "published": "Sat, 08 Aug 2026 18:43:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss"
       },
       {
-        "title": "War on Iran: Phase II: Day 28",
-        "published": "Sat, 08 Aug 2026 14:09:02 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss"
-      },
-      {
-        "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
-        "published": "Sat, 08 Aug 2026 13:52:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss"
+        "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+        "published": "Sat, 08 Aug 2026 15:01:29 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Mayfadoun, Lebanon · 1h ago. Lebanese state media reports an Israeli drone attack targeting Mayfadoun in southern Lebanon, indicating continued cross-border hostilities.",
+        "title": "— S3 · Conflict · Mayfadoun, Lebanon · 2h ago. Lebanese state media reports an Israeli drone attack targeting Mayfadoun in southern Lebanon, indicating continued cross-border hostilities.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
