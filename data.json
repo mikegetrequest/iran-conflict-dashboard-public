@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-08 03:53",
+  "updated_at_gst": "2026-08-08 04:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
+        "published": "Sat, 08 Aug 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss"
+      },
       {
         "title": "Medics among six Palestinians injured in Israeli attacks across West Bank",
         "published": "Fri, 07 Aug 2026 23:15:01 +0000",
@@ -33,13 +38,33 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "CENTCOM Redirects 44 Vessels, Disables 2 in Iran Blockade",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "Six Palestinians Injured in Israeli Attacks Across West Bank",
         "published": "line-2",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · West Bank, Palestine · 1h ago. Six Palestinians, including medics, injured in Israeli attacks across the West Bank; officials report over 11,000 attacks since January.",
+        "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Israel Shells Ali al-Taher Heights in Lebanon",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Ali al-Taher Heights, Lebanon · 2h ago. Lebanon's National News Agency says Israeli artillery targeted the Ali al-Taher heights in southern Lebanon, the latest in ongoing cross-border strikes.",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Houthi Attacks Kill 10 in Marib, Yemen",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
