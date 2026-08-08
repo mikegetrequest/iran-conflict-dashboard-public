@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-08 06:47",
+  "updated_at_gst": "2026-08-08 08:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,23 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
-        "published": "Sat, 08 Aug 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss"
-      },
-      {
-        "title": "Medics among six Palestinians injured in Israeli attacks across West Bank",
-        "published": "Fri, 07 Aug 2026 23:15:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
-        "published": "Fri, 07 Aug 2026 21:02:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "CENTCOM Redirects 44 Vessels, Disables 2 in Iran Blockade",
@@ -38,27 +22,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attack Wounds 11 Civilians in Southern Saudi Arabia",
+        "title": "Saudi-Backed Forces Strike Ansarallah Positions in Sanaa",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Saudi Arabia · 13m ago. A Houthi attack on southern Saudi Arabia wounded 11 civilians, prompting the kingdom to warn of imminent coordinated attacks by Houthis and Iran-backed Iraqi militias.",
+        "title": "— S3 · Conflict · Sanaa, Yemen · 45m ago. Yemen's Saudi-backed government forces announced strikes on Ansarallah (Houthi) positions along the line of contact in Sanaa, escalating the ongoing conflict.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Aden, Yemen · 22m ago. Yemeni Armed Forces (Ansarallah) launched drone strikes on Saudi-backed militant positions in Aden, with an explosion reported at a military camp.",
+        "title": "Houthi Attack Wounds 11 Civilians in Southern Saudi Arabia",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Six Palestinians Injured in Israeli Attacks Across West Bank",
+        "title": "— S3 · Conflict · Southern Saudi Arabia · 1h ago. A Houthi attack on southern Saudi Arabia wounded 11 civilians, prompting the kingdom to warn of imminent coordinated attacks by Houthis and Iran-backed Iraqi militias.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 3h ago. Six Palestinians, including medics, injured in Israeli attacks across the West Bank; officials report over 11,000 attacks since January.",
+        "title": "— S3 · Conflict · Aden, Yemen · 2h ago. Yemeni Armed Forces (Ansarallah) launched drone strikes on Saudi-backed militant positions in Aden, with an explosion reported at a military camp.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
