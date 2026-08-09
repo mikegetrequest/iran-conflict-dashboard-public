@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-10 01:55",
+  "updated_at_gst": "2026-08-10 02:17",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -33,32 +33,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "US Enforces Naval Blockade Against Iran in Persian Gulf",
+        "title": "Iran Strikes Oil Tanker Near Strait of Hormuz",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Attack Sets Ship Ablaze Off Oman Coast",
+        "title": "US Enforces Naval Blockade Against Iran in Persian Gulf",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Kumzar, Oman · 15m ago. A ship is burning off the coast of Kumzar, Oman, after an IRGC attack nearly two hours ago. Vessel type and casualties are unclear; incident near the Strait of Hormuz.",
+        "title": "IRGC Attack Sets Ship Ablaze Off Oman Coast",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Fires Anti-Ship Missiles at Vessels in Strait of Hormuz",
+        "title": "— S3 · Conflict · Kumzar, Oman · 37m ago. A ship is burning off the coast of Kumzar, Oman, after an IRGC attack nearly two hours ago. Vessel type and casualties are unclear; incident near the Strait of Hormuz.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Hezbollah Site in Mansouri, Lebanon",
+        "title": "Iran Fires Anti-Ship Missiles at Vessels in Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Mansouri, Lebanon · 1h ago. IDF airstrike hits a Hezbollah site in Mansouri, southern Lebanon, geolocated by OSINT. No casualty figures reported yet.",
+        "title": "Israel Strikes Hezbollah Site in Mansouri, Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
