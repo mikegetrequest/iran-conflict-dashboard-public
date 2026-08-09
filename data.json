@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-10 00:17",
+  "updated_at_gst": "2026-08-10 00:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -33,32 +33,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "Israeli Soldiers Set Buildings on Fire in Hadatha, Lebanon",
+        "title": "Israel Strikes Hezbollah Site in Mansouri, Lebanon",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Hadatha, Lebanon · 2h ago. Israeli soldiers reportedly set buildings on fire in Hadatha, southern Lebanon, according to the state news agency, indicating continued kinetic action in the region.",
+        "title": "— S3 · Conflict · Mansouri, Lebanon · 11m ago. IDF airstrike hits a Hezbollah site in Mansouri, southern Lebanon, geolocated by OSINT. No casualty figures reported yet.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attacks in Lebanon Kill 4,335 Since March",
+        "title": "Israeli Soldiers Set Buildings on Fire in Hadatha, Lebanon",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Lebanon · 3h ago. Lebanon's health ministry reports 4,335 killed and 12,277 wounded in Israeli attacks since March, underscoring the conflict's toll.",
+        "title": "— S3 · Conflict · Hadatha, Lebanon · 3h ago. Israeli soldiers reportedly set buildings on fire in Hadatha, southern Lebanon, according to the state news agency, indicating continued kinetic action in the region.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemeni Government Condemns Houthi Attack on Al-Mukha Port",
+        "title": "Israeli Attacks in Lebanon Kill 4,335 Since March",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Al-Mukha, Taiz Governorate, Yemen · 5h ago. Condemnation follows a Houthi missile and drone barrage on the Red Sea port that killed at least seven people.",
+        "title": "— S3 · Conflict · Lebanon · 4h ago. Lebanon's health ministry reports 4,335 killed and 12,277 wounded in Israeli attacks since March, underscoring the conflict's toll.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
