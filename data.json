@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-09 08:07",
+  "updated_at_gst": "2026-08-09 09:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
+        "published": "Sun, 09 Aug 2026 04:12:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss"
+      },
+      {
         "title": "Turkiye says Mecca defence pact not aimed at Iran",
         "published": "Sat, 08 Aug 2026 23:59:15 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
         "published": "Sat, 08 Aug 2026 22:22:36 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss"
-      },
-      {
-        "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
-        "published": "Sat, 08 Aug 2026 18:43:20 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,22 +43,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Settler Attacks Rise in West Bank",
+        "title": "Hezbollah Drone Targets IDF Soldiers in Southern Lebanon",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bethlehem, West Bank, Palestine · 2h ago. Palestinians near Bethlehem report increasing daily settler attacks, driving land loss and rising violence across the West Bank.",
+        "title": "Israeli Settler Attacks Rise in West Bank",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IDF Expands Probe Into Explosion That Killed Two Reservists in Lebanon",
+        "title": "— S3 · Conflict · Bethlehem, West Bank, Palestine · 3h ago. Palestinians near Bethlehem report increasing daily settler attacks, driving land loss and rising violence across the West Bank.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Army Detains Man in Raid on Village in Daraa, Syria",
+        "title": "IDF Expands Probe Into Explosion That Killed Two Reservists in Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
