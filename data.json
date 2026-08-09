@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-09 16:22",
+  "updated_at_gst": "2026-08-09 17:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
-        "published": "Sun, 09 Aug 2026 10:55:06 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss"
+        "title": "Israel rejects Donald Trump’s Gaza Board of Peace plan",
+        "published": "Sun, 09 Aug 2026 12:51:34 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/9/la-liga-five-key-talking-points-heading-into-the-2026-2027-season?traffic_source=rss"
       },
       {
-        "title": "Israel advances plan for 627 settler units in occupied West Bank",
-        "published": "Sun, 09 Aug 2026 06:57:56 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss"
+        "title": "‘US and Iran are talking past each other’ in indirect negotiations",
+        "published": "Sun, 09 Aug 2026 11:53:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss"
+      },
+      {
+        "title": "Israel rejects Trump’s 15-point plan for Gaza",
+        "published": "Sun, 09 Aug 2026 11:31:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss"
+      },
+      {
+        "title": "Yemeni army warns Houthis after attacks heighten escalation risk",
+        "published": "Sun, 09 Aug 2026 10:45:57 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss"
+      },
+      {
+        "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+        "published": "Sun, 09 Aug 2026 10:02:59 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -33,27 +48,27 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Kills One, Injures Eight in Gaza Strip",
+        "title": "Basij Singer Abducted, Tortured to Death in Isfahan, Iran",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Gaza Health Ministry reports one dead and eight wounded from Israeli strikes in the past 24 hours as operations continue.",
+        "title": "Satellite Imagery Confirms Strike on Qasrak, Syria",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Tanks Enter Syria's Quneitra Countryside",
+        "title": "— S3 · Conflict · Qasrak, Hasakah, Syria · 51m ago. OSINT analyst cross-checked Sentinel-2 imagery confirming a strike on Qasrak in Hasakah Governorate during the recent phase of the war.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Quneitra, Syria · 3h ago. Israeli tanks and military vehicles crossed into Syria's Quneitra countryside in a new ground incursion, expanding operations beyond southern Lebanon.",
+        "title": "Israel Kills One, Injures Eight in Gaza Strip",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ansarallah Strikes Al-Mukha Port in Yemen with Missiles and Drones",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 4h ago. Gaza Health Ministry reports one dead and eight wounded from Israeli strikes in the past 24 hours as operations continue.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
