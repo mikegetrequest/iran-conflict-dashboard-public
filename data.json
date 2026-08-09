@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-09 04:44",
+  "updated_at_gst": "2026-08-09 06:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,12 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+        "title": "Israeli settler attacks rise as West Bank residents lose land",
+        "published": "Sun, 09 Aug 2026 01:43:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks",
         "published": "Sun, 09 Aug 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss"
       },
@@ -43,22 +48,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Carry Out New Demolitions in Southern Lebanon",
+        "title": "Israeli Settler Attacks Rise in West Bank",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Zawtar al-Sharqiya, Lebanon · 2h ago. Lebanese sources report explosions targeting homes and infrastructure in Zawtar al-Sharqiya, southern Lebanon, as Israeli forces conduct new demolition operations.",
+        "title": "— S3 · Conflict · Bethlehem, West Bank, Palestine · 40m ago. Palestinians near Bethlehem report increasing daily settler attacks, driving land loss and rising violence across the West Bank.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Attack Mosque in Idhna, Arrest 7",
+        "title": "IDF Expands Probe Into Explosion That Killed Two Reservists in Lebanon",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Idhna, West Bank, Palestine · 2h ago. Israeli forces raided Nabi Saleh Mosque in Idhna, West Bank, arresting seven Palestinians, per Palestinian media.",
+        "title": "Israeli Army Detains Man in Raid on Village in Daraa, Syria",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
