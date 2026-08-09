@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-09 10:05",
+  "updated_at_gst": "2026-08-09 11:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel announces tender for 627 settler units in occupied West Bank",
+        "published": "Sun, 09 Aug 2026 06:57:56 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss"
+      },
       {
         "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
         "published": "Sun, 09 Aug 2026 04:12:39 +0000",
@@ -43,22 +48,22 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Hezbollah Drone Targets IDF Soldiers in Southern Lebanon",
+        "title": "Yemeni Forces Strike Aramco Refinery in Jizan, Saudi Arabia",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Settler Attacks Rise in West Bank",
+        "title": "Hezbollah Drone Targets IDF Soldiers in Southern Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bethlehem, West Bank, Palestine · 4h ago. Palestinians near Bethlehem report increasing daily settler attacks, driving land loss and rising violence across the West Bank.",
+        "title": "Israeli Settler Attacks Rise in West Bank",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IDF Expands Probe Into Explosion That Killed Two Reservists in Lebanon",
+        "title": "— S3 · Conflict · Bethlehem, West Bank, Palestine · 5h ago. Palestinians near Bethlehem report increasing daily settler attacks, driving land loss and rising violence across the West Bank.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
