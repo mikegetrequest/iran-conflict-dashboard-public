@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-09 18:04",
+  "updated_at_gst": "2026-08-09 18:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
+        "published": "Sun, 09 Aug 2026 13:54:41 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/9/british-motogp-raul-fernandez-dominates-at-silverstone-to-beat-martin?traffic_source=rss"
+      },
       {
         "title": "Why does Iran defeat the empires trying to conquer it?",
         "published": "Sun, 09 Aug 2026 13:36:24 +0000",
@@ -48,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Qasrak, Hasakah, Syria · 1h ago. OSINT analyst cross-checked Sentinel-2 imagery confirming a strike on Qasrak in Hasakah Governorate during the recent phase of the war.",
+        "title": "— S3 · Conflict · Qasrak, Hasakah, Syria · 2h ago. OSINT analyst cross-checked Sentinel-2 imagery confirming a strike on Qasrak in Hasakah Governorate during the recent phase of the war.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -58,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 4h ago. Gaza Health Ministry reports one dead and eight wounded from Israeli strikes in the past 24 hours as operations continue.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 5h ago. Gaza Health Ministry reports one dead and eight wounded from Israeli strikes in the past 24 hours as operations continue.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
