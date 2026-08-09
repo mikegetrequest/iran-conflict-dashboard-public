@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-09 20:19",
+  "updated_at_gst": "2026-08-09 21:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "War on Iran: Phase II: Day 29",
-        "published": "Sun, 09 Aug 2026 15:46:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss"
+        "title": "How Israel’s occupation fuels resistance",
+        "published": "Sun, 09 Aug 2026 16:19:34 +0000",
+        "link": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss"
       },
       {
-        "title": "Concerns mount over integrity of Israel’s upcoming October elections",
-        "published": "Sun, 09 Aug 2026 15:20:18 +0000",
-        "link": "https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss"
+        "title": "UAE extradites alleged international crime boss Daniel Kinahan to Ireland",
+        "published": "Sun, 09 Aug 2026 16:00:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss"
       },
       {
-        "title": "Israel rejects Donald Trump’s Gaza Board of Peace plan",
-        "published": "Sun, 09 Aug 2026 12:51:34 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/9/la-liga-five-key-talking-points-heading-into-the-2026-2027-season?traffic_source=rss"
+        "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
+        "published": "Sun, 09 Aug 2026 14:26:30 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
+        "published": "Sun, 09 Aug 2026 13:54:41 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/9/british-motogp-raul-fernandez-dominates-at-silverstone-to-beat-martin?traffic_source=rss"
+      },
+      {
+        "title": "Why does Iran defeat the empires trying to conquer it?",
+        "published": "Sun, 09 Aug 2026 13:36:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/barzani-says-iraqi-kurdistan-wants-peace-as-regional-tensions-rise?traffic_source=rss"
+      },
+      {
+        "title": "‘The wealthy poor’: Soaring food prices hurt Iranian families",
+        "published": "Sun, 09 Aug 2026 13:23:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Al-Mukha, Taiz Governorate, Yemen · 32m ago. Condemnation follows a Houthi missile and drone barrage on the Red Sea port that killed at least seven people.",
+        "title": "— S3 · Political · Al-Mukha, Taiz Governorate, Yemen · 1h ago. Condemnation follows a Houthi missile and drone barrage on the Red Sea port that killed at least seven people.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
