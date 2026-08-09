@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-10 02:55",
+  "updated_at_gst": "2026-08-10 03:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -28,32 +28,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "Iran Strikes Oil Tanker Near Strait of Hormuz",
+        "title": "Israeli Fire Injures Residents in Gaza's Al-Tuffah",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Enforces Naval Blockade Against Iran in Persian Gulf",
+        "title": "— S3 · Conflict · Al-Tuffah, Gaza City, Palestine · 17m ago. Israeli military fire in Gaza City's Al-Tuffah neighborhood wounded multiple residents, with casualties reported amid ongoing operations.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Attack Sets Ship Ablaze Off Oman Coast",
+        "title": "Iran Strikes Oil Tanker Near Strait of Hormuz",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Kumzar, Oman · 1h ago. A ship is burning off the coast of Kumzar, Oman, after an IRGC attack nearly two hours ago. Vessel type and casualties are unclear; incident near the Strait of Hormuz.",
+        "title": "US Enforces Naval Blockade Against Iran in Persian Gulf",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Fires Anti-Ship Missiles at Vessels in Strait of Hormuz",
+        "title": "IRGC Attack Sets Ship Ablaze Off Oman Coast",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Hezbollah Site in Mansouri, Lebanon",
+        "title": "— S3 · Conflict · Kumzar, Oman · 2h ago. A ship is burning off the coast of Kumzar, Oman, after an IRGC attack nearly two hours ago. Vessel type and casualties are unclear; incident near the Strait of Hormuz.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
