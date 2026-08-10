@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-10 04:46",
+  "updated_at_gst": "2026-08-10 07:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
-        "published": "Mon, 10 Aug 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss"
+        "title": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
+        "published": "Mon, 10 Aug 2026 01:34:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss"
       },
       {
-        "title": "Union reports 108 attacks on Palestinian journalists in July",
-        "published": "Sun, 09 Aug 2026 23:01:25 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss"
+        "title": "Houthis renew missile and drone attacks on Yemen’s port of al-Makha",
+        "published": "Mon, 10 Aug 2026 00:19:43 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss"
       },
       {
         "title": "Israel is ‘trying to make Palestine disappear’: The Elders",
         "published": "Sun, 09 Aug 2026 19:30:00 +0000",
         "link": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss"
-      },
-      {
-        "title": "War on Iran: Phase II: Day 29",
-        "published": "Sun, 09 Aug 2026 15:46:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Al-Tuffah, Gaza City, Palestine · 2h ago. Israeli military fire in Gaza City's Al-Tuffah neighborhood wounded multiple residents, with casualties reported amid ongoing operations.",
+        "title": "— S3 · Conflict · Al-Tuffah, Gaza City, Palestine · 4h ago. Israeli military fire in Gaza City's Al-Tuffah neighborhood wounded multiple residents, with casualties reported amid ongoing operations.",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -63,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Kumzar, Oman · 3h ago. A ship is burning off the coast of Kumzar, Oman, after an IRGC attack nearly two hours ago. Vessel type and casualties are unclear; incident near the Strait of Hormuz.",
+        "title": "— S3 · Conflict · Kumzar, Oman · 5h ago. A ship is burning off the coast of Kumzar, Oman, after an IRGC attack nearly two hours ago. Vessel type and casualties are unclear; incident near the Strait of Hormuz.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
