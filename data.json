@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-10 10:47",
+  "updated_at_gst": "2026-08-10 12:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
+        "published": "Mon, 10 Aug 2026 07:59:04 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/10/don-nelson-hall-of-fame-basketball-coach-and-nba-player-dies-at-86?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces kill one in Gaza as another body recovered from rubble",
+        "published": "Mon, 10 Aug 2026 07:43:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12?traffic_source=rss"
+      },
+      {
         "title": "Trump signals shift to economic pressure on Iran over new military strikes",
         "published": "Mon, 10 Aug 2026 03:48:19 +0000",
         "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss"
@@ -29,11 +39,6 @@
         "title": "New Houthi missile and drone attacks kill seven in Yemen’s al-Makha",
         "published": "Mon, 10 Aug 2026 00:19:43 +0000",
         "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss"
-      },
-      {
-        "title": "Israel is ‘trying to make Palestine disappear’: The Elders",
-        "published": "Sun, 09 Aug 2026 19:30:00 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Kabd, Kuwait · 3h ago. An Egyptian man was arrested in Kuwait's Kabd area for the premeditated killing of two expatriates after police tracked him during an alleged escape attempt.",
+        "title": "— S3 · Conflict · Kabd, Kuwait · 5h ago. An Egyptian man was arrested in Kuwait's Kabd area for the premeditated killing of two expatriates after police tracked him during an alleged escape attempt.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
