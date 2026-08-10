@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-11 03:02",
+  "updated_at_gst": "2026-08-11 03:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Inside a secret launch site for Ukraine’s deep-strike drones",
+        "published": "Mon, 10 Aug 2026 23:18:53 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss"
+      },
+      {
         "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
         "published": "Mon, 10 Aug 2026 20:55:21 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
         "published": "Mon, 10 Aug 2026 18:34:25 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s president says Khamenei is in ‘perfect health’",
-        "published": "Mon, 10 Aug 2026 17:05:01 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Tehran, Iran · 8h ago. Iranian President Masoud Pezeshkian claims US and Israeli forces used AI data in their attacks on Iran, amid the ongoing war.",
+        "title": "— S4 · Political · Tehran, Iran · 9h ago. Iranian President Masoud Pezeshkian claims US and Israeli forces used AI data in their attacks on Iran, amid the ongoing war.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
