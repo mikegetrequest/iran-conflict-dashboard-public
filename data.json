@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-10 18:09",
+  "updated_at_gst": "2026-08-10 19:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "War on Iran: Phase II: Day 30",
+        "published": "Mon, 10 Aug 2026 14:07:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/10/record-230-people-reach-uk-on-single-boat-after-crossing-english-channel?traffic_source=rss"
+      },
+      {
+        "title": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran",
+        "published": "Mon, 10 Aug 2026 14:00:02 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss"
+      },
+      {
         "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
         "published": "Mon, 10 Aug 2026 11:51:28 +0000",
         "link": "https://www.aljazeera.com/sports/2026/8/10/uefa-super-cup-psg-vs-aston-villa-prediction-start-time-how-to-watch?traffic_source=rss"
-      },
-      {
-        "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
-        "published": "Mon, 10 Aug 2026 11:11:33 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/8/10/powerful-typhoon-dolphin-hits-china-prompting-flood-and-landslide-warnings?traffic_source=rss"
-      },
-      {
-        "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
-        "published": "Mon, 10 Aug 2026 10:55:38 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss"
-      },
-      {
-        "title": "How significant is Mohsen Rezaei’s appointment as Iran’s security chief?",
-        "published": "Mon, 10 Aug 2026 10:11:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/10/tropical-storm-dolphin-batters-eastern-china-with-heavy-rain-strong-winds?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 8m ago. Security data shows a 63% increase in nationalist crime in the West Bank, reflecting escalating violence between Israeli settlers and Palestinians.",
+        "title": "Pezeshkian Says US, Israel Attacked Iran Using AI Data",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Regime Faces Cracks as IRGC Soldiers Abandon Missile Sites",
+        "title": "— S4 · Political · Tehran, Iran · 46m ago. Iranian President Masoud Pezeshkian claims US and Israeli forces used AI data in their attacks on Iran, amid the ongoing war.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IDF Halts Strikes in Gaza Amid Disarmament Talks",
+        "title": "— S3 · Conflict · West Bank, Palestine · 1h ago. Security data shows a 63% increase in nationalist crime in the West Bank, reflecting escalating violence between Israeli settlers and Palestinians.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
