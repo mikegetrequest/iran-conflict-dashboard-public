@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-10 09:00",
+  "updated_at_gst": "2026-08-10 10:47",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -38,32 +38,32 @@
     ],
     "monitor_the_situation": [
       {
-        "title": "Egyptian Man Arrested for Killing Two Expats in Kuwait",
+        "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
         "published": "line-1",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Kabd, Kuwait · 2h ago. An Egyptian man was arrested in Kuwait's Kabd area for the premeditated killing of two expatriates after police tracked him during an alleged escape attempt.",
+        "title": "Reported missile, drone, and air-defense incidents",
         "published": "line-2",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Fire Injures Residents in Gaza's Al-Tuffah",
+        "title": "— mapped news events and alerts, not sensor-level missile trajectories.",
         "published": "line-3",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Al-Tuffah, Gaza City, Palestine · 6h ago. Israeli military fire in Gaza City's Al-Tuffah neighborhood wounded multiple residents, with casualties reported amid ongoing operations.",
+        "title": "Egyptian Man Arrested for Killing Two Expats in Kuwait",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Oil Tanker Near Strait of Hormuz",
+        "title": "— S3 · Conflict · Kabd, Kuwait · 3h ago. An Egyptian man was arrested in Kuwait's Kabd area for the premeditated killing of two expatriates after police tracked him during an alleged escape attempt.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Enforces Naval Blockade Against Iran in Strait of Hormuz, Disables Two Vessels, Boards Two Others",
+        "title": "Israeli Fire Injures Residents in Gaza's Al-Tuffah",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
