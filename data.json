@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-10 19:27",
+  "updated_at_gst": "2026-08-10 20:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter",
+        "published": "Mon, 10 Aug 2026 15:51:26 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss"
+      },
       {
         "title": "War on Iran: Phase II: Day 30",
         "published": "Mon, 10 Aug 2026 14:07:04 +0000",
@@ -53,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Tehran, Iran · 46m ago. Iranian President Masoud Pezeshkian claims US and Israeli forces used AI data in their attacks on Iran, amid the ongoing war.",
+        "title": "— S4 · Political · Tehran, Iran · 2h ago. Iranian President Masoud Pezeshkian claims US and Israeli forces used AI data in their attacks on Iran, amid the ongoing war.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 1h ago. Security data shows a 63% increase in nationalist crime in the West Bank, reflecting escalating violence between Israeli settlers and Palestinians.",
+        "title": "— S3 · Conflict · West Bank, Palestine · 2h ago. Security data shows a 63% increase in nationalist crime in the West Bank, reflecting escalating violence between Israeli settlers and Palestinians.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
