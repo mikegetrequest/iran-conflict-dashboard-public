@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-10 21:14",
+  "updated_at_gst": "2026-08-10 22:09",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran’s president says Khamenei is in ‘perfect health’",
-        "published": "Mon, 10 Aug 2026 17:05:01 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss"
+        "title": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 69 dead",
+        "published": "Mon, 10 Aug 2026 17:00:41 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/8/10/photos-7-4-magnitude-earthquake-rocks-western-colombia?traffic_source=rss"
       },
       {
-        "title": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
-        "published": "Mon, 10 Aug 2026 16:24:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss"
+        "title": "Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter",
+        "published": "Mon, 10 Aug 2026 15:51:26 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss"
       },
       {
-        "title": "Indian police attack protesters seeking action over ‘exam irregularities’",
-        "published": "Mon, 10 Aug 2026 14:52:32 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss"
+        "title": "War on Iran: Phase II: Day 30",
+        "published": "Mon, 10 Aug 2026 14:07:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/10/record-230-people-reach-uk-on-single-boat-after-crossing-english-channel?traffic_source=rss"
+      },
+      {
+        "title": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran",
+        "published": "Mon, 10 Aug 2026 14:00:02 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
