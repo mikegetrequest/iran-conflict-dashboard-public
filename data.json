@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-11 16:03",
+  "updated_at_gst": "2026-08-11 17:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out",
-        "published": "Tue, 11 Aug 2026 11:28:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settler violence is ‘clear state terrorism’",
-        "published": "Tue, 11 Aug 2026 09:30:17 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/8/11/rescue-efforts-intensify-as-quake-devastates-western-colombia-towns?traffic_source=rss"
+        "title": "Iran, US set new conditions during Hormuz talks: What does this mean?",
+        "published": "Tue, 11 Aug 2026 12:27:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/final-phase-of-voting-in-pakistan-administered-kashmir-despite-security-fe?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza Strip, Palestine · 3h ago. Cumulative Palestinian deaths in Gaza since the war began now exceed 73,000, reflecting ongoing Israeli military operations.",
+        "title": "— S4 · Conflict · Gaza Strip, Palestine · 5h ago. Cumulative Palestinian deaths in Gaza since the war began now exceed 73,000, reflecting ongoing Israeli military operations.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Tehran, Iran · 21h ago. Iranian President Masoud Pezeshkian claims US and Israeli forces used AI data in their attacks on Iran, amid the ongoing war.",
+        "title": "— S4 · Political · Tehran, Iran · 23h ago. Iranian President Masoud Pezeshkian claims US and Israeli forces used AI data in their attacks on Iran, amid the ongoing war.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
