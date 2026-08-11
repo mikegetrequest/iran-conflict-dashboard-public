@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-11 05:01",
+  "updated_at_gst": "2026-08-11 07:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
-        "published": "Tue, 11 Aug 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss"
+        "title": "Colombia’s far-right government recognises Israeli claim over Golan Heights",
+        "published": "Tue, 11 Aug 2026 02:44:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss"
+      },
+      {
+        "title": "Inside a secret launch site for Ukraine’s deep-strike drones",
+        "published": "Mon, 10 Aug 2026 23:18:53 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss"
+      },
+      {
+        "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
+        "published": "Mon, 10 Aug 2026 20:55:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,18 +48,13 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Pezeshkian Says US, Israel Attacked Iran Using AI Data",
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Tehran, Iran · 10h ago. Iranian President Masoud Pezeshkian claims US and Israeli forces used AI data in their attacks on Iran, amid the ongoing war.",
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
         "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Israel Continues Bombing Southern Lebanon",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
