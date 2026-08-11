@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-11 12:00",
+  "updated_at_gst": "2026-08-11 13:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran threat prompted secret Trump flight from Turkiye: Reports",
+        "published": "Tue, 11 Aug 2026 08:18:08 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end?traffic_source=rss"
+      },
+      {
         "title": "Russian attacks kill six in Ukraine’s Zaporizhzhia",
         "published": "Tue, 11 Aug 2026 07:07:51 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss"
-      },
-      {
-        "title": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
-        "published": "Tue, 11 Aug 2026 02:32:47 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
-        "published": "Tue, 11 Aug 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Pezeshkian Says US, Israel Attacked Iran Using AI Data",
+        "title": "— S4 · Conflict · Gaza Strip, Palestine · 40m ago. Cumulative Palestinian deaths in Gaza since the war began now exceed 73,000, reflecting ongoing Israeli military operations.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Tehran, Iran · 17h ago. Iranian President Masoud Pezeshkian claims US and Israeli forces used AI data in their attacks on Iran, amid the ongoing war.",
+        "title": "Pezeshkian Says US, Israel Attacked Iran Using AI Data",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Police Free Hostages in Central Tehran",
+        "title": "— S4 · Political · Tehran, Iran · 19h ago. Iranian President Masoud Pezeshkian claims US and Israeli forces used AI data in their attacks on Iran, amid the ongoing war.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
