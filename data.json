@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-12 20:15",
+  "updated_at_gst": "2026-08-12 21:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Is Russia’s economy cracking despite the Iran war windfall?",
-        "published": "Wed, 12 Aug 2026 15:36:33 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss"
+        "title": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
+        "published": "Wed, 12 Aug 2026 14:26:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss"
       },
       {
-        "title": "Iran remains defiant as it vows to fight US until demands met",
-        "published": "Wed, 12 Aug 2026 15:29:20 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss"
+        "title": "Iran is not anti-imperialist. It is a state calculating survival",
+        "published": "Wed, 12 Aug 2026 14:23:13 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss"
       },
       {
-        "title": "Lebanon ends executions: Where does the death penalty still exist in 2026?",
-        "published": "Wed, 12 Aug 2026 10:40:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss"
+        "title": "‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks",
+        "published": "Wed, 12 Aug 2026 13:58:02 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss"
+      },
+      {
+        "title": "Why has North Korea fired a missile ahead of US-South Korea drills?",
+        "published": "Wed, 12 Aug 2026 13:10:14 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss"
+      },
+      {
+        "title": "Top Iranian commander visited Iraq to discuss disarmament plan: Source",
+        "published": "Wed, 12 Aug 2026 12:34:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/rare-solar-eclipse-to-sweep-across-europe-and-the-arctic?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attacks Escalate Fighting in Yemen",
+        "title": "Iraq Faces Financial Crisis Amid Iran War, Strait of Hormuz Blockade",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Gaza in First Airstrike in Over a Week",
+        "title": "— S3 · Economic · Iraq · 3m ago. Iraq is experiencing a financial crisis and public protests due to its inability to export sufficient oil, stemming from the ongoing Iran war and the blockade of the Strait of Hormuz.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 24m ago. Israel conducted its first airstrike on the Gaza Strip in over a week, marking a potential escalation in the region.",
+        "title": "US Naval Blockade Raises Iran's Transport Costs by $18 Billion",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
