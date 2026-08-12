@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-12 23:32",
+  "updated_at_gst": "2026-08-13 00:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
-        "published": "Wed, 12 Aug 2026 14:26:45 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss"
+        "title": "Lebanese families demand release of detainees held by Israel",
+        "published": "Wed, 12 Aug 2026 18:15:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/mount-etna-eruption-disrupts-travel-at-italys-catania-airport?traffic_source=rss"
+      },
+      {
+        "title": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
+        "published": "Wed, 12 Aug 2026 16:23:28 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "Is Russia’s economy cracking despite the Iran war windfall?",
+        "published": "Wed, 12 Aug 2026 15:36:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 2h ago. Report claims Houthis use Russian military satellites to guide missile and drone strikes on Saudi Arabia, raising Gulf security concerns.",
+        "title": "Iranian Drones May Have Helped Shoot Down US F-15E",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Executes 916 People in 2026 So Far",
+        "title": "— S3 · Conflict · Iran · 39m ago. New evidence suggests Iranian drones tracked a US F-15E fighter jet and relayed position, speed and direction to a missile team, enabling its downing.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Iran · 2h ago. Iran has carried out at least 916 death sentences in 2026, highlighting ongoing human rights concerns in the country.",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 3h ago. Report claims Houthis use Russian military satellites to guide missile and drone strikes on Saudi Arabia, raising Gulf security concerns.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
