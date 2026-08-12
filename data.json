@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-12 07:01",
+  "updated_at_gst": "2026-08-12 09:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran",
-        "published": "Wed, 12 Aug 2026 02:29:30 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/stronghold-of-syrian-revolution-celebrates-assads-death-sentence?traffic_source=rss"
+        "title": "Did Trump flee an Iranian assassination plot on a catering truck?",
+        "published": "Wed, 12 Aug 2026 04:52:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss"
       },
       {
-        "title": "N Korea launches ballistic missile as S Korea, US plan military drills",
-        "published": "Wed, 12 Aug 2026 00:39:53 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss"
+        "title": "Drone strikes power station near Libya’s largest oil refinery",
+        "published": "Wed, 12 Aug 2026 04:13:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss"
       },
       {
-        "title": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
-        "published": "Tue, 11 Aug 2026 23:57:55 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss"
+        "title": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
+        "published": "Wed, 12 Aug 2026 03:41:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss"
       },
       {
-        "title": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
-        "published": "Tue, 11 Aug 2026 20:35:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss"
+        "title": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
+        "published": "Wed, 12 Aug 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza Strip, Palestine · 18h ago. Cumulative Palestinian deaths in Gaza since the war began now exceed 73,000, reflecting ongoing Israeli military operations.",
+        "title": "— S4 · Conflict · Gaza Strip, Palestine · 20h ago. Cumulative Palestinian deaths in Gaza since the war began now exceed 73,000, reflecting ongoing Israeli military operations.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Hamas Fighters Cross Yellow Line in Gaza, Seize Israeli Equipment",
+        "title": "Iran Fires Missiles, Drones at Kurdish Positions in Erbil",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "New Shipping Attacks as Iran War Talks Stall",
+        "title": "— S3 · Conflict · Erbil, Iraq · 39m ago. Iran launched missiles and drones targeting Kurdish positions in Erbil, Iraq, escalating cross-border strikes against Kurdish opposition groups.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
