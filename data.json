@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-12 10:49",
+  "updated_at_gst": "2026-08-12 12:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Did Trump flee an Iranian assassination plot on a catering truck?",
-        "published": "Wed, 12 Aug 2026 04:52:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss"
+        "title": "Israeli raids, arrests continue as UN warns West Bank at ‘breaking point’",
+        "published": "Wed, 12 Aug 2026 04:59:19 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss"
       },
       {
-        "title": "Drone strikes power station near Libya’s largest oil refinery",
-        "published": "Wed, 12 Aug 2026 04:13:34 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss"
+        "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
+        "published": "Wed, 12 Aug 2026 03:09:06 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_overloaded-ferry-capsizes-in-zimbabwe-110826?traffic_source=rss"
       },
       {
-        "title": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
-        "published": "Wed, 12 Aug 2026 03:41:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
-        "published": "Wed, 12 Aug 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss"
+        "title": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran",
+        "published": "Wed, 12 Aug 2026 02:29:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/stronghold-of-syrian-revolution-celebrates-assads-death-sentence?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza Strip, Palestine · 22h ago. Cumulative Palestinian deaths in Gaza since the war began now exceed 73,000, reflecting ongoing Israeli military operations.",
+        "title": "— S4 · Conflict · Gaza Strip, Palestine · 23h ago. Cumulative Palestinian deaths in Gaza since the war began now exceed 73,000, reflecting ongoing Israeli military operations.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -63,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 1h ago. Israeli forces carried out large explosions in southern Lebanon, escalating cross-border tensions amid ongoing ceasefire violations.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 3h ago. Israeli forces carried out large explosions in southern Lebanon, escalating cross-border tensions amid ongoing ceasefire violations.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
