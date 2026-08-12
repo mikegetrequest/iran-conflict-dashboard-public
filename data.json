@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-12 12:07",
+  "updated_at_gst": "2026-08-12 13:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -19,16 +19,6 @@
         "title": "Israeli raids, arrests continue as UN warns West Bank at ‘breaking point’",
         "published": "Wed, 12 Aug 2026 04:59:19 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss"
-      },
-      {
-        "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
-        "published": "Wed, 12 Aug 2026 03:09:06 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_overloaded-ferry-capsizes-in-zimbabwe-110826?traffic_source=rss"
-      },
-      {
-        "title": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran",
-        "published": "Wed, 12 Aug 2026 02:29:30 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/stronghold-of-syrian-revolution-celebrates-assads-death-sentence?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza Strip, Palestine · 23h ago. Cumulative Palestinian deaths in Gaza since the war began now exceed 73,000, reflecting ongoing Israeli military operations.",
+        "title": "Israeli Forces Detonate Large Explosions in Southern Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Detonate Large Explosions in Southern Lebanon",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 4h ago. Israeli forces carried out large explosions in southern Lebanon, escalating cross-border tensions amid ongoing ceasefire violations.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 3h ago. Israeli forces carried out large explosions in southern Lebanon, escalating cross-border tensions amid ongoing ceasefire violations.",
+        "title": "Iran Fires Missiles, Drones at Kurdish Positions in Erbil",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
