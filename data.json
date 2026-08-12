@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-13 00:29",
+  "updated_at_gst": "2026-08-13 01:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Lebanese families demand release of detainees held by Israel",
-        "published": "Wed, 12 Aug 2026 18:15:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/mount-etna-eruption-disrupts-travel-at-italys-catania-airport?traffic_source=rss"
+        "title": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
+        "published": "Wed, 12 Aug 2026 20:59:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss"
       },
       {
-        "title": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
-        "published": "Wed, 12 Aug 2026 16:23:28 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss"
-      },
-      {
-        "title": "Is Russia’s economy cracking despite the Iran war windfall?",
-        "published": "Wed, 12 Aug 2026 15:36:33 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss"
+        "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
+        "published": "Wed, 12 Aug 2026 20:26:07 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 39m ago. New evidence suggests Iranian drones tracked a US F-15E fighter jet and relayed position, speed and direction to a missile team, enabling its downing.",
+        "title": "— S3 · Conflict · Iran · 1h ago. New evidence suggests Iranian drones tracked a US F-15E fighter jet and relayed position, speed and direction to a missile team, enabling its downing.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
