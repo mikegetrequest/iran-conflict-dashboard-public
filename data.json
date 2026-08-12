@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-12 16:38",
+  "updated_at_gst": "2026-08-12 18:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War",
-        "published": "Wed, 12 Aug 2026 10:02:16 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss"
+        "title": "Lebanon ends executions: Where does the death penalty still exist in 2026?",
+        "published": "Wed, 12 Aug 2026 10:40:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss"
       },
       {
-        "title": "Four killed in overnight attacks in southern Russia, Ukraine",
-        "published": "Wed, 12 Aug 2026 07:49:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss"
-      },
-      {
-        "title": "Israeli government accused of complicity as settlers demolish Jericho homes",
-        "published": "Wed, 12 Aug 2026 07:28:48 +0000",
-        "link": "https://www.aljazeera.com/features/2026/8/12/autism-and-war-gaza-families-grapple-with-destruction-and-loss?traffic_source=rss"
+        "title": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
+        "published": "Wed, 12 Aug 2026 10:27:22 +0000",
+        "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemeni Forces Attack Houthis in Marib and Taiz",
+        "title": "Israel Strikes Nabatieh Municipality and School in Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Marib, Yemen · 1h ago. Yemeni government forces are currently attacking Houthi positions in the cities of Marib and Taiz, as reported by Al Hadath.",
+        "title": "Israeli Attacks Hinder Lebanese Army Deployment in Southern Lebanon",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attack Kills Rescuer's Daughter in Lebanon",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 54m ago. Lebanese army says Israeli attacks are preventing it from deploying in southern Lebanon, complicating ceasefire efforts.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
