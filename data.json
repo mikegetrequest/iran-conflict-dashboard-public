@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-12 18:10",
+  "updated_at_gst": "2026-08-12 19:25",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Lebanon ends executions: Where does the death penalty still exist in 2026?",
-        "published": "Wed, 12 Aug 2026 10:40:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss"
+        "title": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
+        "published": "Wed, 12 Aug 2026 14:26:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss"
       },
       {
-        "title": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
-        "published": "Wed, 12 Aug 2026 10:27:22 +0000",
-        "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss"
+        "title": "Iran is not anti-imperialist. It is a state calculating survival",
+        "published": "Wed, 12 Aug 2026 14:23:13 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss"
+      },
+      {
+        "title": "‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks",
+        "published": "Wed, 12 Aug 2026 13:58:02 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss"
+      },
+      {
+        "title": "Why has North Korea fired a missile ahead of US-South Korea drills?",
+        "published": "Wed, 12 Aug 2026 13:10:14 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss"
+      },
+      {
+        "title": "Top Iranian commander visited Iraq to discuss disarmament plan: Source",
+        "published": "Wed, 12 Aug 2026 12:34:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/rare-solar-eclipse-to-sweep-across-europe-and-the-arctic?traffic_source=rss"
+      },
+      {
+        "title": "‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War",
+        "published": "Wed, 12 Aug 2026 10:02:16 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +73,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 54m ago. Lebanese army says Israeli attacks are preventing it from deploying in southern Lebanon, complicating ceasefire efforts.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 2h ago. Lebanese army says Israeli attacks are preventing it from deploying in southern Lebanon, complicating ceasefire efforts.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
