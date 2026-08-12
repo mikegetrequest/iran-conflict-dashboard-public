@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-12 04:04",
+  "updated_at_gst": "2026-08-12 07:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel demolishes home of Palestinian killed during settler attack",
-        "published": "Tue, 11 Aug 2026 20:18:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/dr-congo-ebola-death-toll-surpasses-2000?traffic_source=rss"
+        "title": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran",
+        "published": "Wed, 12 Aug 2026 02:29:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/stronghold-of-syrian-revolution-celebrates-assads-death-sentence?traffic_source=rss"
       },
       {
-        "title": "US military fires on cargo vessel it said sought to break Iran blockade",
-        "published": "Tue, 11 Aug 2026 19:58:12 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/11/truck-crash-in-egypt-kills-18-many-of-them-child-labourers?traffic_source=rss"
+        "title": "N Korea launches ballistic missile as S Korea, US plan military drills",
+        "published": "Wed, 12 Aug 2026 00:39:53 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss"
+      },
+      {
+        "title": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
+        "published": "Tue, 11 Aug 2026 23:57:55 +0000",
+        "link": "https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss"
+      },
+      {
+        "title": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
+        "published": "Tue, 11 Aug 2026 20:35:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza Strip, Palestine · 15h ago. Cumulative Palestinian deaths in Gaza since the war began now exceed 73,000, reflecting ongoing Israeli military operations.",
+        "title": "— S4 · Conflict · Gaza Strip, Palestine · 18h ago. Cumulative Palestinian deaths in Gaza since the war began now exceed 73,000, reflecting ongoing Israeli military operations.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Apache Helicopters Enforce Blockade Near Iran's Qeshm Island",
+        "title": "Hamas Fighters Cross Yellow Line in Gaza, Seize Israeli Equipment",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Qeshm Island, Iran · 4h ago. US Army AH-64 Apaches patrol Iranian coastline and enforce naval blockade, launching Hellfire missiles into engine rooms of vessels near Qeshm Island.",
+        "title": "New Shipping Attacks as Iran War Talks Stall",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
