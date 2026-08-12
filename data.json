@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-13 01:13",
+  "updated_at_gst": "2026-08-13 02:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
-        "published": "Wed, 12 Aug 2026 20:59:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss"
+        "title": "11-year-old boy shot by Israeli forces in Gaza",
+        "published": "Wed, 12 Aug 2026 21:06:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss"
       },
       {
-        "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
-        "published": "Wed, 12 Aug 2026 20:26:07 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss"
+        "title": "Israeli air strike kills one in northern Gaza",
+        "published": "Wed, 12 Aug 2026 20:58:42 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss"
+      },
+      {
+        "title": "Lebanese families demand release of detainees held by Israel",
+        "published": "Wed, 12 Aug 2026 18:15:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/mount-etna-eruption-disrupts-travel-at-italys-catania-airport?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Drones May Have Helped Shoot Down US F-15E",
+        "title": "Israeli Forces Shoot Boy in Khan Younis, Gaza",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 1h ago. New evidence suggests Iranian drones tracked a US F-15E fighter jet and relayed position, speed and direction to a missile team, enabling its downing.",
+        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 26m ago. An 11-year-old boy was shot in the head and leg by Israeli forces in Khan Younis, according to his father.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 3h ago. Report claims Houthis use Russian military satellites to guide missile and drone strikes on Saudi Arabia, raising Gulf security concerns.",
+        "title": "Iranian Drones May Have Helped Shoot Down US F-15E",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
