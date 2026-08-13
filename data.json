@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-13 14:49",
+  "updated_at_gst": "2026-08-13 15:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,28 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Life and loss as a first responder in southern Lebanon",
+        "published": "Thu, 13 Aug 2026 09:51:30 +0000",
+        "link": "https://www.aljazeera.com/video/centre-stage/2026/8/13/what-postcolonialism-looks-like-in-southeast-asia?traffic_source=rss"
+      },
+      {
+        "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
+        "published": "Thu, 13 Aug 2026 09:30:24 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/la-liga-what-to-know-ahead-of-new-2026-27-football-season?traffic_source=rss"
+      },
+      {
+        "title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
+        "published": "Thu, 13 Aug 2026 09:18:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/pro-palestine-activists-smear-red-paint-on-danish-defence-company?traffic_source=rss"
+      },
+      {
+        "title": "US diplomat calls Israeli settler siege of West Bank homes ‘act of terror’",
+        "published": "Thu, 13 Aug 2026 08:38:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/13/how-to-stay-safe-during-an-earthquake-a-visual-guide?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -42,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Strait of Hormuz · 1h ago. A German shipping company reports $600 million in losses from the Strait of Hormuz closure amid the ongoing US-Iran conflict.",
+        "title": "— S3 · Economic · Strait of Hormuz · 2h ago. A German shipping company reports $600 million in losses from the Strait of Hormuz closure amid the ongoing US-Iran conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
