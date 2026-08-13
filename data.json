@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-13 13:36",
+  "updated_at_gst": "2026-08-13 14:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,18 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
-        "published": "Thu, 13 Aug 2026 09:18:44 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/pro-palestine-activists-smear-red-paint-on-danish-defence-company?traffic_source=rss"
-      },
-      {
-        "title": "US diplomat calls Israeli settler siege of West Bank homes ‘act of terror’",
-        "published": "Thu, 13 Aug 2026 08:38:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/13/how-to-stay-safe-during-an-earthquake-a-visual-guide?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -43,17 +32,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Strait of Hormuz · 5m ago. A German shipping company reports $600 million in losses from the Strait of Hormuz closure amid the ongoing US-Iran conflict.",
+        "title": "Iran Kills Suspected US, Israeli Intelligence Affiliates",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Gaza Cancer Patients Dying at Higher Rate Amid Israeli Curbs",
+        "title": "Hezbollah Fighters Escape Israeli Siege on Ali Al-Taher Hill",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Key Radars Struck in Iran During Epic Fury Operation",
+        "title": "— S3 · Economic · Strait of Hormuz · 1h ago. A German shipping company reports $600 million in losses from the Strait of Hormuz closure amid the ongoing US-Iran conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
