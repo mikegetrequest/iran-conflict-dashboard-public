@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-13 16:39",
+  "updated_at_gst": "2026-08-13 18:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US-Iran talks in deadlock – what’s the latest?",
-        "published": "Thu, 13 Aug 2026 11:56:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss"
-      },
-      {
-        "title": "Life and loss as a first responder in southern Lebanon",
-        "published": "Thu, 13 Aug 2026 09:51:30 +0000",
-        "link": "https://www.aljazeera.com/video/centre-stage/2026/8/13/what-postcolonialism-looks-like-in-southeast-asia?traffic_source=rss"
-      },
-      {
-        "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
-        "published": "Thu, 13 Aug 2026 09:30:24 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/13/la-liga-what-to-know-ahead-of-new-2026-27-football-season?traffic_source=rss"
-      },
-      {
-        "title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
-        "published": "Thu, 13 Aug 2026 09:18:44 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/pro-palestine-activists-smear-red-paint-on-danish-defence-company?traffic_source=rss"
+        "title": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
+        "published": "Thu, 13 Aug 2026 11:29:32 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/fulham-march-off-in-malaga-in-friendly-repeat-of-senegal-afcon-protest?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Trucks Out Gaza Rubble to 'Hide Genocide' and 'Redraw the Map'",
+        "title": "UAE Reportedly Releases Billions in Frozen Iranian Assets",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 46m ago. Rights groups say Israel is carting away Gaza's rubble to destroy war crimes evidence and make the landscape unliveable, amid ongoing conflict.",
+        "title": "Pakistan Vows Maritime Coalition Role After Houthi Strike Kills Sailors",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Kills Suspected US, Israeli Intelligence Affiliates",
+        "title": "— S3 · Conflict · Red Sea · 43m ago. Pakistan's Foreign Office said it will implement its maritime coalition commitments 'in full earnest' after three Pakistani sailors died in Houthi strikes on a Saudi cargo ship.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
