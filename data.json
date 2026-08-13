@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-13 23:31",
+  "updated_at_gst": "2026-08-14 00:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Ukraine attacks key Russian grain terminal on Black Sea port",
-        "published": "Thu, 13 Aug 2026 14:29:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/13/ebola-outbreak-caused-by-new-animal-transmission-what-that-means?traffic_source=rss"
+        "title": "Israeli forces order families to evacuate homes in Qusra",
+        "published": "Thu, 13 Aug 2026 19:36:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,12 +43,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strike Kills Gaza Police Chief",
+        "title": "Israel Strike Kills Gaza Police Chief, Hamas Condemns Attack in Gaza Strip, Palestine",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. Gaza's Ministry of Interior says an Israeli strike killed the head of the police force today.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Gaza's Ministry of Interior says an Israeli strike killed the head of the police force today.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
