@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-13 21:24",
+  "updated_at_gst": "2026-08-13 22:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Ukraine attacks key Russian grain terminal on Black Sea port",
-        "published": "Thu, 13 Aug 2026 14:29:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/13/ebola-outbreak-caused-by-new-animal-transmission-what-that-means?traffic_source=rss"
+        "title": "Is Russia’s economy cracking despite the Iran war windfall?",
+        "published": "Thu, 13 Aug 2026 16:40:42 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss"
+      },
+      {
+        "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+        "published": "Thu, 13 Aug 2026 15:27:52 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss"
+      },
+      {
+        "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
+        "published": "Thu, 13 Aug 2026 14:59:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss"
+      },
+      {
+        "title": "Lebanese Americans sue US over Israel’s rights abuses in Lebanon war",
+        "published": "Thu, 13 Aug 2026 14:02:14 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 9m ago. Gaza's Ministry of Interior says an Israeli strike killed the head of the police force today.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 57m ago. Gaza's Ministry of Interior says an Israeli strike killed the head of the police force today.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
