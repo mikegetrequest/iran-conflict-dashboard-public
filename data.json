@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-13 19:26",
+  "updated_at_gst": "2026-08-13 20:15",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Ukraine attacks key Russian grain terminal on Black Sea port",
-        "published": "Thu, 13 Aug 2026 14:29:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/13/ebola-outbreak-caused-by-new-animal-transmission-what-that-means?traffic_source=rss"
+        "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+        "published": "Thu, 13 Aug 2026 15:27:52 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss"
       },
       {
-        "title": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
-        "published": "Thu, 13 Aug 2026 11:29:32 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/13/fulham-march-off-in-malaga-in-friendly-repeat-of-senegal-afcon-protest?traffic_source=rss"
+        "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
+        "published": "Thu, 13 Aug 2026 14:59:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss"
+      },
+      {
+        "title": "Lebanese Americans sue US over Israel’s rights abuses in Lebanon war",
+        "published": "Thu, 13 Aug 2026 14:02:14 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss"
+      },
+      {
+        "title": "US-Iran talks in deadlock – what’s the latest?",
+        "published": "Thu, 13 Aug 2026 11:56:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Pakistan Vows Maritime Coalition Role After Houthi Strike Kills Sailors",
+        "title": "Houthi Drone Strikes Take Saudi Aramco Jizan Refinery Offline",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Red Sea · 2h ago. Pakistan's Foreign Office said it will implement its maritime coalition commitments 'in full earnest' after three Pakistani sailors died in Houthi strikes on a Saudi cargo ship.",
+        "title": "Pakistan Vows Maritime Coalition Role After Houthi Strike Kills Sailors",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Drone Attack Kills 2, Injures 15 in Eastern Yemen",
+        "title": "— S3 · Conflict · Red Sea · 3h ago. Pakistan's Foreign Office said it will implement its maritime coalition commitments 'in full earnest' after three Pakistani sailors died in Houthi strikes on a Saudi cargo ship.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
