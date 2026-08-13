@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-13 12:08",
+  "updated_at_gst": "2026-08-13 13:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
-        "published": "Thu, 13 Aug 2026 07:11:05 +0000",
-        "link": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss"
+        "title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
+        "published": "Thu, 13 Aug 2026 09:18:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/pro-palestine-activists-smear-red-paint-on-danish-defence-company?traffic_source=rss"
       },
       {
-        "title": "Three Palestinian families besieged in their homes by Israeli settlers",
-        "published": "Thu, 13 Aug 2026 04:34:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/13/search-efforts-in-colombia-enter-final-phase-as-quake-toll-reaches-265?traffic_source=rss"
+        "title": "US diplomat calls Israeli settler siege of West Bank homes ‘act of terror’",
+        "published": "Thu, 13 Aug 2026 08:38:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/13/how-to-stay-safe-during-an-earthquake-a-visual-guide?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Gaza Cancer Patients Dying at Higher Rate Amid Israeli Curbs",
+        "title": "— S3 · Economic · Strait of Hormuz · 5m ago. A German shipping company reports $600 million in losses from the Strait of Hormuz closure amid the ongoing US-Iran conflict.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Key Radars Struck in Iran During Epic Fury Operation",
+        "title": "Gaza Cancer Patients Dying at Higher Rate Amid Israeli Curbs",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 4h ago. Gen. Whiting says key radars were struck during Epic Fury, highlighting need to adapt protection of space assets on bases.",
+        "title": "Key Radars Struck in Iran During Epic Fury Operation",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
