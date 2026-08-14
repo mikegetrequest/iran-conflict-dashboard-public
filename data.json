@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-14 15:34",
+  "updated_at_gst": "2026-08-14 16:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli soldiers prevent aid delivery to besieged Palestinians",
+        "published": "Fri, 14 Aug 2026 12:11:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/14/israeli-forces-block-activists-from-reaching-besieged-qusra-families?traffic_source=rss"
+      },
+      {
+        "title": "Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?",
+        "published": "Fri, 14 Aug 2026 11:28:14 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss"
+      },
       {
         "title": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
         "published": "Fri, 14 Aug 2026 11:06:59 +0000",
@@ -48,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 6m ago. UAE Foreign Ministry condemns targeting of two ADNOC vessels in Strait of Hormuz; no injuries reported, UKMTO advisories issued.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 1h ago. UAE Foreign Ministry condemns targeting of two ADNOC vessels in Strait of Hormuz; no injuries reported, UKMTO advisories issued.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
