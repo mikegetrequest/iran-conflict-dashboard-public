@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-14 04:03",
+  "updated_at_gst": "2026-08-14 07:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
-        "published": "Thu, 13 Aug 2026 23:09:15 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss"
+        "title": "Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’",
+        "published": "Fri, 14 Aug 2026 01:09:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss"
       },
       {
-        "title": "Israeli strikes in Gaza kill two, including police chief",
-        "published": "Thu, 13 Aug 2026 21:10:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss"
+        "title": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
+        "published": "Fri, 14 Aug 2026 00:33:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss"
       },
       {
-        "title": "Israeli forces order families to evacuate homes in Qusra",
-        "published": "Thu, 13 Aug 2026 19:36:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss"
+        "title": "Iran war live: US eyes indefinite Iran naval blockade",
+        "published": "Fri, 14 Aug 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Drone Strike Hits Erbil in Iraqi Kurdistan",
+        "title": "CIA Says Mojtaba Khamenei Survived Airstrike That Killed Father",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Erbil, Iraq · 24m ago. A UAV strike hit Erbil in the Kurdistan Region of Iraq; details on casualties and target are not yet confirmed.",
+        "title": "— S3 · Political · Tehran, Iran · 2h ago. A senior CIA official confirms Mojtaba Khamenei survived the February 28 airstrike that killed then-Supreme Leader Ali Khamenei; his whereabouts remain unknown.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Releases Satellite Images of July Strikes on UAE, Bahrain",
+        "title": "Drone Strike Hits Erbil in Iraqi Kurdistan",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
