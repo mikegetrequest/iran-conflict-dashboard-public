@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-14 14:45",
+  "updated_at_gst": "2026-08-14 15:34",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,18 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
+        "published": "Fri, 14 Aug 2026 11:06:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss"
+      },
+      {
+        "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
+        "published": "Fri, 14 Aug 2026 09:28:03 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/14/swiatek-defeats-rybakina-to-claim-canadian-open?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -32,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Continues Bombing Southern Lebanon",
+        "title": "UAE Condemns Targeting of ADNOC Vessels in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 4h ago. Israeli airstrikes continue across southern Lebanon amid ongoing fighting with Hezbollah, with live reports of fresh strikes in the area.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 6m ago. UAE Foreign Ministry condemns targeting of two ADNOC vessels in Strait of Hormuz; no injuries reported, UKMTO advisories issued.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Settler Attacks Grip Taybeh, West Bank's Last Christian Town",
+        "title": "Iran Displays Remains of US F-15E Shot Down in War",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
