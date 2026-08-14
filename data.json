@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-15 00:31",
+  "updated_at_gst": "2026-08-15 01:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,18 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
-        "published": "Fri, 14 Aug 2026 16:46:30 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss"
-      },
-      {
-        "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
-        "published": "Fri, 14 Aug 2026 15:36:58 +0000",
-        "link": "https://www.aljazeera.com/news/longform/2026/8/14/the-party-of-the-cubans-how-republicans-courted-a-key-south-florida-vote?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
