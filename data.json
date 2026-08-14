@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-14 03:08",
+  "updated_at_gst": "2026-08-14 04:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,23 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
+        "published": "Thu, 13 Aug 2026 23:09:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strikes in Gaza kill two, including police chief",
+        "published": "Thu, 13 Aug 2026 21:10:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces order families to evacuate homes in Qusra",
+        "published": "Thu, 13 Aug 2026 19:36:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -32,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Releases Satellite Images of July Strikes on UAE, Bahrain",
+        "title": "Drone Strike Hits Erbil in Iraqi Kurdistan",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strike Kills Gaza Police Chief, Hamas Condemns Attack in Gaza Strip, Palestine",
+        "title": "— S3 · Conflict · Erbil, Iraq · 24m ago. A UAV strike hit Erbil in the Kurdistan Region of Iraq; details on casualties and target are not yet confirmed.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 6h ago. Gaza's Ministry of Interior says an Israeli strike killed the head of the police force today.",
+        "title": "Iran Releases Satellite Images of July Strikes on UAE, Bahrain",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
