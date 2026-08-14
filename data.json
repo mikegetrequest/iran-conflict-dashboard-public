@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-14 20:10",
+  "updated_at_gst": "2026-08-14 21:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
+        "published": "Fri, 14 Aug 2026 16:46:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss"
+      },
+      {
         "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
         "published": "Fri, 14 Aug 2026 15:36:58 +0000",
         "link": "https://www.aljazeera.com/news/longform/2026/8/14/the-party-of-the-cubans-how-republicans-courted-a-key-south-florida-vote?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’",
         "published": "Fri, 14 Aug 2026 11:57:56 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege?traffic_source=rss"
-      },
-      {
-        "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
-        "published": "Fri, 14 Aug 2026 11:04:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Disaster · Persian Gulf · 3h ago. Satellite imagery confirms two oil slicks in Iranian waters, raising environmental concerns after tit-for-tat attacks on tankers by Iran and the US in the Gulf.",
+        "title": "— S3 · Disaster · Persian Gulf · 4h ago. Satellite imagery confirms two oil slicks in Iranian waters, raising environmental concerns after tit-for-tat attacks on tankers by Iran and the US in the Gulf.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
