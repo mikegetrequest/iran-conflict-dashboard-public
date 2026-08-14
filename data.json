@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-15 01:45",
+  "updated_at_gst": "2026-08-15 02:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,18 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
+        "published": "Fri, 14 Aug 2026 21:45:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss"
+      },
+      {
+        "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
+        "published": "Fri, 14 Aug 2026 16:46:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
