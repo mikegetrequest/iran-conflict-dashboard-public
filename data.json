@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-14 23:24",
+  "updated_at_gst": "2026-08-15 00:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
-        "published": "Fri, 14 Aug 2026 16:46:30 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss"
-      },
-      {
-        "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
-        "published": "Fri, 14 Aug 2026 15:36:58 +0000",
-        "link": "https://www.aljazeera.com/news/longform/2026/8/14/the-party-of-the-cubans-how-republicans-courted-a-key-south-florida-vote?traffic_source=rss"
+        "title": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
+        "published": "Fri, 14 Aug 2026 14:48:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,12 +38,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Launch Ballistic Missiles at Al-Mokha, Yemen, Killing Six and Hitting Ships and Saudi Targets",
+        "title": "Houthis Launch Ballistic Missiles at Al-Mokha, Yemen, Killing Six and Hitting Ships and Saudi Targets in Najran, Saudi Arabia (Separate Strike on Oil Facility in Najran, Saudi Arabia Not Included in T",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Al-Mokha, Yemen · 33m ago. Houthi attack on Yemen's Al-Mokha kills six, AFP reports citing a government military source.",
+        "title": "— S3 · Conflict · Al-Mokha, Yemen · 1h ago. Houthi attack on Yemen's Al-Mokha kills six, AFP reports citing a government military source.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
