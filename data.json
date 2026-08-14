@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-15 02:10",
+  "updated_at_gst": "2026-08-15 02:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
+        "published": "Fri, 14 Aug 2026 21:50:46 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss"
+      },
       {
         "title": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
         "published": "Fri, 14 Aug 2026 21:45:20 +0000",
@@ -48,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Al-Mokha, Yemen · 3h ago. Houthi attack on Yemen's Al-Mokha kills six, AFP reports citing a government military source.",
+        "title": "— S3 · Conflict · Al-Mokha, Yemen · 4h ago. Houthi attack on Yemen's Al-Mokha kills six, AFP reports citing a government military source.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
