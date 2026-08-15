@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-15 11:48",
+  "updated_at_gst": "2026-08-15 12:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
-        "published": "Sat, 15 Aug 2026 07:18:13 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss"
+        "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
+        "published": "Sat, 15 Aug 2026 07:27:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss"
       },
       {
-        "title": "Iran says no decision yet on a return to talks with the US",
-        "published": "Sat, 15 Aug 2026 04:24:02 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss"
+        "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
+        "published": "Sat, 15 Aug 2026 07:13:11 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss"
       },
       {
-        "title": "Did the US really destroy Iran’s ballistic missile capability?",
-        "published": "Sat, 15 Aug 2026 03:52:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss"
+        "title": "7.7-magnitude earthquake strikes eastern Indonesia",
+        "published": "Sat, 15 Aug 2026 02:03:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 1h ago. UKMTO confirms a projectile struck a bulk carrier in the Strait of Hormuz, the latest in a wave of shipping attacks amid US-Iran tensions.",
+        "title": "Israel Attempts Capture of Ali al Taher Heights, Hezbollah Repels",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Strikes Heavily Damage US Navy Base in Bahrain",
+        "title": "— S3 · Conflict · Nabatieh, Lebanon · 3m ago. IDF attempted to capture Ali al Taher Heights near Nabatieh, Lebanon, with airstrikes and artillery cover but were repelled by Hezbollah ATGM and small-arms fire.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Launch Ballistic Missiles at Al-Mokha, Yemen, Killing Six and Hitting Ships and Saudi Targets in Najran, Saudi Arabia (Separate Strike on Oil Facility in Najran, Saudi Arabia Not Included in T",
+        "title": "Israeli Forces Storm Wedding Hall in West Bank",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
