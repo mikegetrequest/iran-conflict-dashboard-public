@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-15 11:03",
+  "updated_at_gst": "2026-08-15 11:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
+        "published": "Sat, 15 Aug 2026 07:18:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss"
+      },
       {
         "title": "Iran says no decision yet on a return to talks with the US",
         "published": "Sat, 15 Aug 2026 04:24:02 +0000",
@@ -43,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 17m ago. UKMTO confirms a projectile struck a bulk carrier in the Strait of Hormuz, the latest in a wave of shipping attacks amid US-Iran tensions.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 1h ago. UKMTO confirms a projectile struck a bulk carrier in the Strait of Hormuz, the latest in a wave of shipping attacks amid US-Iran tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
