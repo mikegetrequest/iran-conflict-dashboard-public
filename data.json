@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-16 02:07",
+  "updated_at_gst": "2026-08-16 02:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -43,13 +43,18 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "Israeli Fire Kills Palestinian, Wounds 7 in Gaza",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 32m ago. Medical sources report a Palestinian killed and seven wounded by Israeli fire in Gaza, amid ongoing Israeli operations in the strip.",
         "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Drone Strikes Kill Three Houthi Fighters in Taiz, Yemen",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
