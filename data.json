@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-15 08:28",
+  "updated_at_gst": "2026-08-15 08:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran says no decision yet on a return to talks with the US",
+        "published": "Sat, 15 Aug 2026 04:24:02 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss"
+      },
       {
         "title": "Did the US really destroy Iran’s ballistic missile capability?",
         "published": "Sat, 15 Aug 2026 03:52:08 +0000",
@@ -34,11 +39,6 @@
         "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
         "published": "Fri, 14 Aug 2026 21:50:46 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss"
-      },
-      {
-        "title": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
-        "published": "Fri, 14 Aug 2026 21:45:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Manama, Bahrain · 3h ago. Iranian missile and drone strikes heavily damaged Naval Support Activity Bahrain, home of the US Navy's 5th Fleet, forcing the Navy to shift its logistics hub to Diego Garcia.",
+        "title": "— S3 · Conflict · Manama, Bahrain · 4h ago. Iranian missile and drone strikes heavily damaged Naval Support Activity Bahrain, home of the US Navy's 5th Fleet, forcing the Navy to shift its logistics hub to Diego Garcia.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
