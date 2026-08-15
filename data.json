@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-15 14:44",
+  "updated_at_gst": "2026-08-15 15:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -29,11 +29,6 @@
         "title": "Iran says no decision yet on a return to talks with the US",
         "published": "Sat, 15 Aug 2026 04:24:02 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss"
-      },
-      {
-        "title": "Did the US really destroy Iran’s ballistic missile capability?",
-        "published": "Sat, 15 Aug 2026 03:52:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,13 +48,18 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "Iran Arrests Two French Diplomats on Espionage Charges",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "— S3 · Political · Tehran, Iran · 1h ago. Iranian security forces raided a safe house in Tehran and arrested two French diplomats, accusing them of espionage. Fars News says they will not be released.",
         "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Israeli Attacks Kill 2 in Gaza Strip",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
