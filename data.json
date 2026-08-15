@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-15 06:05",
+  "updated_at_gst": "2026-08-15 07:09",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
-        "published": "Sat, 15 Aug 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss"
+        "title": "7.7-magnitude earthquake strikes eastern Indonesia",
+        "published": "Sat, 15 Aug 2026 02:03:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss"
       },
       {
-        "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
-        "published": "Fri, 14 Aug 2026 22:58:58 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss"
+        "title": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
+        "published": "Fri, 14 Aug 2026 23:02:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss"
       },
       {
-        "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
-        "published": "Fri, 14 Aug 2026 21:50:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss"
-      },
-      {
-        "title": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
-        "published": "Fri, 14 Aug 2026 21:45:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss"
+        "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
+        "published": "Fri, 14 Aug 2026 22:45:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,12 +53,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Launch Ballistic Missiles at Al-Mokha, Yemen, Killing Six and Hitting Ships and Saudi Targets in Najran, Saudi Arabia (Separate Strike on Oil Facility in Najran, Saudi Arabia Not Included in T",
+        "title": "— S3 · Conflict · Manama, Bahrain · 2h ago. Iranian missile and drone strikes heavily damaged Naval Support Activity Bahrain, home of the US Navy's 5th Fleet, forcing the Navy to shift its logistics hub to Diego Garcia.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Al-Mokha, Yemen · 7h ago. Houthi attack on Yemen's Al-Mokha kills six, AFP reports citing a government military source.",
+        "title": "Houthis Launch Ballistic Missiles at Al-Mokha, Yemen, Killing Six and Hitting Ships and Saudi Targets in Najran, Saudi Arabia (Separate Strike on Oil Facility in Najran, Saudi Arabia Not Included in T",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
