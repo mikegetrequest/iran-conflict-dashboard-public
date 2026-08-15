@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-15 20:09",
+  "updated_at_gst": "2026-08-15 20:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,13 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "At scene of deadly Israeli strike on Lebanon home",
-        "published": "Sat, 15 Aug 2026 10:18:40 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -38,17 +32,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Ansar, Kills Hezbollah Commander and Civilians After Attack on Soldiers",
+        "title": "Israeli Strikes Kill Nine in Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Ansar, Lebanon · 1h ago. An Israeli airstrike in the village of Ansar, Lebanon, killed a commander of Hezbollah's Radwan Unit, according to the Israeli Army.",
+        "title": "— S3 · Conflict · Lebanon · 9m ago. Israeli airstrikes in Lebanon have killed nine people, escalating Middle East tensions, while Iran claims Qatar is holding three of its missing pilots.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Confirms Su-24 Pilots Who Bombed CENTCOM Are in Qatari Custody",
+        "title": "Israel Strikes Ansar, Kills Hezbollah Commander and Civilians After Attack on Soldiers",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
