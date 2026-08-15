@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-15 09:14",
+  "updated_at_gst": "2026-08-15 09:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -29,11 +29,6 @@
         "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
         "published": "Sat, 15 Aug 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss"
-      },
-      {
-        "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
-        "published": "Fri, 14 Aug 2026 22:58:58 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,18 +48,13 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Strikes Heavily Damage US Navy Base in Bahrain",
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Manama, Bahrain · 4h ago. Iranian missile and drone strikes heavily damaged Naval Support Activity Bahrain, home of the US Navy's 5th Fleet, forcing the Navy to shift its logistics hub to Diego Garcia.",
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
         "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Houthis Launch Ballistic Missiles at Al-Mokha, Yemen, Killing Six and Hitting Ships and Saudi Targets in Najran, Saudi Arabia (Separate Strike on Oil Facility in Najran, Saudi Arabia Not Included in T",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
