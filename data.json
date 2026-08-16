@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-17 00:07",
+  "updated_at_gst": "2026-08-17 00:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
-        "published": "Sun, 16 Aug 2026 19:29:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
+        "title": "US-Iran MoU is set to expire: What to know",
+        "published": "Sun, 16 Aug 2026 20:28:21 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss"
       },
       {
-        "title": "Israeli army besieges Palestinian homes in occupied West Bank",
-        "published": "Sun, 16 Aug 2026 17:45:52 +0000",
-        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss"
-      },
-      {
-        "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
-        "published": "Sun, 16 Aug 2026 17:18:00 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss"
-      },
-      {
-        "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
-        "published": "Sun, 16 Aug 2026 15:35:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss"
-      },
-      {
-        "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
-        "published": "Sun, 16 Aug 2026 13:17:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss"
+        "title": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
+        "published": "Sun, 16 Aug 2026 17:46:21 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Humanitarian · Qusra, West Bank, Palestine · 2h ago. Israeli settlers and soldiers have besieged families in Qusra for eight days, blocking water and aid, leading to humanitarian concerns.",
+        "title": "— S3 · Humanitarian · Qusra, West Bank, Palestine · 3h ago. Israeli settlers and soldiers have besieged families in Qusra for eight days, blocking water and aid, leading to humanitarian concerns.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
