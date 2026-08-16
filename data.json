@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-16 15:40",
+  "updated_at_gst": "2026-08-16 16:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "A nation divided: What do Israelis want in October’s elections?",
-        "published": "Sun, 16 Aug 2026 06:06:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss"
+        "title": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
+        "published": "Sun, 16 Aug 2026 11:54:55 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss"
+      },
+      {
+        "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+        "published": "Sun, 16 Aug 2026 10:59:10 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/16/premier-league-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss"
+      },
+      {
+        "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+        "published": "Sun, 16 Aug 2026 09:03:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yemen · 7h ago. Yemeni government forces, supported by Saudi Arabia, launched counter-attacks against Houthi rebels following a new offensive, escalating the ongoing conflict in Yemen.",
+        "title": "— S3 · Conflict · Yemen · 8h ago. Yemeni government forces, supported by Saudi Arabia, launched counter-attacks against Houthi rebels following a new offensive, escalating the ongoing conflict in Yemen.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
