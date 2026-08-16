@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-16 12:52",
+  "updated_at_gst": "2026-08-16 13:15",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "A nation divided: What do Israelis want in October’s elections?",
-        "published": "Sun, 16 Aug 2026 06:06:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss"
+        "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+        "published": "Sun, 16 Aug 2026 09:03:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss"
       },
       {
-        "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-        "published": "Sun, 16 Aug 2026 04:54:33 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss"
-      },
-      {
-        "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
-        "published": "Sun, 16 Aug 2026 04:35:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
-        "published": "Sun, 16 Aug 2026 00:00:45 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss"
+        "title": "Israel strikes south Lebanon again as families flee north",
+        "published": "Sun, 16 Aug 2026 04:43:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yemen · 4h ago. Yemeni government forces, supported by Saudi Arabia, launched counter-attacks against Houthi rebels following a new offensive, escalating the ongoing conflict in Yemen.",
+        "title": "— S3 · Conflict · Yemen · 5h ago. Yemeni government forces, supported by Saudi Arabia, launched counter-attacks against Houthi rebels following a new offensive, escalating the ongoing conflict in Yemen.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
