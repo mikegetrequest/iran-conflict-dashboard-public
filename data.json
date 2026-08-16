@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-16 21:09",
+  "updated_at_gst": "2026-08-16 21:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
+        "published": "Sun, 16 Aug 2026 17:18:00 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss"
+      },
       {
         "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
         "published": "Sun, 16 Aug 2026 15:35:53 +0000",
@@ -58,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nuseirat Refugee Camp, Gaza Strip, Palestine · 4h ago. Israeli airstrike targets Palestinian militants at Nuseirat Refugee Camp in central Gaza; several people reported injured.",
+        "title": "— S3 · Conflict · Nuseirat Refugee Camp, Gaza Strip, Palestine · 5h ago. Israeli airstrike targets Palestinian militants at Nuseirat Refugee Camp in central Gaza; several people reported injured.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
