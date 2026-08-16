@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-16 23:40",
+  "updated_at_gst": "2026-08-17 00:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
-        "published": "Sun, 16 Aug 2026 17:46:21 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss"
+        "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
+        "published": "Sun, 16 Aug 2026 19:29:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
       },
       {
-        "title": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
-        "published": "Sun, 16 Aug 2026 13:18:28 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss"
+        "title": "Israeli army besieges Palestinian homes in occupied West Bank",
+        "published": "Sun, 16 Aug 2026 17:45:52 +0000",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss"
       },
       {
-        "title": "‘Limited options’ for many Iranians as war with US chokes economy",
-        "published": "Sun, 16 Aug 2026 11:38:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss"
+        "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
+        "published": "Sun, 16 Aug 2026 17:18:00 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss"
+      },
+      {
+        "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+        "published": "Sun, 16 Aug 2026 15:35:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss"
+      },
+      {
+        "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+        "published": "Sun, 16 Aug 2026 13:17:57 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
