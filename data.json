@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-16 03:40",
+  "updated_at_gst": "2026-08-16 04:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,18 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
+        "published": "Sun, 16 Aug 2026 00:00:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss"
+      },
+      {
+        "title": "Qatar denies it is detaining three Iranian bomber pilots",
+        "published": "Sat, 15 Aug 2026 20:55:29 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -37,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. Medical sources report a Palestinian killed and seven wounded by Israeli fire in Gaza, amid ongoing Israeli operations in the strip.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. Medical sources report a Palestinian killed and seven wounded by Israeli fire in Gaza, amid ongoing Israeli operations in the strip.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
