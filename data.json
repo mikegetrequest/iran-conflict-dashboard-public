@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-16 18:10",
+  "updated_at_gst": "2026-08-16 18:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
-        "published": "Sun, 16 Aug 2026 13:17:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss"
+        "title": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
+        "published": "Sun, 16 Aug 2026 13:18:28 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss"
       },
       {
-        "title": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
-        "published": "Sun, 16 Aug 2026 11:54:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss"
-      },
-      {
-        "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-        "published": "Sun, 16 Aug 2026 10:59:10 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/16/premier-league-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss"
-      },
-      {
-        "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
-        "published": "Sun, 16 Aug 2026 09:03:05 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss"
+        "title": "‘Limited options’ for many Iranians as war with US chokes economy",
+        "published": "Sun, 16 Aug 2026 11:38:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nuseirat Refugee Camp, Gaza Strip, Palestine · 1h ago. Israeli airstrike targets Palestinian militants at Nuseirat Refugee Camp in central Gaza; several people reported injured.",
+        "title": "— S3 · Conflict · Nuseirat Refugee Camp, Gaza Strip, Palestine · 2h ago. Israeli airstrike targets Palestinian militants at Nuseirat Refugee Camp in central Gaza; several people reported injured.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
