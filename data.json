@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-17 06:11",
+  "updated_at_gst": "2026-08-17 07:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Rare Pallas’s cat captured on camera in northern Iran mountains",
+        "published": "Mon, 17 Aug 2026 02:55:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss"
+      },
       {
         "title": "Israel releases 35 Palestinian prisoners back into Gaza",
         "published": "Mon, 17 Aug 2026 00:05:34 +0000",
@@ -58,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 5h ago. Israeli airstrike hits Gaza as Trump envoys meet mediators in Cairo, complicating ceasefire efforts.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 6h ago. Israeli airstrike hits Gaza as Trump envoys meet mediators in Cairo, complicating ceasefire efforts.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -68,7 +73,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Humanitarian · Qusra, West Bank, Palestine · 8h ago. Israeli settlers and soldiers have besieged families in Qusra for eight days, blocking water and aid, leading to humanitarian concerns.",
+        "title": "— S3 · Humanitarian · Qusra, West Bank, Palestine · 10h ago. Israeli settlers and soldiers have besieged families in Qusra for eight days, blocking water and aid, leading to humanitarian concerns.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
