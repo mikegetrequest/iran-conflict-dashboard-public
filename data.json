@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-17 09:03",
+  "updated_at_gst": "2026-08-17 09:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Rare Pallas’s cat captured on camera in northern Iran mountains",
-        "published": "Mon, 17 Aug 2026 02:55:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss"
+        "title": "Lawyer says Israel’s targeting of Palestinian women is a form of genocide",
+        "published": "Mon, 17 Aug 2026 04:58:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss"
       },
       {
-        "title": "Israel releases 35 Palestinian prisoners back into Gaza",
-        "published": "Mon, 17 Aug 2026 00:05:34 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
+        "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
+        "published": "Mon, 17 Aug 2026 03:41:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss"
       },
       {
-        "title": "UN’s Albanese: Israel outsourcing coercion to settlers in West Bank",
-        "published": "Sun, 16 Aug 2026 23:58:45 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss"
+        "title": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
+        "published": "Mon, 17 Aug 2026 01:28:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss"
       },
       {
-        "title": "What could stop Israeli settler attacks on Palestinians?",
-        "published": "Sun, 16 Aug 2026 21:54:58 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss"
+        "title": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+        "published": "Mon, 17 Aug 2026 00:00:35 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/uns-albanese-israel-outsourcing-coercion-to-settlers-in-west-bank?traffic_source=rss"
       },
       {
-        "title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
-        "published": "Sun, 16 Aug 2026 21:02:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss"
+        "title": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
+        "published": "Sun, 16 Aug 2026 23:58:34 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 8h ago. Israeli airstrike hits Gaza as Trump envoys meet mediators in Cairo, complicating ceasefire efforts.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 9h ago. Israeli airstrike hits Gaza as Trump envoys meet mediators in Cairo, complicating ceasefire efforts.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -68,7 +68,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Humanitarian · Qusra, West Bank, Palestine · 11h ago. Israeli settlers and soldiers have besieged families in Qusra for eight days, blocking water and aid, leading to humanitarian concerns.",
+        "title": "— S3 · Humanitarian · Qusra, West Bank, Palestine · 12h ago. Israeli settlers and soldiers have besieged families in Qusra for eight days, blocking water and aid, leading to humanitarian concerns.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
