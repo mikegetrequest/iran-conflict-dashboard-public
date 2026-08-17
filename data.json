@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-17 03:39",
+  "updated_at_gst": "2026-08-17 04:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "What could stop Israeli settler attacks on Palestinians?",
-        "published": "Sun, 16 Aug 2026 21:54:58 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss"
+        "title": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+        "published": "Mon, 17 Aug 2026 00:00:35 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/uns-albanese-israel-outsourcing-coercion-to-settlers-in-west-bank?traffic_source=rss"
       },
       {
-        "title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
-        "published": "Sun, 16 Aug 2026 21:02:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss"
+        "title": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
+        "published": "Sun, 16 Aug 2026 23:58:34 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss"
       },
       {
-        "title": "US-Iran MoU is set to expire: What to know",
-        "published": "Sun, 16 Aug 2026 20:28:21 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss"
+        "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+        "published": "Sun, 16 Aug 2026 20:55:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss"
       },
       {
-        "title": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
-        "published": "Sun, 16 Aug 2026 17:46:21 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss"
+        "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
+        "published": "Sun, 16 Aug 2026 19:29:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. Israeli airstrike hits Gaza as Trump envoys meet mediators in Cairo, complicating ceasefire efforts.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Israeli airstrike hits Gaza as Trump envoys meet mediators in Cairo, complicating ceasefire efforts.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -63,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Humanitarian · Qusra, West Bank, Palestine · 6h ago. Israeli settlers and soldiers have besieged families in Qusra for eight days, blocking water and aid, leading to humanitarian concerns.",
+        "title": "— S3 · Humanitarian · Qusra, West Bank, Palestine · 7h ago. Israeli settlers and soldiers have besieged families in Qusra for eight days, blocking water and aid, leading to humanitarian concerns.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
