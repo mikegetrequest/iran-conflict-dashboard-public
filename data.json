@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-17 19:13",
+  "updated_at_gst": "2026-08-17 19:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
-        "published": "Mon, 17 Aug 2026 14:15:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss"
+        "title": "Trump demands Iran ‘put up the white flag of surrender’ as MoU expires",
+        "published": "Mon, 17 Aug 2026 15:06:14 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss"
       },
       {
-        "title": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
-        "published": "Mon, 17 Aug 2026 10:54:50 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/indian-temple-stampede-kills-seven-people-and-injures-dozens?traffic_source=rss"
+        "title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
+        "published": "Mon, 17 Aug 2026 14:12:08 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss"
+      },
+      {
+        "title": "Global condemnation of Israeli settler violence against Palestinians",
+        "published": "Mon, 17 Aug 2026 14:01:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s religious right is changing the state from within",
+        "published": "Mon, 17 Aug 2026 12:15:49 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss"
+      },
+      {
+        "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
+        "published": "Mon, 17 Aug 2026 12:07:23 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/17/arsenal-preview-key-questions-heading-into-2026-27-premier-league-season?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +68,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yemen · 2h ago. Rival factions in Yemen's civil war escalate with reciprocal drone strikes, signaling a tactical shift in the ongoing conflict.",
+        "title": "— S3 · Conflict · Yemen · 3h ago. Rival factions in Yemen's civil war escalate with reciprocal drone strikes, signaling a tactical shift in the ongoing conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
