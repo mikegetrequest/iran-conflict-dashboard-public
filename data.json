@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-17 14:02",
+  "updated_at_gst": "2026-08-17 14:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran’s top negotiator declares victory in war against the US and Israel",
-        "published": "Mon, 17 Aug 2026 05:16:18 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss"
+        "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
+        "published": "Mon, 17 Aug 2026 08:00:05 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss"
       },
       {
-        "title": "Rare Pallas’s cat captured on camera in northern Iran mountains",
-        "published": "Mon, 17 Aug 2026 02:55:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss"
+        "title": "Lawyer says Israel’s targeting of Palestinian women is a form of genocide",
+        "published": "Mon, 17 Aug 2026 04:58:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss"
+      },
+      {
+        "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
+        "published": "Mon, 17 Aug 2026 03:41:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 13h ago. Israeli airstrike hits Gaza as Trump envoys meet mediators in Cairo, complicating ceasefire efforts.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 14h ago. Israeli airstrike hits Gaza as Trump envoys meet mediators in Cairo, complicating ceasefire efforts.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Humanitarian · Qusra, West Bank, Palestine · 16h ago. Israeli settlers and soldiers have besieged families in Qusra for eight days, blocking water and aid, leading to humanitarian concerns.",
+        "title": "— S3 · Humanitarian · Qusra, West Bank, Palestine · 17h ago. Israeli settlers and soldiers have besieged families in Qusra for eight days, blocking water and aid, leading to humanitarian concerns.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
