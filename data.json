@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-17 17:12",
+  "updated_at_gst": "2026-08-17 17:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
-        "published": "Mon, 17 Aug 2026 10:54:50 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/indian-temple-stampede-kills-seven-people-and-injures-dozens?traffic_source=rss"
+        "title": "Israel’s religious right is changing the state from within",
+        "published": "Mon, 17 Aug 2026 12:15:49 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss"
+      },
+      {
+        "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
+        "published": "Mon, 17 Aug 2026 12:07:23 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/17/arsenal-preview-key-questions-heading-into-2026-27-premier-league-season?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yemen · 10m ago. Rival factions in Yemen's civil war escalate with reciprocal drone strikes, signaling a tactical shift in the ongoing conflict.",
+        "title": "— S3 · Conflict · Yemen · 55m ago. Rival factions in Yemen's civil war escalate with reciprocal drone strikes, signaling a tactical shift in the ongoing conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
