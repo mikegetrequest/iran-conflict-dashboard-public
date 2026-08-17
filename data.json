@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-18 00:12",
+  "updated_at_gst": "2026-08-18 00:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
-        "published": "Mon, 17 Aug 2026 16:50:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss"
+        "title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
+        "published": "Mon, 17 Aug 2026 19:32:06 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss"
       },
       {
-        "title": "War on Iran: Phase II, Day 37",
-        "published": "Mon, 17 Aug 2026 16:27:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/17/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa?traffic_source=rss"
+        "title": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
+        "published": "Mon, 17 Aug 2026 17:07:29 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Navy Enforces Iran Blockade, Disables 3 Vessels in Strait of Hormuz",
+        "title": "Iran Intelligence Officials Accused of Embezzling $11 Billion",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Four-Year-Old Dies After Stabbing in Beit Shemesh, Israel",
+        "title": "— S3 · Political · Tehran, Iran · 24m ago. Nine people in Iran's Intelligence Ministry allegedly failed to return $11 billion in illicit oil sale revenue via the Shayan Network, per Iran International.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi and Government Forces Exchange Drone Attacks in Yemen",
+        "title": "US Navy Enforces Iran Blockade, Disables 3 Vessels in Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
