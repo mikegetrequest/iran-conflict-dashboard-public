@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-18 03:10",
+  "updated_at_gst": "2026-08-18 03:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump says Iran will not make the deal he believes is necessary",
-        "published": "Mon, 17 Aug 2026 20:49:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss"
+        "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
+        "published": "Mon, 17 Aug 2026 20:54:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss"
+      },
+      {
+        "title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
+        "published": "Mon, 17 Aug 2026 19:32:06 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 7m ago. Israeli forces carry out demolitions in areas under their control south of Khan Younis, Gaza, per Al Jazeera correspondent.",
+        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 39m ago. Israeli forces carry out demolitions in areas under their control south of Khan Younis, Gaza, per Al Jazeera correspondent.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
