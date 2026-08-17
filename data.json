@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-17 17:57",
+  "updated_at_gst": "2026-08-17 18:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Global condemnation of Israeli settler violence against Palestinians",
+        "published": "Mon, 17 Aug 2026 14:01:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella?traffic_source=rss"
+      },
       {
         "title": "Israel’s religious right is changing the state from within",
         "published": "Mon, 17 Aug 2026 12:15:49 +0000",
@@ -48,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yemen · 55m ago. Rival factions in Yemen's civil war escalate with reciprocal drone strikes, signaling a tactical shift in the ongoing conflict.",
+        "title": "— S3 · Conflict · Yemen · 1h ago. Rival factions in Yemen's civil war escalate with reciprocal drone strikes, signaling a tactical shift in the ongoing conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
