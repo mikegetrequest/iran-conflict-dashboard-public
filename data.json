@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-18 01:45",
+  "updated_at_gst": "2026-08-18 02:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump says Iran will not make the deal he believes is necessary",
-        "published": "Mon, 17 Aug 2026 20:49:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss"
+        "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
+        "published": "Mon, 17 Aug 2026 20:54:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss"
       },
       {
-        "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
-        "published": "Mon, 17 Aug 2026 16:50:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss"
+        "title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
+        "published": "Mon, 17 Aug 2026 19:32:06 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
+        "published": "Mon, 17 Aug 2026 17:07:29 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 30m ago. UNIFIL says an average of 137 projectiles were fired daily in southern Lebanon over the past two weeks, escalating conflict and civilian suffering.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 55m ago. UNIFIL says an average of 137 projectiles were fired daily in southern Lebanon over the past two weeks, escalating conflict and civilian suffering.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
