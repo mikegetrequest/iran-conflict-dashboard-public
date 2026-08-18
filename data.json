@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-18 14:51",
+  "updated_at_gst": "2026-08-18 15:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Eight air strikes hit airbase in Syria’s Idlib",
-        "published": "Tue, 18 Aug 2026 10:11:53 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
-        "published": "Tue, 18 Aug 2026 07:43:45 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/8/18/canada-battles-the-clock-politics-in-scramble-to-avert-trumps-tariffs?traffic_source=rss"
+        "title": "Deaths mount, trauma sets in as Russia ramps up missile attacks on Ukraine",
+        "published": "Tue, 18 Aug 2026 10:45:37 +0000",
+        "link": "https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Syria · 1h ago. Syria accused Israel of conducting an airstrike on a military airfield in the country's south, continuing a pattern of alleged Israeli incursions into Syrian territory.",
+        "title": "— S3 · Conflict · Southern Syria · 2h ago. Syria accused Israel of conducting an airstrike on a military airfield in the country's south, continuing a pattern of alleged Israeli incursions into Syrian territory.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
