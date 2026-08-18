@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-18 11:58",
+  "updated_at_gst": "2026-08-18 12:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Russian strikes kill 10 in Kharkiv as Ukrainian drones target Moscow",
+        "published": "Tue, 18 Aug 2026 06:47:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -32,13 +38,18 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "— S3 · Humanitarian · Gaza Strip, Palestine · 28m ago. Israel's ongoing war and siege on Gaza are having a devastating impact on women with breast cancer, leading to a humanitarian crisis in the besieged territory.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "Israel Kills Islamic Jihad Commander in Khan Younis",
         "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Iranian Forces Attack Ship in Strait of Hormuz",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
