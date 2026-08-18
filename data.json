@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-18 19:52",
+  "updated_at_gst": "2026-08-18 20:16",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Palestinian living in caves older than Israel",
+        "published": "Tue, 18 Aug 2026 15:53:38 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/i-fear-for-my-familys-lives-says-loui-ridi-as-settlers-besiege-home?traffic_source=rss"
+      },
       {
         "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
         "published": "Tue, 18 Aug 2026 15:14:17 +0000",
