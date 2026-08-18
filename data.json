@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-19 03:10",
+  "updated_at_gst": "2026-08-19 03:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli strike reported to kill at least six in Gaza City",
-        "published": "Tue, 18 Aug 2026 21:03:04 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss"
+        "title": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
+        "published": "Tue, 18 Aug 2026 21:03:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss"
       },
       {
-        "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
-        "published": "Tue, 18 Aug 2026 20:45:42 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss"
+        "title": "Russian missile strike kills 10 civilians in Kharkiv",
+        "published": "Tue, 18 Aug 2026 20:26:01 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon · 1h ago. Israeli Air Force strikes in southern Lebanon killed at least seven people, further eroding the ceasefire with Hezbollah after days of cross-border fire near Ali Taher Ridge.",
+        "title": "— S3 · Conflict · Southern Lebanon · 2h ago. Israeli Air Force strikes in southern Lebanon killed at least seven people, further eroding the ceasefire with Hezbollah after days of cross-border fire near Ali Taher Ridge.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
