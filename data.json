@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-18 20:16",
+  "updated_at_gst": "2026-08-18 20:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran prepares to keep economy alive as US threatens further sanctions",
+        "published": "Tue, 18 Aug 2026 16:21:49 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/18/disney-sues-us-regulator-claiming-political-retaliation-over-abc-stations?traffic_source=rss"
+      },
       {
         "title": "Palestinian living in caves older than Israel",
         "published": "Tue, 18 Aug 2026 15:53:38 +0000",
