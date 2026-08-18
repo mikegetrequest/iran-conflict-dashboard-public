@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-19 01:43",
+  "updated_at_gst": "2026-08-19 02:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
-        "published": "Tue, 18 Aug 2026 21:03:59 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss"
+        "title": "Israeli strike reported to kill at least six in Gaza City",
+        "published": "Tue, 18 Aug 2026 21:03:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss"
       },
       {
-        "title": "Russian missile strike kills 10 civilians in Kharkiv",
-        "published": "Tue, 18 Aug 2026 20:26:01 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss"
-      },
-      {
-        "title": "Police attack Indonesian student protesters, arresting at least 21",
-        "published": "Tue, 18 Aug 2026 18:17:35 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss"
+        "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
+        "published": "Tue, 18 Aug 2026 20:45:42 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "UAE Suspends Trade and Financial Transactions with Iran",
+        "title": "Israeli Airstrike Kills 7 in Southern Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Strike Saudi Coalition Landing Ship Off Yemen's Red Sea Coast",
+        "title": "— S3 · Conflict · Southern Lebanon · 2m ago. An Israeli airstrike killed at least seven people in southern Lebanon, marking another ceasefire violation amid the ongoing Israel-Hezbollah conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Cargo Ship Declared Total Loss After Attack in Bab el-Mandeb",
+        "title": "Iran Seizes UAE-Linked Tanker in Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
