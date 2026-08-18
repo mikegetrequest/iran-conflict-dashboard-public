@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-18 16:18",
+  "updated_at_gst": "2026-08-18 17:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
+        "published": "Tue, 18 Aug 2026 12:47:41 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss"
+      },
+      {
+        "title": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
+        "published": "Tue, 18 Aug 2026 12:39:43 +0000",
+        "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/18/myanmar-the-architecture-of-statelessness?traffic_source=rss"
+      },
       {
         "title": "Eight air strikes hit airbase in Syria’s Idlib",
         "published": "Tue, 18 Aug 2026 10:11:53 +0000",
@@ -38,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Syria Accuses Israel of Striking Military Airfield in Southern Syria",
+        "title": "Tehran Readies to Crush Renewed Unrest, Risks Hormuz War",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Syria · 3h ago. Syria accused Israel of conducting an airstrike on a military airfield in the country's south, continuing a pattern of alleged Israeli incursions into Syrian territory.",
+        "title": "Syria Accuses Israel of Striking Military Airfield in Southern Syria",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Humanitarian · Gaza Strip, Palestine · 4h ago. Israel's ongoing war and siege on Gaza are having a devastating impact on women with breast cancer, leading to a humanitarian crisis in the besieged territory.",
+        "title": "— S3 · Conflict · Southern Syria · 4h ago. Syria accused Israel of conducting an airstrike on a military airfield in the country's south, continuing a pattern of alleged Israeli incursions into Syrian territory.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
