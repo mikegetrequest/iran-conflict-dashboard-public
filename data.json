@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-18 09:51",
+  "updated_at_gst": "2026-08-18 10:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
-        "published": "Mon, 17 Aug 2026 20:54:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss"
+        "title": "Iran war live: Vessel struck in Strait of Hormuz, crew member injured",
+        "published": "Tue, 18 Aug 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Iran will not make the deal he believes is necessary",
+        "published": "Mon, 17 Aug 2026 20:49:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Airstrikes Target Abu al-Duhur Air Base in Idlib, Syria",
+        "title": "Airstrikes Hit Abu al-Duhur Air Base in Idlib, Syria",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Abu al-Duhur Air Base, Syria · 4h ago. Four unidentified airstrikes hit the runway of Abu al-Duhur Air Base in Idlib Governorate, Syria. The attacking force has not been named.",
+        "title": "— S3 · Conflict · Abu al-Duhur Air Base, Syria · 5h ago. Four airstrikes, likely by Israel, struck the runway at Abu al-Duhur Air Base in Idlib, Syria, damaging the facility. No casualties reported.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
