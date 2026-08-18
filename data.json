@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-18 07:33",
+  "updated_at_gst": "2026-08-18 08:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
-        "published": "Mon, 17 Aug 2026 20:54:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss"
+        "title": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
+        "published": "Tue, 18 Aug 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss"
       },
       {
-        "title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
-        "published": "Mon, 17 Aug 2026 19:32:06 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss"
+        "title": "Trump says Iran will not make the deal he believes is necessary",
+        "published": "Mon, 17 Aug 2026 20:49:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Abu al-Duhur Air Base, Syria · 2h ago. Four unidentified airstrikes hit the runway of Abu al-Duhur Air Base in Idlib Governorate, Syria. The attacking force has not been named.",
+        "title": "— S3 · Conflict · Abu al-Duhur Air Base, Syria · 3h ago. Four unidentified airstrikes hit the runway of Abu al-Duhur Air Base in Idlib Governorate, Syria. The attacking force has not been named.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
