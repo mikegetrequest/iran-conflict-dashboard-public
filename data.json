@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-18 19:24",
+  "updated_at_gst": "2026-08-18 19:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
+        "published": "Tue, 18 Aug 2026 15:14:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss"
+      },
+      {
         "title": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
         "published": "Tue, 18 Aug 2026 13:12:56 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss"
-      },
-      {
-        "title": "Putin’s ‘illusion of victory:’ Russia ramps up missile attacks on Ukraine",
-        "published": "Tue, 18 Aug 2026 10:45:37 +0000",
-        "link": "https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Drone Strike in Western Gaza Leaves One Casualty",
+        "title": "Israel Strikes Hamas Commanders in Shati, Gaza Strip",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 4m ago. A UAV strike in western Gaza resulted in at least one casualty, indicating ongoing kinetic activity in the region.",
+        "title": "Israeli Forces Label Palestinian Detainees With Numbers in Gaza",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen Launches Missiles at United Arab Emirates, Air Defenses Engage Over Dubai and Abu Dhabi",
+        "title": "Israeli Drone Strike Kills Five Near Gaza City Port",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
