@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-18 11:10",
+  "updated_at_gst": "2026-08-18 11:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,18 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Iran war live: Vessel struck in Strait of Hormuz, crew member injured",
-        "published": "Tue, 18 Aug 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss"
-      },
-      {
-        "title": "Trump says Iran will not make the deal he believes is necessary",
-        "published": "Mon, 17 Aug 2026 20:49:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -43,18 +32,13 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Forces Attack Ship in Strait of Hormuz",
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Airstrikes Hit Abu al-Duhur Air Base in Idlib, Syria",
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
         "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S3 · Conflict · Abu al-Duhur Air Base, Syria · 5h ago. Four airstrikes, likely by Israel, struck the runway at Abu al-Duhur Air Base in Idlib, Syria, damaging the facility. No casualties reported.",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
