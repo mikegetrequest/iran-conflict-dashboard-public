@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-18 17:14",
+  "updated_at_gst": "2026-08-18 18:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Yemeni government escalates attacks against Houthis: What’s next?",
+        "published": "Tue, 18 Aug 2026 13:51:33 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss"
+      },
+      {
+        "title": "Palestinian-American confronts Israeli settler at his besieged home",
+        "published": "Tue, 18 Aug 2026 13:11:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss"
+      },
+      {
         "title": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
         "published": "Tue, 18 Aug 2026 12:47:41 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss"
@@ -26,7 +36,7 @@
         "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/18/myanmar-the-architecture-of-statelessness?traffic_source=rss"
       },
       {
-        "title": "Eight air strikes hit airbase in Syria’s Idlib",
+        "title": "Syria, US say Israel attacks airbase in Idlib",
         "published": "Tue, 18 Aug 2026 10:11:53 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss"
       }
@@ -58,7 +68,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Syria · 4h ago. Syria accused Israel of conducting an airstrike on a military airfield in the country's south, continuing a pattern of alleged Israeli incursions into Syrian territory.",
+        "title": "— S3 · Conflict · Southern Syria · 5h ago. Syria accused Israel of conducting an airstrike on a military airfield in the country's south, continuing a pattern of alleged Israeli incursions into Syrian territory.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
