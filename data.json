@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-19 09:24",
+  "updated_at_gst": "2026-08-19 09:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Lebanon no longer a safe haven for former Syrian regime officials",
+        "published": "Wed, 19 Aug 2026 05:23:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss"
+      },
       {
         "title": "Bali gym owner kicks out three Israeli tourists for links to ‘IDF’",
         "published": "Wed, 19 Aug 2026 03:44:44 +0000",
@@ -58,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon · 7h ago. Israeli Air Force strikes in southern Lebanon killed at least seven people, further eroding the ceasefire with Hezbollah after days of cross-border fire near Ali Taher Ridge.",
+        "title": "— S3 · Conflict · Southern Lebanon · 8h ago. Israeli Air Force strikes in southern Lebanon killed at least seven people, further eroding the ceasefire with Hezbollah after days of cross-border fire near Ali Taher Ridge.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
