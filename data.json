@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-19 12:32",
+  "updated_at_gst": "2026-08-19 13:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Aid workers faced record number of attacks in 2025, UN says",
+        "published": "Wed, 19 Aug 2026 08:40:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/19/who-won-and-lost-in-florida-primaries-key-takeaways?traffic_source=rss"
+      },
       {
         "title": "South Africa to Australia: Why coal profits are surging during Iran war",
         "published": "Wed, 19 Aug 2026 06:27:30 +0000",
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces, Settlers Carry Out 467 West Bank Attacks in a Week",
+        "title": "Israeli Airstrike Destroys Home in Nabatieh al-Fawqa, Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Condemns Israeli Airstrikes on Syrian Airbase",
+        "title": "— S3 · Conflict · Nabatieh al-Fawqa, Lebanon · 34m ago. Lebanese state media reports an Israeli airstrike destroyed a residential home in Nabatieh al-Fawqa, adding to a wave of Israeli strikes across southern Lebanon.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Airstrike Kills 7 in Southern Lebanon",
+        "title": "Israeli Forces, Settlers Carry Out 467 West Bank Attacks in a Week",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
