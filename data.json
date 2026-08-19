@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-19 16:18",
+  "updated_at_gst": "2026-08-19 17:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Aid workers faced record number of attacks in 2025, UN says",
-        "published": "Wed, 19 Aug 2026 08:40:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/19/who-won-and-lost-in-florida-primaries-key-takeaways?traffic_source=rss"
+        "title": "What’s happening in Lebanon’s ‘pilot zones’?",
+        "published": "Wed, 19 Aug 2026 12:47:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/19/dozens-killed-after-gold-mine-collapse-in-central-african-republic?traffic_source=rss"
+      },
+      {
+        "title": "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
+        "published": "Wed, 19 Aug 2026 12:37:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Strike Kills Six in Central Gaza",
+        "title": "Israel Lessens Strikes After US-Backed Disarmament Plan",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 11m ago. An Israeli airstrike killed six Palestinians in central Gaza, medics reported, as the military presses operations across the Strip.",
+        "title": "Israel Strikes Hamas Platoon Commander in Nuseirat",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Airstrike Destroys Home in Nabatieh al-Fawqa, Lebanon",
+        "title": "— S3 · Conflict · Nuseirat, Gaza Strip, Palestine · 33m ago. The IDF targeted and killed a Hamas platoon commander in Nuseirat, central Gaza, who was involved in the October 7th attacks on Israel.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
