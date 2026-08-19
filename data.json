@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-20 01:14",
+  "updated_at_gst": "2026-08-20 01:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
+        "published": "Wed, 19 Aug 2026 21:10:39 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss"
+      },
+      {
         "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
         "published": "Wed, 19 Aug 2026 21:01:54 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
         "published": "Wed, 19 Aug 2026 17:50:50 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/19/us-department-of-justice-defends-prosecution-of-comey-over-seashell-post?traffic_source=rss"
-      },
-      {
-        "title": "US pressure on Israel needed for peace in Syria",
-        "published": "Wed, 19 Aug 2026 17:12:11 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Israel · 3h ago. An Indian caregiver was fatally stabbed in Israel, and the elderly couple's grandson has been indicted in connection with the incident, highlighting a violent crime.",
+        "title": "— S3 · Conflict · Israel · 4h ago. An Indian caregiver was fatally stabbed in Israel, and the elderly couple's grandson has been indicted in connection with the incident, highlighting a violent crime.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
