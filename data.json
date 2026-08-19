@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-19 08:58",
+  "updated_at_gst": "2026-08-19 09:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
-        "published": "Wed, 19 Aug 2026 04:25:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/bali-gym-owner-kicks-out-three-israeli-tourists-for-links-to?traffic_source=rss"
+        "title": "Bali gym owner kicks out three Israeli tourists for links to ‘IDF’",
+        "published": "Wed, 19 Aug 2026 03:44:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/19/us-unions-sue-over-new-visa-rule-for-foreign-students-journalists?traffic_source=rss"
+      },
+      {
+        "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+        "published": "Wed, 19 Aug 2026 03:34:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss"
+      },
+      {
+        "title": "US ambassador to Israel calls settler violence ‘terror’",
+        "published": "Wed, 19 Aug 2026 00:49:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
+        "published": "Wed, 19 Aug 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
