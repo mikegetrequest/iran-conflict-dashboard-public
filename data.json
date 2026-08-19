@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-19 21:15",
+  "updated_at_gst": "2026-08-19 21:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
-        "published": "Wed, 19 Aug 2026 17:14:21 +0000",
-        "link": "https://www.aljazeera.com/features/2026/8/19/us-pressure-on-israel-needed-for-peace-in-syria?traffic_source=rss"
+        "title": "US pressure on Israel needed for peace in Syria",
+        "published": "Wed, 19 Aug 2026 17:12:11 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss"
       },
       {
-        "title": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
-        "published": "Wed, 19 Aug 2026 15:44:02 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss"
-      },
-      {
-        "title": "Israel numbers Palestinian detainee foreheads: What we know",
-        "published": "Wed, 19 Aug 2026 14:48:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss"
-      },
-      {
-        "title": "Israeli forces mark Palestinians with numbers amid mass arrests",
-        "published": "Wed, 19 Aug 2026 13:20:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss"
-      },
-      {
-        "title": "War on Iran: Iran allegedly targets the UAE",
-        "published": "Wed, 19 Aug 2026 13:01:05 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss"
-      },
-      {
-        "title": "ICC condemns US sanctions as ‘flagrant attack’ on court’s independence",
-        "published": "Wed, 19 Aug 2026 12:59:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-war-on-iran-puts-cambodian-childrens-education-at-risk?traffic_source=rss"
+        "title": "US war on Iran puts Cambodian children’s education at risk",
+        "published": "Wed, 19 Aug 2026 12:56:52 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/whats-happening-in-lebanons-pilot?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,18 +43,13 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Airstrike Kills 9 at Gaza City Police Station",
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Lessens Strikes After US-Backed Disarmament Plan",
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
         "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Israel Strikes Hamas Platoon Commander in Nuseirat",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
