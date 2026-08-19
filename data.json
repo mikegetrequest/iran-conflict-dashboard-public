@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-19 14:15",
+  "updated_at_gst": "2026-08-19 14:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Why White House envoys cannot sway Israel’s war leader",
+        "published": "Wed, 19 Aug 2026 10:24:26 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss"
+      },
       {
         "title": "At least five killed in Russian air attacks on Ukraine",
         "published": "Wed, 19 Aug 2026 09:34:38 +0000",
@@ -43,18 +48,13 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Airstrike Destroys Home in Nabatieh al-Fawqa, Lebanon",
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nabatieh al-Fawqa, Lebanon · 1h ago. Lebanese state media reports an Israeli airstrike destroyed a residential home in Nabatieh al-Fawqa, adding to a wave of Israeli strikes across southern Lebanon.",
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
         "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Israeli Forces, Settlers Carry Out 467 West Bank Attacks in a Week",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
