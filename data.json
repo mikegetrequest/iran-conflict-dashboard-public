@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-19 22:15",
+  "updated_at_gst": "2026-08-19 22:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan",
+        "published": "Wed, 19 Aug 2026 18:21:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss"
+      },
+      {
+        "title": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
+        "published": "Wed, 19 Aug 2026 17:50:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/19/us-department-of-justice-defends-prosecution-of-comey-over-seashell-post?traffic_source=rss"
+      },
+      {
         "title": "US pressure on Israel needed for peace in Syria",
         "published": "Wed, 19 Aug 2026 17:12:11 +0000",
         "link": "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss"
-      },
-      {
-        "title": "US war on Iran puts Cambodian children’s education at risk",
-        "published": "Wed, 19 Aug 2026 12:56:52 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/whats-happening-in-lebanons-pilot?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Israel · 1m ago. An Indian caregiver was fatally stabbed in Israel, and the elderly couple's grandson has been indicted in connection with the incident, highlighting a violent crime.",
+        "title": "— S3 · Conflict · Israel · 45m ago. An Indian caregiver was fatally stabbed in Israel, and the elderly couple's grandson has been indicted in connection with the incident, highlighting a violent crime.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
