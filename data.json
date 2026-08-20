@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-20 10:23",
+  "updated_at_gst": "2026-08-20 11:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Australian anger as Israel drops World Central Kitchen deaths case",
-        "published": "Thu, 20 Aug 2026 05:43:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss"
+        "title": "Trump vows ‘economic warfare’ on countries helping Iran",
+        "published": "Thu, 20 Aug 2026 04:31:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
       },
       {
-        "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
-        "published": "Thu, 20 Aug 2026 04:59:22 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss"
-      },
-      {
-        "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
-        "published": "Thu, 20 Aug 2026 01:56:41 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
-        "published": "Thu, 20 Aug 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/8/19/us-national-debt-passes-record-40-trillion?traffic_source=rss"
-      },
-      {
-        "title": "‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother",
-        "published": "Wed, 19 Aug 2026 23:56:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/19/kosovo-finds-remains-of-at-least-23-people-in-suspected-mass-graves?traffic_source=rss"
+        "title": "‘Tsunami’ of emigration reshapes Israel’s future, experts warn",
+        "published": "Thu, 20 Aug 2026 00:26:59 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Military Offensive as US Talks Stall",
+        "title": "Pakistani Sailors Injured in Houthi Red Sea Attack Return Home",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 3h ago. Iran initiates a military offensive amid stalled nuclear talks with the US, escalating regional tensions.",
+        "title": "Iran Launches Military Offensive as US Talks Stall",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Degrade Iran's Strait of Hormuz Surveillance",
+        "title": "— S3 · Conflict · Iran · 4h ago. Iran initiates a military offensive amid stalled nuclear talks with the US, escalating regional tensions.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
