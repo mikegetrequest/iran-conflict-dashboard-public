@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-20 22:20",
+  "updated_at_gst": "2026-08-20 23:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
-        "published": "Thu, 20 Aug 2026 15:41:56 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss"
+        "title": "Thai schools hold shooter drills after deadly attack",
+        "published": "Thu, 20 Aug 2026 18:59:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss"
+      },
+      {
+        "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
+        "published": "Thu, 20 Aug 2026 17:00:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel's Military Presence Grows in Southern Syria",
+        "title": "UN Envoy Condemns Israeli Airstrike on Syrian Airbase",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Turkey, Egypt, Qatar Condemn Israeli Strikes in Gaza",
+        "title": "— S3 · Conflict · Damascus, Syria · 35m ago. A UN envoy condemned an Israeli airstrike on a Syrian airbase, highlighting international concern over the ongoing conflict and its impact on regional stability.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 4h ago. The three mediators urge Israel to honor ceasefire obligations and warn the strikes undermine efforts to end the Gaza war at a critical moment.",
+        "title": "Israel's Military Presence Grows in Southern Syria",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
