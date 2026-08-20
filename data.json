@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-20 23:07",
+  "updated_at_gst": "2026-08-20 23:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,18 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Thai schools hold shooter drills after deadly attack",
-        "published": "Thu, 20 Aug 2026 18:59:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss"
-      },
-      {
-        "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
-        "published": "Thu, 20 Aug 2026 17:00:12 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -48,7 +37,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Damascus, Syria · 35m ago. A UN envoy condemned an Israeli airstrike on a Syrian airbase, highlighting international concern over the ongoing conflict and its impact on regional stability.",
+        "title": "— S3 · Conflict · Damascus, Syria · 1h ago. A UN envoy condemned an Israeli airstrike on a Syrian airbase, highlighting international concern over the ongoing conflict and its impact on regional stability.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
