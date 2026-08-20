@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-21 02:50",
+  "updated_at_gst": "2026-08-21 03:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
-        "published": "Thu, 20 Aug 2026 20:28:44 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss"
+        "title": "US charges woman for allegedly plotting attack on New York State Capitol",
+        "published": "Thu, 20 Aug 2026 23:01:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss"
       },
       {
-        "title": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
-        "published": "Thu, 20 Aug 2026 19:11:44 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fishermen-rescued-after-five-days-clinging-to-cooler-at-sea?traffic_source=rss"
-      },
-      {
-        "title": "Jewish-American barred by Israel calls settler violence ‘state terror’",
-        "published": "Thu, 20 Aug 2026 19:09:33 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/20/james-harden-agrees-to-three-year-97m-cleveland-cavaliers-deal-report?traffic_source=rss"
-      },
-      {
-        "title": "Thai schools hold shooter drills after deadly attack",
-        "published": "Thu, 20 Aug 2026 18:59:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss"
+        "title": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
+        "published": "Thu, 20 Aug 2026 20:05:53 +0000",
+        "link": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khirbet Deir Shams, West Bank · 9m ago. Red Crescent says Israeli forces prevented ambulances from reaching Palestinians injured by settlers in Khirbet Deir Shams, West Bank, blocking medical access.",
+        "title": "— S3 · Conflict · Khirbet Deir Shams, West Bank · 33m ago. Red Crescent says Israeli forces prevented ambulances from reaching Palestinians injured by settlers in Khirbet Deir Shams, West Bank, blocking medical access.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
