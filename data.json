@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-20 21:21",
+  "updated_at_gst": "2026-08-20 21:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
-        "published": "Thu, 20 Aug 2026 17:00:12 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss"
-      },
-      {
-        "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
-        "published": "Thu, 20 Aug 2026 14:55:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss"
-      },
-      {
-        "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
-        "published": "Thu, 20 Aug 2026 14:40:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss"
+        "title": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
+        "published": "Thu, 20 Aug 2026 15:41:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. The three mediators urge Israel to honor ceasefire obligations and warn the strikes undermine efforts to end the Gaza war at a critical moment.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 4h ago. The three mediators urge Israel to honor ceasefire obligations and warn the strikes undermine efforts to end the Gaza war at a critical moment.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
