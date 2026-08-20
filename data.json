@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-20 19:55",
+  "updated_at_gst": "2026-08-20 20:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "War on Iran: Trump announces a new campaign to isolate Iran economically",
-        "published": "Thu, 20 Aug 2026 13:14:14 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/20/west-ham-urges-fans-to-stop-chant-containing-anti-palestine-message?traffic_source=rss"
+        "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
+        "published": "Thu, 20 Aug 2026 14:55:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss"
+      },
+      {
+        "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
+        "published": "Thu, 20 Aug 2026 14:40:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss"
+      },
+      {
+        "title": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
+        "published": "Thu, 20 Aug 2026 13:05:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/migrant-women-face-sexual-assault-in-ceuta?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
