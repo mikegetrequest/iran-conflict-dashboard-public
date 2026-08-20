@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-20 20:57",
+  "updated_at_gst": "2026-08-20 21:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
+        "published": "Thu, 20 Aug 2026 17:00:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss"
+      },
       {
         "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
         "published": "Thu, 20 Aug 2026 14:55:47 +0000",
