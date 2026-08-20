@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-20 11:13",
+  "updated_at_gst": "2026-08-20 12:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump vows ‘economic warfare’ on countries helping Iran",
-        "published": "Thu, 20 Aug 2026 04:31:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
+        "title": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
+        "published": "Thu, 20 Aug 2026 07:50:07 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss"
       },
       {
-        "title": "‘Tsunami’ of emigration reshapes Israel’s future, experts warn",
-        "published": "Thu, 20 Aug 2026 00:26:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss"
+        "title": "Australian anger as Israel drops World Central Kitchen deaths case",
+        "published": "Thu, 20 Aug 2026 05:43:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss"
+      },
+      {
+        "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
+        "published": "Thu, 20 Aug 2026 04:59:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss"
+      },
+      {
+        "title": "Russian missile barrage kills at least 12 people in Ukraine’s Kyiv",
+        "published": "Thu, 20 Aug 2026 02:50:17 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss"
+      },
+      {
+        "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+        "published": "Thu, 20 Aug 2026 01:56:41 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran says Trump’s new economic measures will fail",
+        "published": "Thu, 20 Aug 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/19/us-national-debt-passes-record-40-trillion?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +63,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Pakistani Sailors Injured in Houthi Red Sea Attack Return Home",
+        "title": "Israel Shells Towns in Southern Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Military Offensive as US Talks Stall",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 1m ago. Israeli forces fire artillery shells into several towns in southern Lebanon, escalating strikes amid ongoing cross-border tensions with Hezbollah.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 4h ago. Iran initiates a military offensive amid stalled nuclear talks with the US, escalating regional tensions.",
+        "title": "Pakistani Sailors Injured in Houthi Red Sea Attack Return Home",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
