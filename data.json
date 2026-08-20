@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-20 19:00",
+  "updated_at_gst": "2026-08-20 19:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
-        "published": "Thu, 20 Aug 2026 14:40:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss"
-      },
-      {
-        "title": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
-        "published": "Thu, 20 Aug 2026 13:05:05 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/migrant-women-face-sexual-assault-in-ceuta?traffic_source=rss"
-      },
-      {
-        "title": "Israel is betting on Islamophobia to save its standing in the West",
-        "published": "Thu, 20 Aug 2026 11:44:15 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss"
+        "title": "War on Iran: Trump announces a new campaign to isolate Iran economically",
+        "published": "Thu, 20 Aug 2026 13:14:14 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/20/west-ham-urges-fans-to-stop-chant-containing-anti-palestine-message?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 44m ago. The three mediators urge Israel to honor ceasefire obligations and warn the strikes undermine efforts to end the Gaza war at a critical moment.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. The three mediators urge Israel to honor ceasefire obligations and warn the strikes undermine efforts to end the Gaza war at a critical moment.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
