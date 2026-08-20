@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-20 13:01",
+  "updated_at_gst": "2026-08-20 13:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,12 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Are Hormuz ships more willing to defy Iran or the US? What data shows",
+        "title": "How conflict is making life more expensive for Iranians",
+        "published": "Thu, 20 Aug 2026 09:20:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss"
+      },
+      {
+        "title": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
         "published": "Thu, 20 Aug 2026 08:43:17 +0000",
         "link": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss"
       },
@@ -58,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 1h ago. Israeli forces fire artillery shells into several towns in southern Lebanon, escalating strikes amid ongoing cross-border tensions with Hezbollah.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 2h ago. Israeli forces fire artillery shells into several towns in southern Lebanon, escalating strikes amid ongoing cross-border tensions with Hezbollah.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
