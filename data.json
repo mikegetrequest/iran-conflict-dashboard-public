@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-22 00:44",
+  "updated_at_gst": "2026-08-22 01:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -39,11 +39,6 @@
         "title": "Russian drone attack on busy shopping centre kills 15 in Ukraine",
         "published": "Fri, 21 Aug 2026 18:17:40 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/how-is-drought-hitting-uk-farming?traffic_source=rss"
-      },
-      {
-        "title": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
-        "published": "Fri, 21 Aug 2026 17:17:55 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -73,7 +68,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Sanaa, Yemen · 1h ago. Video shows Houthis deploying an Iranian-designated bomber drone to drop multiple small bombs, highlighting continued Iranian support.",
+        "title": "— S3 · Conflict · Sanaa, Yemen · 2h ago. Video shows Houthis deploying an Iranian-designated bomber drone to drop multiple small bombs, highlighting continued Iranian support.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
