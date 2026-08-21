@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-21 08:07",
+  "updated_at_gst": "2026-08-21 08:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-        "published": "Thu, 20 Aug 2026 23:19:56 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss"
+        "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
+        "published": "Fri, 21 Aug 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss"
       },
       {
-        "title": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
-        "published": "Thu, 20 Aug 2026 20:28:44 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss"
+        "title": "US charges woman for allegedly plotting attack on New York State Capitol",
+        "published": "Thu, 20 Aug 2026 23:01:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,13 +43,18 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "Israeli Forces Kill Palestinian Man in Jenin Home Raid",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "— S3 · Conflict · Jenin, West Bank, Palestine · 43m ago. Israeli forces raided a home in Jenin, West Bank, killing a Palestinian man amid ongoing operations.",
         "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Jenin, West Bank, Palestine · 4h ago. An individual attempting to stab an IDF soldier in the Jenin area was shot; no Israeli forces were injured.",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
