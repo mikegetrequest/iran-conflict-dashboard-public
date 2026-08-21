@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-21 15:47",
+  "updated_at_gst": "2026-08-21 16:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli settlers set fire to Palestinian home while family asleep",
-        "published": "Fri, 21 Aug 2026 07:58:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss"
+        "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
+        "published": "Fri, 21 Aug 2026 07:56:21 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attacks Force Closure of al-Makha Port, Yemen",
+        "title": "— S3 · Humanitarian · Sudan · 2m ago. Aid workers in Sudan are facing attacks, highlighting the ongoing challenges and dangers for volunteers trying to maintain humanitarian lifelines amidst the conflict.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · al-Makha, Yemen · 24m ago. Houthi attacks have forced the suspension of operations at al-Makha port, leaving workers jobless and traders concerned about future economic impact in Yemen.",
+        "title": "Houthi Attacks Force Closure of al-Makha Port, Yemen",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Army Carries Out Massive Explosion in Southern Lebanon",
+        "title": "— S3 · Conflict · al-Makha, Yemen · 56m ago. Houthi attacks have forced the suspension of operations at al-Makha port, leaving workers jobless and traders concerned about future economic impact in Yemen.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
