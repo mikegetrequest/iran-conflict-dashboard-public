@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-22 00:11",
+  "updated_at_gst": "2026-08-22 00:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
-        "published": "Fri, 21 Aug 2026 19:08:30 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss"
+        "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
+        "published": "Fri, 21 Aug 2026 20:03:35 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss"
       },
       {
-        "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
-        "published": "Fri, 21 Aug 2026 17:29:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss"
+        "title": "Palestinian victims of Israeli settler attacks face battle for justice",
+        "published": "Fri, 21 Aug 2026 19:14:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss"
+      },
+      {
+        "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
+        "published": "Fri, 21 Aug 2026 18:55:22 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss"
+      },
+      {
+        "title": "Drone strike on Ukraine shopping centre kills 14, over 100 injured",
+        "published": "Fri, 21 Aug 2026 18:40:11 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss"
+      },
+      {
+        "title": "Russian drone attack on busy shopping centre kills 15 in Ukraine",
+        "published": "Fri, 21 Aug 2026 18:17:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/how-is-drought-hitting-uk-farming?traffic_source=rss"
+      },
+      {
+        "title": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
+        "published": "Fri, 21 Aug 2026 17:17:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +73,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Sanaa, Yemen · 41m ago. Video shows Houthis deploying an Iranian-designated bomber drone to drop multiple small bombs, highlighting continued Iranian support.",
+        "title": "— S3 · Conflict · Sanaa, Yemen · 1h ago. Video shows Houthis deploying an Iranian-designated bomber drone to drop multiple small bombs, highlighting continued Iranian support.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
