@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-21 22:18",
+  "updated_at_gst": "2026-08-21 23:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,11 +24,6 @@
         "title": "Israeli settlers set fire to heavy machinery at West Bank quarry",
         "published": "Fri, 21 Aug 2026 16:00:02 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss"
-      },
-      {
-        "title": "War on Iran: The US could focus on economically isolating Iran",
-        "published": "Fri, 21 Aug 2026 13:59:28 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Air Force Strikes Hezbollah Cell Near Baraachit",
+        "title": "Israel Strikes Abu al-Duhur Airbase in Syria",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Bomb Saudi-Backed Forces With Iranian Hexacopters in Yemen",
+        "title": "Israeli Air Force Strikes Hezbollah Cell Near Baraachit",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Sanaa, Yemen · 5h ago. Yemen's Houthis released footage of their forces using Iranian-designed hexacopters to bomb Saudi-backed forces, capable of dropping multiple bombs.",
+        "title": "Houthis Bomb Saudi-Backed Forces With Iranian Hexacopters in Yemen",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
