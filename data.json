@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-21 19:58",
+  "updated_at_gst": "2026-08-21 20:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli settlers set fire to heavy machinery at West Bank quarry",
+        "published": "Fri, 21 Aug 2026 16:00:02 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss"
+      },
       {
         "title": "War on Iran: The US could focus on economically isolating Iran",
         "published": "Fri, 21 Aug 2026 13:59:28 +0000",
