@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-21 23:03",
+  "updated_at_gst": "2026-08-21 23:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
+        "published": "Fri, 21 Aug 2026 19:08:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss"
+      },
+      {
         "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
         "published": "Fri, 21 Aug 2026 17:29:17 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settlers set fire to heavy machinery at West Bank quarry",
-        "published": "Fri, 21 Aug 2026 16:00:02 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Abu al-Duhur Airbase in Syria",
+        "title": "Pentagon Reveals 750 US Servicemen Wounded in Iran War",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Air Force Strikes Hezbollah Cell Near Baraachit",
+        "title": "Houthis Use Iranian-Designated Bomber Drone in Yemen",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Bomb Saudi-Backed Forces With Iranian Hexacopters in Yemen",
+        "title": "— S3 · Conflict · Sanaa, Yemen · 13m ago. Video shows Houthis deploying an Iranian-designated bomber drone to drop multiple small bombs, highlighting continued Iranian support.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
