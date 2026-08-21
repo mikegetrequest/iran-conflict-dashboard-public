@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-21 03:45",
+  "updated_at_gst": "2026-08-21 04:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,18 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+        "published": "Thu, 20 Aug 2026 23:19:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss"
+      },
+      {
+        "title": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
+        "published": "Thu, 20 Aug 2026 20:28:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -37,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khirbet Deir Shams, West Bank · 1h ago. Red Crescent says Israeli forces prevented ambulances from reaching Palestinians injured by settlers in Khirbet Deir Shams, West Bank, blocking medical access.",
+        "title": "— S3 · Conflict · Khirbet Deir Shams, West Bank · 2h ago. Red Crescent says Israeli forces prevented ambulances from reaching Palestinians injured by settlers in Khirbet Deir Shams, West Bank, blocking medical access.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
