@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-21 21:53",
+  "updated_at_gst": "2026-08-21 22:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
-        "published": "Fri, 21 Aug 2026 17:17:55 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss"
+        "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
+        "published": "Fri, 21 Aug 2026 17:29:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss"
       },
       {
-        "title": "Three people injured in sword attack at school in Sweden",
-        "published": "Fri, 21 Aug 2026 13:48:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss"
+        "title": "Israeli settlers set fire to heavy machinery at West Bank quarry",
+        "published": "Fri, 21 Aug 2026 16:00:02 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss"
+      },
+      {
+        "title": "War on Iran: The US could focus on economically isolating Iran",
+        "published": "Fri, 21 Aug 2026 13:59:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
