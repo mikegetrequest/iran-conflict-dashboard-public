@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-22 03:44",
+  "updated_at_gst": "2026-08-22 04:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
-        "published": "Fri, 21 Aug 2026 20:03:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss"
-      },
-      {
-        "title": "Palestinian victims of Israeli settler attacks face battle for justice",
-        "published": "Fri, 21 Aug 2026 19:14:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss"
-      },
-      {
-        "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
-        "published": "Fri, 21 Aug 2026 18:55:22 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss"
+        "title": "One killed, three wounded in sword attack at Swedish high school",
+        "published": "Fri, 21 Aug 2026 21:23:35 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Beirut, Lebanon · 2h ago. Lebanon's Health Ministry reports at least 4,348 killed by Israeli strikes since March 2, as the conflict continues.",
+        "title": "— S4 · Conflict · Beirut, Lebanon · 3h ago. Lebanon's Health Ministry reports at least 4,348 killed by Israeli strikes since March 2, as the conflict continues.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
