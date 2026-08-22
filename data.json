@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-23 01:41",
+  "updated_at_gst": "2026-08-23 02:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -34,11 +34,6 @@
         "title": "Armed men kidnap dozens in attacks on Nigerian villages",
         "published": "Sat, 22 Aug 2026 17:58:15 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss"
-      },
-      {
-        "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
-        "published": "Sat, 22 Aug 2026 16:41:43 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,13 +53,18 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "— S3 · Conflict · Tubas, West Bank, Palestine · 4h ago. Red Crescent reports 11 Palestinians suffering tear gas inhalation during Israeli military raids on Tubas and Taysir in the occupied West Bank.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "Anti-Ship Missiles Fired Toward Strait of Hormuz",
         "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Israel Strikes Houses Near Mays al-Jabal in Lebanon",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
