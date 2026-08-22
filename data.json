@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-22 16:13",
+  "updated_at_gst": "2026-08-22 17:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran says new US sanctions violate sovereignty of other states",
-        "published": "Sat, 22 Aug 2026 09:14:09 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss"
+        "title": "Jewish activists push back against Israeli settlers",
+        "published": "Sat, 22 Aug 2026 12:51:55 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss"
       },
       {
-        "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
-        "published": "Sat, 22 Aug 2026 04:30:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss"
+        "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
+        "published": "Sat, 22 Aug 2026 07:35:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Beirut, Lebanon · 15h ago. Lebanon's Health Ministry reports at least 4,348 killed by Israeli strikes since March 2, as the conflict continues.",
+        "title": "— S4 · Conflict · Beirut, Lebanon · 16h ago. Lebanon's Health Ministry reports at least 4,348 killed by Israeli strikes since March 2, as the conflict continues.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
