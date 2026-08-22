@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-22 13:15",
+  "updated_at_gst": "2026-08-22 13:47",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
-        "published": "Sat, 22 Aug 2026 07:35:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss"
+        "title": "Iran says new US sanctions violate sovereignty of other states",
+        "published": "Sat, 22 Aug 2026 09:14:09 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss"
       },
       {
-        "title": "Iranian president says time to end war with US from ‘position of strength’",
-        "published": "Sat, 22 Aug 2026 00:59:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss"
+        "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
+        "published": "Sat, 22 Aug 2026 04:30:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss"
+      },
+      {
+        "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
+        "published": "Sat, 22 Aug 2026 03:19:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
