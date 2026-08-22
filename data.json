@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-22 04:30",
+  "updated_at_gst": "2026-08-22 06:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,21 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "California lawmaker overcomes pro-Israel spending to win special election",
+        "published": "Sat, 22 Aug 2026 00:38:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader?traffic_source=rss"
+      },
+      {
+        "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+        "published": "Sat, 22 Aug 2026 00:06:48 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss"
+      },
+      {
+        "title": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
+        "published": "Fri, 21 Aug 2026 23:19:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss"
+      },
       {
         "title": "One killed, three wounded in sword attack at Swedish high school",
         "published": "Fri, 21 Aug 2026 21:23:35 +0000",
@@ -43,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Beirut, Lebanon · 3h ago. Lebanon's Health Ministry reports at least 4,348 killed by Israeli strikes since March 2, as the conflict continues.",
+        "title": "— S4 · Conflict · Beirut, Lebanon · 5h ago. Lebanon's Health Ministry reports at least 4,348 killed by Israeli strikes since March 2, as the conflict continues.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
