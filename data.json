@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-22 22:11",
+  "updated_at_gst": "2026-08-22 22:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Armed men kidnap dozens in attacks on Nigerian villages",
+        "published": "Sat, 22 Aug 2026 17:58:15 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss"
+      },
       {
         "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
         "published": "Sat, 22 Aug 2026 16:41:43 +0000",
@@ -58,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Anti-Ship Missiles Fired Toward Strait of Hormuz",
+        "title": "— S3 · Conflict · Tubas, West Bank, Palestine · 37m ago. Red Crescent reports 11 Palestinians suffering tear gas inhalation during Israeli military raids on Tubas and Taysir in the occupied West Bank.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
