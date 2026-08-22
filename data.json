@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-22 18:09",
+  "updated_at_gst": "2026-08-22 18:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
-        "published": "Sat, 22 Aug 2026 12:09:09 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss"
+        "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+        "published": "Sat, 22 Aug 2026 14:19:06 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss"
       },
       {
-        "title": "Iran says new US sanctions violate sovereignty of other states",
-        "published": "Sat, 22 Aug 2026 09:14:09 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss"
+        "title": "Jewish activists push back against Israeli settlers",
+        "published": "Sat, 22 Aug 2026 12:51:55 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,18 +43,13 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Kills 4,348 in Lebanon Since March 2",
+        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Beirut, Lebanon · 17h ago. Lebanon's Health Ministry reports at least 4,348 killed by Israeli strikes since March 2, as the conflict continues.",
+        "title": "— Israel, Iran, Syria, Yemen, Gulf",
         "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Israeli Military Fires on Terrorist in Daraa, Syria",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
