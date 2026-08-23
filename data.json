@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-24 00:08",
+  "updated_at_gst": "2026-08-24 00:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Is Israel about to split the occupied West Bank in half?",
+        "published": "Sun, 23 Aug 2026 20:23:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss"
+      },
+      {
         "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
         "published": "Sun, 23 Aug 2026 18:47:11 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Can Nigeria cash in on Iran war?",
         "published": "Sun, 23 Aug 2026 16:07:01 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss"
-      },
-      {
-        "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
-        "published": "Sun, 23 Aug 2026 15:25:47 +0000",
-        "link": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Persian Gulf · 49m ago. UAE-owned MUBARAZ, Greek-registered MINOAN PIONEER, and Qatari-owned AL REKAYYAT identified among vessels struck in the Persian Gulf amid US-Iran tensions.",
+        "title": "— S3 · Conflict · Persian Gulf · 1h ago. UAE-owned MUBARAZ, Greek-registered MINOAN PIONEER, and Qatari-owned AL REKAYYAT identified among vessels struck in the Persian Gulf amid US-Iran tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -63,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Haifa, Israel · 4h ago. A reputed crime boss was gunned down in broad daylight at a Haifa gas station; police are investigating amid ongoing organized crime violence in northern Israel.",
+        "title": "— S3 · Conflict · Haifa, Israel · 5h ago. A reputed crime boss was gunned down in broad daylight at a Haifa gas station; police are investigating amid ongoing organized crime violence in northern Israel.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
