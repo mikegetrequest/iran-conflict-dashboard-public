@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-23 07:26",
+  "updated_at_gst": "2026-08-23 08:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -53,13 +53,18 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "— S3 · Conflict · East Jerusalem, Palestine · 2h ago. A family feud in East Jerusalem escalated into gunfire and Molotov cocktail attacks, killing three people. Israeli security forces responded to the incident.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "Syria Condemns Israeli Strike Near Damascus",
         "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Political · Damascus, Syria · 4h ago. Syria denounces an alleged Israeli airstrike near Damascus as a violation of international law, days after a separate strike on a Syrian airbase near the Turkish border.",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
