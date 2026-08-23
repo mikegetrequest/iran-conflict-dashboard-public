@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-24 01:41",
+  "updated_at_gst": "2026-08-24 02:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Will Donald Trump’s new sanctions against Iran work?",
+        "published": "Sun, 23 Aug 2026 21:34:53 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss"
+      },
+      {
         "title": "Is Israel about to split the occupied West Bank in half?",
         "published": "Sun, 23 Aug 2026 20:23:01 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
         "published": "Sun, 23 Aug 2026 18:15:22 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss"
-      },
-      {
-        "title": "Can Nigeria cash in on Iran war?",
-        "published": "Sun, 23 Aug 2026 16:07:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Persian Gulf · 2h ago. UAE-owned MUBARAZ, Greek-registered MINOAN PIONEER, and Qatari-owned AL REKAYYAT identified among vessels struck in the Persian Gulf amid US-Iran tensions.",
+        "title": "— S3 · Conflict · Persian Gulf · 3h ago. UAE-owned MUBARAZ, Greek-registered MINOAN PIONEER, and Qatari-owned AL REKAYYAT identified among vessels struck in the Persian Gulf amid US-Iran tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
