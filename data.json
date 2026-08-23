@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-24 02:08",
+  "updated_at_gst": "2026-08-24 02:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Will Donald Trump’s new sanctions against Iran work?",
-        "published": "Sun, 23 Aug 2026 21:34:53 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss"
-      },
-      {
-        "title": "Is Israel about to split the occupied West Bank in half?",
-        "published": "Sun, 23 Aug 2026 20:23:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss"
-      },
-      {
-        "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
-        "published": "Sun, 23 Aug 2026 18:47:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss"
-      },
-      {
-        "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
-        "published": "Sun, 23 Aug 2026 18:15:22 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss"
+        "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
+        "published": "Sun, 23 Aug 2026 17:53:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Haifa, Israel · 6h ago. A reputed crime boss was gunned down in broad daylight at a Haifa gas station; police are investigating amid ongoing organized crime violence in northern Israel.",
+        "title": "— S3 · Conflict · Haifa, Israel · 7h ago. A reputed crime boss was gunned down in broad daylight at a Haifa gas station; police are investigating amid ongoing organized crime violence in northern Israel.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
