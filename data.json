@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-23 13:15",
+  "updated_at_gst": "2026-08-23 13:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
+        "published": "Sun, 23 Aug 2026 09:21:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/23/where-water-conflicts-pose-the-biggest-threat-in-2026?traffic_source=rss"
+      },
+      {
         "title": "Israeli wounded in occupied West Bank stabbing",
         "published": "Sun, 23 Aug 2026 08:38:01 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Iran war live: Tehran warns neighbours against joining US economic war",
         "published": "Sun, 23 Aug 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss"
-      },
-      {
-        "title": "Iran warns of retaliation against countries joining US ‘economic war’",
-        "published": "Sat, 22 Aug 2026 23:26:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 4m ago. Health ministry figures say at least 73,420 Palestinians have been killed since the war began, with the toll continuing to mount amid ongoing Israeli operations.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 37m ago. Health ministry figures say at least 73,420 Palestinians have been killed since the war began, with the toll continuing to mount amid ongoing Israeli operations.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -63,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Tehran, Iran · 1h ago. The Iranian rial plunged to a record low of 1,975,000 rials per US dollar amid ongoing US sanctions and regional tensions, signaling deepening economic crisis.",
+        "title": "— S3 · Economic · Tehran, Iran · 2h ago. The Iranian rial plunged to a record low of 1,975,000 rials per US dollar amid ongoing US sanctions and regional tensions, signaling deepening economic crisis.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
