@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-23 20:10",
+  "updated_at_gst": "2026-08-23 20:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
-        "published": "Sun, 23 Aug 2026 15:25:47 +0000",
-        "link": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss"
+        "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
+        "published": "Sun, 23 Aug 2026 15:38:16 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss"
       },
       {
-        "title": "Dozens of attacks in southern Thailand wound three people",
-        "published": "Sun, 23 Aug 2026 13:08:37 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss"
-      },
-      {
-        "title": "Can Iran retaliate against countries that join US ‘economic war’?",
-        "published": "Sun, 23 Aug 2026 11:50:22 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/23/sydney-marathon-organisers-not-running-away-from-unfortunate-medal-error?traffic_source=rss"
+        "title": "Heavy Israeli air strike hits warehouse in central Gaza",
+        "published": "Sun, 23 Aug 2026 13:20:57 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Haifa, Israel · 26m ago. A reputed crime boss was gunned down in broad daylight at a Haifa gas station; police are investigating amid ongoing organized crime violence in northern Israel.",
+        "title": "— S3 · Conflict · Haifa, Israel · 1h ago. A reputed crime boss was gunned down in broad daylight at a Haifa gas station; police are investigating amid ongoing organized crime violence in northern Israel.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
