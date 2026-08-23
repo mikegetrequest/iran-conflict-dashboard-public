@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-23 19:09",
+  "updated_at_gst": "2026-08-23 19:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Heavy Israeli air strike hits warehouse in central Gaza",
-        "published": "Sun, 23 Aug 2026 13:20:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss"
+        "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
+        "published": "Sun, 23 Aug 2026 15:25:47 +0000",
+        "link": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss"
       },
       {
-        "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
-        "published": "Sun, 23 Aug 2026 11:00:18 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/23/mourinho-decries-alleged-bullying-of-vinicius-in-reals-win-at-espanyol?traffic_source=rss"
+        "title": "Dozens of attacks in southern Thailand wound three people",
+        "published": "Sun, 23 Aug 2026 13:08:37 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss"
       },
       {
-        "title": "Syria’s foreign minister says door open for diplomacy with Israel",
-        "published": "Sun, 23 Aug 2026 10:48:55 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/far-right-provocateur-jake-lang-arrested-after-minneapolis-riot?traffic_source=rss"
+        "title": "Can Iran retaliate against countries that join US ‘economic war’?",
+        "published": "Sun, 23 Aug 2026 11:50:22 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/23/sydney-marathon-organisers-not-running-away-from-unfortunate-medal-error?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 18m ago. Four people were wounded in an Israeli drone strike north of Khan Younis in the southern Gaza Strip.",
+        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 51m ago. Four people were wounded in an Israeli drone strike north of Khan Younis in the southern Gaza Strip.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
