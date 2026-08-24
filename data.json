@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-25 01:16",
+  "updated_at_gst": "2026-08-25 01:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Video: Israel attacks desalination plant and mosque in Gaza",
-        "published": "Mon, 24 Aug 2026 19:21:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss"
+        "title": "US public support for Iran war falls as Trump approval at record low: Poll",
+        "published": "Mon, 24 Aug 2026 21:35:10 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss"
+      },
+      {
+        "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
+        "published": "Mon, 24 Aug 2026 21:12:06 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss"
+      },
+      {
+        "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
+        "published": "Mon, 24 Aug 2026 20:48:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss"
+      },
+      {
+        "title": "Violence flares in Haiti as gang attack kills 30 people",
+        "published": "Mon, 24 Aug 2026 20:23:39 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss"
+      },
+      {
+        "title": "Yemen’s Houthis report attack on Saudi oil tanker in Red Sea",
+        "published": "Mon, 24 Aug 2026 19:44:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Israeli restrictions cause fuel shortage in occupied West Bank",
+        "published": "Mon, 24 Aug 2026 19:18:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +68,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khan Younis, Palestine · 41m ago. Israeli forces opened fire on homes and displacement tents in Khan Younis, killing five Palestinians including a 10-year-old girl, amid ongoing strikes on civilians.",
+        "title": "— S3 · Conflict · Khan Younis, Palestine · 1h ago. Israeli forces opened fire on homes and displacement tents in Khan Younis, killing five Palestinians including a 10-year-old girl, amid ongoing strikes on civilians.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
