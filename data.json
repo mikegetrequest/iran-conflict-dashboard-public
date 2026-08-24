@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-24 21:01",
+  "updated_at_gst": "2026-08-24 21:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -29,11 +29,6 @@
         "title": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
         "published": "Mon, 24 Aug 2026 15:02:34 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss"
-      },
-      {
-        "title": "Activists occupy UK aircraft parts factory over Israel links",
-        "published": "Mon, 24 Aug 2026 12:07:44 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Netanyahu Claims Iran Attempted to Assassinate His Son in Israel",
+        "title": "Israel Strikes Hamas Weapon Depots in Gaza Strip",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Israel · 5m ago. Israeli PM says Iran tried to kill one of his sons, marking a major escalation in tensions.",
+        "title": "US Treasury Sanctions Nearly 60 Iran-Linked Entities and Vessels",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Strait of Hormuz · 12m ago. US Navy blockade halted 17.6 million barrels of crude oil on Aug 9, part of economic warfare against Iran.",
+        "title": "— S3 · Economic · Strait of Hormuz · 1h ago. US Navy blockade halted 17.6 million barrels of crude oil on Aug 9, part of economic warfare against Iran.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
