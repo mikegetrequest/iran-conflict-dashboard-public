@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-24 11:47",
+  "updated_at_gst": "2026-08-24 12:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How much more are you spending on petrol since the war in Iran began?",
-        "published": "Mon, 24 Aug 2026 07:26:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss"
+        "title": "Pakistan’s army chief back in Iran: Can he break peace talks deadlock?",
+        "published": "Mon, 24 Aug 2026 06:30:37 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss"
       },
       {
-        "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
-        "published": "Mon, 24 Aug 2026 03:56:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss"
+        "title": "‘We know this movie’: Iran mocks latest US sanctions",
+        "published": "Mon, 24 Aug 2026 04:02:14 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Iran · 9m ago. At least 145 countries report higher petrol prices following US and Israeli attacks on Iran, reflecting global economic fallout.",
+        "title": "— S3 · Economic · Iran · 55m ago. At least 145 countries report higher petrol prices following US and Israeli attacks on Iran, reflecting global economic fallout.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
