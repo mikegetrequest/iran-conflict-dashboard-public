@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-24 20:02",
+  "updated_at_gst": "2026-08-24 21:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
-        "published": "Mon, 24 Aug 2026 12:28:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss"
+        "title": "What to expect as Iran braces for new US economic measures amid war",
+        "published": "Mon, 24 Aug 2026 16:02:50 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/24/trump-slams-canada-with-new-50-percent-auto-tariffs-for-2027?traffic_source=rss"
+      },
+      {
+        "title": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
+        "published": "Mon, 24 Aug 2026 15:17:36 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss"
+      },
+      {
+        "title": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
+        "published": "Mon, 24 Aug 2026 15:02:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss"
+      },
+      {
+        "title": "Activists occupy UK aircraft parts factory over Israel links",
+        "published": "Mon, 24 Aug 2026 12:07:44 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Claim Missile Strike on Saudi Tanker AMZAN",
+        "title": "Netanyahu Claims Iran Attempted to Assassinate His Son in Israel",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Kfartibnit, Lebanon, Preparing for Campaign",
+        "title": "— S3 · Political · Israel · 5m ago. Israeli PM says Iran tried to kill one of his sons, marking a major escalation in tensions.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Airstrike Kills Hezbollah Commander in Southern Lebanon",
+        "title": "— S3 · Economic · Strait of Hormuz · 12m ago. US Navy blockade halted 17.6 million barrels of crude oil on Aug 9, part of economic warfare against Iran.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
