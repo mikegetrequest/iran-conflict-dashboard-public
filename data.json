@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-24 09:58",
+  "updated_at_gst": "2026-08-24 10:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?",
+        "published": "Mon, 24 Aug 2026 06:30:37 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss"
+      },
+      {
         "title": "‘We know this movie’: Iran mocks latest US sanctions",
         "published": "Mon, 24 Aug 2026 04:02:14 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Will Donald Trump’s new sanctions against Iran work?",
         "published": "Sun, 23 Aug 2026 21:34:53 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss"
-      },
-      {
-        "title": "Is Israel about to split the occupied West Bank in half?",
-        "published": "Sun, 23 Aug 2026 20:23:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
