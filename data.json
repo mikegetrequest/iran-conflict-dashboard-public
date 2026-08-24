@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-25 02:49",
+  "updated_at_gst": "2026-08-25 03:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "How US sanctions on Iran ripple through global markets and consumers",
+        "published": "Mon, 24 Aug 2026 22:46:02 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss"
+      },
       {
         "title": "US public support for Iran war falls as Trump approval at record low: Poll",
         "published": "Mon, 24 Aug 2026 21:35:10 +0000",
@@ -39,11 +44,6 @@
         "title": "Yemen’s Houthis report attack on Saudi oil tanker in Red Sea",
         "published": "Mon, 24 Aug 2026 19:44:23 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Israeli restrictions cause fuel shortage in occupied West Bank",
-        "published": "Mon, 24 Aug 2026 19:18:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,13 +63,18 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Real-time AIS positions of naval vessels, carrier strike groups, and commercial shipping",
+        "title": "Iran Strikes Oil Tanker in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— Israel, Iran, Syria, Yemen, Gulf",
+        "title": "Israeli Fire Kills 5 in Khan Younis, Gaza, Including Child",
         "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S3 · Conflict · Khan Younis, Palestine · 3h ago. Israeli forces opened fire on homes and displacement tents in Khan Younis, killing five Palestinians including a 10-year-old girl, amid ongoing strikes on civilians.",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
