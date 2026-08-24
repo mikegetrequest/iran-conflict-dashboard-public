@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-24 23:06",
+  "updated_at_gst": "2026-08-24 23:50",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Video: Israel attacks desalination plant and mosque in Gaza",
+        "published": "Mon, 24 Aug 2026 19:21:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss"
+      },
+      {
         "title": "What to expect as Iran braces for new US economic measures amid war",
         "published": "Mon, 24 Aug 2026 16:02:50 +0000",
         "link": "https://www.aljazeera.com/economy/2026/8/24/trump-slams-canada-with-new-50-percent-auto-tariffs-for-2027?traffic_source=rss"
-      },
-      {
-        "title": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
-        "published": "Mon, 24 Aug 2026 15:17:36 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss"
-      },
-      {
-        "title": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
-        "published": "Mon, 24 Aug 2026 15:02:34 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Blocks Shipping Through Strait of Hormuz",
+        "title": "Israel Attacks Desalination Plant and Mosque in Gaza",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Strait of Hormuz · 23m ago. Iran has blocked shipping through the Strait of Hormuz following US and Israeli strikes that began on February 28, escalating tensions in the critical waterway.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 17m ago. Israeli forces struck a critical water desalination plant and a mosque in Gaza, intensifying military operations and damaging civilian infrastructure.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Hamas Weapon Depots in Gaza Strip",
+        "title": "Iran Blocks Shipping Through Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
