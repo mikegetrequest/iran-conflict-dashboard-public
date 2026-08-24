@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-24 23:50",
+  "updated_at_gst": "2026-08-25 00:15",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Video: Israel attacks desalination plant and mosque in Gaza",
-        "published": "Mon, 24 Aug 2026 19:21:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss"
+        "title": "Yemen’s Houthis report attack on Saudi ship",
+        "published": "Mon, 24 Aug 2026 19:44:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss"
       },
       {
-        "title": "What to expect as Iran braces for new US economic measures amid war",
-        "published": "Mon, 24 Aug 2026 16:02:50 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/8/24/trump-slams-canada-with-new-50-percent-auto-tariffs-for-2027?traffic_source=rss"
+        "title": "Israeli restrictions cause fuel shortage in occupied West Bank",
+        "published": "Mon, 24 Aug 2026 19:18:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "Israel threatens attacks in Gaza over children’s kites",
+        "published": "Mon, 24 Aug 2026 19:00:55 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss"
+      },
+      {
+        "title": "Trump administration announces global economic war on Iran",
+        "published": "Mon, 24 Aug 2026 17:53:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/24/japanese-delegation-seeks-to-soothe-strained-ties-with-china?traffic_source=rss"
+      },
+      {
+        "title": "Trump administration announces ‘economic D-day’ sanctions on Iran",
+        "published": "Mon, 24 Aug 2026 17:10:37 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strike on Gaza shelter extends casualty list",
+        "published": "Mon, 24 Aug 2026 16:27:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +68,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 17m ago. Israeli forces struck a critical water desalination plant and a mosque in Gaza, intensifying military operations and damaging civilian infrastructure.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 43m ago. Israeli forces struck a critical water desalination plant and a mosque in Gaza, intensifying military operations and damaging civilian infrastructure.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
