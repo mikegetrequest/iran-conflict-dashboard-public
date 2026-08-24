@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-24 08:12",
+  "updated_at_gst": "2026-08-24 09:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "‘We know this movie’: Iran mocks latest US sanctions",
+        "published": "Mon, 24 Aug 2026 04:02:14 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss"
+      },
+      {
         "title": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
         "published": "Mon, 24 Aug 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Is Israel about to split the occupied West Bank in half?",
         "published": "Sun, 23 Aug 2026 20:23:01 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss"
-      },
-      {
-        "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
-        "published": "Sun, 23 Aug 2026 18:47:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Detain Syrian Shepherd in Quneitra, Syria",
+        "title": "Israel Strikes Gaza After Balloon and Kite Launches",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Quneitra, Syria · 11m ago. Israeli troops crossed into Quneitra governorate from the Golan and detained a Syrian shepherd, extending a wave of cross-border ground operations in southern Syria.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 40m ago. Israel launched airstrikes on Gaza after accusing militants of launching incendiary balloons and kites. No casualties reported yet.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Military Vehicles Enter Southern Syrian Village",
+        "title": "Israeli Forces Detain Syrian Shepherd in Quneitra, Syria",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
