@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-25 00:15",
+  "updated_at_gst": "2026-08-25 00:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,12 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Yemen’s Houthis report attack on Saudi ship",
+        "title": "Violence flares in Haiti as gang attack kills 30 people",
+        "published": "Mon, 24 Aug 2026 20:23:39 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss"
+      },
+      {
+        "title": "Yemen’s Houthis report attack on Saudi oil tanker in Red Sea",
         "published": "Mon, 24 Aug 2026 19:44:23 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss"
       },
@@ -39,11 +44,6 @@
         "title": "Trump administration announces ‘economic D-day’ sanctions on Iran",
         "published": "Mon, 24 Aug 2026 17:10:37 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strike on Gaza shelter extends casualty list",
-        "published": "Mon, 24 Aug 2026 16:27:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,17 +63,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Attacks Desalination Plant and Mosque in Gaza",
+        "title": "Israeli Fire Kills 5 in Khan Younis, Gaza, Including Child",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 43m ago. Israeli forces struck a critical water desalination plant and a mosque in Gaza, intensifying military operations and damaging civilian infrastructure.",
+        "title": "— S3 · Conflict · Khan Younis, Palestine · 19m ago. Israeli forces opened fire on homes and displacement tents in Khan Younis, killing five Palestinians including a 10-year-old girl, amid ongoing strikes on civilians.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Blocks Shipping Through Strait of Hormuz",
+        "title": "Israel Attacks Desalination Plant and Mosque in Gaza",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
