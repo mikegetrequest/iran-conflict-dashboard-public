@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-25 04:31",
+  "updated_at_gst": "2026-08-25 06:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
+        "published": "Tue, 25 Aug 2026 01:46:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss"
+      },
+      {
         "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
         "published": "Tue, 25 Aug 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss"
-      },
-      {
-        "title": "Video: Israel attacks desalination plant and mosque in Gaza",
-        "published": "Mon, 24 Aug 2026 19:21:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khan Younis, Palestine · 4h ago. Israeli forces opened fire on homes and displacement tents in Khan Younis, killing five Palestinians including a 10-year-old girl, amid ongoing strikes on civilians.",
+        "title": "— S3 · Conflict · Khan Younis, Palestine · 6h ago. Israeli forces opened fire on homes and displacement tents in Khan Younis, killing five Palestinians including a 10-year-old girl, amid ongoing strikes on civilians.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
