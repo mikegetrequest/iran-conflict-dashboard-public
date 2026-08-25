@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-25 16:21",
+  "updated_at_gst": "2026-08-25 17:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Kremlin adviser warns UK drone factories could face attacks",
-        "published": "Tue, 25 Aug 2026 09:34:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss"
+        "title": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
+        "published": "Tue, 25 Aug 2026 13:10:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/we-cant-breathe-indonesians-battle-wildfire-haze?traffic_source=rss"
       },
       {
-        "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
-        "published": "Tue, 25 Aug 2026 09:05:54 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss"
+        "title": "Israeli forces raid UNRWA training centre in occupied East Jerusalem",
+        "published": "Tue, 25 Aug 2026 12:59:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/25/what-to-expect-in-elections-in-south-carolina-georgia-and-oklahoma?traffic_source=rss"
       },
       {
-        "title": "Pakistan says significant progress made in talks on Iran-US war",
-        "published": "Tue, 25 Aug 2026 08:32:52 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss"
+        "title": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
+        "published": "Tue, 25 Aug 2026 11:52:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/25/why-rohingya-refugees-are-protesting-in-coxs-bazar-9-years-after-genocide?traffic_source=rss"
+      },
+      {
+        "title": "How the US sanctions on Iran impact China",
+        "published": "Tue, 25 Aug 2026 11:30:08 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/25/ex-wimbledon-champion-vondrousova-appeals-to-cas-over-four-year-doping-ban?traffic_source=rss"
+      },
+      {
+        "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
+        "published": "Tue, 25 Aug 2026 10:22:00 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 15m ago. Israel has intensified attacks in the Gaza Strip and expanded settlements in the West Bank, despite international condemnation and calls for restraint.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. Israel has intensified attacks in the Gaza Strip and expanded settlements in the West Bank, despite international condemnation and calls for restraint.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
