@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-25 23:05",
+  "updated_at_gst": "2026-08-25 23:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Video: Israeli forces raid UN training centre and raise Israeli flag",
-        "published": "Tue, 25 Aug 2026 18:54:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss"
-      },
-      {
-        "title": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
-        "published": "Tue, 25 Aug 2026 17:27:01 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss"
-      },
-      {
-        "title": "Sanctions or missiles? How Gulf will view Trump’s new Iran approach",
-        "published": "Tue, 25 Aug 2026 16:39:24 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss"
-      },
-      {
-        "title": "Qatar says US sanctions on Iran are unilateral",
-        "published": "Tue, 25 Aug 2026 15:17:05 +0000",
-        "link": "https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss"
+        "title": "Israeli protesters block aid trucks from reaching Gaza",
+        "published": "Tue, 25 Aug 2026 19:02:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Tehran, Iran · 32m ago. Trump's 'economic D-Day' sanctions and naval blockade drive Iranian oil exports to collapse and the rial to plunge, as Tehran weighs war costs against a deal.",
+        "title": "— S3 · Economic · Tehran, Iran · 1h ago. Trump's 'economic D-Day' sanctions and naval blockade drive Iranian oil exports to collapse and the rial to plunge, as Tehran weighs war costs against a deal.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
