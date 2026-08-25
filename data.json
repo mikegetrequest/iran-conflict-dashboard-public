@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-25 22:22",
+  "updated_at_gst": "2026-08-25 23:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
-        "published": "Tue, 25 Aug 2026 15:23:17 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss"
+        "title": "Video: Israeli forces raid UN training centre and raise Israeli flag",
+        "published": "Tue, 25 Aug 2026 18:54:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss"
       },
       {
-        "title": "US launches Economic war on Iran",
-        "published": "Tue, 25 Aug 2026 15:12:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss"
+        "title": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
+        "published": "Tue, 25 Aug 2026 17:27:01 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss"
       },
       {
-        "title": "No, the Democratic Party is not shifting on Israel",
-        "published": "Tue, 25 Aug 2026 15:03:46 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/25/root-hacked-off-by-england-cricket-team-after-police-handcuff-carse?traffic_source=rss"
+        "title": "Sanctions or missiles? How Gulf will view Trump’s new Iran approach",
+        "published": "Tue, 25 Aug 2026 16:39:24 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss"
+      },
+      {
+        "title": "Qatar says US sanctions on Iran are unilateral",
+        "published": "Tue, 25 Aug 2026 15:17:05 +0000",
+        "link": "https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Drone Strike Kills 3 in Jabalia Camp, Gaza",
+        "title": "US Sanctions Tighten on Iran, Oil Exports Collapse",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Jabalia, Gaza Strip, Palestine · 2h ago. Israeli drone strike on Jabalia camp in northern Gaza kills three and wounds several, per Al-Shifa Hospital sources.",
+        "title": "— S3 · Economic · Tehran, Iran · 32m ago. Trump's 'economic D-Day' sanctions and naval blockade drive Iranian oil exports to collapse and the rial to plunge, as Tehran weighs war costs against a deal.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes al-Mansouri and Sarbin in Southern Lebanon",
+        "title": "Israeli Drone Strike Kills 3 in Jabalia Camp, Gaza",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
