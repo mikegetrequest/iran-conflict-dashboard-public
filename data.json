@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-25 15:50",
+  "updated_at_gst": "2026-08-25 16:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How the US sanctions on Iran impact China",
-        "published": "Tue, 25 Aug 2026 11:30:08 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/25/ex-wimbledon-champion-vondrousova-appeals-to-cas-over-four-year-doping-ban?traffic_source=rss"
+        "title": "Kremlin adviser warns UK drone factories could face attacks",
+        "published": "Tue, 25 Aug 2026 09:34:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss"
       },
       {
-        "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
-        "published": "Tue, 25 Aug 2026 10:22:00 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss"
+        "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
+        "published": "Tue, 25 Aug 2026 09:05:54 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss"
       },
       {
-        "title": "Who are Iran’s top trading partners US would need to target to isolate it?",
-        "published": "Tue, 25 Aug 2026 09:23:05 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss"
-      },
-      {
-        "title": "Thai vendor confronts Israeli tourists, raises Palestinian flag",
-        "published": "Tue, 25 Aug 2026 07:50:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/25/hasina-spat-stalls-bangladesh-india-reset-what-would-break-the-deadlock?traffic_source=rss"
+        "title": "Pakistan says significant progress made in talks on Iran-US war",
+        "published": "Tue, 25 Aug 2026 08:32:52 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel's Strikes Push Syria Towards Mecca Defence Pact Membership",
+        "title": "Israel Escalates Gaza Attacks and West Bank Expansion",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Syria · 4h ago. Damascus reportedly weighing mutual-defense pact with Turkey, Saudi Arabia, and Pakistan as Israeli strikes escalate, despite US-mediated security talks with Israel.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 15m ago. Israel has intensified attacks in the Gaza Strip and expanded settlements in the West Bank, despite international condemnation and calls for restraint.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "UAE Conducts Intense Military Airlift to RSF in Sudan",
+        "title": "Israel's Strikes Push Syria Towards Mecca Defence Pact Membership",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
