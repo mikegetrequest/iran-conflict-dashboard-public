@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-25 06:10",
+  "updated_at_gst": "2026-08-25 07:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
+        "published": "Tue, 25 Aug 2026 02:54:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss"
+      },
       {
         "title": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
         "published": "Tue, 25 Aug 2026 01:46:26 +0000",
@@ -53,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khan Younis, Palestine · 6h ago. Israeli forces opened fire on homes and displacement tents in Khan Younis, killing five Palestinians including a 10-year-old girl, amid ongoing strikes on civilians.",
+        "title": "— S3 · Conflict · Khan Younis, Palestine · 7h ago. Israeli forces opened fire on homes and displacement tents in Khan Younis, killing five Palestinians including a 10-year-old girl, amid ongoing strikes on civilians.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
