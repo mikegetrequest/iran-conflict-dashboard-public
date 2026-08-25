@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-25 13:04",
+  "updated_at_gst": "2026-08-25 13:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Kremlin adviser warns UK drone factories could face attacks",
+        "published": "Tue, 25 Aug 2026 09:34:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss"
+      },
+      {
+        "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
+        "published": "Tue, 25 Aug 2026 09:05:54 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss"
+      },
+      {
         "title": "Pakistan says significant progress made in talks on Iran-US war",
         "published": "Tue, 25 Aug 2026 08:32:52 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss"
@@ -24,11 +34,6 @@
         "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
         "published": "Tue, 25 Aug 2026 06:37:32 +0000",
         "link": "https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
-        "published": "Tue, 25 Aug 2026 02:54:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Syria · 1h ago. Damascus reportedly weighing mutual-defense pact with Turkey, Saudi Arabia, and Pakistan as Israeli strikes escalate, despite US-mediated security talks with Israel.",
+        "title": "— S3 · Political · Syria · 2h ago. Damascus reportedly weighing mutual-defense pact with Turkey, Saudi Arabia, and Pakistan as Israeli strikes escalate, despite US-mediated security talks with Israel.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
