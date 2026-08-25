@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-25 10:22",
+  "updated_at_gst": "2026-08-25 11:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
+        "published": "Tue, 25 Aug 2026 06:37:32 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss"
+      },
       {
         "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
         "published": "Tue, 25 Aug 2026 02:54:40 +0000",
