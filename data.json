@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-26 13:07",
+  "updated_at_gst": "2026-08-26 14:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Palestinian boy shot during Israeli raid on UNRWA centre",
-        "published": "Wed, 26 Aug 2026 07:41:02 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/8/26/the-rsfs-defeat-will-not-end-sudans-war-but-merely-fragment-it?traffic_source=rss"
+        "title": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
+        "published": "Wed, 26 Aug 2026 09:36:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss"
       },
       {
-        "title": "Iran bets economic pain will pressure Trump in game of ‘chicken’",
-        "published": "Wed, 26 Aug 2026 05:20:17 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss"
+        "title": "Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva",
+        "published": "Wed, 26 Aug 2026 09:00:35 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss"
+      },
+      {
+        "title": "UN rejects Israel’s threat to expel Gaza residents over kite-flying",
+        "published": "Wed, 26 Aug 2026 07:43:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss"
+      },
+      {
+        "title": "Trump threatens Iran’s partners: How do secondary sanctions work?",
+        "published": "Wed, 26 Aug 2026 07:18:07 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal?traffic_source=rss"
+      },
+      {
+        "title": "Iran, Oman agree on new temporary route in Hormuz",
+        "published": "Wed, 26 Aug 2026 06:02:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 11h ago. Israeli airstrike hits aid warehouse in Gaza, killing seven; Health Ministry warns of complete collapse of basic necessities.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 12h ago. Israeli airstrike hits aid warehouse in Gaza, killing seven; Health Ministry warns of complete collapse of basic necessities.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
