@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-26 16:23",
+  "updated_at_gst": "2026-08-26 17:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran, Oman agree on temporary Hormuz route: What we know",
-        "published": "Wed, 26 Aug 2026 12:05:09 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/dead-whale-washes-ashore-on-beach-in-mexico?traffic_source=rss"
+        "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
+        "published": "Wed, 26 Aug 2026 10:00:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss"
       },
       {
-        "title": "Why India is sharing missile secrets with its private sector",
-        "published": "Wed, 26 Aug 2026 11:32:35 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mother-and-daughter-detained-by-ice-in-hospital-after-car-crash?traffic_source=rss"
+        "title": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
+        "published": "Wed, 26 Aug 2026 09:36:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss"
       },
       {
-        "title": "The Bulgarian village that fears becoming an Iranian target",
-        "published": "Wed, 26 Aug 2026 09:20:33 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss"
+        "title": "Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva",
+        "published": "Wed, 26 Aug 2026 09:00:35 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 19m ago. An Israeli attack in the Gaza Strip killed one person and wounded several others, according to Al Jazeera breaking news.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. An Israeli attack in the Gaza Strip killed one person and wounded several others, according to Al Jazeera breaking news.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
