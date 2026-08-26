@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-26 09:01",
+  "updated_at_gst": "2026-08-26 09:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran bets economic pain will pressure Trump in game of ‘chicken’",
+        "published": "Wed, 26 Aug 2026 05:20:17 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss"
+      },
       {
         "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
         "published": "Wed, 26 Aug 2026 02:54:12 +0000",
@@ -48,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 7h ago. Israeli airstrike hits aid warehouse in Gaza, killing seven; Health Ministry warns of complete collapse of basic necessities.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 8h ago. Israeli airstrike hits aid warehouse in Gaza, killing seven; Health Ministry warns of complete collapse of basic necessities.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
