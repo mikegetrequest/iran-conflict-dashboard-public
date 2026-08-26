@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-26 20:41",
+  "updated_at_gst": "2026-08-26 22:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran emphasises self-sufficiency in battle against US economic war",
+        "published": "Wed, 26 Aug 2026 16:53:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/26/putin-and-al-sharaa-discuss-russia-syria-relations-deal-on-military-bases?traffic_source=rss"
+      },
+      {
         "title": "Israel extends campaign against UNRWA to advance West Bank annexation",
         "published": "Wed, 26 Aug 2026 14:42:36 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/26/kremlin-says-cia-head-met-russian-intelligence-officials-but-not-putin?traffic_source=rss"
-      },
-      {
-        "title": "Iran, Oman agree on temporary Hormuz route: What we know",
-        "published": "Wed, 26 Aug 2026 12:05:09 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/dead-whale-washes-ashore-on-beach-in-mexico?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Gaza Strip, Palestine · 25m ago. Gaza Board of Peace 'is failing', aid alliance chief Athena Rayburn tells UNSC, as Israeli attacks continue to kill Palestinians daily.",
+        "title": "— S3 · Political · Gaza Strip, Palestine · 3h ago. Gaza Board of Peace 'is failing', aid alliance chief Athena Rayburn tells UNSC, as Israeli attacks continue to kill Palestinians daily.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 5h ago. An Israeli attack in the Gaza Strip killed one person and wounded several others, according to Al Jazeera breaking news.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 7h ago. An Israeli attack in the Gaza Strip killed one person and wounded several others, according to Al Jazeera breaking news.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
