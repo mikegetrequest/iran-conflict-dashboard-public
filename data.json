@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-26 15:52",
+  "updated_at_gst": "2026-08-26 16:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran, Oman agree on temporary Hormuz route: What we know",
+        "published": "Wed, 26 Aug 2026 12:05:09 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/dead-whale-washes-ashore-on-beach-in-mexico?traffic_source=rss"
+      },
       {
         "title": "Why India is sharing missile secrets with its private sector",
         "published": "Wed, 26 Aug 2026 11:32:35 +0000",
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IDF Strikes Hamas Ambush Position in Jabalia, Gaza",
+        "title": "Israeli Attack Kills One in Gaza, Wounds Several",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Jabalia, Gaza Strip, Palestine · 28m ago. Israeli military says it destroyed a Hamas ambush position and weapons cache in Jabalia, northern Gaza, killing several militants.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 19m ago. An Israeli attack in the Gaza Strip killed one person and wounded several others, according to Al Jazeera breaking news.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Lebanon Accuses Israel of Burning Farmland in South",
+        "title": "IDF Strikes Hamas Ambush Position in Jabalia, Gaza",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
