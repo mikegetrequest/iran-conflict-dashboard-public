@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-26 15:21",
+  "updated_at_gst": "2026-08-26 15:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
-        "published": "Wed, 26 Aug 2026 10:00:05 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss"
+        "title": "Why India is sharing missile secrets with its private sector",
+        "published": "Wed, 26 Aug 2026 11:32:35 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mother-and-daughter-detained-by-ice-in-hospital-after-car-crash?traffic_source=rss"
       },
       {
-        "title": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
-        "published": "Wed, 26 Aug 2026 09:36:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss"
-      },
-      {
-        "title": "Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva",
-        "published": "Wed, 26 Aug 2026 09:00:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss"
-      },
-      {
-        "title": "UN rejects Israel’s threat to expel Gaza residents over kite-flying",
-        "published": "Wed, 26 Aug 2026 07:43:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss"
+        "title": "The Bulgarian village that fears becoming an Iranian target",
+        "published": "Wed, 26 Aug 2026 09:20:33 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Lebanon Accuses Israel of Burning Farmland in South",
+        "title": "IDF Strikes Hamas Ambush Position in Jabalia, Gaza",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Rial Plummets to 2 Million Per US Dollar",
+        "title": "— S3 · Conflict · Jabalia, Gaza Strip, Palestine · 28m ago. Israeli military says it destroyed a Hamas ambush position and weapons cache in Jabalia, northern Gaza, killing several militants.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Tehran, Iran · 49m ago. The rial hit a record low of 2 million per dollar as US sanctions and regional conflict crush purchasing power in Tehran.",
+        "title": "Lebanon Accuses Israel of Burning Farmland in South",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
