@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-26 22:46",
+  "updated_at_gst": "2026-08-27 01:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran emphasises self-sufficiency in battle against US economic war",
-        "published": "Wed, 26 Aug 2026 16:53:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/26/putin-and-al-sharaa-discuss-russia-syria-relations-deal-on-military-bases?traffic_source=rss"
+        "title": "Palestinians demand return of 1,700 bodies held by Israel",
+        "published": "Wed, 26 Aug 2026 21:07:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss"
       },
       {
-        "title": "Israel extends campaign against UNRWA to advance West Bank annexation",
-        "published": "Wed, 26 Aug 2026 14:42:36 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/26/kremlin-says-cia-head-met-russian-intelligence-officials-but-not-putin?traffic_source=rss"
+        "title": "UNRWA chief condemns Israeli seizure of East Jerusalem training centre",
+        "published": "Wed, 26 Aug 2026 19:25:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/26/german-airport-workers-die-from-malaria-caught-from-plane-riding-mosquito?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces install new gate, isolating Palestinian village",
+        "published": "Wed, 26 Aug 2026 19:09:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Iran war will continue for as long as necessary",
+        "published": "Wed, 26 Aug 2026 18:07:37 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Gaza Strip, Palestine · 3h ago. Gaza Board of Peace 'is failing', aid alliance chief Athena Rayburn tells UNSC, as Israeli attacks continue to kill Palestinians daily.",
+        "title": "Israel Blocks Return of 33,000 Palestinians in West Bank",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attack Kills One in Gaza, Wounds Several",
+        "title": "— S3 · Political · Gaza Strip, Palestine · 5h ago. Gaza Board of Peace 'is failing', aid alliance chief Athena Rayburn tells UNSC, as Israeli attacks continue to kill Palestinians daily.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 7h ago. An Israeli attack in the Gaza Strip killed one person and wounded several others, according to Al Jazeera breaking news.",
+        "title": "Israeli Attack Kills One in Gaza, Wounds Several",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
