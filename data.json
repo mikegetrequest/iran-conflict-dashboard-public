@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-26 11:23",
+  "updated_at_gst": "2026-08-26 12:04",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Palestinian boy shot during Israeli raid on UNRWA centre",
+        "published": "Wed, 26 Aug 2026 07:41:02 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/8/26/the-rsfs-defeat-will-not-end-sudans-war-but-merely-fragment-it?traffic_source=rss"
+      },
+      {
         "title": "Iran bets economic pain will pressure Trump in game of ‘chicken’",
         "published": "Wed, 26 Aug 2026 05:20:17 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
         "published": "Wed, 26 Aug 2026 02:54:12 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
-        "published": "Wed, 26 Aug 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
