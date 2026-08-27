@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-27 01:23",
+  "updated_at_gst": "2026-08-27 04:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Palestinians demand return of 1,700 bodies held by Israel",
-        "published": "Wed, 26 Aug 2026 21:07:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss"
+        "title": "UNRWA chief: Israel seeks to eliminate agency and Palestinian refugee issue",
+        "published": "Wed, 26 Aug 2026 21:09:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinians-demand-return-of-1700-bodies-held-by-israel?traffic_source=rss"
       },
       {
-        "title": "UNRWA chief condemns Israeli seizure of East Jerusalem training centre",
-        "published": "Wed, 26 Aug 2026 19:25:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/26/german-airport-workers-die-from-malaria-caught-from-plane-riding-mosquito?traffic_source=rss"
+        "title": "US says Chinese-linked hackers attacked NASA, Senate, and gov’t agencies",
+        "published": "Wed, 26 Aug 2026 20:59:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/26/nigeria-launches-hunt-for-hundreds-of-kidnapped-mosque-worshippers?traffic_source=rss"
       },
       {
-        "title": "Israeli forces install new gate, isolating Palestinian village",
-        "published": "Wed, 26 Aug 2026 19:09:38 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss"
-      },
-      {
-        "title": "Trump says Iran war will continue for as long as necessary",
-        "published": "Wed, 26 Aug 2026 18:07:37 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss"
+        "title": "Israel-Hamas truce failure ‘point of no return’, envoy warns",
+        "published": "Wed, 26 Aug 2026 19:31:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Blocks Return of 33,000 Palestinians in West Bank",
+        "title": "Israel Accused of Withholding Remains of 800 Palestinians",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Gaza Strip, Palestine · 5h ago. Gaza Board of Peace 'is failing', aid alliance chief Athena Rayburn tells UNSC, as Israeli attacks continue to kill Palestinians daily.",
+        "title": "— S3 · Humanitarian · Jerusalem, Israel · 1h ago. Al Jazeera reports Israel is withholding remains of nearly 800 Palestinians, including women and children, amid ongoing conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attack Kills One in Gaza, Wounds Several",
+        "title": "Iranian Attacks Cause Billions in Damages to US Intelligence Sites in Bahrain",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
