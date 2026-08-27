@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-27 04:54",
+  "updated_at_gst": "2026-08-27 14:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UNRWA chief: Israel seeks to eliminate agency and Palestinian refugee issue",
-        "published": "Wed, 26 Aug 2026 21:09:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinians-demand-return-of-1700-bodies-held-by-israel?traffic_source=rss"
+        "title": "Lightning bolt strikes Mecca’s clock tower",
+        "published": "Thu, 27 Aug 2026 07:59:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/27/yayoi-kusama-japans-queen-of-polka-dots-dies-at-97?traffic_source=rss"
       },
       {
-        "title": "US says Chinese-linked hackers attacked NASA, Senate, and gov’t agencies",
-        "published": "Wed, 26 Aug 2026 20:59:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/26/nigeria-launches-hunt-for-hundreds-of-kidnapped-mosque-worshippers?traffic_source=rss"
+        "title": "OpenAI says it detected malign activity months before Hugging Face attack",
+        "published": "Thu, 27 Aug 2026 06:33:18 +0000",
+        "link": "https://www.aljazeera.com/features/2026/8/27/palestinian-children-return-to-school-under-threat-of-israel-demolition?traffic_source=rss"
       },
       {
-        "title": "Israel-Hamas truce failure ‘point of no return’, envoy warns",
-        "published": "Wed, 26 Aug 2026 19:31:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss"
+        "title": "Sunken ship sparks fight on Israel’s right over militia’s violent legacy",
+        "published": "Thu, 27 Aug 2026 06:00:18 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/27/czech-pair-karolina-muchova-and-jakub-mensik-win-us-open-mixed-doubles?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Accused of Withholding Remains of 800 Palestinians",
+        "title": "Israel Kills Two Hamas Commanders in Khan Younis, Gaza",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Humanitarian · Jerusalem, Israel · 1h ago. Al Jazeera reports Israel is withholding remains of nearly 800 Palestinians, including women and children, amid ongoing conflict.",
+        "title": "Iran Strikes US-Escorted Oil Tanker in Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Attacks Cause Billions in Damages to US Intelligence Sites in Bahrain",
+        "title": "— S3 · Conflict · Strait of Hormuz · 4h ago. Iran hits another US-escorted oil tanker in the Strait of Hormuz, the third such attack in three days; US has not retaliated.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
