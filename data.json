@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-28 00:51",
+  "updated_at_gst": "2026-08-28 08:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Video: Israeli strike kills newlywed woman in south Lebanon",
-        "published": "Thu, 27 Aug 2026 20:11:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss"
+        "title": "Chad accuses Sudan of air strike near shared border that killed 12",
+        "published": "Fri, 28 Aug 2026 01:33:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/fmr-us-diplomat-netanyahu-sees-political-value-in-turkiye-as-enemy?traffic_source=rss"
       },
       {
-        "title": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume",
-        "published": "Thu, 27 Aug 2026 17:47:16 +0000",
-        "link": "https://www.aljazeera.com/news/longform/2026/8/27/how-california-is-preparing-to-fight-trumps-criticisms-of-the-midterm-vote?traffic_source=rss"
+        "title": "Iran says it will name its terms for reopening Strait of Hormuz",
+        "published": "Fri, 28 Aug 2026 01:23:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/28/malaysia-to-return-1500-rohingya-refugees-next-month-despite-safety-fears?traffic_source=rss"
+      },
+      {
+        "title": "New Israeli roadblocks entrench siege of homes in West Bank’s Qusra",
+        "published": "Fri, 28 Aug 2026 00:59:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/28/us-aid-cuts-threaten-ghanas-child-immunisation-gains?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran prepares conditions to open Strait of Hormuz",
+        "published": "Fri, 28 Aug 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/27/us-charges-81-in-puerto-rico-gang-case-as-trump-cartel-crackdown-continues?traffic_source=rss"
+      },
+      {
+        "title": "Haiti police confront public frustration after deadly gang attack kills 47",
+        "published": "Thu, 27 Aug 2026 22:51:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/bosnian-serb-general-ratko-mladic-has-died?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Air Force Strikes Outskirts of Damascus",
+        "title": "Israel Fires Shells Into Western Damascus Suburb",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Damascus, Syria · 3m ago. Israeli Air Force carried out an airstrike on the outskirts of Damascus, Syria. No immediate reports of casualties.",
+        "title": "— S3 · Conflict · Damascus, Syria · 3h ago. Israeli army fired two artillery shells into a western Damascus suburb, the latest in a series of strikes targeting Syria amid heightened regional tensions.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Kills Two Hamas Commanders in Gaza Strip",
+        "title": "Israeli Air Force Strikes Outskirts of Damascus",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
