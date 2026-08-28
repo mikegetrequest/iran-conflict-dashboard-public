@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-28 08:59",
+  "updated_at_gst": "2026-08-28 21:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Chad accuses Sudan of air strike near shared border that killed 12",
-        "published": "Fri, 28 Aug 2026 01:33:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/fmr-us-diplomat-netanyahu-sees-political-value-in-turkiye-as-enemy?traffic_source=rss"
+        "title": "The two types of Israeli settlers",
+        "published": "Fri, 28 Aug 2026 16:02:08 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/28/live-crystal-palace-vs-man-city-premier-league?traffic_source=rss"
       },
       {
-        "title": "Iran says it will name its terms for reopening Strait of Hormuz",
-        "published": "Fri, 28 Aug 2026 01:23:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/28/malaysia-to-return-1500-rohingya-refugees-next-month-despite-safety-fears?traffic_source=rss"
+        "title": "6 months of war on Iran",
+        "published": "Fri, 28 Aug 2026 15:09:27 +0000",
+        "link": "https://www.aljazeera.com/features/2026/8/28/nepali-families-pray-for-miracles-with-relatives-missing-after-flood?traffic_source=rss"
       },
       {
-        "title": "New Israeli roadblocks entrench siege of homes in West Bank’s Qusra",
-        "published": "Fri, 28 Aug 2026 00:59:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/28/us-aid-cuts-threaten-ghanas-child-immunisation-gains?traffic_source=rss"
+        "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
+        "published": "Fri, 28 Aug 2026 13:40:04 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/28/europa-league-draw-bournemouth-sunderland-get-glamour-ties-with-ac-milan?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Tehran prepares conditions to open Strait of Hormuz",
-        "published": "Fri, 28 Aug 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/27/us-charges-81-in-puerto-rico-gang-case-as-trump-cartel-crackdown-continues?traffic_source=rss"
-      },
-      {
-        "title": "Haiti police confront public frustration after deadly gang attack kills 47",
-        "published": "Thu, 27 Aug 2026 22:51:44 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/bosnian-serb-general-ratko-mladic-has-died?traffic_source=rss"
+        "title": "Qatar pledges support for efforts to end Libya’s political division",
+        "published": "Fri, 28 Aug 2026 13:18:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/28/dutch-court-hands-life-sentence-to-rwandan-man-for-genocide-role?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Fires Shells Into Western Damascus Suburb",
+        "title": "UN Records 1,030 Projectile Launches in South Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Damascus, Syria · 3h ago. Israeli army fired two artillery shells into a western Damascus suburb, the latest in a series of strikes targeting Syria amid heightened regional tensions.",
+        "title": "— S3 · Conflict · South Governorate, Lebanon · 39m ago. UNIFIL reports over a thousand projectile launches in southern Lebanon in a week, citing civilian toll and infrastructure damage.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Air Force Strikes Outskirts of Damascus",
+        "title": "Tigray Education Bureau Accuses Ethiopian Government of Drone Strikes",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
