@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-29 21:25",
+  "updated_at_gst": "2026-08-29 23:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Liverpool strike deal to sign PSG’s Barcola for up to $166m: Reports",
-        "published": "Sat, 29 Aug 2026 10:49:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss"
+        "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
+        "published": "Sat, 29 Aug 2026 17:09:10 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss"
+      },
+      {
+        "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
+        "published": "Sat, 29 Aug 2026 16:53:55 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss"
+      },
+      {
+        "title": "Israeli attacks in Gaza kill four people, hit hospital supply warehouse",
+        "published": "Sat, 29 Aug 2026 15:25:43 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss"
+      },
+      {
+        "title": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
+        "published": "Sat, 29 Aug 2026 13:11:41 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/chinese-rescuers-race-to-reach-mudslide-survivors-in-nepal-china-border?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Settlers Attack Palestinian Farmers in West Bank",
+        "title": "US Deploys F-16 Fighters to Middle East as Iran Seals Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Burqa, West Bank, Palestine · 2h ago. Israeli settlers attacked Palestinian farmers in the village of Burqa, east of Ramallah in the occupied West Bank, in an armed clash.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 8m ago. The US deploys F-16 fighters to the Middle East to offset military attrition and address the 'Ali Al-Taher' impasse, as Iran seals the Strait of Hormuz amid ongoing conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
