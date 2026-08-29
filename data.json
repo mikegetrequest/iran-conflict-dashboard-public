@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-29 11:56",
+  "updated_at_gst": "2026-08-29 17:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Liverpool strike deal to sign PSG’s Barcola for up to $166m: Reports",
+        "published": "Sat, 29 Aug 2026 10:49:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss"
+      },
+      {
         "title": "Aston Villa sign Chelsea striker Nicolas Jackson for reported club record",
         "published": "Sat, 29 Aug 2026 07:33:34 +0000",
         "link": "https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss"
@@ -24,16 +29,6 @@
         "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
         "published": "Sat, 29 Aug 2026 06:11:58 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/bernie-sanders-aoc-join-marchers-in-washington-to-defend-the?traffic_source=rss"
-      },
-      {
-        "title": "US revises statements suggesting Chinese hackers attacked agencies",
-        "published": "Sat, 29 Aug 2026 00:46:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Tehran pledges to stand firm against ‘unjust’ US sanctions",
-        "published": "Sat, 29 Aug 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/28/cambodias-claim-to-have-ended-scam-compounds-met-with-scepticism?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,12 +53,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Military Carries Out Explosions in Southern Lebanon",
+        "title": "Iraqi Kurdistan Resumes Oil Output After Drone Strikes",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · South Governorate, Lebanon · 2h ago. Israeli forces detonated explosives on the outskirts of a village in southern Lebanon amid ongoing cross-border hostilities with Hezbollah.",
+        "title": "— S3 · Conflict · Kurdistan Region, Iraq · 27m ago. Iraq's Kurdish region has resumed oil output at up to 230,000 barrels per day following recent drone strikes that had disrupted production.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
