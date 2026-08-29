@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-28 21:10",
+  "updated_at_gst": "2026-08-29 05:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,28 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "The two types of Israeli settlers",
-        "published": "Fri, 28 Aug 2026 16:02:08 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/28/live-crystal-palace-vs-man-city-premier-league?traffic_source=rss"
-      },
-      {
-        "title": "6 months of war on Iran",
-        "published": "Fri, 28 Aug 2026 15:09:27 +0000",
-        "link": "https://www.aljazeera.com/features/2026/8/28/nepali-families-pray-for-miracles-with-relatives-missing-after-flood?traffic_source=rss"
-      },
-      {
-        "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
-        "published": "Fri, 28 Aug 2026 13:40:04 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/28/europa-league-draw-bournemouth-sunderland-get-glamour-ties-with-ac-milan?traffic_source=rss"
-      },
-      {
-        "title": "Qatar pledges support for efforts to end Libya’s political division",
-        "published": "Fri, 28 Aug 2026 13:18:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/28/dutch-court-hands-life-sentence-to-rwandan-man-for-genocide-role?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -53,17 +32,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "UN Records 1,030 Projectile Launches in South Lebanon",
+        "title": "US Blockade of Iran Redirects 82 Vessels, Disables 3 in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · South Governorate, Lebanon · 39m ago. UNIFIL reports over a thousand projectile launches in southern Lebanon in a week, citing civilian toll and infrastructure damage.",
+        "title": "Hezbollah Refuses to Cede Ali Al-Taher Ridge to Lebanese Army",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Tigray Education Bureau Accuses Ethiopian Government of Drone Strikes",
+        "title": "Iran's IRGC Navy Claims Full Control of Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
