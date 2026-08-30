@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-30 22:40",
+  "updated_at_gst": "2026-08-31 01:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli soldiers participate in Sydney Marathon despite protests",
-        "published": "Sun, 30 Aug 2026 16:09:16 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss"
+        "title": "Israeli strike kills 3-year-old child in Gaza",
+        "published": "Sun, 30 Aug 2026 21:02:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss"
       },
       {
-        "title": "Why did Australia give visas to Israeli soldiers but not Bassem Youssef?",
-        "published": "Sun, 30 Aug 2026 14:50:22 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/8/30/how-does-your-name-taste-the-strange-science-of-synaesthesia?traffic_source=rss"
+        "title": "US strikes Iran’s Larak Island in first attack in weeks",
+        "published": "Sun, 30 Aug 2026 20:15:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-mladic-serbs-tributes-bosnia-fm?traffic_source=rss"
+      },
+      {
+        "title": "Former Israeli soldiers pose as Pro-Palestinian supporters in the US",
+        "published": "Sun, 30 Aug 2026 19:06:11 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Larak, Iran · 17m ago. Three blasts were reported in Larak, Hormozgan Province, Iran, with no immediate details on the cause or impact.",
+        "title": "Iran Launches Ballistic Missiles From Tabriz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Army Killings of Palestinian Children Surge in West Bank",
+        "title": "— S3 · Conflict · Tabriz, Iran · 4m ago. Iran fired ballistic missiles from Tabriz in East Azerbaijan Province amid escalating conflict with the US; target and impact unclear.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. An oil tanker was struck in the US-backed southern corridor of the Strait of Hormuz late Aug 29, per UKMTO, amid reports of Iranian missile/drone launches.",
+        "title": "Iran Launches Two Ballistic Missiles From Urmia",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
