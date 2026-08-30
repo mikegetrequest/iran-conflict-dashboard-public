@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-30 02:04",
+  "updated_at_gst": "2026-08-30 04:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Turkiye summons Ukraine ambassador over Black Sea attacks",
-        "published": "Sat, 29 Aug 2026 17:41:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss"
+        "title": "Iran war live: Tehran stands firm over US sanctions; settlers besiege Qusra",
+        "published": "Sun, 30 Aug 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "Gaza runs out of cancer medicines, as Israeli strikes continue",
+        "published": "Sat, 29 Aug 2026 20:07:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
