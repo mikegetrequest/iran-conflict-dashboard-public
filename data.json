@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-30 19:05",
+  "updated_at_gst": "2026-08-30 22:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
-        "published": "Sun, 30 Aug 2026 12:26:48 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss"
+        "title": "Israeli soldiers participate in Sydney Marathon despite protests",
+        "published": "Sun, 30 Aug 2026 16:09:16 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss"
       },
       {
-        "title": "How has life changed for Iranians six months into the war?",
-        "published": "Sun, 30 Aug 2026 12:08:12 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/30/infantino-must-go-by-2027-in-fifa-overhaul-dutch-football-body-says?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s Ben-Gvir lauds harsh conditions for Palestinian female prisoners",
-        "published": "Sun, 30 Aug 2026 11:52:27 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/30/ferry-carrying-260-people-capsizes-off-northern-cyprus-coast?traffic_source=rss"
-      },
-      {
-        "title": "Six months on, what did the strikes on Iran achieve?",
-        "published": "Sun, 30 Aug 2026 11:24:21 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
-        "published": "Sun, 30 Aug 2026 10:30:57 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/8/30/tearful-roger-federer-inducted-into-tennis-hall-of-fame?traffic_source=rss"
+        "title": "Why did Australia give visas to Israeli soldiers but not Bassem Youssef?",
+        "published": "Sun, 30 Aug 2026 14:50:22 +0000",
+        "link": "https://www.aljazeera.com/features/longform/2026/8/30/how-does-your-name-taste-the-strange-science-of-synaesthesia?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Drone Strike Kills Hamas, PIJ Commanders in West Bank",
+        "title": "— S3 · Conflict · Larak, Iran · 17m ago. Three blasts were reported in Larak, Hormozgan Province, Iran, with no immediate details on the cause or impact.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Jenin, West Bank, Palestine · 2h ago. A drone strike west of Jenin killed two field commanders from Hamas's Al-Qassam Brigades and PIJ's Saraya Al-Quds, plus two additional PIJ militants.",
+        "title": "Israeli Army Killings of Palestinian Children Surge in West Bank",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attack Kills Palestinian in West Bank",
+        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. An oil tanker was struck in the US-backed southern corridor of the Strait of Hormuz late Aug 29, per UKMTO, amid reports of Iranian missile/drone launches.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
