@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-31 01:42",
+  "updated_at_gst": "2026-08-31 03:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli strike kills 3-year-old child in Gaza",
-        "published": "Sun, 30 Aug 2026 21:02:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss"
-      },
-      {
-        "title": "US strikes Iran’s Larak Island in first attack in weeks",
-        "published": "Sun, 30 Aug 2026 20:15:47 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-mladic-serbs-tributes-bosnia-fm?traffic_source=rss"
-      },
-      {
-        "title": "Former Israeli soldiers pose as Pro-Palestinian supporters in the US",
-        "published": "Sun, 30 Aug 2026 19:06:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss"
+        "title": "Israeli settler rabbi says Palestinians should leave the occupied West Bank",
+        "published": "Sun, 30 Aug 2026 19:33:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Ballistic Missiles From Tabriz",
+        "title": "Sirens Reported at Al Udeid Air Base in Qatar",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Tabriz, Iran · 4m ago. Iran fired ballistic missiles from Tabriz in East Azerbaijan Province amid escalating conflict with the US; target and impact unclear.",
+        "title": "US Patriot Intercepts Iranian Missiles Over Jordan",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Two Ballistic Missiles From Urmia",
+        "title": "US Strikes Iranian Rocket Launchers in Damascus",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
