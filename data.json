@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-30 14:49",
+  "updated_at_gst": "2026-08-30 19:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
+        "published": "Sun, 30 Aug 2026 12:26:48 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss"
+      },
+      {
+        "title": "How has life changed for Iranians six months into the war?",
+        "published": "Sun, 30 Aug 2026 12:08:12 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/8/30/infantino-must-go-by-2027-in-fifa-overhaul-dutch-football-body-says?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s Ben-Gvir lauds harsh conditions for Palestinian female prisoners",
+        "published": "Sun, 30 Aug 2026 11:52:27 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/30/ferry-carrying-260-people-capsizes-off-northern-cyprus-coast?traffic_source=rss"
+      },
+      {
+        "title": "Six months on, what did the strikes on Iran achieve?",
+        "published": "Sun, 30 Aug 2026 11:24:21 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss"
+      },
+      {
         "title": "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
         "published": "Sun, 30 Aug 2026 10:30:57 +0000",
         "link": "https://www.aljazeera.com/sports/2026/8/30/tearful-roger-federer-inducted-into-tennis-hall-of-fame?traffic_source=rss"
-      },
-      {
-        "title": "The home front: How Israel, Iran, and US leaders have been hit by the war",
-        "published": "Sun, 30 Aug 2026 09:32:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/delcy-rodriguez-says-venezuela-retains-sovereignty-despite-us-oil-deal?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Strike Kills Two Hamas Operatives in Jabalia, Gaza",
+        "title": "Israeli Drone Strike Kills Hamas, PIJ Commanders in West Bank",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Jabalia, Gaza Strip, Palestine · 5h ago. Israeli Air Force targeted assassination killed a Hamas Nukhba commander and another operative in Jabalia, northern Gaza, both linked to the October 7 attacks.",
+        "title": "— S3 · Conflict · Jenin, West Bank, Palestine · 2h ago. A drone strike west of Jenin killed two field commanders from Hamas's Al-Qassam Brigades and PIJ's Saraya Al-Quds, plus two additional PIJ militants.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Navy Warship Lincoln Supports War Against Iran",
+        "title": "Israeli Attack Kills Palestinian in West Bank",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
