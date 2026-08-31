@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-31 14:10",
+  "updated_at_gst": "2026-08-31 21:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
-        "published": "Mon, 31 Aug 2026 03:08:35 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss"
+        "title": "Vance says Trump ‘sending a message’ to Iran with AI-generated video",
+        "published": "Mon, 31 Aug 2026 17:11:54 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/8/31/photos-nearly-1000-dead-thousands-missing-in-nepal-china-border?traffic_source=rss"
+      },
+      {
+        "title": "Iran could face economic collapse in months, US Treasury’s Bessent warns",
+        "published": "Mon, 31 Aug 2026 17:04:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/tunisia-protests-water-power-cuts-and-rising-anger?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strikes kill at least five Palestinians in Gaza City",
+        "published": "Mon, 31 Aug 2026 15:20:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US and Iran Exchange Fire in Persian Gulf",
+        "title": "US Strikes Iranian Missile Launchers on Larak Island",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Persian Gulf · 1h ago. US and Iranian forces exchanged fire in the Persian Gulf, escalating tensions; follows Trump's statement on Venezuelan oil deal.",
+        "title": "Iran's IRGC Strikes Bulk Carrier in Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "UAE Intercepts Iranian Drone Over Territorial Waters",
+        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. Iran's IRGC struck the bulk carrier MINOAN PIONEER in the Strait of Hormuz, causing an oil slick. The vessel was reportedly hit three weeks prior.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
