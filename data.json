@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-31 21:39",
+  "updated_at_gst": "2026-09-01 02:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Vance says Trump ‘sending a message’ to Iran with AI-generated video",
-        "published": "Mon, 31 Aug 2026 17:11:54 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/8/31/photos-nearly-1000-dead-thousands-missing-in-nepal-china-border?traffic_source=rss"
+        "title": "Israeli outposts expand as Palestinian homes are demolished",
+        "published": "Mon, 31 Aug 2026 20:48:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss"
       },
       {
-        "title": "Iran could face economic collapse in months, US Treasury’s Bessent warns",
-        "published": "Mon, 31 Aug 2026 17:04:24 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/tunisia-protests-water-power-cuts-and-rising-anger?traffic_source=rss"
+        "title": "Lebanon asks Greece to help enforce agreement with Israel",
+        "published": "Mon, 31 Aug 2026 20:24:41 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss"
       },
       {
-        "title": "Israeli strikes kill at least five Palestinians in Gaza City",
-        "published": "Mon, 31 Aug 2026 15:20:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss"
+        "title": "Ukrainians mourn community leader killed in Russian strike on Myla",
+        "published": "Mon, 31 Aug 2026 19:51:46 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/gta-6-why-is-the-worlds-most-anticipated-game-facing-backlash-2?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
+        "published": "Mon, 31 Aug 2026 19:25:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss"
+      },
+      {
+        "title": "Palestinian farmers rebuild what Israeli settlers destroy in West Bank",
+        "published": "Mon, 31 Aug 2026 18:17:20 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/8/31/western-balkans-truck-drivers-threaten-eu-border-blockade?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iranian Missile Launchers on Larak Island",
+        "title": "— S4 · Conflict · Iran · 4h ago. US military airstrikes have hit targets in Iran, marking a major direct escalation between Washington and Tehran. Details on targets and casualties are still emerging.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran's IRGC Strikes Bulk Carrier in Strait of Hormuz",
+        "title": "IRGC Strikes Saudi VLCC in Southern Persian Gulf",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. Iran's IRGC struck the bulk carrier MINOAN PIONEER in the Strait of Hormuz, causing an oil slick. The vessel was reportedly hit three weeks prior.",
+        "title": "— S3 · Conflict · Persian Gulf · 1h ago. IRGC struck a Saudi Very Large Crude Carrier in the southern Persian Gulf, leaving the vessel stopped. The attack escalates the tanker war amid US-Iran hostilities.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
