@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-08-31 07:50",
+  "updated_at_gst": "2026-08-31 14:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran targets Jordan after first US attack in a month",
-        "published": "Mon, 31 Aug 2026 03:06:56 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/31/niger-mutiny-puts-russias-expanding-role-in-the-sahel-to-the-test?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island",
-        "published": "Mon, 31 Aug 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/what-is-notting-hill-carnivals-jab-jab-parade?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strike kills 3-year-old child in Gaza",
-        "published": "Sun, 30 Aug 2026 21:02:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss"
-      },
-      {
-        "title": "Iran attacks US bases in Jordan after US strikes Larak Island",
-        "published": "Sun, 30 Aug 2026 20:15:47 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-mladic-serbs-tributes-bosnia-fm?traffic_source=rss"
+        "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
+        "published": "Mon, 31 Aug 2026 03:08:35 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Two Palestinians Killed as Israeli Forces Raid Nablus",
+        "title": "US and Iran Exchange Fire in Persian Gulf",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Nablus, Palestine · 11m ago. Two Palestinians died during an Israeli military raid in Nablus, West Bank, where Israeli forces deployed vehicles and personnel, leading to armed clashes.",
+        "title": "— S3 · Conflict · Persian Gulf · 1h ago. US and Iranian forces exchanged fire in the Persian Gulf, escalating tensions; follows Trump's statement on Venezuelan oil deal.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US and Israel Continue War on Iran Six Months On",
+        "title": "UAE Intercepts Iranian Drone Over Territorial Waters",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
