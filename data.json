@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-01 15:49",
+  "updated_at_gst": "2026-09-01 19:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Abroad and at odds: How the war has divided Iranians in the diaspora",
-        "published": "Tue, 01 Sep 2026 10:27:40 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss"
+        "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
+        "published": "Tue, 01 Sep 2026 15:29:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss"
       },
       {
-        "title": "Israeli attacks on Gaza kill at least four, including children",
-        "published": "Tue, 01 Sep 2026 09:48:07 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/1/football-power-struggle-caused-fifa-world-cup-plan-fallout-says-kushner?traffic_source=rss"
+        "title": "Palestinian farmers inspect olive trees bulldozed by Israeli forces",
+        "published": "Tue, 01 Sep 2026 14:55:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/1/is-trump-wooing-russia-again-and-why?traffic_source=rss"
       },
       {
-        "title": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
-        "published": "Tue, 01 Sep 2026 08:57:48 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/heavy-monsoon-rains-submerge-islamabad-roads-and-underground?traffic_source=rss"
+        "title": "Irish minister calls for EU action in banning Israeli settlement trade",
+        "published": "Tue, 01 Sep 2026 13:32:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/video-sco-summit-leaders-meet-in-aftermath-of-us-war-on-iran?traffic_source=rss"
       },
       {
-        "title": "Luxembourg drops approval for Israel bonds issue: What that means",
-        "published": "Tue, 01 Sep 2026 08:08:49 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/1/lionel-messi-retirement-football-argentina-tribute?traffic_source=rss"
+        "title": "Why China will not comply with US sanctions on Iran",
+        "published": "Tue, 01 Sep 2026 13:08:14 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/1/qatar-planning-to-host-formula-one-motogp-despite-middle-east-conflict?traffic_source=rss"
       },
       {
-        "title": "Duolingo D-Day: Iranians question latest US sanctions targeting education",
-        "published": "Tue, 01 Sep 2026 07:25:54 +0000",
-        "link": "https://www.aljazeera.com/features/2026/9/1/palestine-weekly-israels-rightwing-campaigns-on-anti-palestinian-abuses?traffic_source=rss"
-      },
-      {
-        "title": "Teen faces life over livestream of San Diego mosque attack",
-        "published": "Tue, 01 Sep 2026 06:39:07 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/1/us-open-2026-results-carlos-alcaraz-aryna-sabalenka-tennis?traffic_source=rss"
+        "title": "Iran urges US to honour commitments under MoU",
+        "published": "Tue, 01 Sep 2026 13:01:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/1/what-to-know-about-the-us-primary-election-in-massachusetts?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Hits Supertanker Senegal Prosperity in Strait of Hormuz",
+        "title": "US Naval Blockade Halts Iranian Oil Exports via Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 2h ago. Iranian forces struck the supertanker Senegal Prosperity, carrying Saudi oil, in the Strait of Hormuz, taking a second supertanker out of the market in under 24 hours.",
+        "title": "Iran Hits Supertanker Senegal Prosperity in Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Trump Vows to 'Hit Iran Hard' as Hostilities Resume",
+        "title": "— S4 · Conflict · Strait of Hormuz · 6h ago. Iranian forces struck the supertanker Senegal Prosperity, carrying Saudi oil, in the Strait of Hormuz, taking a second supertanker out of the market in under 24 hours.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
