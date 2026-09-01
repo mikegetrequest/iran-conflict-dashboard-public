@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-01 02:06",
+  "updated_at_gst": "2026-09-01 05:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+        "published": "Mon, 31 Aug 2026 22:16:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
+      },
       {
         "title": "Israeli outposts expand as Palestinian homes are demolished",
         "published": "Mon, 31 Aug 2026 20:48:36 +0000",
@@ -34,11 +39,6 @@
         "title": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
         "published": "Mon, 31 Aug 2026 19:25:45 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss"
-      },
-      {
-        "title": "Palestinian farmers rebuild what Israeli settlers destroy in West Bank",
-        "published": "Mon, 31 Aug 2026 18:17:20 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/8/31/western-balkans-truck-drivers-threaten-eu-border-blockade?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 4h ago. US military airstrikes have hit targets in Iran, marking a major direct escalation between Washington and Tehran. Details on targets and casualties are still emerging.",
+        "title": "— S4 · Conflict · Iran · 8h ago. US military airstrikes have hit targets in Iran, marking a major direct escalation between Washington and Tehran. Details on targets and casualties are still emerging.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Strikes Saudi VLCC in Southern Persian Gulf",
+        "title": "US and Iran Resume Military Attacks, Oil Prices Rise",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Persian Gulf · 1h ago. IRGC struck a Saudi Very Large Crude Carrier in the southern Persian Gulf, leaving the vessel stopped. The attack escalates the tanker war amid US-Iran hostilities.",
+        "title": "Israeli Settlers Attack NBC News Crew in West Bank",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
