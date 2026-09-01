@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-01 22:55",
+  "updated_at_gst": "2026-09-02 01:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "The US military began striking targets in Iran, CENTCOM says",
-        "published": "Tue, 01 Sep 2026 17:39:29 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss"
+        "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
+        "published": "Tue, 01 Sep 2026 20:59:43 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/1/police-arrest-34-after-deadly-gang-shootout-in-eastern-netherlands?traffic_source=rss"
       },
       {
-        "title": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
-        "published": "Tue, 01 Sep 2026 16:15:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/1/no-one-else-like-him-argentinians-rally-for-lionel-messi?traffic_source=rss"
-      },
-      {
-        "title": "Iran and Russia vow to stand against US ‘unilateralism’",
-        "published": "Tue, 01 Sep 2026 15:55:25 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/six-days-of-russian-strikes-push-kyiv-residents-to-consider-leaving?traffic_source=rss"
+        "title": "What’s driven the defence deal between Israel and Greece?",
+        "published": "Tue, 01 Sep 2026 20:35:14 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/1/canadas-carney-says-us-must-start-being-serious-to-resolve-trade-dispute?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Fires Ballistic Missiles and Drones at Israel",
+        "title": "Iran Strikes US Marine Base Camp Titin in Jordan",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Fires Ballistic Missiles From Tabriz After US Strikes",
+        "title": "US Launches Fresh Strikes on Iran, Tehran Vows Response",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Attacks Southern Iran in Two Provinces",
+        "title": "Iranian Missile Strikes Aqaba, Jordan",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
