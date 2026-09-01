@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-01 10:19",
+  "updated_at_gst": "2026-09-01 15:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Oil prices climb as US, Iranian attacks stoke fears of escalation",
-        "published": "Tue, 01 Sep 2026 06:07:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss"
+        "title": "Abroad and at odds: How the war has divided Iranians in the diaspora",
+        "published": "Tue, 01 Sep 2026 10:27:40 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss"
       },
       {
-        "title": "Can Europe fill vacuum left in Lebanon as UN peacekeeping force winds up?",
-        "published": "Tue, 01 Sep 2026 05:25:37 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss"
+        "title": "Israeli attacks on Gaza kill at least four, including children",
+        "published": "Tue, 01 Sep 2026 09:48:07 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/1/football-power-struggle-caused-fifa-world-cup-plan-fallout-says-kushner?traffic_source=rss"
       },
       {
-        "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
-        "published": "Mon, 31 Aug 2026 22:16:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
+        "title": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
+        "published": "Tue, 01 Sep 2026 08:57:48 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/heavy-monsoon-rains-submerge-islamabad-roads-and-underground?traffic_source=rss"
+      },
+      {
+        "title": "Luxembourg drops approval for Israel bonds issue: What that means",
+        "published": "Tue, 01 Sep 2026 08:08:49 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/1/lionel-messi-retirement-football-argentina-tribute?traffic_source=rss"
+      },
+      {
+        "title": "Duolingo D-Day: Iranians question latest US sanctions targeting education",
+        "published": "Tue, 01 Sep 2026 07:25:54 +0000",
+        "link": "https://www.aljazeera.com/features/2026/9/1/palestine-weekly-israels-rightwing-campaigns-on-anti-palestinian-abuses?traffic_source=rss"
+      },
+      {
+        "title": "Teen faces life over livestream of San Diego mosque attack",
+        "published": "Tue, 01 Sep 2026 06:39:07 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/1/us-open-2026-results-carlos-alcaraz-aryna-sabalenka-tennis?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +63,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 13h ago. US military airstrikes have hit targets in Iran, marking a major direct escalation between Washington and Tehran. Details on targets and casualties are still emerging.",
+        "title": "Iran Hits Supertanker Senegal Prosperity in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Raze West Bank Homes as EU Weighs Settlement Ban",
+        "title": "— S4 · Conflict · Strait of Hormuz · 2h ago. Iranian forces struck the supertanker Senegal Prosperity, carrying Saudi oil, in the Strait of Hormuz, taking a second supertanker out of the market in under 24 hours.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · West Bank, Palestine · 51m ago. Israeli forces demolished Palestinian homes in the West Bank and settlers attacked residents, while the EU considers barring imports from Israeli settlements.",
+        "title": "Trump Vows to 'Hit Iran Hard' as Hostilities Resume",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
