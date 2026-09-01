@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-01 05:19",
+  "updated_at_gst": "2026-09-01 10:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Oil prices climb as US, Iranian attacks stoke fears of escalation",
+        "published": "Tue, 01 Sep 2026 06:07:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss"
+      },
+      {
+        "title": "Can Europe fill vacuum left in Lebanon as UN peacekeeping force winds up?",
+        "published": "Tue, 01 Sep 2026 05:25:37 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss"
+      },
+      {
         "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
         "published": "Mon, 31 Aug 2026 22:16:18 +0000",
         "link": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
-      },
-      {
-        "title": "Israeli outposts expand as Palestinian homes are demolished",
-        "published": "Mon, 31 Aug 2026 20:48:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon asks Greece to help enforce agreement with Israel",
-        "published": "Mon, 31 Aug 2026 20:24:41 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss"
-      },
-      {
-        "title": "Ukrainians mourn community leader killed in Russian strike on Myla",
-        "published": "Mon, 31 Aug 2026 19:51:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/gta-6-why-is-the-worlds-most-anticipated-game-facing-backlash-2?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
-        "published": "Mon, 31 Aug 2026 19:25:45 +0000",
-        "link": "https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 8h ago. US military airstrikes have hit targets in Iran, marking a major direct escalation between Washington and Tehran. Details on targets and casualties are still emerging.",
+        "title": "— S4 · Conflict · Iran · 13h ago. US military airstrikes have hit targets in Iran, marking a major direct escalation between Washington and Tehran. Details on targets and casualties are still emerging.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US and Iran Resume Military Attacks, Oil Prices Rise",
+        "title": "Israeli Forces Raze West Bank Homes as EU Weighs Settlement Ban",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Settlers Attack NBC News Crew in West Bank",
+        "title": "— S3 · Conflict · West Bank, Palestine · 51m ago. Israeli forces demolished Palestinian homes in the West Bank and settlers attacked residents, while the EU considers barring imports from Israeli settlements.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
