@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-01 19:39",
+  "updated_at_gst": "2026-09-01 22:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
-        "published": "Tue, 01 Sep 2026 15:29:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss"
+        "title": "The US military began striking targets in Iran, CENTCOM says",
+        "published": "Tue, 01 Sep 2026 17:39:29 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss"
       },
       {
-        "title": "Palestinian farmers inspect olive trees bulldozed by Israeli forces",
-        "published": "Tue, 01 Sep 2026 14:55:56 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/1/is-trump-wooing-russia-again-and-why?traffic_source=rss"
+        "title": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
+        "published": "Tue, 01 Sep 2026 16:15:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/1/no-one-else-like-him-argentinians-rally-for-lionel-messi?traffic_source=rss"
       },
       {
-        "title": "Irish minister calls for EU action in banning Israeli settlement trade",
-        "published": "Tue, 01 Sep 2026 13:32:13 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/video-sco-summit-leaders-meet-in-aftermath-of-us-war-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Why China will not comply with US sanctions on Iran",
-        "published": "Tue, 01 Sep 2026 13:08:14 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/1/qatar-planning-to-host-formula-one-motogp-despite-middle-east-conflict?traffic_source=rss"
-      },
-      {
-        "title": "Iran urges US to honour commitments under MoU",
-        "published": "Tue, 01 Sep 2026 13:01:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/1/what-to-know-about-the-us-primary-election-in-massachusetts?traffic_source=rss"
+        "title": "Iran and Russia vow to stand against US ‘unilateralism’",
+        "published": "Tue, 01 Sep 2026 15:55:25 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/six-days-of-russian-strikes-push-kyiv-residents-to-consider-leaving?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Naval Blockade Halts Iranian Oil Exports via Hormuz",
+        "title": "Iran Fires Ballistic Missiles and Drones at Israel",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Hits Supertanker Senegal Prosperity in Strait of Hormuz",
+        "title": "Iran Fires Ballistic Missiles From Tabriz After US Strikes",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 6h ago. Iranian forces struck the supertanker Senegal Prosperity, carrying Saudi oil, in the Strait of Hormuz, taking a second supertanker out of the market in under 24 hours.",
+        "title": "US Attacks Southern Iran in Two Provinces",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
