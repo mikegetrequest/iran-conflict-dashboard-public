@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-02 05:11",
+  "updated_at_gst": "2026-09-02 09:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan",
-        "published": "Wed, 02 Sep 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss"
+        "title": "Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion",
+        "published": "Wed, 02 Sep 2026 02:20:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/2/what-to-know-about-germanys-drone-attack-accusations-against-russia?traffic_source=rss"
       },
       {
-        "title": "IAEA calls for access to Iran nuclear sites over proliferation concerns",
-        "published": "Tue, 01 Sep 2026 21:28:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss"
+        "title": "Iran says US bombed a wedding party in Sirik, killing five people",
+        "published": "Wed, 02 Sep 2026 01:34:55 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/2/iaea-says-syria-built-a-nuclear-reactor-in-deir-az-zor-under-al-assad?traffic_source=rss"
       },
       {
-        "title": "Deadly car bomb attack at Colombia police station",
-        "published": "Tue, 01 Sep 2026 21:01:10 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss"
+        "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
+        "published": "Wed, 02 Sep 2026 01:06:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/2/us-pushes-looser-approach-to-ai-regulation-while-eu-pushes-new-law?traffic_source=rss"
       },
       {
-        "title": "Iranian state media announces numerous US strikes on the country",
-        "published": "Tue, 01 Sep 2026 20:38:43 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s multiple wars see finance, defence ministries clash over spending",
-        "published": "Tue, 01 Sep 2026 19:33:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss"
+        "title": "Moment US strikes on Iranian port city hit wedding party",
+        "published": "Wed, 02 Sep 2026 00:47:41 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Two Iranian Tankers in Retaliation",
+        "title": "Iran Launches Retaliatory Strikes Against US Forces",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 4m ago. US military bombs two Iranian government tankers under new 'tanker for tanker' policy, retaliating for Iran's attack on vessels in the Strait of Hormuz.",
+        "title": "— S4 · Conflict · Tehran, Iran · 3h ago. Iran strikes back against latest US attacks, escalating the ongoing US-Iran conflict as both sides exchange blows across the region.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches New Assault on Iran; Iran Fires on US Base in Jordan",
+        "title": "IRGC Claims Strikes on Multiple US Bases in Gulf",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
