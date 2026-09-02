@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-02 09:59",
+  "updated_at_gst": "2026-09-02 14:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion",
-        "published": "Wed, 02 Sep 2026 02:20:45 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/2/what-to-know-about-germanys-drone-attack-accusations-against-russia?traffic_source=rss"
+        "title": "Iran, US exchange new attacks: Who was hit in latest strikes?",
+        "published": "Wed, 02 Sep 2026 08:55:20 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/2/alex-eala-cruises-into-us-open-second-round-top-seed-zverev-survives?traffic_source=rss"
       },
       {
-        "title": "Iran says US bombed a wedding party in Sirik, killing five people",
-        "published": "Wed, 02 Sep 2026 01:34:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/2/iaea-says-syria-built-a-nuclear-reactor-in-deir-az-zor-under-al-assad?traffic_source=rss"
+        "title": "Worshippers in West Bank tear-gassed as Israeli attacks on mosques surge",
+        "published": "Wed, 02 Sep 2026 07:40:20 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/9/2/why-greece-is-betting-on-israels-achilles-shield?traffic_source=rss"
       },
       {
-        "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
-        "published": "Wed, 02 Sep 2026 01:06:19 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/2/us-pushes-looser-approach-to-ai-regulation-while-eu-pushes-new-law?traffic_source=rss"
-      },
-      {
-        "title": "Moment US strikes on Iranian port city hit wedding party",
-        "published": "Wed, 02 Sep 2026 00:47:41 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss"
+        "title": "‘We had an ordinary life’: Iran fisherwoman navigates uncertainty of war",
+        "published": "Wed, 02 Sep 2026 06:26:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/2/mark-ruffalo-comments-spark-pushback-against-antisemitism-smear-campaign?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Retaliatory Strikes Against US Forces",
+        "title": "IRGC Claims Drone Strikes on US Bases in UAE",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 3h ago. Iran strikes back against latest US attacks, escalating the ongoing US-Iran conflict as both sides exchange blows across the region.",
+        "title": "— S4 · Conflict · United Arab Emirates · 4h ago. Iran's Islamic Revolutionary Guard Corps claims it launched drone strikes against US bases in the United Arab Emirates, widening the regional conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Claims Strikes on Multiple US Bases in Gulf",
+        "title": "US Bombs Two Iranian Tankers in Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
