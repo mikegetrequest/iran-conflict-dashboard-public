@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-02 18:46",
+  "updated_at_gst": "2026-09-02 22:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
-        "published": "Wed, 02 Sep 2026 12:55:42 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/bodies-excavated-from-worst-flood-hit-district-near-nepal-china-border?traffic_source=rss"
+        "title": "EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence",
+        "published": "Wed, 02 Sep 2026 17:56:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/2/gunman-in-deadly-swiss-rave-attack-lone-perpetrator-police-say?traffic_source=rss"
       },
       {
-        "title": "What is Iran’s Castle Breaker missile, used against US bases?",
-        "published": "Wed, 02 Sep 2026 12:38:39 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/palestinian-landowners-confront-bulldozers-using-their-hands?traffic_source=rss"
+        "title": "Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’",
+        "published": "Wed, 02 Sep 2026 15:45:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-urges-new-middle-east-security-framework-during-rare-egypt-visit?traffic_source=rss"
+      },
+      {
+        "title": "Aubameyang ‘humiliated’ as ex-Arsenal striker quits Gabon national team",
+        "published": "Wed, 02 Sep 2026 15:21:43 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/nepal-pm-links-deadly-floods-to-climate-change?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US, Iran Trade Heaviest Strikes Since July in Gulf",
+        "title": "Israel Katz Details Gaza, Lebanon Operations",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Persian Gulf · 2h ago. American airstrikes and Iranian retaliation escalate the conflict, shaking Gulf markets and raising oil prices.",
+        "title": "US Strikes on Iran Kill 19, Wound 108",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Claims Drone Strikes on US Bases in UAE",
+        "title": "— S4 · Conflict · Iran · 5h ago. Iran's health ministry reports 19 killed and 108 injured from US airstrikes, with the death toll rising per Al Jazeera amid the ongoing US-Iran war.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
