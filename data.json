@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-02 22:11",
+  "updated_at_gst": "2026-09-03 01:09",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence",
-        "published": "Wed, 02 Sep 2026 17:56:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/2/gunman-in-deadly-swiss-rave-attack-lone-perpetrator-police-say?traffic_source=rss"
+        "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
+        "published": "Wed, 02 Sep 2026 19:16:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/2/us-says-it-will-use-regional-body-to-isolate-nicaragua?traffic_source=rss"
       },
       {
-        "title": "Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’",
-        "published": "Wed, 02 Sep 2026 15:45:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-urges-new-middle-east-security-framework-during-rare-egypt-visit?traffic_source=rss"
+        "title": "Will the EU take action against Israel?",
+        "published": "Wed, 02 Sep 2026 18:46:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/2/israel-kills-or-injures-7-children-a-day-in-lebanon-invasion-report-says?traffic_source=rss"
       },
       {
-        "title": "Aubameyang ‘humiliated’ as ex-Arsenal striker quits Gabon national team",
-        "published": "Wed, 02 Sep 2026 15:21:43 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/nepal-pm-links-deadly-floods-to-climate-change?traffic_source=rss"
+        "title": "Gunman in deadly Swiss rave attack ‘lone perpetrator’, police say",
+        "published": "Wed, 02 Sep 2026 17:43:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/over-500-students-hospitalised-after-eating-state-supplied-meals-in-indones?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Katz Details Gaza, Lebanon Operations",
+        "title": "Iran Launches Missile Barrage on US Bases Across Gulf",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes on Iran Kill 19, Wound 108",
+        "title": "Israel Katz Details Gaza, Lebanon Operations",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 5h ago. Iran's health ministry reports 19 killed and 108 injured from US airstrikes, with the death toll rising per Al Jazeera amid the ongoing US-Iran war.",
+        "title": "US Strikes on Iran Kill 19, Wound 108",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
