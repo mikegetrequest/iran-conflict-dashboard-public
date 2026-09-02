@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-02 03:27",
+  "updated_at_gst": "2026-09-02 05:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
-        "published": "Tue, 01 Sep 2026 20:59:43 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/1/police-arrest-34-after-deadly-gang-shootout-in-eastern-netherlands?traffic_source=rss"
+        "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan",
+        "published": "Wed, 02 Sep 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss"
       },
       {
-        "title": "What’s driven the defence deal between Israel and Greece?",
-        "published": "Tue, 01 Sep 2026 20:35:14 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/1/canadas-carney-says-us-must-start-being-serious-to-resolve-trade-dispute?traffic_source=rss"
+        "title": "IAEA calls for access to Iran nuclear sites over proliferation concerns",
+        "published": "Tue, 01 Sep 2026 21:28:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss"
+      },
+      {
+        "title": "Deadly car bomb attack at Colombia police station",
+        "published": "Tue, 01 Sep 2026 21:01:10 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss"
+      },
+      {
+        "title": "Iranian state media announces numerous US strikes on the country",
+        "published": "Tue, 01 Sep 2026 20:38:43 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s multiple wars see finance, defence ministries clash over spending",
+        "published": "Tue, 01 Sep 2026 19:33:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Launches New Assault on Iran; Iran Fires on US Base in Jordan",
+        "title": "US Strikes Two Iranian Tankers in Retaliation",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Jordan · 8m ago. US launches fresh strikes on Iran following weekend exchange and Monday tanker attacks in Strait of Hormuz; Iran retaliates by firing on US base in Jordan.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 4m ago. US military bombs two Iranian government tankers under new 'tanker for tanker' policy, retaliating for Iran's attack on vessels in the Strait of Hormuz.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Drone Raid on Kuwait, U.S. Bases",
+        "title": "US Launches New Assault on Iran; Iran Fires on US Base in Jordan",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
