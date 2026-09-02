@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-03 01:09",
+  "updated_at_gst": "2026-09-03 03:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
-        "published": "Wed, 02 Sep 2026 19:16:36 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/2/us-says-it-will-use-regional-body-to-isolate-nicaragua?traffic_source=rss"
+        "title": "Israeli PM says Israel is working to overthrow Iran’s government",
+        "published": "Wed, 02 Sep 2026 21:23:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss"
       },
       {
-        "title": "Will the EU take action against Israel?",
-        "published": "Wed, 02 Sep 2026 18:46:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/2/israel-kills-or-injures-7-children-a-day-in-lebanon-invasion-report-says?traffic_source=rss"
+        "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
+        "published": "Wed, 02 Sep 2026 21:19:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss"
       },
       {
-        "title": "Gunman in deadly Swiss rave attack ‘lone perpetrator’, police say",
-        "published": "Wed, 02 Sep 2026 17:43:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/over-500-students-hospitalised-after-eating-state-supplied-meals-in-indones?traffic_source=rss"
+        "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+        "published": "Wed, 02 Sep 2026 20:12:14 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/2/what-you-need-to-know-us-launches-coin-featuring-trumps-face?traffic_source=rss"
+      },
+      {
+        "title": "Israeli protesters call for an end to settler violence",
+        "published": "Wed, 02 Sep 2026 20:07:41 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/9/2/us-judge-rejects-bid-to-break-up-googles-ad-business?traffic_source=rss"
+      },
+      {
+        "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
+        "published": "Wed, 02 Sep 2026 20:04:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/tiger-woods-avoids-jail-time-takes-plea-deal-over-florida-crash?traffic_source=rss"
+      },
+      {
+        "title": "EU pursuing more Russia sanctions after failed airport attack: Kallas",
+        "published": "Wed, 02 Sep 2026 19:06:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/2/uss-abraham-lincoln-reaches-thailand-after-9-months-at-sea?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +63,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Missile Barrage on US Bases Across Gulf",
+        "title": "Israel Katz Details Gaza, Lebanon Operations",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Katz Details Gaza, Lebanon Operations",
+        "title": "US Strikes on Iran Kill 19, Wound 108",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes on Iran Kill 19, Wound 108",
+        "title": "— S4 · Conflict · Iran · 10h ago. Iran's health ministry reports 19 killed and 108 injured from US airstrikes, with the death toll rising per Al Jazeera amid the ongoing US-Iran war.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
