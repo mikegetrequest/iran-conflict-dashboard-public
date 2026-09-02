@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-02 14:43",
+  "updated_at_gst": "2026-09-02 18:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran, US exchange new attacks: Who was hit in latest strikes?",
-        "published": "Wed, 02 Sep 2026 08:55:20 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/2/alex-eala-cruises-into-us-open-second-round-top-seed-zverev-survives?traffic_source=rss"
+        "title": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
+        "published": "Wed, 02 Sep 2026 12:55:42 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/bodies-excavated-from-worst-flood-hit-district-near-nepal-china-border?traffic_source=rss"
       },
       {
-        "title": "Worshippers in West Bank tear-gassed as Israeli attacks on mosques surge",
-        "published": "Wed, 02 Sep 2026 07:40:20 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/9/2/why-greece-is-betting-on-israels-achilles-shield?traffic_source=rss"
-      },
-      {
-        "title": "‘We had an ordinary life’: Iran fisherwoman navigates uncertainty of war",
-        "published": "Wed, 02 Sep 2026 06:26:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/2/mark-ruffalo-comments-spark-pushback-against-antisemitism-smear-campaign?traffic_source=rss"
+        "title": "What is Iran’s Castle Breaker missile, used against US bases?",
+        "published": "Wed, 02 Sep 2026 12:38:39 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/palestinian-landowners-confront-bulldozers-using-their-hands?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Claims Drone Strikes on US Bases in UAE",
+        "title": "US, Iran Trade Heaviest Strikes Since July in Gulf",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · United Arab Emirates · 4h ago. Iran's Islamic Revolutionary Guard Corps claims it launched drone strikes against US bases in the United Arab Emirates, widening the regional conflict.",
+        "title": "— S4 · Conflict · Persian Gulf · 2h ago. American airstrikes and Iranian retaliation escalate the conflict, shaking Gulf markets and raising oil prices.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Bombs Two Iranian Tankers in Strait of Hormuz",
+        "title": "IRGC Claims Drone Strikes on US Bases in UAE",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
