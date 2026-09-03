@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-04 01:09",
+  "updated_at_gst": "2026-09-04 03:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,13 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Trump calls media ‘treasonous scum’ over reports of low Iran war munitions",
-        "published": "Thu, 03 Sep 2026 17:26:09 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/9/3/canada-ready-for-a-trade-deal-with-us-that-benefits-both-carney-says?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -38,17 +32,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes 7 US Bases in 4 Countries With Missiles",
+        "title": "Iran Fires Anti-Ship Missiles at US Convoy in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US, Iran Trade Heaviest Strikes Since July in Gulf",
+        "title": "Iran Strikes 7 US Bases in 4 Countries With Missiles",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Persian Gulf · 1d ago. US airstrikes on Iran's Revolutionary Guard prompt Iranian ballistic missile attacks on US bases in Bahrain, Kuwait, Jordan and Iraq, shaking Gulf markets and raising oil prices.",
+        "title": "US, Iran Trade Heaviest Strikes Since July in Gulf",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
