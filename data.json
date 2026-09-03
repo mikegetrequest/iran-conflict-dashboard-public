@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-03 09:57",
+  "updated_at_gst": "2026-09-03 14:34",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump threatens more strikes as death toll in Iran rises to 18",
-        "published": "Thu, 03 Sep 2026 01:45:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/3/venezuelas-maduro-asserts-immunity-in-us-court-urges-dismissal-of-charges?traffic_source=rss"
+        "title": "EU foreign ministers fail to break deadlock over Israel and Ukraine",
+        "published": "Thu, 03 Sep 2026 09:34:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/3/norway-seizes-russian-ship-in-arctic-over-crimea-compensation-claim?traffic_source=rss"
+      },
+      {
+        "title": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
+        "published": "Thu, 03 Sep 2026 07:41:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/3/pakistans-punjab-allows-secret-terrorism-trials-why-its-controversial?traffic_source=rss"
+      },
+      {
+        "title": "China’s support for Iran shows its limits as US ramps up pressure on Tehran",
+        "published": "Thu, 03 Sep 2026 06:48:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/3/eu-remains-divided-over-trade-sanctions-on-illegal-israeli-settlements?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
