@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-03 05:14",
+  "updated_at_gst": "2026-09-03 09:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
-        "published": "Thu, 03 Sep 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/2/thousands-protest-in-spain-as-ceutas-migrant-crisis-festers-a-month-on?traffic_source=rss"
-      },
-      {
-        "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
-        "published": "Wed, 02 Sep 2026 20:59:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/2/long-term-implications-pete-hegseth-military-purges?traffic_source=rss"
+        "title": "Trump threatens more strikes as death toll in Iran rises to 18",
+        "published": "Thu, 03 Sep 2026 01:45:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/3/venezuelas-maduro-asserts-immunity-in-us-court-urges-dismissal-of-charges?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Katz Details Gaza, Lebanon Operations",
+        "title": "Iran Strikes 7 US Bases in 4 Countries With Missiles",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes on Iran Kill 19, Wound 108",
+        "title": "Israel Katz Details Gaza, Lebanon Operations",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 12h ago. Iran's health ministry reports 19 killed and 108 injured from US airstrikes, with the death toll rising per Al Jazeera amid the ongoing US-Iran war.",
+        "title": "US Strikes on Iran Kill 19, Wound 108",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
