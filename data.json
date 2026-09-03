@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-03 14:34",
+  "updated_at_gst": "2026-09-03 18:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "EU foreign ministers fail to break deadlock over Israel and Ukraine",
-        "published": "Thu, 03 Sep 2026 09:34:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/3/norway-seizes-russian-ship-in-arctic-over-crimea-compensation-claim?traffic_source=rss"
+        "title": "Kenya’s aviation strike is over, but the dispute is far from settled",
+        "published": "Thu, 03 Sep 2026 11:55:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/3/un-warns-el-nino-could-be-off-the-charts-strongest-in-decades?traffic_source=rss"
       },
       {
-        "title": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
-        "published": "Thu, 03 Sep 2026 07:41:45 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/3/pakistans-punjab-allows-secret-terrorism-trials-why-its-controversial?traffic_source=rss"
-      },
-      {
-        "title": "China’s support for Iran shows its limits as US ramps up pressure on Tehran",
-        "published": "Thu, 03 Sep 2026 06:48:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/3/eu-remains-divided-over-trade-sanctions-on-illegal-israeli-settlements?traffic_source=rss"
+        "title": "Legendary Bosnian striker Edin Dzeko to retire from international football",
+        "published": "Thu, 03 Sep 2026 11:10:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes on Iran Kill 19, Wound 108",
+        "title": "US, Iran Trade Heaviest Strikes Since July in Gulf",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
