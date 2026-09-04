@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-04 03:21",
+  "updated_at_gst": "2026-09-04 05:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,23 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
+        "published": "Thu, 03 Sep 2026 21:07:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/3/france-records-hottest-summer-ever-in-2026?traffic_source=rss"
+      },
+      {
+        "title": "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
+        "published": "Thu, 03 Sep 2026 20:31:08 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/train-crashes-into-truck-at-railway-crossing-in-gdansk-poland?traffic_source=rss"
+      },
+      {
+        "title": "Funeral held for child killed in US strike on Iranian wedding",
+        "published": "Thu, 03 Sep 2026 20:00:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/leaders-of-thailand-and-singapore-perform-beatles-song-let-it?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
