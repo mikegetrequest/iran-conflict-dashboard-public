@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-04 10:05",
+  "updated_at_gst": "2026-09-04 15:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war: Why US midterms could be a pivotal moment",
+        "published": "Fri, 04 Sep 2026 11:12:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss"
+      },
+      {
+        "title": "Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave",
+        "published": "Fri, 04 Sep 2026 06:22:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/4/after-gen-z-indias-gen-alpha-rises-demanding-education-reforms?traffic_source=rss"
+      },
       {
         "title": "No shelter or water, yet Lebanese return home, defying Israel.",
         "published": "Fri, 04 Sep 2026 05:11:11 +0000",
@@ -43,12 +53,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes 7 US Bases in 4 Countries With Missiles",
+        "title": "Iran Launches Drone Raid on Kuwait, U.S. Bases",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US, Iran Trade Heaviest Strikes Since July in Gulf",
+        "title": "US Strike Kills 4 at Wedding in Kuhestak, Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
