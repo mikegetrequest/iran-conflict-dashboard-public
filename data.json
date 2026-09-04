@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-04 19:16",
+  "updated_at_gst": "2026-09-04 22:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "UN raises ‘ethnic cleansing’ concerns over Israel’s West Bank operation",
+        "published": "Fri, 04 Sep 2026 15:31:54 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss"
+      },
+      {
+        "title": "US rejects Israeli suggestions of removing Palestinians from Gaza",
+        "published": "Fri, 04 Sep 2026 15:24:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-israel-lebanon-detainees-minisv-mp4?traffic_source=rss"
+      },
       {
         "title": "Israel frees four more Lebanese prisoners in Red Cross-mediated handover",
         "published": "Fri, 04 Sep 2026 14:50:55 +0000",
@@ -38,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Fires Anti-Ship Missiles at US Convoy in Strait of Hormuz",
+        "title": "Qatar Rejects Iran Denial of Ras Laffan Strike",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Drone Raid on Kuwait, U.S. Bases",
+        "title": "— S4 · Conflict · Ras Laffan, Qatar · 44m ago. Qatar's government disputes Iran's claim that a strike on the Ras Laffan gas facility did not occur, escalating tensions in the Gulf conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strike Kills 4 at Wedding in Kuhestak, Iran",
+        "title": "Iran Fires Anti-Ship Missiles at US Convoy in Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
