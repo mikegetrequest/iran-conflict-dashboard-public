@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-05 01:06",
+  "updated_at_gst": "2026-09-05 03:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
-        "published": "Fri, 04 Sep 2026 20:22:42 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss"
+        "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
+        "published": "Fri, 04 Sep 2026 21:58:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss"
       },
       {
-        "title": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
-        "published": "Fri, 04 Sep 2026 19:48:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss"
+        "title": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
+        "published": "Fri, 04 Sep 2026 20:04:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Ras Laffan, Qatar · 3h ago. Qatar's government disputes Iran's claim that a strike on the Ras Laffan gas facility did not occur, escalating tensions in the Gulf conflict.",
+        "title": "— S4 · Conflict · Ras Laffan, Qatar · 5h ago. Qatar's government disputes Iran's claim that a strike on the Ras Laffan gas facility did not occur, escalating tensions in the Gulf conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
