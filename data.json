@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-05 13:33",
+  "updated_at_gst": "2026-09-05 17:04",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UAE pardons Egyptian dissident-poet al-Qaradawi facing 10 years in prison",
-        "published": "Sat, 05 Sep 2026 08:14:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/5/i-was-born-here-london-exhibition?traffic_source=rss"
+        "title": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
+        "published": "Sat, 05 Sep 2026 12:54:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/5/how-big-is-africa-really-why-the-un-voted-to-change-the-world-map?traffic_source=rss"
+      },
+      {
+        "title": "Yemen government launches own air attacks on Houthis: What that means",
+        "published": "Sat, 05 Sep 2026 12:43:38 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/costa-ricas-president-says-us-ground-forces-would-boost-national-security?traffic_source=rss"
+      },
+      {
+        "title": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
+        "published": "Sat, 05 Sep 2026 12:04:52 +0000",
+        "link": "https://www.aljazeera.com/features/longform/2026/9/5/pickleball-and-dining-why-courts-are-the-new-food-destinations?traffic_source=rss"
+      },
+      {
+        "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
+        "published": "Sat, 05 Sep 2026 10:27:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss"
+      },
+      {
+        "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
+        "published": "Sat, 05 Sep 2026 09:52:44 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/9/5/fitch-removes-qatar-from-rating-watch-as-lng-risks-ease?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza City, Palestine · 3h ago. Gaza authorities recovered bodies of more than 50 family members killed in Gaza City, following recent Israeli strikes.",
+        "title": "— S4 · Conflict · Gaza City, Palestine · 7h ago. Gaza authorities recovered bodies of more than 50 family members killed in Gaza City, following recent Israeli strikes.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +68,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Rafah, Gaza Strip · 9h ago. New investigation into the 1 April 2024 strike that killed seven WCK staff in Rafah details Israeli 'guilt by association' tactic, escalating accountability pressure.",
+        "title": "— S4 · Conflict · Rafah, Gaza Strip · 13h ago. New investigation into the 1 April 2024 strike that killed seven WCK staff in Rafah details Israeli 'guilt by association' tactic, escalating accountability pressure.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
