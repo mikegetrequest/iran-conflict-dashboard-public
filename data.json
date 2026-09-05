@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-05 09:54",
+  "updated_at_gst": "2026-09-05 13:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Did Israel’s destruction of Gaza worsen its water crisis?",
-        "published": "Sat, 05 Sep 2026 03:46:20 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: US polygraphs 50 Joint Staff members over Iran war leaks",
-        "published": "Sat, 05 Sep 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
-        "published": "Fri, 04 Sep 2026 21:58:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss"
+        "title": "UAE pardons Egyptian dissident-poet al-Qaradawi facing 10 years in prison",
+        "published": "Sat, 05 Sep 2026 08:14:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/5/i-was-born-here-london-exhibition?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Guardian Reveals IDF Tactic in 2024 Aid Worker Strike",
+        "title": "— S4 · Conflict · Gaza City, Palestine · 3h ago. Gaza authorities recovered bodies of more than 50 family members killed in Gaza City, following recent Israeli strikes.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Rafah, Gaza Strip · 6h ago. New investigation into the 1 April 2024 strike that killed seven WCK staff in Rafah details Israeli 'guilt by association' tactic, escalating accountability pressure.",
+        "title": "Guardian Reveals IDF Tactic in 2024 Aid Worker Strike",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Qatar Rejects Iran Denial of Ras Laffan Strike",
+        "title": "— S4 · Conflict · Rafah, Gaza Strip · 9h ago. New investigation into the 1 April 2024 strike that killed seven WCK staff in Rafah details Israeli 'guilt by association' tactic, escalating accountability pressure.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
