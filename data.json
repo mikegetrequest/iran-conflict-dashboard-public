@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-05 17:04",
+  "updated_at_gst": "2026-09-05 20:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US says it hit three Iranian oil tankers after attacks on warships",
+        "published": "Sat, 05 Sep 2026 15:49:44 +0000",
+        "link": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss"
+      },
+      {
+        "title": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
+        "published": "Sat, 05 Sep 2026 14:49:36 +0000",
+        "link": "https://www.aljazeera.com/features/2026/9/5/relatives-hold-cremations-without-bodies-for-nepals-missing-flood-victims?traffic_source=rss"
+      },
+      {
         "title": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
         "published": "Sat, 05 Sep 2026 12:54:15 +0000",
         "link": "https://www.aljazeera.com/news/2026/9/5/how-big-is-africa-really-why-the-un-voted-to-change-the-world-map?traffic_source=rss"
@@ -29,16 +39,6 @@
         "title": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
         "published": "Sat, 05 Sep 2026 12:04:52 +0000",
         "link": "https://www.aljazeera.com/features/longform/2026/9/5/pickleball-and-dining-why-courts-are-the-new-food-destinations?traffic_source=rss"
-      },
-      {
-        "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
-        "published": "Sat, 05 Sep 2026 10:27:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss"
-      },
-      {
-        "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
-        "published": "Sat, 05 Sep 2026 09:52:44 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/9/5/fitch-removes-qatar-from-rating-watch-as-lng-risks-ease?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza City, Palestine · 7h ago. Gaza authorities recovered bodies of more than 50 family members killed in Gaza City, following recent Israeli strikes.",
+        "title": "US Strikes Three Iranian Oil Tankers in Gulf",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Guardian Reveals IDF Tactic in 2024 Aid Worker Strike",
+        "title": "Missile Hits Iranian Oil Tanker Near Kharg Island",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Rafah, Gaza Strip · 13h ago. New investigation into the 1 April 2024 strike that killed seven WCK staff in Rafah details Israeli 'guilt by association' tactic, escalating accountability pressure.",
+        "title": "— S4 · Conflict · Kharg Island, Iran · 9h ago. A missile strikes an Iranian oil tanker near Kharg Island in the Persian Gulf, amid the ongoing US-Iran naval conflict and blockade.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
