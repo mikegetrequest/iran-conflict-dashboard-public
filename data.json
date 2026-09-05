@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-05 20:08",
+  "updated_at_gst": "2026-09-05 22:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+        "published": "Sat, 05 Sep 2026 16:17:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss"
+      },
       {
         "title": "US says it hit three Iranian oil tankers after attacks on warships",
         "published": "Sat, 05 Sep 2026 15:49:44 +0000",
@@ -34,11 +39,6 @@
         "title": "Yemen government launches own air attacks on Houthis: What that means",
         "published": "Sat, 05 Sep 2026 12:43:38 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/costa-ricas-president-says-us-ground-forces-would-boost-national-security?traffic_source=rss"
-      },
-      {
-        "title": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
-        "published": "Sat, 05 Sep 2026 12:04:52 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/9/5/pickleball-and-dining-why-courts-are-the-new-food-destinations?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Three Iranian Oil Tankers in Gulf",
+        "title": "Israeli Attacks on Lebanon Kill Nearly 9,000 Since 2023",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Missile Hits Iranian Oil Tanker Near Kharg Island",
+        "title": "— S4 · Conflict · Beirut, Lebanon · 10m ago. Lebanon's Health Ministry reports Israeli attacks have killed nearly 9,000 people since 2023, a cumulative toll of the ongoing conflict with Hezbollah.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Kharg Island, Iran · 9h ago. A missile strikes an Iranian oil tanker near Kharg Island in the Persian Gulf, amid the ongoing US-Iran naval conflict and blockade.",
+        "title": "— S4 · Conflict · Zeitoun, Gaza City, Palestine · 1h ago. Palestinian Civil Defence recovered 106 sets of remains in Zeitoun, Gaza City, amid ongoing Israeli operations.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
