@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-06 04:01",
+  "updated_at_gst": "2026-09-06 08:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Fuel tanker blast in western Iran kills at least 10",
-        "published": "Sat, 05 Sep 2026 23:07:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss"
+        "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
+        "published": "Sun, 06 Sep 2026 02:56:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/people-laughed-at-me-indian-youth-cleans-up-a-trash-filled-river?traffic_source=rss"
       },
       {
-        "title": "Colombian government reports three killed in rebel attack on military post",
-        "published": "Sat, 05 Sep 2026 20:03:29 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss"
+        "title": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
+        "published": "Sun, 06 Sep 2026 01:02:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships",
+        "published": "Sun, 06 Sep 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss"
+      },
+      {
+        "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
+        "published": "Sat, 05 Sep 2026 20:00:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/5/france-denies-inciting-failed-niger-mutiny-calls-accusation-pure-fantasy?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attacks on Lebanon Kill Nearly 9,000 Since 2023",
+        "title": "US Strikes Iranian Oil Tankers Near Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Beirut, Lebanon · 6h ago. Lebanon's Health Ministry reports Israeli attacks have killed nearly 9,000 people since 2023, a cumulative toll of the ongoing conflict with Hezbollah.",
+        "title": "Israeli Attacks on Lebanon Kill Nearly 9,000 Since 2023",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Zeitoun, Gaza City, Palestine · 7h ago. Palestinian Civil Defence recovered 106 sets of remains in Zeitoun, Gaza City, amid ongoing Israeli operations.",
+        "title": "— S4 · Conflict · Beirut, Lebanon · 11h ago. Lebanon's Health Ministry reports Israeli attacks have killed nearly 9,000 people since 2023, a cumulative toll of the ongoing conflict with Hezbollah.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
