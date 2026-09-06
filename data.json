@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-07 01:47",
+  "updated_at_gst": "2026-09-07 03:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,18 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Will Israelis re-elect Benjamin Netanyahu?",
+        "published": "Sun, 06 Sep 2026 20:20:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss"
+      },
+      {
+        "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
+        "published": "Sun, 06 Sep 2026 18:56:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -37,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 2h ago. Anti-ship cruise missiles launched toward a US-escorted oil tanker convoy in the Strait of Hormuz; explosions reported. Escalation in US-Iran maritime conflict.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 4h ago. Anti-ship cruise missiles launched toward a US-escorted oil tanker convoy in the Strait of Hormuz; explosions reported. Escalation in US-Iran maritime conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
