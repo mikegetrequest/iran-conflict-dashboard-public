@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-06 12:59",
+  "updated_at_gst": "2026-09-06 16:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’",
-        "published": "Sun, 06 Sep 2026 04:59:28 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/more-than-20-killed-in-fire-at-wedding-party-in-dr-congo?traffic_source=rss"
+        "title": "Israeli flags become the latest weapon of settlers in West Bank domination",
+        "published": "Sun, 06 Sep 2026 09:40:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss"
       },
       {
-        "title": "Fuel tanker blast in western Iran kills at least 10",
-        "published": "Sat, 05 Sep 2026 23:07:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss"
+        "title": "Israel bombards several towns in southern Lebanon",
+        "published": "Sun, 06 Sep 2026 08:44:03 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/6/zverev-and-gauff-ease-into-us-open-last-16-but-alex-eala-falls-to-jovic?traffic_source=rss"
+      },
+      {
+        "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
+        "published": "Sun, 06 Sep 2026 06:52:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/flames-burst-from-qantas-plane-engine-after-new-zealand-takeoff?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Air Strikes Level Hospital in Southern Lebanon",
+        "title": "US Strikes Iranian Oil Tankers Near Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Southern Lebanon · 2h ago. Reported Israeli airstrikes destroyed a hospital in southern Lebanon, amid ongoing Israel-Hezbollah conflict, escalating humanitarian concerns.",
+        "title": "Israeli Attacks on Lebanon Kill Nearly 9,000 Since 2023",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iranian Oil Tankers Near Strait of Hormuz",
+        "title": "— S4 · Conflict · Beirut, Lebanon · 18h ago. Lebanon's Health Ministry reports Israeli attacks have killed nearly 9,000 people since 2023, a cumulative toll of the ongoing conflict with Hezbollah.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
