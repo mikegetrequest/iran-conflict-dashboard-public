@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-06 02:25",
+  "updated_at_gst": "2026-09-06 04:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Fuel tanker blast in western Iran kills at least 10",
+        "published": "Sat, 05 Sep 2026 23:07:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss"
+      },
+      {
         "title": "Colombian government reports three killed in rebel attack on military post",
         "published": "Sat, 05 Sep 2026 20:03:29 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss"
-      },
-      {
-        "title": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
-        "published": "Sat, 05 Sep 2026 16:04:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Oil Tankers as Iran Vows Tougher Reprisals",
+        "title": "Israeli Attacks on Lebanon Kill Nearly 9,000 Since 2023",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Persian Gulf · 2h ago. CENTCOM says US forces hit tankers after IRGC fired on American warships amid the renewed US-Iran conflict. Iran threatens stronger retaliation.",
+        "title": "— S4 · Conflict · Beirut, Lebanon · 6h ago. Lebanon's Health Ministry reports Israeli attacks have killed nearly 9,000 people since 2023, a cumulative toll of the ongoing conflict with Hezbollah.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attacks on Lebanon Kill Nearly 9,000 Since 2023",
+        "title": "— S4 · Conflict · Zeitoun, Gaza City, Palestine · 7h ago. Palestinian Civil Defence recovered 106 sets of remains in Zeitoun, Gaza City, amid ongoing Israeli operations.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
