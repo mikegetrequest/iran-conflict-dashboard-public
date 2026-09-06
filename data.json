@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-06 16:39",
+  "updated_at_gst": "2026-09-06 19:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli flags become the latest weapon of settlers in West Bank domination",
-        "published": "Sun, 06 Sep 2026 09:40:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss"
-      },
-      {
-        "title": "Israel bombards several towns in southern Lebanon",
-        "published": "Sun, 06 Sep 2026 08:44:03 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/6/zverev-and-gauff-ease-into-us-open-last-16-but-alex-eala-falls-to-jovic?traffic_source=rss"
-      },
-      {
-        "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
-        "published": "Sun, 06 Sep 2026 06:52:23 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/flames-burst-from-qantas-plane-engine-after-new-zealand-takeoff?traffic_source=rss"
+        "title": "Bosnian Serbs strengthen ties with Israel amid tensions",
+        "published": "Sun, 06 Sep 2026 14:37:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/nepal-rescuers-search-hydropower-tunnels-for-survivors?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Beirut, Lebanon · 18h ago. Lebanon's Health Ministry reports Israeli attacks have killed nearly 9,000 people since 2023, a cumulative toll of the ongoing conflict with Hezbollah.",
+        "title": "— S4 · Conflict · Beirut, Lebanon · 22h ago. Lebanon's Health Ministry reports Israeli attacks have killed nearly 9,000 people since 2023, a cumulative toll of the ongoing conflict with Hezbollah.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
