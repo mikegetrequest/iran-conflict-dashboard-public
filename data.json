@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-06 21:49",
+  "updated_at_gst": "2026-09-06 23:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,13 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Bosnian Serbs strengthen ties with Israel amid tensions",
-        "published": "Sun, 06 Sep 2026 14:37:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/nepal-rescuers-search-hydropower-tunnels-for-survivors?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -38,17 +32,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iranian Oil Tankers Near Strait of Hormuz",
+        "title": "Missiles Fired at US-Escorted Tanker Convoy in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attacks on Lebanon Kill Nearly 9,000 Since 2023",
+        "title": "— S4 · Conflict · Strait of Hormuz · 6m ago. Anti-ship cruise missiles launched toward a US-escorted oil tanker convoy in the Strait of Hormuz; explosions reported. Escalation in US-Iran maritime conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Beirut, Lebanon · 1d ago. Lebanon's Health Ministry reports Israeli attacks have killed nearly 9,000 people since 2023, a cumulative toll of the ongoing conflict with Hezbollah.",
+        "title": "US Strikes Iranian Oil Tankers Near Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
