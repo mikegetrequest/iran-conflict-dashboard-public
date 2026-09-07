@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-07 21:58",
+  "updated_at_gst": "2026-09-08 01:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,18 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "‘Rhetoric differs’: How the UK’s relationship with Israel took a downturn",
-        "published": "Mon, 07 Sep 2026 16:38:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/7/russia-and-north-korea-deepen-relations-with-symbolic-road-bridge?traffic_source=rss"
-      },
-      {
-        "title": "Israel deports British activist who protected Palestinian children",
-        "published": "Mon, 07 Sep 2026 16:11:13 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/7/irksome-influencers-at-the-us-open-are-here-to-stay?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -48,12 +37,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Missiles Fired at US-Escorted Tanker Convoy in Strait of Hormuz",
+        "title": "Israeli Strikes Kill 1, Injure 10 in Southern Lebanon",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 22h ago. Anti-ship cruise missiles launched toward a US-escorted oil tanker convoy in the Strait of Hormuz; explosions reported. Escalation in US-Iran maritime conflict.",
+        "title": "— S3 · Conflict · Southern Lebanon · 1h ago. Israeli airstrikes hit southern Lebanon, killing at least one and wounding ten amid ongoing cross-border hostilities.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
