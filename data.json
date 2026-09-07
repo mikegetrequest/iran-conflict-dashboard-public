@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-08 01:03",
+  "updated_at_gst": "2026-09-08 03:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,28 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+        "published": "Mon, 07 Sep 2026 21:17:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
+        "published": "Mon, 07 Sep 2026 21:00:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss"
+      },
+      {
+        "title": "The domestic armed threat facing Iran",
+        "published": "Mon, 07 Sep 2026 19:06:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s plan to split the West Bank",
+        "published": "Mon, 07 Sep 2026 18:11:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -37,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Strikes Kill 1, Injure 10 in Southern Lebanon",
+        "title": "— S3 · Conflict · Abha, Saudi Arabia · 1h ago. Houthi forces reportedly strike Saudi facilities near Abha, escalating regional tensions amid ongoing Yemen conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon · 1h ago. Israeli airstrikes hit southern Lebanon, killing at least one and wounding ten amid ongoing cross-border hostilities.",
+        "title": "Israel Strikes South Lebanon, Killing 13 in Escalation",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
