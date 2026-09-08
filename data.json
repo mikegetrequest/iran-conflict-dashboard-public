@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-08 03:36",
+  "updated_at_gst": "2026-09-08 05:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
+        "published": "Tue, 08 Sep 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss"
+      },
+      {
         "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
         "published": "Mon, 07 Sep 2026 21:17:12 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "The domestic armed threat facing Iran",
         "published": "Mon, 07 Sep 2026 19:06:22 +0000",
         "link": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s plan to split the West Bank",
-        "published": "Mon, 07 Sep 2026 18:11:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Declares Restricted Zone Near Strait of Hormuz",
+        "title": "Israel Strikes Kill 4,362 in Lebanon Since March",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Abha, Saudi Arabia · 1h ago. Houthi forces reportedly strike Saudi facilities near Abha, escalating regional tensions amid ongoing Yemen conflict.",
+        "title": "— S4 · Conflict · Beirut, Lebanon · 1h ago. Lebanon's Health Ministry reports total casualties from Israeli attacks since March, amid ongoing conflict with Hezbollah.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes South Lebanon, Killing 13 in Escalation",
+        "title": "Iran Declares Restricted Zone Near Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
