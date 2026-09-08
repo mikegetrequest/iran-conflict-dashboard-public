@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-08 22:52",
+  "updated_at_gst": "2026-09-09 01:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Qatar responds to Netanyahu’s ‘hostile state’ remark",
-        "published": "Tue, 08 Sep 2026 18:18:17 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/women-and-children-remain-trapped-in-syrias-roj-camp?traffic_source=rss"
+        "title": "Police bodycam captures Russian missile strike on Kyiv",
+        "published": "Tue, 08 Sep 2026 20:43:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/8/brazil-supreme-court-rift-deepens-as-justice-suspends-federal-police-chief?traffic_source=rss"
       },
       {
-        "title": "US won’t join UK ban on trade with illegal Israeli settlements",
-        "published": "Tue, 08 Sep 2026 17:24:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/a-bit-too-late-but-important-uk-bans-goods-from-israeli-settlements?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strikes devastate homes, displace families across Gaza",
-        "published": "Tue, 08 Sep 2026 17:04:28 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/9/8/bombardier-defends-us-manufacturing-amid-trumps-aviation-sales-threat?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strikes transform Lebanese city into ghost town",
-        "published": "Tue, 08 Sep 2026 16:19:52 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss"
-      },
-      {
-        "title": "Israeli academia accused of systemic apartheid against Palestinians",
-        "published": "Tue, 08 Sep 2026 16:04:42 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/8/live-real-madrid-vs-inter-milan-uefa-champions-league?traffic_source=rss"
-      },
-      {
-        "title": "Jerusalem Daily: UK announces sanctions on Israeli settlement goods",
-        "published": "Tue, 08 Sep 2026 15:12:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/8/eu-condemns-serbias-ministers-for-attending-funeral-of-war-criminal-mladic?traffic_source=rss"
+        "title": "Mamdani says 9/11 illnesses killed more than attacks did",
+        "published": "Tue, 08 Sep 2026 20:20:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/fourteen-on-trial-over-deadliest-english-channel-crossing-on-record?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Ballistic Missiles; US Strikes Tankers in Strait of Hormuz",
+        "title": "US Strikes Iranian Oil Tankers Near Kharg Island and Jask",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Amnesty Says US-Israeli Attacks on Tehran Suburbs May Be War Crimes",
+        "title": "US Strikes Iranian Oil Tankers in Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 8h ago. Amnesty International calls for investigations into three US and Israeli attacks on Tehran suburbs that killed at least 41 civilians, citing possible war crimes.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 3h ago. US forces struck 2-3 Iranian oil tankers in the Strait of Hormuz, prompting Iranian warnings of retaliation against American oil companies and military bases in the region.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
