@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-08 15:49",
+  "updated_at_gst": "2026-09-08 19:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "As Sweden heads to polls, Israel and Palestine policies are on the ballot",
-        "published": "Tue, 08 Sep 2026 11:21:13 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss"
+        "title": "Jerusalem Daily: UK announces sanctions on Israeli settlement goods",
+        "published": "Tue, 08 Sep 2026 15:12:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/8/eu-condemns-serbias-ministers-for-attending-funeral-of-war-criminal-mladic?traffic_source=rss"
       },
       {
-        "title": "Houthi attacks on southern Saudi Arabia reportedly injure dozens",
-        "published": "Tue, 08 Sep 2026 08:42:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back?traffic_source=rss"
+        "title": "UK imposes ban on goods from Israeli settlements in occupied West Bank",
+        "published": "Tue, 08 Sep 2026 15:00:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss"
+      },
+      {
+        "title": "Qatar says reopening Strait of Hormuz ‘unconditionally’ is a priority",
+        "published": "Tue, 08 Sep 2026 12:44:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 47m ago. Amnesty International calls for investigations into three US and Israeli attacks on Tehran suburbs that killed at least 41 civilians, citing possible war crimes.",
+        "title": "— S4 · Conflict · Tehran, Iran · 4h ago. Amnesty International calls for investigations into three US and Israeli attacks on Tehran suburbs that killed at least 41 civilians, citing possible war crimes.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
