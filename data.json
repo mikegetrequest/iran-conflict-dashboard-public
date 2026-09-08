@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-08 10:38",
+  "updated_at_gst": "2026-09-08 15:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Palestine weekly: Israeli ministers push for depopulation of Gaza",
-        "published": "Tue, 08 Sep 2026 05:34:30 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss"
+        "title": "As Sweden heads to polls, Israel and Palestine policies are on the ballot",
+        "published": "Tue, 08 Sep 2026 11:21:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss"
       },
       {
-        "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
-        "published": "Tue, 08 Sep 2026 04:26:16 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/aje-onl-nf_nine-killed-in-bolivia-military-base-explosion-080926?traffic_source=rss"
-      },
-      {
-        "title": "IAEA warns over Iran nuclear access as Western powers push UN referral",
-        "published": "Tue, 08 Sep 2026 01:50:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/8/panama-canal-may-cut-ship-traffic-further-as-el-nio-strengthens?traffic_source=rss"
-      },
-      {
-        "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
-        "published": "Mon, 07 Sep 2026 23:50:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss"
+        "title": "Houthi attacks on southern Saudi Arabia reportedly injure dozens",
+        "published": "Tue, 08 Sep 2026 08:42:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Kill 4,362 in Lebanon Since March",
+        "title": "Amnesty Says US-Israeli Attacks on Tehran Suburbs May Be War Crimes",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Beirut, Lebanon · 6h ago. Lebanon's Health Ministry reports total casualties from Israeli attacks since March, amid ongoing conflict with Hezbollah.",
+        "title": "— S4 · Conflict · Tehran, Iran · 47m ago. Amnesty International calls for investigations into three US and Israeli attacks on Tehran suburbs that killed at least 41 civilians, citing possible war crimes.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Declares Restricted Zone Near Strait of Hormuz",
+        "title": "Houthi Attacks on Saudi Arabia Wound Over 70 People",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
