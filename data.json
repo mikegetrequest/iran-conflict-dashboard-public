@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-09 23:32",
+  "updated_at_gst": "2026-09-10 02:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Houthi attacks on Saudi Arabia could activate defence pact, Pakistan says",
-        "published": "Wed, 09 Sep 2026 18:31:10 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/9/how-significant-are-new-european-sanctions-on-illegal-israeli-settlements?traffic_source=rss"
+        "title": "Trump says Iran war ‘will end immediately’ after US midterm elections",
+        "published": "Wed, 09 Sep 2026 21:09:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/guterres-pays-tribute-to-qatars-late-father-emir-at-un-ceremony?traffic_source=rss"
       },
       {
-        "title": "Attackers kill police officer, kidnap teachers in Cameroon’s northwest",
-        "published": "Wed, 09 Sep 2026 16:00:01 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-liverpool-vs-atletico-madrid-champions-league?traffic_source=rss"
+        "title": "Burnham defends UK ban on Israeli settlement trade",
+        "published": "Wed, 09 Sep 2026 20:32:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strike targets home in Gaza’s al-Shati refugee camp",
+        "published": "Wed, 09 Sep 2026 19:37:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/two-rescued-after-plane-makes-emergency-landing-in-black-sea?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Attacks 10 Ships Near Strait of Hormuz, Expands No-Go Zone",
+        "title": "Iran Hits Three Oil Tankers Near Dubai, Kuwait, Qatar",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Hits Three Oil Tankers Near Dubai, Kuwait, Qatar",
+        "title": "— S4 · Conflict · Persian Gulf · 11h ago. Iranian strikes target at least eight oil tankers across the Persian Gulf, with three confirmed hit near Dubai, Kuwait, and Qatar amid escalating regional conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Persian Gulf · 8h ago. Iranian strikes target at least eight oil tankers across the Persian Gulf, with three confirmed hit near Dubai, Kuwait, and Qatar amid escalating regional conflict.",
+        "title": "Iran Strikes Oil Tanker Off Kuwaiti Coast, UKMTO Says",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
