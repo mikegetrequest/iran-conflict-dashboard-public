@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-09 20:46",
+  "updated_at_gst": "2026-09-09 23:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Jerusalem Daily: Israel retaliates over sanctions on illegal settlements",
-        "published": "Wed, 09 Sep 2026 15:41:43 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/9/bangladesh-measles-deaths-pass-1000-as-vaccination-drive-falls-short?traffic_source=rss"
+        "title": "Houthi attacks on Saudi Arabia could activate defence pact, Pakistan says",
+        "published": "Wed, 09 Sep 2026 18:31:10 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/9/how-significant-are-new-european-sanctions-on-illegal-israeli-settlements?traffic_source=rss"
       },
       {
-        "title": "How has Israel hit back against sanctions by the UK, others?",
-        "published": "Wed, 09 Sep 2026 12:17:50 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/9/lionel-messi-agrees-deal-to-buy-second-tier-spanish-club-eldense?traffic_source=rss"
+        "title": "Attackers kill police officer, kidnap teachers in Cameroon’s northwest",
+        "published": "Wed, 09 Sep 2026 16:00:01 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-liverpool-vs-atletico-madrid-champions-league?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Attacks 10 Ships Near Strait of Hormuz After US Sinks Tankers",
+        "title": "Iran Attacks 10 Ships Near Strait of Hormuz, Expands No-Go Zone",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 1h ago. Tehran retaliates for US strikes that sank five Iranian tankers; oil tops $100 a barrel as six-month war escalates sharply.",
+        "title": "Iran Hits Three Oil Tankers Near Dubai, Kuwait, Qatar",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Hits Three Oil Tankers Near Dubai, Kuwait, Qatar",
+        "title": "— S4 · Conflict · Persian Gulf · 8h ago. Iranian strikes target at least eight oil tankers across the Persian Gulf, with three confirmed hit near Dubai, Kuwait, and Qatar amid escalating regional conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
