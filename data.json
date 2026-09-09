@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-09 10:49",
+  "updated_at_gst": "2026-09-09 16:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Why US-Iran war over Hormuz is threatening the Gulf’s waters",
-        "published": "Wed, 09 Sep 2026 05:47:58 +0000",
-        "link": "https://www.aljazeera.com/features/2026/9/9/israels-war-leaves-lebanons-schools-balancing-students-and-the-displaced?traffic_source=rss"
+        "title": "What are the holes in the UK’s ban on imports from Israeli settlements?",
+        "published": "Wed, 09 Sep 2026 11:27:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-rsf-drone-attack-on-sudan-court-kills-at-least-13-people?traffic_source=rss"
       },
       {
-        "title": "Yemen’s Saudi-backed forces strike Houthis on western coast",
-        "published": "Wed, 09 Sep 2026 02:06:02 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/9/energiser-or-circus-us-voters-weigh-in-on-trumps-midterm-convention?traffic_source=rss"
+        "title": "Has Iran captured an unmanned US submarine? What we know",
+        "published": "Wed, 09 Sep 2026 11:06:16 +0000",
+        "link": "https://www.aljazeera.com/video/money-works/2026/9/9/the-losers-of-the-us-canada-trade-war?traffic_source=rss"
       },
       {
-        "title": "Jordanian air defences intercept Iranian missile barrage",
-        "published": "Wed, 09 Sep 2026 01:08:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/9/sharpeville-massacre-66-years-on-families-still-wait-for-justice?traffic_source=rss"
+        "title": "‘Overdue first step’: UK reacts to gov’t ban on Israeli settlement trade",
+        "published": "Wed, 09 Sep 2026 10:47:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/9/yemen-war-escalates-who-are-the-key-actors-involved?traffic_source=rss"
+      },
+      {
+        "title": "Israel tells UK to close East Jerusalem consulate within 30 days",
+        "published": "Wed, 09 Sep 2026 10:09:06 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/9/9/the-war-in-the-gulf-will-have-to-end-in-compromise?traffic_source=rss"
+      },
+      {
+        "title": "Israeli parties submit slates for October Knesset elections",
+        "published": "Wed, 09 Sep 2026 09:51:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/authorities-in-india-rescue-baby-orangutans-dumped-in-forest?traffic_source=rss"
+      },
+      {
+        "title": "Pakistan faces new frontier against attacks: Balochistan’s Pashtun areas",
+        "published": "Wed, 09 Sep 2026 09:44:10 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/flash-floods-surge-through-moroccos-atlas-mountains?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +63,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran's IRGC Claims Attacks on US Destroyers, Oil Tankers in Strait of Hormuz",
+        "title": "Iran Hits Three Oil Tankers Near Dubai, Kuwait, Qatar",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Five Iranian Oil Tankers in Gulf",
+        "title": "— S4 · Conflict · Persian Gulf · 49m ago. Iranian strikes target at least eight oil tankers across the Persian Gulf, with three confirmed hit near Dubai, Kuwait, and Qatar amid escalating regional conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Missiles Strike US Air Base in Jordan",
+        "title": "Iran Strikes Oil Tanker Off Kuwaiti Coast, UKMTO Says",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
