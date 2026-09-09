@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-09 05:50",
+  "updated_at_gst": "2026-09-09 10:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Why US-Iran war over Hormuz is threatening the Gulf’s waters",
+        "published": "Wed, 09 Sep 2026 05:47:58 +0000",
+        "link": "https://www.aljazeera.com/features/2026/9/9/israels-war-leaves-lebanons-schools-balancing-students-and-the-displaced?traffic_source=rss"
+      },
+      {
+        "title": "Yemen’s Saudi-backed forces strike Houthis on western coast",
+        "published": "Wed, 09 Sep 2026 02:06:02 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/9/energiser-or-circus-us-voters-weigh-in-on-trumps-midterm-convention?traffic_source=rss"
+      },
+      {
         "title": "Jordanian air defences intercept Iranian missile barrage",
         "published": "Wed, 09 Sep 2026 01:08:15 +0000",
         "link": "https://www.aljazeera.com/news/2026/9/9/sharpeville-massacre-66-years-on-families-still-wait-for-justice?traffic_source=rss"
-      },
-      {
-        "title": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
-        "published": "Wed, 09 Sep 2026 00:08:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/9/suspected-smugglers-on-trial-over-deadliest-migrant-tragedy-in-france?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: US hits Iranian tankers, IRGC attacks US forces in Jordan",
-        "published": "Wed, 09 Sep 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss"
-      },
-      {
-        "title": "US bombs five Iranian oil tankers after its navy is attacked",
-        "published": "Tue, 08 Sep 2026 23:49:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11?traffic_source=rss"
-      },
-      {
-        "title": "What the UK ban on goods from illegal Israeli settlements really means",
-        "published": "Tue, 08 Sep 2026 21:35:36 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "CENTCOM Sinks Tanker Riesco in Gulf of Oman After IRGC Attack",
+        "title": "Iran's IRGC Claims Attacks on US Destroyers, Oil Tankers in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gulf of Oman · 3m ago. CENTCOM reports M/T Riesco sank Sept. 8 after U.S. forces destroyed it in response to attempted IRGC attacks on a U.S. Navy warship, escalating maritime tensions.",
+        "title": "US Strikes Five Iranian Oil Tankers in Gulf",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
