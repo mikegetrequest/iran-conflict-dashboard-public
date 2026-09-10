@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-10 02:02",
+  "updated_at_gst": "2026-09-10 04:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump says Iran war ‘will end immediately’ after US midterm elections",
-        "published": "Wed, 09 Sep 2026 21:09:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/guterres-pays-tribute-to-qatars-late-father-emir-at-un-ceremony?traffic_source=rss"
+        "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
+        "published": "Wed, 09 Sep 2026 23:15:38 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/9/gauff-beats-andreeva-to-reach-us-open-semifinals-in-comeback-win?traffic_source=rss"
       },
       {
-        "title": "Burnham defends UK ban on Israeli settlement trade",
-        "published": "Wed, 09 Sep 2026 20:32:24 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss"
+        "title": "Guterres pays tribute to Qatar’s late Father Emir at UN ceremony",
+        "published": "Wed, 09 Sep 2026 21:03:21 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-putin-wants-to-make-a-deal-to-end-ukraine-war?traffic_source=rss"
       },
       {
-        "title": "Israeli strike targets home in Gaza’s al-Shati refugee camp",
-        "published": "Wed, 09 Sep 2026 19:37:47 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/two-rescued-after-plane-makes-emergency-landing-in-black-sea?traffic_source=rss"
+        "title": "Pro-Palestinian protesters oppose Israel embassy opening in Slovenia",
+        "published": "Wed, 09 Sep 2026 20:53:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/burnham-defends-uk-ban-on-israeli-settlement-trade?traffic_source=rss"
+      },
+      {
+        "title": "IAEA board refers Iran to UN Security Council over nuclear ‘non-compliance’",
+        "published": "Wed, 09 Sep 2026 20:23:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/9/uk-man-charged-with-assisting-russian-intelligence-connected-group?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Persian Gulf · 11h ago. Iranian strikes target at least eight oil tankers across the Persian Gulf, with three confirmed hit near Dubai, Kuwait, and Qatar amid escalating regional conflict.",
+        "title": "— S4 · Conflict · Persian Gulf · 13h ago. Iranian strikes target at least eight oil tankers across the Persian Gulf, with three confirmed hit near Dubai, Kuwait, and Qatar amid escalating regional conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
