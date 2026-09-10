@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-10 08:56",
+  "updated_at_gst": "2026-09-10 13:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic",
+        "published": "Thu, 10 Sep 2026 07:50:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/10/israeli-attacks-kill-at-least-four-palestinians-in-northern-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
+        "published": "Thu, 10 Sep 2026 05:09:39 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/aje-onl-nf_suspected-ukrainian-drones-strike-dagestan-100926?traffic_source=rss"
+      },
+      {
         "title": "Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack",
         "published": "Thu, 10 Sep 2026 03:14:52 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss"
@@ -24,11 +34,6 @@
         "title": "Tunisian flotilla activists remain jailed as hunger striker worsens",
         "published": "Thu, 10 Sep 2026 02:41:50 +0000",
         "link": "https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss"
-      },
-      {
-        "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
-        "published": "Wed, 09 Sep 2026 23:15:38 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/9/gauff-beats-andreeva-to-reach-us-open-semifinals-in-comeback-win?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Persian Gulf · 18h ago. Iranian strikes target at least eight oil tankers across the Persian Gulf, with three confirmed hit near Dubai, Kuwait, and Qatar amid escalating regional conflict.",
+        "title": "— S4 · Conflict · Persian Gulf · 22h ago. Iranian strikes target at least eight oil tankers across the Persian Gulf, with three confirmed hit near Dubai, Kuwait, and Qatar amid escalating regional conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
