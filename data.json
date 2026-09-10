@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-10 21:21",
+  "updated_at_gst": "2026-09-10 23:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Family of four killed as they slept in Israeli strike on Gaza",
+        "published": "Thu, 10 Sep 2026 17:32:28 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-reported-bernard-smith-ypj-fighters-mp4?traffic_source=rss"
+      },
       {
         "title": "Jerusalem Daily: Israeli strikes devastate Gaza",
         "published": "Thu, 10 Sep 2026 16:27:37 +0000",
@@ -53,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Taiz, Yemen · 7m ago. Yemeni Joint Forces report Houthi artillery strikes targeting civilian areas in Jabal Habashi and the Taiz-Aden road, with civilian casualties reported.",
+        "title": "Israeli Navy Haifa Fleet Reveals New Details of Attacks at Sea",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
