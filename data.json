@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-11 23:52",
+  "updated_at_gst": "2026-09-12 02:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
-        "published": "Fri, 11 Sep 2026 19:21:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss"
+        "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
+        "published": "Fri, 11 Sep 2026 21:53:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss"
       },
       {
-        "title": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
-        "published": "Fri, 11 Sep 2026 16:30:48 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/passenger-plane-aborts-landing-after-wing-clips-dublin-runway?traffic_source=rss"
+        "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
+        "published": "Fri, 11 Sep 2026 19:59:41 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/11/enzo-maresca-manchester-city-man-united-derby-football?traffic_source=rss"
+      },
+      {
+        "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
+        "published": "Fri, 11 Sep 2026 18:33:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss"
+      },
+      {
+        "title": "US holds memorials for the 9/11 attacks, 25 years later",
+        "published": "Fri, 11 Sep 2026 18:00:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Saudi Arabia · 1h ago. Saudi Arabia halted the East-West crude pipeline (7 million bpd) after attacks on multiple pumping stations, bypassing the Strait of Hormuz amid regional conflict.",
+        "title": "— S4 · Conflict · Saudi Arabia · 4h ago. Saudi Arabia halted the East-West crude pipeline (7 million bpd) after attacks on multiple pumping stations, bypassing the Strait of Hormuz amid regional conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Nahal Oz, Israel · 6h ago. Geolocated footage shows Al-Aqsa Martyrs' Brigades militants beating and abusing Joshua Molle, a 21-year-old student from Tanzania, near Nahal Oz on Oct 7.",
+        "title": "— S4 · Conflict · Nahal Oz, Israel · 8h ago. Geolocated footage shows Al-Aqsa Martyrs' Brigades militants beating and abusing Joshua Molle, a 21-year-old student from Tanzania, near Nahal Oz on Oct 7.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
