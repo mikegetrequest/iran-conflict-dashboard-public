@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-11 08:53",
+  "updated_at_gst": "2026-09-11 13:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Young republicans break with Trump over Iran war",
-        "published": "Fri, 11 Sep 2026 02:45:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss"
-      },
-      {
-        "title": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
-        "published": "Fri, 11 Sep 2026 00:24:24 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/11/will-trump-pay-all-us-adults-5000-some-trump-supporters-are-sceptical?traffic_source=rss"
-      },
-      {
-        "title": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
-        "published": "Fri, 11 Sep 2026 00:14:59 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss"
-      },
-      {
-        "title": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
-        "published": "Thu, 10 Sep 2026 22:33:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss"
+        "title": "Anthropic claims Claude AI used for missile projects, global espionage",
+        "published": "Fri, 11 Sep 2026 04:48:25 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/brics-red-carpet-sparks-anger-in-indias-capital?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosions, Shelling Reported in Southern Lebanon",
+        "title": "Houthi Drones, Missiles Hit 3 Saudi Cities in Retaliation for Airstrikes",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 38m ago. Al Jazeera reports explosions and shelling in southern Lebanon, an ongoing Israel-Hezbollah conflict zone (Litani-south area). Impact details unclear.",
+        "title": "Saudi Air Strikes Hit Mocha Airport in Yemen",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Dubai Airports Hit by 17 Missile Strikes, 111 Alerts",
+        "title": "— S3 · Conflict · Mocha, Yemen · 11m ago. Houthi-affiliated media reports Saudi airstrikes targeted Mocha airport, part of the ongoing Yemen conflict. Live updates from Al Jazeera.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
