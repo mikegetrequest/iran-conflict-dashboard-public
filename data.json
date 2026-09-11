@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-11 13:13",
+  "updated_at_gst": "2026-09-11 17:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Anthropic claims Claude AI used for missile projects, global espionage",
-        "published": "Fri, 11 Sep 2026 04:48:25 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/brics-red-carpet-sparks-anger-in-indias-capital?traffic_source=rss"
+        "title": "Russian strikes kill two in Kyiv as Moscow targets capital’s fuel stations",
+        "published": "Fri, 11 Sep 2026 13:09:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/from-hunger-crisis-to-obesity-how-gazas-un-data-is-being-twisted?traffic_source=rss"
+      },
+      {
+        "title": "Myanmar airport closed following reported drone attack",
+        "published": "Fri, 11 Sep 2026 12:22:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/11/a-historic-day-spain-moves-closer-to-citizenship-for-western-saharans?traffic_source=rss"
+      },
+      {
+        "title": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan",
+        "published": "Fri, 11 Sep 2026 10:41:35 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/family-members-wait-after-deadly-philippines-ferry-fire?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Drones, Missiles Hit 3 Saudi Cities in Retaliation for Airstrikes",
+        "title": "Iran Damages US Naval Base in Bahrain, Official Admits",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Air Strikes Hit Mocha Airport in Yemen",
+        "title": "— S4 · Conflict · Manama, Bahrain · 3h ago. A US official confirms the naval base near Manama sustained heavy damage in the ongoing war with Iran, highlighting the scale of Iranian strikes on Gulf bases.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Mocha, Yemen · 11m ago. Houthi-affiliated media reports Saudi airstrikes targeted Mocha airport, part of the ongoing Yemen conflict. Live updates from Al Jazeera.",
+        "title": "Houthi Drones, Missiles Hit 3 Saudi Cities in Retaliation for Airstrikes",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
