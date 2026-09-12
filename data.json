@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-12 12:54",
+  "updated_at_gst": "2026-09-12 16:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,23 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Israel-Lebanon talks postponed as explosions rock southern Lebanon",
+        "published": "Sat, 12 Sep 2026 11:04:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/hong-kong-jails-tiananmen-vigil-activists-for-seven-years?traffic_source=rss"
+      },
+      {
+        "title": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means",
+        "published": "Sat, 12 Sep 2026 10:36:18 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/12/real-madrids-mbappe-confident-of-ballon-dor-despite-trophyless-season?traffic_source=rss"
+      },
+      {
+        "title": "What did US intelligence know before the 9/11 attacks?",
+        "published": "Sat, 12 Sep 2026 09:30:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
