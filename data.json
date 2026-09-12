@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-13 01:45",
+  "updated_at_gst": "2026-09-13 03:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
-        "published": "Sat, 12 Sep 2026 19:34:04 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss"
+        "title": "Israel bombs southern Lebanon as talks postponed",
+        "published": "Sat, 12 Sep 2026 19:56:09 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss"
       },
       {
-        "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
-        "published": "Sat, 12 Sep 2026 18:36:17 +0000",
-        "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss"
+        "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
+        "published": "Sat, 12 Sep 2026 19:17:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/12/afghan-woman-deported-in-first-use-of-us-alien-terrorist-removal-court?traffic_source=rss"
+      },
+      {
+        "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
+        "published": "Sat, 12 Sep 2026 18:53:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
