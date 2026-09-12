@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-12 16:27",
+  "updated_at_gst": "2026-09-12 19:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iranian official tells Al Jazeera IAEA ruling was imposed by US and Israel",
+        "published": "Sat, 12 Sep 2026 14:49:48 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/12/england-pakistan-third-test-edgbaston-joe-root-razaullah-cricket?traffic_source=rss"
+      },
+      {
+        "title": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
+        "published": "Sat, 12 Sep 2026 13:06:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss"
+      },
       {
         "title": "Israel-Lebanon talks postponed as explosions rock southern Lebanon",
         "published": "Sat, 12 Sep 2026 11:04:34 +0000",
