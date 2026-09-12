@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-12 04:23",
+  "updated_at_gst": "2026-09-12 08:46",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
-        "published": "Sat, 12 Sep 2026 00:04:23 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss"
+        "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+        "published": "Sat, 12 Sep 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss"
       },
       {
-        "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
-        "published": "Fri, 11 Sep 2026 21:53:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss"
-      },
-      {
-        "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
-        "published": "Fri, 11 Sep 2026 19:59:41 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/11/enzo-maresca-manchester-city-man-united-derby-football?traffic_source=rss"
+        "title": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
+        "published": "Fri, 11 Sep 2026 21:23:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Saudi Arabia · 6h ago. Saudi Arabia halted the East-West crude pipeline (7 million bpd) after attacks on multiple pumping stations, bypassing the Strait of Hormuz amid regional conflict.",
+        "title": "— S4 · Conflict · Saudi Arabia · 10h ago. Saudi Arabia halted the East-West crude pipeline (7 million bpd) after attacks on multiple pumping stations, bypassing the Strait of Hormuz amid regional conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
