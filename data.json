@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-12 08:46",
+  "updated_at_gst": "2026-09-12 12:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,18 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
-        "published": "Sat, 12 Sep 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss"
-      },
-      {
-        "title": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
-        "published": "Fri, 11 Sep 2026 21:23:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -48,12 +37,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Arabia Shuts East-West Pipeline After Pumping Station Attacks",
+        "title": "Saudi Arabia Confirms Iraqi-Launched Drone Strike on East-West Pipeline",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Saudi Arabia · 10h ago. Saudi Arabia halted the East-West crude pipeline (7 million bpd) after attacks on multiple pumping stations, bypassing the Strait of Hormuz amid regional conflict.",
+        "title": "Saudi Arabia Shuts East-West Pipeline After Pumping Station Attacks",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
