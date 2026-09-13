@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-13 20:29",
+  "updated_at_gst": "2026-09-13 22:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
-        "published": "Sun, 13 Sep 2026 16:11:43 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock?traffic_source=rss"
-      },
-      {
-        "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
-        "published": "Sun, 13 Sep 2026 13:59:27 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss"
-      },
-      {
-        "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
-        "published": "Sun, 13 Sep 2026 13:05:40 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss"
+        "title": "How Israel’s destruction of south Lebanon is making displacement permanent",
+        "published": "Sun, 13 Sep 2026 13:09:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -45,21 +35,6 @@
       {
         "title": "— mapped news events and alerts, not sensor-level missile trajectories.",
         "published": "line-3",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Iranian and Panama-Flagged Tankers Struck Near Iran",
-        "published": "line-4",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "Iran Accuses US of Deadly Strike in Strait of Hormuz",
-        "published": "line-5",
-        "link": "https://monitor-the-situation.com/middle-east"
-      },
-      {
-        "title": "— S4 · Conflict · Strait of Hormuz · 11h ago. Iran blames the 'US terrorist enemy' for a deadly strike in the Strait of Hormuz, escalating US-Iran hostilities amid ongoing regional conflict.",
-        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
