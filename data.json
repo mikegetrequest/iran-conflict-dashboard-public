@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-13 22:52",
+  "updated_at_gst": "2026-09-14 01:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How Israel’s destruction of south Lebanon is making displacement permanent",
-        "published": "Sun, 13 Sep 2026 13:09:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss"
+        "title": "Israeli raid targets Palestinian journalist Ali al-Samoudi’s home",
+        "published": "Sun, 13 Sep 2026 19:41:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/13/centre-left-opposition-bloc-leads-in-swedish-vote-poll-shows?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -35,6 +35,21 @@
       {
         "title": "— mapped news events and alerts, not sensor-level missile trajectories.",
         "published": "line-3",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Iranian and Panama-Flagged Tankers Struck Near Iran",
+        "published": "line-4",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "Iran Accuses US of Deadly Strike in Strait of Hormuz",
+        "published": "line-5",
+        "link": "https://monitor-the-situation.com/middle-east"
+      },
+      {
+        "title": "— S4 · Conflict · Strait of Hormuz · 15h ago. Iran blames the 'US terrorist enemy' for a deadly strike in the Strait of Hormuz, escalating US-Iran hostilities amid ongoing regional conflict.",
+        "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
     ]
