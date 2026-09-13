@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-13 05:18",
+  "updated_at_gst": "2026-09-13 10:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+        "title": "Iran war live: Tens of thousands displaced as Yemen fighting escalates",
         "published": "Sun, 13 Sep 2026 00:00:40 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss"
-      },
-      {
-        "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
-        "published": "Sat, 12 Sep 2026 19:34:04 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Arabia Shuts East-West Pipeline After Pumping Station Attacks",
+        "title": "Iran Accuses US of Deadly Strike in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Saudi Arabia · 1d ago. Saudi Arabia halted the East-West crude pipeline (7 million bpd) after attacks on multiple pumping stations, bypassing the Strait of Hormuz amid regional conflict.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 31m ago. Iran blames the 'US terrorist enemy' for a deadly strike in the Strait of Hormuz, escalating US-Iran hostilities amid ongoing regional conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "UKMTO Warns Vessels After Strike Near Strait of Hormuz",
+        "title": "UKMTO 134-26: Iran Missiles Strike Oil Tanker in Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
