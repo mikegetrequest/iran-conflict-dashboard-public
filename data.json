@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-13 03:29",
+  "updated_at_gst": "2026-09-13 05:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel bombs southern Lebanon as talks postponed",
-        "published": "Sat, 12 Sep 2026 19:56:09 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss"
+        "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+        "published": "Sun, 13 Sep 2026 00:00:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss"
       },
       {
-        "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
-        "published": "Sat, 12 Sep 2026 19:17:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/12/afghan-woman-deported-in-first-use-of-us-alien-terrorist-removal-court?traffic_source=rss"
-      },
-      {
-        "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
-        "published": "Sat, 12 Sep 2026 18:53:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss"
+        "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
+        "published": "Sat, 12 Sep 2026 19:34:04 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Navy Strikes US Carrier in Strait of Hormuz",
+        "title": "Saudi Arabia Shuts East-West Pipeline After Pumping Station Attacks",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Arabia Shuts East-West Pipeline After Pumping Station Attacks",
+        "title": "— S4 · Conflict · Saudi Arabia · 1d ago. Saudi Arabia halted the East-West crude pipeline (7 million bpd) after attacks on multiple pumping stations, bypassing the Strait of Hormuz amid regional conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Saudi Arabia · 1d ago. Saudi Arabia halted the East-West crude pipeline (7 million bpd) after attacks on multiple pumping stations, bypassing the Strait of Hormuz amid regional conflict.",
+        "title": "UKMTO Warns Vessels After Strike Near Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
