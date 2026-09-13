@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-14 01:10",
+  "updated_at_gst": "2026-09-14 03:15",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
+        "published": "Sun, 13 Sep 2026 21:10:07 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/pro-palestine-protest-demands-australia-increases-pressure-on-israel?traffic_source=rss"
+      },
       {
         "title": "Israeli raid targets Palestinian journalist Ali al-Samoudi’s home",
         "published": "Sun, 13 Sep 2026 19:41:01 +0000",
@@ -48,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 15h ago. Iran blames the 'US terrorist enemy' for a deadly strike in the Strait of Hormuz, escalating US-Iran hostilities amid ongoing regional conflict.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 17h ago. Iran blames the 'US terrorist enemy' for a deadly strike in the Strait of Hormuz, escalating US-Iran hostilities amid ongoing regional conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
