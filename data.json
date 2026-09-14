@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-14 22:45",
+  "updated_at_gst": "2026-09-15 02:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans",
-        "published": "Mon, 14 Sep 2026 14:34:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/14/silent-cold-war-why-calls-to-slow-ai-have-sparked-new-us-china?traffic_source=rss"
+        "title": "US blocks Iran nuclear chief from attending key Vienna conference",
+        "published": "Mon, 14 Sep 2026 21:19:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/14/israel-probing-naza-film-on-gaza-for-inciting-antisemitism?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Yemen · 10h ago. Yemen's Human Rights Ministry reports over 200 injured and around 85,000 displaced amid an escalation of Houthi attacks.",
+        "title": "— S4 · Conflict · Yemen · 13h ago. Yemen's Human Rights Ministry reports over 200 injured and around 85,000 displaced amid an escalation of Houthi attacks.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -48,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gulf of Oman · 13h ago. Iran launched anti-ship ballistic missiles at US Navy vessels enforcing the blockade in the Gulf of Oman. Neither IRGC nor CENTCOM has commented.",
+        "title": "— S4 · Conflict · Gulf of Oman · 16h ago. Iran launched anti-ship ballistic missiles at US Navy vessels enforcing the blockade in the Gulf of Oman. Neither IRGC nor CENTCOM has commented.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
