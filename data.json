@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-14 03:15",
+  "updated_at_gst": "2026-09-14 05:16",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
-        "published": "Sun, 13 Sep 2026 21:10:07 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/pro-palestine-protest-demands-australia-increases-pressure-on-israel?traffic_source=rss"
+        "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+        "published": "Mon, 14 Sep 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss"
       },
       {
-        "title": "Israeli raid targets Palestinian journalist Ali al-Samoudi’s home",
-        "published": "Sun, 13 Sep 2026 19:41:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/13/centre-left-opposition-bloc-leads-in-swedish-vote-poll-shows?traffic_source=rss"
+        "title": "Tehran and Muscat delay talks, citing regional consensus need",
+        "published": "Sun, 13 Sep 2026 21:50:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss"
+      },
+      {
+        "title": "Pro-Palestine protest demands Australia increases pressure on Israel",
+        "published": "Sun, 13 Sep 2026 21:02:14 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +58,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 17h ago. Iran blames the 'US terrorist enemy' for a deadly strike in the Strait of Hormuz, escalating US-Iran hostilities amid ongoing regional conflict.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 19h ago. Iran blames the 'US terrorist enemy' for a deadly strike in the Strait of Hormuz, escalating US-Iran hostilities amid ongoing regional conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
