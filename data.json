@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-14 10:31",
+  "updated_at_gst": "2026-09-14 17:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film",
-        "published": "Mon, 14 Sep 2026 03:50:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/14/turkish-authorities-launch-anti-lgbtq-raids-detaining-dozens?traffic_source=rss"
+        "title": "Israel working to eliminate Palestinian presence from West Bank, NGO warns",
+        "published": "Mon, 14 Sep 2026 12:58:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/14/why-the-houthi-advance-towards-yemens-marib-taiz-matters?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
-        "published": "Mon, 14 Sep 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss"
+        "title": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
+        "published": "Mon, 14 Sep 2026 11:50:44 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/14/tom-aspinall-vacates-ufc-heavyweight-title-due-to-eye-injury?traffic_source=rss"
+      },
+      {
+        "title": "Strait of Hormuz talks postponed due to Yemen events, says Iran",
+        "published": "Mon, 14 Sep 2026 10:58:07 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/us-may-be-forced-to-intervene-in-the-red-sea?traffic_source=rss"
+      },
+      {
+        "title": "Yemen gov’t forces advance in Taiz as Houthis claim attack on Saudi Arabia",
+        "published": "Mon, 14 Sep 2026 09:21:56 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/14/lamine-yamal-says-he-deserves-ballon-dor-but-mbappe-his-main-rival?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Navy Ships in Gulf of Oman",
+        "title": "— S4 · Conflict · Yemen · 5h ago. Yemen's Human Rights Ministry reports over 200 injured and around 85,000 displaced amid an escalation of Houthi attacks.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gulf of Oman · 40m ago. Iran launched anti-ship ballistic missiles at US Navy vessels enforcing the blockade in the Gulf of Oman. Neither IRGC nor CENTCOM has commented.",
+        "title": "Iran Strikes US Navy Ships in Gulf of Oman",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian and Panama-Flagged Tankers Struck Near Iran",
+        "title": "— S4 · Conflict · Gulf of Oman · 8h ago. Iran launched anti-ship ballistic missiles at US Navy vessels enforcing the blockade in the Gulf of Oman. Neither IRGC nor CENTCOM has commented.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
