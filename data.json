@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-15 04:43",
+  "updated_at_gst": "2026-09-15 09:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
-        "published": "Tue, 15 Sep 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss"
-      },
-      {
-        "title": "Israeli attack targets Gaza displacement camp",
-        "published": "Mon, 14 Sep 2026 21:37:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss"
-      },
-      {
-        "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
-        "published": "Mon, 14 Sep 2026 21:20:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference?traffic_source=rss"
-      },
-      {
-        "title": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
-        "published": "Mon, 14 Sep 2026 21:12:07 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/14/manchester-derby-var-official-stood-down-from-weekend-premier-league-games?traffic_source=rss"
-      },
-      {
-        "title": "Austria denies entry to Iranian official after UN ruling",
-        "published": "Mon, 14 Sep 2026 20:41:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/14/macklemore-dropped-from-ed-sheeran-tour-following-palestine-advocacy?traffic_source=rss"
+        "title": "US blocks Iran nuclear chief from attending IAEA conference in Vienna",
+        "published": "Mon, 14 Sep 2026 21:19:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/14/israel-probing-naza-film-on-gaza-for-inciting-antisemitism?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +38,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Yemen · 16h ago. Yemen's Human Rights Ministry reports over 200 injured and around 85,000 displaced amid an escalation of Houthi attacks.",
+        "title": "— S4 · Conflict · Yemen · 21h ago. Yemen's Human Rights Ministry reports over 200 injured and around 85,000 displaced amid an escalation of Houthi attacks.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -68,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gulf of Oman · 19h ago. Iran launched anti-ship ballistic missiles at US Navy vessels enforcing the blockade in the Gulf of Oman. Neither IRGC nor CENTCOM has commented.",
+        "title": "— S4 · Conflict · Gulf of Oman · 1d ago. Iran launched anti-ship ballistic missiles at US Navy vessels enforcing the blockade in the Gulf of Oman. Neither IRGC nor CENTCOM has commented.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
