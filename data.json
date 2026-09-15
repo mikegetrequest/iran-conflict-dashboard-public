@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-15 23:06",
+  "updated_at_gst": "2026-09-16 02:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Western intelligence warns of Iranian cyber threats targeting dissidents",
+        "published": "Tue, 15 Sep 2026 20:16:35 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss"
+      },
+      {
         "title": "How an Israeli cell orchestrated an anti-Qatar campaign",
         "published": "Tue, 15 Sep 2026 16:50:46 +0000",
         "link": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss"
-      },
-      {
-        "title": "Will Russia and Ukraine halt attacks on energy infrastructure?",
-        "published": "Tue, 15 Sep 2026 15:50:51 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/9/15/china-does-not-need-to-replace-the-us-in-the-gulf?traffic_source=rss"
-      },
-      {
-        "title": "Who is Robert Kraft, pro-Israel billionaire who cancelled Macklemore?",
-        "published": "Tue, 15 Sep 2026 15:27:25 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "DoD IG: Iran Ops Destroyed Hundreds of Buildings, Dozens of Aircraft",
+        "title": "Iranian Strikes Damage Hundreds of US Buildings Across 8 Countries",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
