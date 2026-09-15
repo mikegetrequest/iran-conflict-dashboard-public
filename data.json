@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-15 14:34",
+  "updated_at_gst": "2026-09-15 19:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
-        "published": "Tue, 15 Sep 2026 01:23:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss"
+        "title": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure",
+        "published": "Tue, 15 Sep 2026 11:54:37 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/us-repeals-pollution-limits-for-fossil-fuel-power-plants?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Strikes Kill Two in Gaza Camps",
+        "title": "DoD IG: Iran Ops Destroyed Hundreds of Buildings, Dozens of Aircraft",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza Strip, Palestine · 4h ago. At least two people were killed and several injured in Israeli strikes on tents in Gaza camps, according to hospital and health officials.",
+        "title": "Gaza Death Toll From Israeli Attacks Rises to 73,789",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Middle East Faces New Nuclear Age as Iran Weighs NPT Exit",
+        "title": "— S4 · Conflict · Gaza Strip, Palestine · 3h ago. Al Jazeera reports the cumulative Palestinian death toll in Gaza since the start of the war has reached at least 73,789, with ongoing Israeli strikes.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
