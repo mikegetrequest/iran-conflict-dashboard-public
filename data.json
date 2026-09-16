@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-16 04:33",
+  "updated_at_gst": "2026-09-16 09:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Iran’s top diplomat heads to China as war drags on",
-        "published": "Wed, 16 Sep 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss"
+        "title": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
+        "published": "Wed, 16 Sep 2026 03:39:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/16/chinas-defence-chief-warns-against-coercion-avoids-us-japan-mention?traffic_source=rss"
       },
       {
-        "title": "Western intelligence warns of Iranian cyber threats targeting dissidents",
-        "published": "Tue, 15 Sep 2026 20:16:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss"
+        "title": "Israel started an anti-Qatar campaign, then scrapped it",
+        "published": "Wed, 16 Sep 2026 01:41:40 +0000",
+        "link": "https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss"
+      },
+      {
+        "title": "Iran war increasing inflation, straining US munitions: congressional report",
+        "published": "Wed, 16 Sep 2026 00:38:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/16/former-maduro-ally-pleads-guilty-to-money-laundering-and-fraud?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Saudi coalition intercepts, destroys drone headed for Mecca",
+        "published": "Wed, 16 Sep 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Bab el-Mandeb · 1h ago. Tehran-backed Houthi fighters seized a vital strait, forcing a key Saudi oil pipeline shut for weeks and escalating regional energy and security crisis.",
+        "title": "— S4 · Conflict · Bab el-Mandeb · 6h ago. Tehran-backed Houthi fighters seized a vital strait, forcing a key Saudi oil pipeline shut for weeks and escalating regional energy and security crisis.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
