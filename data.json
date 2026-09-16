@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-16 14:06",
+  "updated_at_gst": "2026-09-16 19:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Human rights lawyer Noura Erakat arrested at hearing against Israel Bonds",
-        "published": "Wed, 16 Sep 2026 09:19:50 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/16/lionel-messi-set-for-argentina-farewell-in-oct-6-friendly-against-benin?traffic_source=rss"
-      },
-      {
-        "title": "US House votes to end Iran war, 7 Republicans join in favour",
-        "published": "Wed, 16 Sep 2026 05:36:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss"
+        "title": "Norway’s sovereign wealth fund profits from Israeli holdings amid genocide",
+        "published": "Wed, 16 Sep 2026 13:29:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/16/the-artists-who-pulled-out-of-ed-sheerans-tour-over-palestine?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +43,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Gaza City, Palestine · 7h ago. Death toll rises to six after a damaged building collapsed in Gaza City amid ongoing Israeli military operations, with dozens still missing and rescue teams searching.",
+        "title": "— S4 · Conflict · Gaza City, Palestine · 12h ago. Death toll rises to six after a damaged building collapsed in Gaza City amid ongoing Israeli military operations, with dozens still missing and rescue teams searching.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Bab el-Mandeb · 11h ago. Tehran-backed Houthi fighters seized a vital strait, forcing a key Saudi oil pipeline shut for weeks and escalating regional energy and security crisis.",
+        "title": "Houthis Seize Red Sea Islands, Attack Saudi Targets",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
