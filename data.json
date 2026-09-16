@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-16 22:57",
+  "updated_at_gst": "2026-09-17 01:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Lebanon returns 37 artefacts smuggled out of Egypt six years ago",
+        "published": "Wed, 16 Sep 2026 19:44:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss"
+      },
+      {
         "title": "UK trade unions back motion to boycott and sanction Israel",
         "published": "Wed, 16 Sep 2026 17:42:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/9/16/belarus-frees-25-political-prisoners-in-return-for-us-sanctions-relief?traffic_source=rss"
-      },
-      {
-        "title": "Sweden expels Iran embassy employee, citing security concerns",
-        "published": "Wed, 16 Sep 2026 15:53:38 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/ex-trump-ally-marjorie-taylor-greene-says-war-on-iran-must?traffic_source=rss"
-      },
-      {
-        "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
-        "published": "Wed, 16 Sep 2026 14:53:51 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/16/mbappe-vinicius-and-konate-court-controversy-with-ceuta-solidarity-shirts?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Disaster · Gaza City, Palestine · 16h ago. Death toll rises to six after a damaged building collapsed in Gaza City amid ongoing Israeli military operations, with dozens still missing and rescue teams searching.",
+        "title": "— S4 · Disaster · Gaza City, Palestine · 19h ago. Death toll rises to six after a damaged building collapsed in Gaza City amid ongoing Israeli military operations, with dozens still missing and rescue teams searching.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Strikes Damage Hundreds of US Buildings Across 8 Countries",
+        "title": "Saudi-Yemeni Airstrikes Hit Houthi Targets in Dhamar",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
