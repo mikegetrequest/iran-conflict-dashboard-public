@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-16 09:24",
+  "updated_at_gst": "2026-09-16 14:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
-        "published": "Wed, 16 Sep 2026 03:39:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/16/chinas-defence-chief-warns-against-coercion-avoids-us-japan-mention?traffic_source=rss"
+        "title": "Human rights lawyer Noura Erakat arrested at hearing against Israel Bonds",
+        "published": "Wed, 16 Sep 2026 09:19:50 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/16/lionel-messi-set-for-argentina-farewell-in-oct-6-friendly-against-benin?traffic_source=rss"
       },
       {
-        "title": "Israel started an anti-Qatar campaign, then scrapped it",
-        "published": "Wed, 16 Sep 2026 01:41:40 +0000",
-        "link": "https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss"
-      },
-      {
-        "title": "Iran war increasing inflation, straining US munitions: congressional report",
-        "published": "Wed, 16 Sep 2026 00:38:12 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/16/former-maduro-ally-pleads-guilty-to-money-laundering-and-fraud?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Saudi coalition intercepts, destroys drone headed for Mecca",
-        "published": "Wed, 16 Sep 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss"
+        "title": "US House votes to end Iran war, 7 Republicans join in favour",
+        "published": "Wed, 16 Sep 2026 05:36:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Bab el-Mandeb · 6h ago. Tehran-backed Houthi fighters seized a vital strait, forcing a key Saudi oil pipeline shut for weeks and escalating regional energy and security crisis.",
+        "title": "Iran Damages US E-3 Sentry in Strike on Bases in Saudi Arabia",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Seize Red Sea Islands, Attack Saudi Targets",
+        "title": "— S4 · Conflict · Gaza City, Palestine · 7h ago. Death toll rises to six after a damaged building collapsed in Gaza City amid ongoing Israeli military operations, with dozens still missing and rescue teams searching.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Strikes Damage Hundreds of US Buildings Across 8 Countries",
+        "title": "— S4 · Conflict · Bab el-Mandeb · 11h ago. Tehran-backed Houthi fighters seized a vital strait, forcing a key Saudi oil pipeline shut for weeks and escalating regional energy and security crisis.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
