@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-18 00:39",
+  "updated_at_gst": "2026-09-18 03:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -24,21 +24,6 @@
         "title": "Serbia opens factory to assemble Israeli-made drones",
         "published": "Thu, 17 Sep 2026 18:54:42 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss"
-      },
-      {
-        "title": "Macron and Aoun discuss efforts to back Lebanon’s army, end Israeli attacks",
-        "published": "Thu, 17 Sep 2026 18:06:50 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/17/abhishek-sharmas-30-ball-ton-leads-india-to-127-run-win-over-afghanistan?traffic_source=rss"
-      },
-      {
-        "title": "UN fact-finding mission says US committed possible war crimes in Iran",
-        "published": "Thu, 17 Sep 2026 17:02:31 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/17/xabi-alonso-says-chelsea-ambitions-very-clear-as-boehly-era-ends?traffic_source=rss"
-      },
-      {
-        "title": "Five killed as Saudi Arabia and Yemen’s Houthis trade attacks",
-        "published": "Thu, 17 Sep 2026 16:10:49 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/17/rare-ethiopian-manuscript-stolen-by-british-triggers-restitution-row?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Lebanon · 4h ago. Lebanese health ministry reports death toll from Israeli attacks since March 2 has risen to 4,386, amid ongoing Israel-Hezbollah conflict.",
+        "title": "— S4 · Conflict · Lebanon · 7h ago. Lebanese health ministry reports death toll from Israeli attacks since March 2 has risen to 4,386, amid ongoing Israel-Hezbollah conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Projectiles Strike Vessel in Strait of Hormuz",
+        "title": "— S3 · Conflict · Farrokh Shahr, Isfahan Province, Iran · 51m ago. Short air-raid alert reported near Farrokh Shahr, Isfahan Province, Iran. Details on cause or impact not yet confirmed.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
