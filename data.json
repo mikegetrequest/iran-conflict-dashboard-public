@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-17 12:02",
+  "updated_at_gst": "2026-09-17 17:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
+        "published": "Thu, 17 Sep 2026 10:20:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/17/uk-charities-protest-groups-condemn-israeli-ban-threat-after-sanctions?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -32,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Damages US E-3 Sentry in Strike on Bases in Saudi Arabia",
+        "title": "— S3 · Conflict · Qeshm Island, Iran · 27m ago. Iran's IRGC Aerospace Force claims another shoot down of a US MQ-9 Reaper drone over Qeshm Island, amid rising losses of US Reaper and Predator drones in the region.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi-Led Coalition Airstrike Kills One in Yemen's Hajjah",
+        "title": "Palestinian Detainee Deaths in Israeli Prisons Reach 92",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Hajjah, Yemen · 57m ago. Air attacks in Hajjah province killed one person and injured another, per Al Jazeera. The strike is part of ongoing coalition operations in Yemen's northwest.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Ongoing conflict in Gaza results in 5 deaths and 28 injuries in the past day, a continuation of the Israel-Hamas war.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
