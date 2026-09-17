@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-17 17:37",
+  "updated_at_gst": "2026-09-17 21:47",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
-        "published": "Thu, 17 Sep 2026 10:20:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/17/uk-charities-protest-groups-condemn-israeli-ban-threat-after-sanctions?traffic_source=rss"
+        "title": "What are all the sanctions Iran is under?",
+        "published": "Thu, 17 Sep 2026 15:01:27 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/17/china-faces-oil-challenge-as-prices-soar-and-supply-options-narrow?traffic_source=rss"
+      },
+      {
+        "title": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
+        "published": "Thu, 17 Sep 2026 14:10:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/17/india-pakistan-navy-ship-collision-sparks-alarm-over-unintended-escalation?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Qeshm Island, Iran · 27m ago. Iran's IRGC Aerospace Force claims another shoot down of a US MQ-9 Reaper drone over Qeshm Island, amid rising losses of US Reaper and Predator drones in the region.",
+        "title": "Israeli Attacks in Lebanon Kill 4,386 Since March 2",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Palestinian Detainee Deaths in Israeli Prisons Reach 92",
+        "title": "— S4 · Conflict · Lebanon · 1h ago. Lebanese health ministry reports death toll from Israeli attacks since March 2 has risen to 4,386, amid ongoing Israel-Hezbollah conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Ongoing conflict in Gaza results in 5 deaths and 28 injuries in the past day, a continuation of the Israel-Hamas war.",
+        "title": "Israel Kills Two Hamas Commanders in Gaza Strikes",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
