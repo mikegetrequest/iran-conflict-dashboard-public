@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-17 06:34",
+  "updated_at_gst": "2026-09-17 12:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,18 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
-        "published": "Wed, 16 Sep 2026 23:26:27 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/16/us-military-claims-strait-of-hormuz-remains-open-amid-ongoing-blockade?traffic_source=rss"
-      },
-      {
-        "title": "For checkpoint and settler attack news, Palestinians tune into the radio",
-        "published": "Wed, 16 Sep 2026 22:30:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -48,12 +37,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Disaster · Gaza City, Palestine · 1d ago. Death toll rises to six after a damaged building collapsed in Gaza City amid ongoing Israeli military operations, with dozens still missing and rescue teams searching.",
+        "title": "Saudi-Led Coalition Airstrike Kills One in Yemen's Hajjah",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Targets Across South Lebanon",
+        "title": "— S3 · Conflict · Hajjah, Yemen · 57m ago. Air attacks in Hajjah province killed one person and injured another, per Al Jazeera. The strike is part of ongoing coalition operations in Yemen's northwest.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
