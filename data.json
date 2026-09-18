@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-18 10:04",
+  "updated_at_gst": "2026-09-18 15:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Drone attacks by Colombian armed groups more than double in early 2026",
-        "published": "Fri, 18 Sep 2026 02:51:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_council-removes-us-veteran-over-israel-bond-170926?traffic_source=rss"
-      },
-      {
-        "title": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
-        "published": "Fri, 18 Sep 2026 01:58:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-findings-show-us-strikes-on-minab-could-be-war-crimes?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
-        "published": "Fri, 18 Sep 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss"
+        "title": "‘My children did not attack Iran’: 2bn South Asians suffer from distant war",
+        "published": "Fri, 18 Sep 2026 10:33:22 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attacks in Lebanon Kill 4,386 Since March 2",
+        "title": "IRGC Navy Strikes UAE Tanker TREND in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Lebanon · 14h ago. Lebanese health ministry reports death toll from Israeli attacks since March 2 has risen to 4,386, amid ongoing Israel-Hezbollah conflict.",
+        "title": "Israeli Attacks in Lebanon Kill 4,386 Since March 2",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Raid West Bank Towns in Dawn Operation",
+        "title": "— S4 · Conflict · Lebanon · 19h ago. Lebanese health ministry reports death toll from Israeli attacks since March 2 has risen to 4,386, amid ongoing Israel-Hezbollah conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
