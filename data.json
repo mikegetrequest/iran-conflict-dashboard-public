@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-18 19:05",
+  "updated_at_gst": "2026-09-18 22:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US voter opposition to war on Iran grows to new highs: Poll",
-        "published": "Fri, 18 Sep 2026 13:09:27 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/18/fifas-infantino-must-go-no-ifs-or-buts-says-german-fa-vice-president?traffic_source=rss"
+        "title": "Iranians rally in biggest show of defiance against US since war began",
+        "published": "Fri, 18 Sep 2026 17:23:23 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/18/uefa-concacaf-challenge-fifa-on-reserves-and-demand-10m-payout-to-members?traffic_source=rss"
+      },
+      {
+        "title": "The cost of Iran’s regional leverage",
+        "published": "Fri, 18 Sep 2026 13:52:49 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attacks in Lebanon Kill 4,386 Since March 2",
+        "title": "US Casualties in Iran War Exceed Public Disclosures, Officials Say",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Lebanon · 23h ago. Lebanese health ministry reports death toll from Israeli attacks since March 2 has risen to 4,386, amid ongoing Israel-Hezbollah conflict.",
+        "title": "US Military Death Toll in Iran War Higher Than Reported",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
