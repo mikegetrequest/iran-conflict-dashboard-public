@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-18 22:33",
+  "updated_at_gst": "2026-09-19 01:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
+        "published": "Fri, 18 Sep 2026 20:20:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss"
+      },
+      {
+        "title": "Two injured by Israeli shelling as troops advance in southern Lebanon",
+        "published": "Fri, 18 Sep 2026 19:14:41 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss"
+      },
+      {
         "title": "Iranians rally in biggest show of defiance against US since war began",
         "published": "Fri, 18 Sep 2026 17:23:23 +0000",
         "link": "https://www.aljazeera.com/sports/2026/9/18/uefa-concacaf-challenge-fifa-on-reserves-and-demand-10m-payout-to-members?traffic_source=rss"
-      },
-      {
-        "title": "The cost of Iran’s regional leverage",
-        "published": "Fri, 18 Sep 2026 13:52:49 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Navy Strikes UAE Tanker TREND in Strait of Hormuz",
+        "title": "Israeli Army Sets Fire to Hospital in Southern Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Casualties in Iran War Exceed Public Disclosures, Officials Say",
+        "title": "— S4 · Conflict · Southern Lebanon · 3h ago. Lebanon's health ministry says Israeli forces, who had been using a government hospital to station troops, set it ablaze.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Military Death Toll in Iran War Higher Than Reported",
+        "title": "IRGC Navy Attacks Tanker Trend in Strait of Hormuz, Sets Ablaze",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
