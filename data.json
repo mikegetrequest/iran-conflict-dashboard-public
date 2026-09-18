@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-18 03:10",
+  "updated_at_gst": "2026-09-18 05:19",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
-        "published": "Thu, 17 Sep 2026 19:54:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/17/ilhan-omar-attacker-pleads-guilty-sentenced-to-more-than-a-year-in-prison?traffic_source=rss"
+        "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
+        "published": "Fri, 18 Sep 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss"
       },
       {
-        "title": "Serbia opens factory to assemble Israeli-made drones",
-        "published": "Thu, 17 Sep 2026 18:54:42 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss"
+        "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
+        "published": "Thu, 17 Sep 2026 21:20:57 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss"
+      },
+      {
+        "title": "Russia, China veto UN mandate to monitor Iran sanctions",
+        "published": "Thu, 17 Sep 2026 21:01:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss"
+      },
+      {
+        "title": "Ilhan Omar attacker sentenced to more than a year in prison",
+        "published": "Thu, 17 Sep 2026 19:42:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/four-bodies-found-in-nepal-tunnel-as-flood-search-continues?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Lebanon · 7h ago. Lebanese health ministry reports death toll from Israeli attacks since March 2 has risen to 4,386, amid ongoing Israel-Hezbollah conflict.",
+        "title": "— S4 · Conflict · Lebanon · 9h ago. Lebanese health ministry reports death toll from Israeli attacks since March 2 has risen to 4,386, amid ongoing Israel-Hezbollah conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Farrokh Shahr, Isfahan Province, Iran · 51m ago. Short air-raid alert reported near Farrokh Shahr, Isfahan Province, Iran. Details on cause or impact not yet confirmed.",
+        "title": "Israeli Air Attacks Reported Across Southern Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
