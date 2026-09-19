@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-19 21:32",
+  "updated_at_gst": "2026-09-19 23:41",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
-        "published": "Sat, 19 Sep 2026 15:18:00 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/19/uefa-defends-policy-after-rejecting-irelands-request-not-to-play-israel?traffic_source=rss"
+        "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+        "published": "Sat, 19 Sep 2026 18:32:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss"
       },
       {
-        "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
-        "published": "Sat, 19 Sep 2026 13:21:52 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss"
-      },
-      {
-        "title": "Child among four Palestinians killed in Israeli attacks across Gaza",
-        "published": "Sat, 19 Sep 2026 12:59:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss"
-      },
-      {
-        "title": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
-        "published": "Sat, 19 Sep 2026 12:29:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/saudi-led-naval-coalition-prepares-to-secure-red-sea-waterways?traffic_source=rss"
+        "title": "UEFA defends policy after rejecting Ireland’s request not to play Israel",
+        "published": "Sat, 19 Sep 2026 15:04:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/19/syria-says-blast-at-military-site-in-deir-az-zor-killed-11?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Ballistic Missiles Strike Riyadh, Evade Saudi Defenses",
+        "title": "Houthi Missiles Strike Riyadh, Prince Sultan Air Base",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Army Sets Fire to Hospital in Southern Lebanon",
+        "title": "Air Defense Activity Reported Near Kermanshah, Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
