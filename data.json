@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-19 03:23",
+  "updated_at_gst": "2026-09-19 05:18",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
+        "published": "Sat, 19 Sep 2026 00:00:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss"
+      },
       {
         "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
         "published": "Fri, 18 Sep 2026 20:20:23 +0000",
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Army Sets Fire to Hospital in Southern Lebanon",
+        "title": "Houthi Ballistic Missiles Strike Riyadh, Saudi Arabia",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Southern Lebanon · 5h ago. Lebanon's health ministry says Israeli forces, who had been using a government hospital to station troops, set it ablaze.",
+        "title": "Israeli Army Sets Fire to Hospital in Southern Lebanon",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Navy Attacks Tanker Trend in Strait of Hormuz, Sets Ablaze",
+        "title": "— S4 · Conflict · Southern Lebanon · 7h ago. Lebanon's health ministry says Israeli forces, who had been using a government hospital to station troops, set it ablaze.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
