@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-19 10:04",
+  "updated_at_gst": "2026-09-19 15:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iranian women defy law and run Tehran race without hijab",
-        "published": "Sat, 19 Sep 2026 01:45:36 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Saudi danger alerts blare, Trump extends Iran sanctions",
-        "published": "Sat, 19 Sep 2026 00:00:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss"
+        "title": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
+        "published": "Sat, 19 Sep 2026 08:18:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Ballistic Missiles Strike Riyadh, Evade Saudi Defenses",
+        "title": "Houthis Strike Riyadh Airport as Fire Reported in Capital",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Army Sets Fire to Hospital in Southern Lebanon",
+        "title": "Houthi Ballistic Missiles Strike Riyadh, Evade Saudi Defenses",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Southern Lebanon · 11h ago. Lebanon's health ministry says Israeli forces, who had been using a government hospital to station troops, set it ablaze.",
+        "title": "Israeli Army Sets Fire to Hospital in Southern Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
