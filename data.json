@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-20 01:51",
+  "updated_at_gst": "2026-09-20 03:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
+        "published": "Sat, 19 Sep 2026 23:18:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss"
+      },
+      {
         "title": "Israel targets paramedics in southern Lebanon",
         "published": "Sat, 19 Sep 2026 18:06:52 +0000",
         "link": "https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss"
-      },
-      {
-        "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
-        "published": "Sat, 19 Sep 2026 15:18:00 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/19/uefa-defends-policy-after-rejecting-irelands-request-not-to-play-israel?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Missiles Strike Riyadh, Prince Sultan Air Base",
+        "title": "Houthis Strike Riyadh and Aramco Yanbu; Saudi Defenses Intercept Missiles",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
