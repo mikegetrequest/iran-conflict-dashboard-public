@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-19 15:14",
+  "updated_at_gst": "2026-09-19 18:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
-        "published": "Sat, 19 Sep 2026 08:18:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss"
+        "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
+        "published": "Sat, 19 Sep 2026 13:21:52 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss"
+      },
+      {
+        "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
+        "published": "Sat, 19 Sep 2026 12:59:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss"
+      },
+      {
+        "title": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
+        "published": "Sat, 19 Sep 2026 12:29:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/saudi-led-naval-coalition-prepares-to-secure-red-sea-waterways?traffic_source=rss"
+      },
+      {
+        "title": "Iran stages show of force during mobilisation campaign in Tehran",
+        "published": "Sat, 19 Sep 2026 10:56:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
