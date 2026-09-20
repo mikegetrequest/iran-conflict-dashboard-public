@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-20 11:27",
+  "updated_at_gst": "2026-09-20 16:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Mass Ukrainian drone attack on Moscow kills two, Russia says",
-        "published": "Sun, 20 Sep 2026 06:57:05 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/20/myanmars-van-defeats-pantoja-to-retain-flyweight-title-in-ufc-331?traffic_source=rss"
-      },
-      {
-        "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
-        "published": "Sat, 19 Sep 2026 23:18:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss"
+        "title": "‘There will be a very sizeable Saudi response’ to Houthi attacks",
+        "published": "Sun, 20 Sep 2026 09:30:51 +0000",
+        "link": "https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Persian Gulf · 7h ago. Unverified reports of active missile fire over the Gulf of Oman, Persian Gulf, and UAE, suggesting a major regional escalation amid ongoing US-Iran conflict.",
+        "title": "— S4 · Conflict · Persian Gulf · 13h ago. Unverified reports of active missile fire over the Gulf of Oman, Persian Gulf, and UAE, suggesting a major regional escalation amid ongoing US-Iran conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
