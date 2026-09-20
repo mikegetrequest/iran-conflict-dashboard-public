@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-20 20:34",
+  "updated_at_gst": "2026-09-20 23:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,38 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "The pro-Israel censors are starting to lose",
-        "published": "Sun, 20 Sep 2026 14:00:32 +0000",
-        "link": "https://www.aljazeera.com/video/deja-vu-2/2026/9/20/jews-and-muslims-lived-together-for-centuries-did-zionism-tear-them-apart-2?traffic_source=rss"
-      },
-      {
-        "title": "What’s behind Iranian authorities’ push for a mass mobilisation campaign?",
-        "published": "Sun, 20 Sep 2026 13:47:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss"
-      },
-      {
-        "title": "Iran win Asian Games basketball bronze amid emotional scenes",
-        "published": "Sun, 20 Sep 2026 13:13:27 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/9/20/postponing-the-future-war-and-inflation-redraw-marriage-terms-in-iran?traffic_source=rss"
-      },
-      {
-        "title": "Moscow attacked by more than 1,000 Ukrainian drones",
-        "published": "Sun, 20 Sep 2026 13:10:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/20/former-pakistan-pm-imran-khans-sister-arrested-ahead-of-planned-pti-march?traffic_source=rss"
-      },
-      {
-        "title": "Gaza’s children return to classrooms after years of Israeli attacks",
-        "published": "Sun, 20 Sep 2026 12:38:21 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-fulham-vs-manchester-united-premier-league?traffic_source=rss"
-      },
-      {
-        "title": "Israeli forces kill Palestinian near Jenin in occupied West Bank",
-        "published": "Sun, 20 Sep 2026 12:11:22 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -68,7 +37,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Persian Gulf · 17h ago. Unverified reports of active missile fire over the Gulf of Oman, Persian Gulf, and UAE, suggesting a major regional escalation amid ongoing US-Iran conflict.",
+        "title": "— S4 · Conflict · Persian Gulf · 19h ago. Unverified reports of active missile fire over the Gulf of Oman, Persian Gulf, and UAE, suggesting a major regional escalation amid ongoing US-Iran conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
