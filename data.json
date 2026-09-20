@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-20 03:43",
+  "updated_at_gst": "2026-09-20 05:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
-        "published": "Sat, 19 Sep 2026 23:18:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss"
+        "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+        "published": "Sun, 20 Sep 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss"
       },
       {
-        "title": "Israel targets paramedics in southern Lebanon",
-        "published": "Sat, 19 Sep 2026 18:06:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss"
+        "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+        "published": "Sat, 19 Sep 2026 22:03:05 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
+        "published": "Sat, 19 Sep 2026 20:40:09 +0000",
+        "link": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss"
+      },
+      {
+        "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
+        "published": "Sat, 19 Sep 2026 20:13:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss"
+      },
+      {
+        "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+        "published": "Sat, 19 Sep 2026 18:32:30 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Missile Strike Kills 123 Children in Minab, Iran",
+        "title": "Missiles Rain Over Persian Gulf and Gulf of Oman",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Strike Riyadh Airport as Fire Reported in Capital",
+        "title": "— S4 · Conflict · Persian Gulf · 2h ago. Unverified reports of active missile fire over the Gulf of Oman, Persian Gulf, and UAE, suggesting a major regional escalation amid ongoing US-Iran conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Strike Riyadh and Aramco Yanbu; Saudi Defenses Intercept Missiles",
+        "title": "US Missile Strike Kills 123 Children in Minab, Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
