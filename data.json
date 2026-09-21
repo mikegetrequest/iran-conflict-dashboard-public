@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-21 19:10",
+  "updated_at_gst": "2026-09-22 00:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
-        "published": "Mon, 21 Sep 2026 14:19:46 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/21/egypts-amina-orfi-becomes-youngest-womens-squash-world-number-one-at-19?traffic_source=rss"
+        "title": "Protesters blockade Elbit Systems factory over Israel weapons supply",
+        "published": "Mon, 21 Sep 2026 19:22:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss"
       },
       {
-        "title": "Child among four Palestinians killed in Israeli attacks on Gaza",
-        "published": "Mon, 21 Sep 2026 12:32:43 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/21/israeli-forces-arrest-dozens-of-palestinians-in-occupied-west-bank-raid?traffic_source=rss"
-      },
-      {
-        "title": "Mystery object spotted hovering over Tehran",
-        "published": "Mon, 21 Sep 2026 10:10:14 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss"
+        "title": "How an economic squeeze is changing everyday life and work for Iranians",
+        "published": "Mon, 21 Sep 2026 14:50:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/21/is-it-a-missile-is-it-a-drone-whats-the-pelican-used-by-ukraine?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Hayfan District, Taiz, Yemen · 13m ago. The Saudi-led coalition is conducting airstrikes on the Hayfan district in Taiz province, Yemen, amid ongoing conflict in the region.",
+        "title": "IDF Strikes Eastern Gaza After IED Hits Vehicle",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Drone Strike Kills Man in Khan Younis, Gaza",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. An unmanned IDF engineering vehicle was hit by an IED in northern Gaza with no injuries; Israeli strikes reported in Gaza City in response.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 2h ago. A man was killed in a drone strike in Khan Younis, raising the Palestinian death toll in Israeli attacks in Gaza today to four.",
+        "title": "Israel Shells Khiam in Southern Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
