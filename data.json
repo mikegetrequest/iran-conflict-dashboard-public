@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-22 00:01",
+  "updated_at_gst": "2026-09-22 03:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Protesters blockade Elbit Systems factory over Israel weapons supply",
-        "published": "Mon, 21 Sep 2026 19:22:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss"
-      },
-      {
-        "title": "How an economic squeeze is changing everyday life and work for Iranians",
-        "published": "Mon, 21 Sep 2026 14:50:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/21/is-it-a-missile-is-it-a-drone-whats-the-pelican-used-by-ukraine?traffic_source=rss"
+        "title": "Trump approval rating hits career low of 32% amid Iran war, high costs",
+        "published": "Mon, 21 Sep 2026 19:10:52 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 1h ago. An unmanned IDF engineering vehicle was hit by an IED in northern Gaza with no injuries; Israeli strikes reported in Gaza City in response.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 5h ago. An unmanned IDF engineering vehicle was hit by an IED in northern Gaza with no injuries; Israeli strikes reported in Gaza City in response.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
