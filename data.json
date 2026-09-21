@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-21 06:00",
+  "updated_at_gst": "2026-09-21 12:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Afghanistan says three killed in Pakistani air attacks",
+        "published": "Mon, 21 Sep 2026 07:30:10 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/21/mourinho-fumes-at-referees-in-news-conference-after-madrid-derby-defeat?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s military says US preparing to resume strikes",
+        "published": "Mon, 21 Sep 2026 05:21:41 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss"
+      },
+      {
         "title": "France to summon Iran envoy after language centre closure in Tehran",
         "published": "Sun, 20 Sep 2026 22:06:22 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss"
@@ -24,11 +34,6 @@
         "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
         "published": "Sun, 20 Sep 2026 20:13:18 +0000",
         "link": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss"
-      },
-      {
-        "title": "Qatar says it is working to revive Iran-US talks",
-        "published": "Sun, 20 Sep 2026 19:36:12 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Strike Riyadh and Aramco Yanbu; Saudi Air Defenses Intercept Missiles",
+        "title": "Houthi Missiles Strike Riyadh, Saudi Aramco Yanbu Facility",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Blasts Heard, Smoke Seen in Western Tehran",
+        "title": "— S3 · Conflict · Red Sea, Yemen · 3h ago. Iran-aligned Houthis and Iraqi militias open new Red Sea front, raising security and economic threats to Saudi Arabia and global fuel supplies.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Chitgar, Tehran, Iran · 2h ago. Multiple blast sounds and smoke reported in Chitgar, western Tehran; cause unconfirmed as officials investigate, possibly linked to the ongoing US/Israel-Iran conflict.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 4h ago. Iran's Islamic Revolutionary Guard Corps claims it downed a U.S. Army MQ-1 drone over the Strait of Hormuz amid heightened U.S. Air Force activity in the region.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
