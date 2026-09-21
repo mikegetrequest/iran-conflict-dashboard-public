@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-21 03:38",
+  "updated_at_gst": "2026-09-21 06:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Qatar PM urges Gulf security framework with Iran",
-        "published": "Sun, 20 Sep 2026 21:00:15 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss"
+        "title": "France to summon Iran envoy after language centre closure in Tehran",
+        "published": "Sun, 20 Sep 2026 22:06:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss"
       },
       {
-        "title": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
-        "published": "Sun, 20 Sep 2026 17:55:46 +0000",
-        "link": "https://www.aljazeera.com/features/2026/9/20/trump-tariffs-hit-canadas-dairy-farmers-as-us-sales-stall?traffic_source=rss"
+        "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
+        "published": "Sun, 20 Sep 2026 20:13:18 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss"
+      },
+      {
+        "title": "Qatar says it is working to revive Iran-US talks",
+        "published": "Sun, 20 Sep 2026 19:36:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Missiles Rain Over Persian Gulf and Gulf of Oman",
+        "title": "Houthis Strike Riyadh and Aramco Yanbu; Saudi Air Defenses Intercept Missiles",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Persian Gulf · 1d ago. Unverified reports of active missile fire over the Gulf of Oman, Persian Gulf, and UAE, suggesting a major regional escalation amid ongoing US-Iran conflict.",
+        "title": "Blasts Heard, Smoke Seen in Western Tehran",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Strike Riyadh and Aramco Yanbu; Saudi Air Defenses Intercept Missiles",
+        "title": "— S3 · Conflict · Chitgar, Tehran, Iran · 2h ago. Multiple blast sounds and smoke reported in Chitgar, western Tehran; cause unconfirmed as officials investigate, possibly linked to the ongoing US/Israel-Iran conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
