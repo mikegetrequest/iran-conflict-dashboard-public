@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-23 00:16",
+  "updated_at_gst": "2026-09-23 03:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "UNGA Day 1: US and Iran hold talks despite Trump’s threat",
+        "published": "Tue, 22 Sep 2026 22:48:56 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss"
+      },
+      {
+        "title": "Trump: US-Iran meeting at UN was ‘very good’",
+        "published": "Tue, 22 Sep 2026 20:23:48 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/9/22/nyc-mayor-mamdani-reaches-record-doordash-settlement-for-underpaid-workers?traffic_source=rss"
+      },
+      {
         "title": "Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’",
         "published": "Tue, 22 Sep 2026 18:48:37 +0000",
         "link": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss"
-      },
-      {
-        "title": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
-        "published": "Tue, 22 Sep 2026 18:27:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss"
-      },
-      {
-        "title": "‘War crime’: Jordan’s king slams Israeli West Bank expansion",
-        "published": "Tue, 22 Sep 2026 16:35:14 +0000",
-        "link": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Yemen · 13h ago. Fighting in Yemen between Iran-backed Houthis and Saudi-backed government forces has killed 154 people over the past two days, military sources from both sides told AFP.",
+        "title": "— S4 · Conflict · Yemen · 15h ago. Fighting in Yemen between Iran-backed Houthis and Saudi-backed government forces has killed 154 people over the past two days, military sources from both sides told AFP.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Warplanes Conduct 19 Airstrikes on Yemeni Provinces",
+        "title": "Israel Strikes Target in Southern Lebanon",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Say Saudi Arabia Strikes Key Port City",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 29m ago. An Israeli Air Force strike was reported in southern Lebanon, where Israel has continued operations against Hezbollah positions.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
