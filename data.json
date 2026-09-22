@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-22 10:57",
+  "updated_at_gst": "2026-09-22 16:15",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UK to refuel Saudi jets to help counter Houthi attacks",
-        "published": "Tue, 22 Sep 2026 00:29:28 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo?traffic_source=rss"
+        "title": "UN General Assembly live: Trump, Qatar emir to speak as Iran war dominates",
+        "published": "Tue, 22 Sep 2026 12:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/who-actually-has-power-at-the-united-nations-2?traffic_source=rss"
+      },
+      {
+        "title": "Can the US ban Iranian airlines worldwide – and what would it mean?",
+        "published": "Tue, 22 Sep 2026 11:19:08 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/man-shot-by-ice-agent-is-in-detention-with-bullet-in-his-back?traffic_source=rss"
+      },
+      {
+        "title": "Why United Nations says US boat strikes may be ‘crimes against humanity’",
+        "published": "Tue, 22 Sep 2026 10:30:42 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/what-syrians-want-from-al-sharaas-proposal-of-a-new-syria-at-unga?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Red Sea · 2h ago. The group, once dubbed Iran's 'merchants of chaos,' has taken strategic islands in the Red Sea, placing Saudi Arabia in a difficult position.",
+        "title": "— S4 · Conflict · Yemen · 5h ago. Fighting in Yemen between Iran-backed Houthis and Saudi-backed government forces has killed 154 people over the past two days, military sources from both sides told AFP.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi-Led Coalition Strikes Houthi Positions West of Taiz",
+        "title": "Houthi Attack Forces Saudi Pipeline Shutdown",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Taiz, Yemen · 5h ago. Air strikes target Houthi positions west of Taiz in Yemen as part of the ongoing Saudi-led coalition campaign.",
+        "title": "— S3 · Conflict · Saudi Arabia · 28m ago. Secretary of State Marco Rubio says Houthi attacks forced Saudi Arabia to shut down a pipeline, with oil still in the system but markets reacting to reduced future Saudi supply.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
