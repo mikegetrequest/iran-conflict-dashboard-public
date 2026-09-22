@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-22 05:38",
+  "updated_at_gst": "2026-09-22 10:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump approval rating hits career low of 32% amid Iran war, high costs",
-        "published": "Mon, 21 Sep 2026 19:10:52 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss"
+        "title": "UK to refuel Saudi jets to help counter Houthi attacks",
+        "published": "Tue, 22 Sep 2026 00:29:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes on Yemen's Mocha Kill at Least 6 Civilians",
+        "title": "— S3 · Conflict · Red Sea · 2h ago. The group, once dubbed Iran's 'merchants of chaos,' has taken strategic islands in the Red Sea, placing Saudi Arabia in a difficult position.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IDF Strikes Eastern Gaza After IED Hits Vehicle",
+        "title": "Saudi-Led Coalition Strikes Houthi Positions West of Taiz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 7h ago. An unmanned IDF engineering vehicle was hit by an IED in northern Gaza with no injuries; Israeli strikes reported in Gaza City in response.",
+        "title": "— S3 · Conflict · Taiz, Yemen · 5h ago. Air strikes target Houthi positions west of Taiz in Yemen as part of the ongoing Saudi-led coalition campaign.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
