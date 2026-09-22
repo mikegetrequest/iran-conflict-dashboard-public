@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-22 16:15",
+  "updated_at_gst": "2026-09-22 21:04",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UN General Assembly live: Trump, Qatar emir to speak as Iran war dominates",
-        "published": "Tue, 22 Sep 2026 12:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/who-actually-has-power-at-the-united-nations-2?traffic_source=rss"
+        "title": "‘War crime’: Jordan’s king slams Israeli West Bank expansion",
+        "published": "Tue, 22 Sep 2026 16:35:14 +0000",
+        "link": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss"
       },
       {
-        "title": "Can the US ban Iranian airlines worldwide – and what would it mean?",
-        "published": "Tue, 22 Sep 2026 11:19:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/man-shot-by-ice-agent-is-in-detention-with-bullet-in-his-back?traffic_source=rss"
+        "title": "Trump to UN: do I ‘annihilate’ Iran or ‘make a deal?’",
+        "published": "Tue, 22 Sep 2026 15:19:19 +0000",
+        "link": "https://www.aljazeera.com/features/2026/9/22/whats-behind-french-protests-against-a-new-police-bill?traffic_source=rss"
       },
       {
-        "title": "Why United Nations says US boat strikes may be ‘crimes against humanity’",
-        "published": "Tue, 22 Sep 2026 10:30:42 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/what-syrians-want-from-al-sharaas-proposal-of-a-new-syria-at-unga?traffic_source=rss"
+        "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
+        "published": "Tue, 22 Sep 2026 13:29:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Yemen · 5h ago. Fighting in Yemen between Iran-backed Houthis and Saudi-backed government forces has killed 154 people over the past two days, military sources from both sides told AFP.",
+        "title": "— S4 · Conflict · Yemen · 9h ago. Fighting in Yemen between Iran-backed Houthis and Saudi-backed government forces has killed 154 people over the past two days, military sources from both sides told AFP.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attack Forces Saudi Pipeline Shutdown",
+        "title": "Saudi Warplanes Conduct 19 Airstrikes on Yemeni Provinces",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Saudi Arabia · 28m ago. Secretary of State Marco Rubio says Houthi attacks forced Saudi Arabia to shut down a pipeline, with oil still in the system but markets reacting to reduced future Saudi supply.",
+        "title": "Houthis Say Saudi Arabia Strikes Key Port City",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
