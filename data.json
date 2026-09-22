@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-22 21:04",
+  "updated_at_gst": "2026-09-23 00:16",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’",
+        "published": "Tue, 22 Sep 2026 18:48:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss"
+      },
+      {
+        "title": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
+        "published": "Tue, 22 Sep 2026 18:27:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss"
+      },
+      {
         "title": "‘War crime’: Jordan’s king slams Israeli West Bank expansion",
         "published": "Tue, 22 Sep 2026 16:35:14 +0000",
         "link": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss"
-      },
-      {
-        "title": "Trump to UN: do I ‘annihilate’ Iran or ‘make a deal?’",
-        "published": "Tue, 22 Sep 2026 15:19:19 +0000",
-        "link": "https://www.aljazeera.com/features/2026/9/22/whats-behind-french-protests-against-a-new-police-bill?traffic_source=rss"
-      },
-      {
-        "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
-        "published": "Tue, 22 Sep 2026 13:29:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Yemen · 9h ago. Fighting in Yemen between Iran-backed Houthis and Saudi-backed government forces has killed 154 people over the past two days, military sources from both sides told AFP.",
+        "title": "— S4 · Conflict · Yemen · 13h ago. Fighting in Yemen between Iran-backed Houthis and Saudi-backed government forces has killed 154 people over the past two days, military sources from both sides told AFP.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
