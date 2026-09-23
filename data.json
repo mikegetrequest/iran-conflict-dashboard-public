@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-23 03:02",
+  "updated_at_gst": "2026-09-23 05:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
+        "published": "Tue, 22 Sep 2026 23:46:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss"
+      },
+      {
         "title": "UNGA Day 1: US and Iran hold talks despite Trump’s threat",
         "published": "Tue, 22 Sep 2026 22:48:56 +0000",
         "link": "https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Trump: US-Iran meeting at UN was ‘very good’",
         "published": "Tue, 22 Sep 2026 20:23:48 +0000",
         "link": "https://www.aljazeera.com/economy/2026/9/22/nyc-mayor-mamdani-reaches-record-doordash-settlement-for-underpaid-workers?traffic_source=rss"
-      },
-      {
-        "title": "Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’",
-        "published": "Tue, 22 Sep 2026 18:48:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Yemen · 15h ago. Fighting in Yemen between Iran-backed Houthis and Saudi-backed government forces has killed 154 people over the past two days, military sources from both sides told AFP.",
+        "title": "— S4 · Conflict · Yemen · 18h ago. Fighting in Yemen between Iran-backed Houthis and Saudi-backed government forces has killed 154 people over the past two days, military sources from both sides told AFP.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Target in Southern Lebanon",
+        "title": "Massive Explosion Rocks South Lebanon",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 29m ago. An Israeli Air Force strike was reported in southern Lebanon, where Israel has continued operations against Hezbollah positions.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 28m ago. A large explosion was reported in southern Lebanon, with live updates following. Cause and casualties not yet confirmed.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
