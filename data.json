@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-23 21:17",
+  "updated_at_gst": "2026-09-24 00:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel’s destruction leaves Lebanon’s border villages in ruins",
-        "published": "Wed, 23 Sep 2026 16:48:33 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss"
+        "title": "Israel’s ambassador to the US says son injured in West Bank car-ramming",
+        "published": "Wed, 23 Sep 2026 18:49:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/23/us-lawmakers-seek-sanctions-for-israels-e1-west-bank-settlement-plan?traffic_source=rss"
       },
       {
-        "title": "‘They kill, we are punished’: Iran calls out Western hypocrisy",
-        "published": "Wed, 23 Sep 2026 15:49:59 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/23/uefa-nations-league-2026-27-format-teams-players-schedule?traffic_source=rss"
-      },
-      {
-        "title": "Iran: Strait of Hormuz won’t be used to ‘impose insecurity on us’",
-        "published": "Wed, 23 Sep 2026 15:24:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk?traffic_source=rss"
-      },
-      {
-        "title": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
-        "published": "Wed, 23 Sep 2026 13:57:50 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/un-poverty-goal-faces-reality-check?traffic_source=rss"
-      },
-      {
-        "title": "Can flurry of New York diplomacy lead to US-Iran diplomatic breakthrough?",
-        "published": "Wed, 23 Sep 2026 13:52:27 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/priests-against-genocide-hold-shroud-with-names-of-children-killed-in-gaza?traffic_source=rss"
+        "title": "Iran’s Pezeshkian slams ‘terrorist’ US but extols diplomacy in UN speech",
+        "published": "Wed, 23 Sep 2026 18:36:39 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/23/why-does-greenland-matter-to-the-us-2?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -68,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran (nationwide) · 9h ago. NATO Secretary General officially confirms alliance involvement in Operation Epic Fury, citing 5,000 aircraft taking off from Europe.",
+        "title": "— S4 · Conflict · Iran (nationwide) · 12h ago. NATO Secretary General officially confirms alliance involvement in Operation Epic Fury, citing 5,000 aircraft taking off from Europe.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
