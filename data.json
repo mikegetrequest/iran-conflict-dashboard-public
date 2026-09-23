@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-24 00:32",
+  "updated_at_gst": "2026-09-24 03:15",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
+        "published": "Wed, 23 Sep 2026 21:05:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss"
+      },
+      {
         "title": "Israel’s ambassador to the US says son injured in West Bank car-ramming",
         "published": "Wed, 23 Sep 2026 18:49:45 +0000",
         "link": "https://www.aljazeera.com/news/2026/9/23/us-lawmakers-seek-sanctions-for-israels-e1-west-bank-settlement-plan?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s Pezeshkian slams ‘terrorist’ US but extols diplomacy in UN speech",
-        "published": "Wed, 23 Sep 2026 18:36:39 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/23/why-does-greenland-matter-to-the-us-2?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran (nationwide) · 12h ago. NATO Secretary General officially confirms alliance involvement in Operation Epic Fury, citing 5,000 aircraft taking off from Europe.",
+        "title": "— S4 · Conflict · Iran (nationwide) · 15h ago. NATO Secretary General officially confirms alliance involvement in Operation Epic Fury, citing 5,000 aircraft taking off from Europe.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
