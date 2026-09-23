@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-23 16:22",
+  "updated_at_gst": "2026-09-23 21:17",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak",
-        "published": "Wed, 23 Sep 2026 12:00:00 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/23/uefas-ceferin-says-fifa-trust-still-broken-after-infantino-investment-row?traffic_source=rss"
+        "title": "Israel’s destruction leaves Lebanon’s border villages in ruins",
+        "published": "Wed, 23 Sep 2026 16:48:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss"
       },
       {
-        "title": "Qatar on mediation efforts: ‘We can’t let diplomacy fail’",
-        "published": "Wed, 23 Sep 2026 11:03:35 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss"
+        "title": "‘They kill, we are punished’: Iran calls out Western hypocrisy",
+        "published": "Wed, 23 Sep 2026 15:49:59 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/23/uefa-nations-league-2026-27-format-teams-players-schedule?traffic_source=rss"
       },
       {
-        "title": "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
-        "published": "Wed, 23 Sep 2026 09:40:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/23/un-general-assembly-quiz-who-said-these-10-famous-quotes?traffic_source=rss"
+        "title": "Iran: Strait of Hormuz won’t be used to ‘impose insecurity on us’",
+        "published": "Wed, 23 Sep 2026 15:24:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk?traffic_source=rss"
       },
       {
-        "title": "Qatar’s Dakar Rally champ Nasser Al-Attiyah wins Asian Games shooting gold",
-        "published": "Wed, 23 Sep 2026 09:02:02 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/23/mirabai-chanu-wins-asian-games-silver-as-ri-breaks-weightlifting-record?traffic_source=rss"
+        "title": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
+        "published": "Wed, 23 Sep 2026 13:57:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/un-poverty-goal-faces-reality-check?traffic_source=rss"
       },
       {
-        "title": "Qatar says ‘no alternative to diplomacy’ as Belgium and Rwanda restore ties",
-        "published": "Wed, 23 Sep 2026 08:40:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/23/at-least-11-people-killed-in-south-africa-township-shooting?traffic_source=rss"
+        "title": "Can flurry of New York diplomacy lead to US-Iran diplomatic breakthrough?",
+        "published": "Wed, 23 Sep 2026 13:52:27 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/priests-against-genocide-hold-shroud-with-names-of-children-killed-in-gaza?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "NATO Chief Confirms Alliance Involvement in Iran War",
+        "title": "Iran Torpedoes Bulk Carrier MV Cape Dao in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran (nationwide) · 4h ago. NATO Secretary General officially confirms alliance involvement in Operation Epic Fury, citing 5,000 aircraft taking off from Europe.",
+        "title": "NATO Chief Confirms Alliance Involvement in Iran War",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Yemen · 1d ago. Fighting in Yemen between Iran-backed Houthis and Saudi-backed government forces has killed 154 people over the past two days, military sources from both sides told AFP.",
+        "title": "— S4 · Conflict · Iran (nationwide) · 9h ago. NATO Secretary General officially confirms alliance involvement in Operation Epic Fury, citing 5,000 aircraft taking off from Europe.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
