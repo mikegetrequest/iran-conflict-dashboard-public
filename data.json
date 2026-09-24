@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-25 00:34",
+  "updated_at_gst": "2026-09-25 03:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,23 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Israel moves to ban main Palestinian-led lists from election",
-        "published": "Thu, 24 Sep 2026 19:54:00 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN",
-        "published": "Thu, 24 Sep 2026 19:02:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss"
-      },
-      {
-        "title": "Iranian-American group sues Trump over war",
-        "published": "Thu, 24 Sep 2026 17:45:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -58,7 +42,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Red Sea Coast, Yemen · 10h ago. Houthi rebels captured Yemen's Red Sea coast from pro-government forces within 48 hours, aided by Iranian Revolutionary Guard advisers in the field, per AP sources.",
+        "title": "— S4 · Conflict · Red Sea Coast, Yemen · 13h ago. Houthi rebels captured Yemen's Red Sea coast from pro-government forces within 48 hours, aided by Iranian Revolutionary Guard advisers in the field, per AP sources.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
