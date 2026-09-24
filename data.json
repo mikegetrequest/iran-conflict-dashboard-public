@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-24 10:30",
+  "updated_at_gst": "2026-09-24 16:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves",
-        "published": "Thu, 24 Sep 2026 03:32:28 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss"
+        "title": "Trump-Xi summit live: Trade, AI, Iran and Taiwan top US-China talks",
+        "published": "Thu, 24 Sep 2026 12:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/whos-who-in-the-race-for-the-next-un-secretary-general?traffic_source=rss"
       },
       {
-        "title": "Iran’s president brings receipts of US strikes on civilians to the UNGA",
-        "published": "Thu, 24 Sep 2026 02:17:36 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/24/israel-moves-to-bar-both-main-arab-lists-from-october-election?traffic_source=rss"
+        "title": "Deadly attack on Indian cargo ship off coast of Oman",
+        "published": "Thu, 24 Sep 2026 11:44:21 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/belgium-and-rwanda-are-talking-again-is-dr-congo-any-closer-to-peace?traffic_source=rss"
+      },
+      {
+        "title": "Russia attacks Ukraine while Zelenskyy speaks at UNGA",
+        "published": "Thu, 24 Sep 2026 11:39:16 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/9/24/indias-surfers-look-to-make-waves-at-the-2026-asian-games?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Torpedoes Bulk Carrier MV Cape Dao in Strait of Hormuz",
+        "title": "Houthis Seize Yemen's Red Sea Coast With Iranian Help",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Massive Explosion Hits Southern Lebanon Town of Khiam",
+        "title": "— S4 · Conflict · Red Sea Coast, Yemen · 2h ago. Houthi rebels captured Yemen's Red Sea coast from pro-government forces within 48 hours, aided by Iranian Revolutionary Guard advisers in the field, per AP sources.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khiam, Lebanon · 1h ago. A powerful blast struck Khiam, Lebanon, with live updates from Al Jazeera. Cause and impact still emerging.",
+        "title": "Iran Torpedoes Bulk Carrier MV Cape Dao in Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
