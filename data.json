@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-26 01:08",
+  "updated_at_gst": "2026-09-26 03:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UN expands list of firms involved in illegal Israeli settlement activities",
-        "published": "Fri, 25 Sep 2026 19:21:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-threatens-widespread-disruption-as-iraq-halts-iran-flights?traffic_source=rss"
+        "title": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
+        "published": "Fri, 25 Sep 2026 19:24:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/25/un-expands-list-of-firms-involved-in-illegal-israeli-settlement-activities?traffic_source=rss"
       },
       {
-        "title": "Lebanese in Brazil, Brazilian in Lebanon",
-        "published": "Fri, 25 Sep 2026 17:44:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/25/al-jazeera-rejects-netanyahus-attack-on-journalists-in-un-speech?traffic_source=rss"
+        "title": "Iran threatens widespread disruption as Iraq halts Iran flights",
+        "published": "Fri, 25 Sep 2026 19:11:03 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/25/will-turkiye-end-its-military-presence-in-northern-iraq?traffic_source=rss"
+      },
+      {
+        "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
+        "published": "Fri, 25 Sep 2026 18:30:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Kills 16 Hamas Financiers in Targeted Operations",
+        "title": "Air Activity and Power Outage Reported in Hamadan, Iran",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Shelling Continues as Lebanon PM Demands Withdrawal",
+        "title": "Houthis Strike Oil Refinery in Jazan, Saudi Arabia",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon · 4h ago. Lebanese PM Nawaf Salam calls for consolidating the US-brokered ceasefire and Israel's retreat in a UN speech amid ongoing Israeli shelling in southern Lebanon.",
+        "title": "— S3 · Conflict · Jazan, Saudi Arabia · 2h ago. Yemen's Houthi forces launched a ballistic missile attack on an oil refinery in Jazan, Saudi Arabia, escalating regional tensions.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
