@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-25 21:59",
+  "updated_at_gst": "2026-09-26 01:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Al Jazeera rejects Netanyahu’s attack on journalists in UN speech",
-        "published": "Fri, 25 Sep 2026 17:34:16 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/25/timeline-man-citys-premier-league-financial-charges-to-reported-verdict?traffic_source=rss"
+        "title": "UN expands list of firms involved in illegal Israeli settlement activities",
+        "published": "Fri, 25 Sep 2026 19:21:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-threatens-widespread-disruption-as-iraq-halts-iran-flights?traffic_source=rss"
+      },
+      {
+        "title": "Lebanese in Brazil, Brazilian in Lebanon",
+        "published": "Fri, 25 Sep 2026 17:44:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/25/al-jazeera-rejects-netanyahus-attack-on-journalists-in-un-speech?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Shelling Continues as Lebanon PM Demands Withdrawal",
+        "title": "Israel Kills 16 Hamas Financiers in Targeted Operations",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon · 39m ago. Lebanese PM Nawaf Salam calls for consolidating the US-brokered ceasefire and Israel's retreat in a UN speech amid ongoing Israeli shelling in southern Lebanon.",
+        "title": "Israeli Shelling Continues as Lebanon PM Demands Withdrawal",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "CENTCOM Redirects 122 Vessels Enforcing Iran Blockade",
+        "title": "— S3 · Conflict · Southern Lebanon · 4h ago. Lebanese PM Nawaf Salam calls for consolidating the US-brokered ceasefire and Israel's retreat in a UN speech amid ongoing Israeli shelling in southern Lebanon.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
