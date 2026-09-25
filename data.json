@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-25 06:10",
+  "updated_at_gst": "2026-09-25 11:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
-        "published": "Fri, 25 Sep 2026 00:24:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/25/argentinas-poverty-rises-to-32-percent-under-milei-with-more-pain-forecast?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
-        "published": "Fri, 25 Sep 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss"
-      },
-      {
-        "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
-        "published": "Thu, 24 Sep 2026 22:32:39 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss"
-      },
-      {
-        "title": "Israel moves to ban main Palestinian-led lists from election",
-        "published": "Thu, 24 Sep 2026 19:54:00 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss"
+        "title": "Multiple regions in Russia come under Ukrainian drone attacks",
+        "published": "Fri, 25 Sep 2026 05:18:35 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-football-player-sent-off-after-gun-firing-goal-celebration?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Red Sea Coast, Yemen · 16h ago. Houthi rebels captured Yemen's Red Sea coast from pro-government forces within 48 hours, aided by Iranian Revolutionary Guard advisers in the field, per AP sources.",
+        "title": "— S4 · Conflict · Red Sea Coast, Yemen · 22h ago. Houthi rebels captured Yemen's Red Sea coast from pro-government forces within 48 hours, aided by Iranian Revolutionary Guard advisers in the field, per AP sources.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
