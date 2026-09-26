@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-26 07:21",
+  "updated_at_gst": "2026-09-26 12:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,23 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
+        "published": "Sat, 26 Sep 2026 08:13:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/26/disaster-zone-declared-across-bangkok-as-heavy-rain-triggers-flooding?traffic_source=rss"
+      },
+      {
+        "title": "Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US",
+        "published": "Sat, 26 Sep 2026 05:23:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss"
+      },
+      {
+        "title": "Iran pitches US a seven-day end to the war at UNGA",
+        "published": "Sat, 26 Sep 2026 04:28:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -32,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Arabia Intercepts Houthi Drones Near Riyadh, Missile Near Khamis Mushait",
+        "title": "Bus Overturns in Central Iran, Killing 11",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Air Activity and Power Outage Reported in Hamadan, Iran",
+        "title": "— S3 · Disaster · Central Iran, Iran · 1h ago. A passenger bus overturned in central Iran, killing 11 people and injuring 24 others. The cause of the accident has not been reported.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Strike Oil Refinery in Jazan, Saudi Arabia",
+        "title": "Hind Rajab Foundation Alleges Israeli Soldier Committed War Crimes in Gaza",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
