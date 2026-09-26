@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-26 03:58",
+  "updated_at_gst": "2026-09-26 07:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,23 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
-        "published": "Fri, 25 Sep 2026 19:24:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/25/un-expands-list-of-firms-involved-in-illegal-israeli-settlement-activities?traffic_source=rss"
-      },
-      {
-        "title": "Iran threatens widespread disruption as Iraq halts Iran flights",
-        "published": "Fri, 25 Sep 2026 19:11:03 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/25/will-turkiye-end-its-military-presence-in-northern-iraq?traffic_source=rss"
-      },
-      {
-        "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
-        "published": "Fri, 25 Sep 2026 18:30:20 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -48,17 +32,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Air Activity and Power Outage Reported in Hamadan, Iran",
+        "title": "Saudi Arabia Intercepts Houthi Drones Near Riyadh, Missile Near Khamis Mushait",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Strike Oil Refinery in Jazan, Saudi Arabia",
+        "title": "Air Activity and Power Outage Reported in Hamadan, Iran",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Jazan, Saudi Arabia · 2h ago. Yemen's Houthi forces launched a ballistic missile attack on an oil refinery in Jazan, Saudi Arabia, escalating regional tensions.",
+        "title": "Houthis Strike Oil Refinery in Jazan, Saudi Arabia",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
