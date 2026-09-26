@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-26 23:59",
+  "updated_at_gst": "2026-09-27 02:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
+        "published": "Sat, 26 Sep 2026 20:57:54 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss"
+      },
+      {
+        "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
+        "published": "Sat, 26 Sep 2026 19:43:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss"
+      },
+      {
         "title": "Iraq seeks US exemption from ban on Iranian flights",
         "published": "Sat, 26 Sep 2026 17:35:11 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/stop-arming-israel-pro-palestine-protesters-march-on-labour-conference?traffic_source=rss"
-      },
-      {
-        "title": "At least 10 people killed in Russian and Ukrainian attacks",
-        "published": "Sat, 26 Sep 2026 16:16:49 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +53,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Cruise Missile Strikes Target in Strait of Hormuz",
+        "title": "— S3 · Conflict · Strait of Hormuz · 15m ago. Fresh explosions reported in the Strait of Hormuz, a critical maritime chokepoint amid ongoing US-Iran hostilities. Details on cause or damage remain unclear.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosion Reported in Western Iran Near Kermanshah",
+        "title": "Unprecedented Explosions Reported Along Iran's Hormozgan Coast",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
