@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-27 02:21",
+  "updated_at_gst": "2026-09-27 04:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
+        "published": "Sun, 27 Sep 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss"
+      },
+      {
         "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
         "published": "Sat, 26 Sep 2026 20:57:54 +0000",
         "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
         "published": "Sat, 26 Sep 2026 19:43:03 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss"
-      },
-      {
-        "title": "Iraq seeks US exemption from ban on Iranian flights",
-        "published": "Sat, 26 Sep 2026 17:35:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/stop-arming-israel-pro-palestine-protesters-march-on-labour-conference?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Cleric Says Supreme Leader Wounded in Feb 28 Attack",
+        "title": "Iran Lays Naval Mines in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 15m ago. Fresh explosions reported in the Strait of Hormuz, a critical maritime chokepoint amid ongoing US-Iran hostilities. Details on cause or damage remain unclear.",
+        "title": "Iran Fires Anti-Ship Missiles at Vessels Near Qeshm Island",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Unprecedented Explosions Reported Along Iran's Hormozgan Coast",
+        "title": "Iran Cleric Says Supreme Leader Wounded in Feb 28 Attack",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
