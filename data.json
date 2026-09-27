@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-27 09:55",
+  "updated_at_gst": "2026-09-27 14:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-        "published": "Sat, 26 Sep 2026 23:49:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss"
+        "title": "Yemen government forces widen attacks against Houthis: What we know",
+        "published": "Sun, 27 Sep 2026 09:59:21 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/plane-carrying-dr-congo-military-delegation-crashes?traffic_source=rss"
+      },
+      {
+        "title": "Massive Attack singer arrested over pro-Palestine protest in UK",
+        "published": "Sun, 27 Sep 2026 08:49:47 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 4h ago. Report: Mojtaba Khamenei was pulled from rubble after US/Israeli strikes hit his hospital, a second assassination attempt.",
+        "title": "— S4 · Conflict · Tehran, Iran · 10h ago. Report: Mojtaba Khamenei was pulled from rubble after US/Israeli strikes hit his hospital, a second assassination attempt.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
