@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-27 14:59",
+  "updated_at_gst": "2026-09-27 19:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Yemen government forces widen attacks against Houthis: What we know",
-        "published": "Sun, 27 Sep 2026 09:59:21 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/plane-carrying-dr-congo-military-delegation-crashes?traffic_source=rss"
+        "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
+        "published": "Sun, 27 Sep 2026 14:36:44 +0000",
+        "link": "https://www.aljazeera.com/video/true-crime-reports/2026/9/27/true-crime-reports-the-dosa-kings-deadly-obsession?traffic_source=rss"
       },
       {
-        "title": "Massive Attack singer arrested over pro-Palestine protest in UK",
-        "published": "Sun, 27 Sep 2026 08:49:47 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss"
+        "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
+        "published": "Sun, 27 Sep 2026 13:17:53 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum?traffic_source=rss"
+      },
+      {
+        "title": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
+        "published": "Sun, 27 Sep 2026 11:04:30 +0000",
+        "link": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss"
+      },
+      {
+        "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+        "published": "Sun, 27 Sep 2026 10:01:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know?traffic_source=rss"
+      },
+      {
+        "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
+        "published": "Sun, 27 Sep 2026 08:49:32 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 10h ago. Report: Mojtaba Khamenei was pulled from rubble after US/Israeli strikes hit his hospital, a second assassination attempt.",
+        "title": "— S4 · Conflict · Tehran, Iran · 14h ago. Report: Mojtaba Khamenei was pulled from rubble after US/Israeli strikes hit his hospital, a second assassination attempt.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
