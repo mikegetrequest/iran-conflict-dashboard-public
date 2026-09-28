@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-28 02:23",
+  "updated_at_gst": "2026-09-28 04:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+        "published": "Mon, 28 Sep 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss"
+      },
       {
         "title": "Ireland defeats Israel in controversial UEFA Nations League match",
         "published": "Sun, 27 Sep 2026 21:41:59 +0000",
@@ -48,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Hospital in Iran, Nearly Kill Mojtaba Khamenei",
+        "title": "Strikes Wound Mojtaba Khamenei, Chosen as Iran Supreme Leader",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Tehran, Iran · 21h ago. Report: Mojtaba Khamenei was pulled from rubble after US/Israeli strikes hit his hospital, a second assassination attempt.",
+        "title": "— S4 · Political · Tehran, Iran · 1d ago. Mojtaba Khamenei was wounded in US/Israeli strikes on a Tehran hospital and pulled from rubble, then quietly selected as Iran's supreme leader amid the ongoing war.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Lays Naval Mines in Strait of Hormuz",
+        "title": "3 Ballistic Missiles Inbound to Iraq",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
