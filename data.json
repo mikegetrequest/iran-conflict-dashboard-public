@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-28 10:06",
+  "updated_at_gst": "2026-09-28 18:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russian strikes kill eight, injure dozens across Ukraine",
-        "published": "Mon, 28 Sep 2026 05:06:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/sudanese-army-impounds-dozens-of-motorcycles-in-blue-nile-curfew?traffic_source=rss"
-      },
-      {
-        "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
-        "published": "Mon, 28 Sep 2026 00:29:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Tehran open to ‘real diplomacy’, ready for ‘apocalyptic war’",
-        "published": "Mon, 28 Sep 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss"
-      },
-      {
-        "title": "Ireland defeats Israel in controversial UEFA Nations League match",
-        "published": "Sun, 27 Sep 2026 21:41:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss"
+        "title": "Israeli fans direct monkey chants and military slogans at Ireland’s players",
+        "published": "Mon, 28 Sep 2026 11:43:27 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fighting-between-rival-forces-in-somalias-baidoa?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Targets Throughout Southern Lebanon",
+        "title": "— S3 · Conflict · Strait of Hormuz · 23m ago. An explosion was reported in the Strait of Hormuz, a critical oil chokepoint, amid ongoing US-Iran tensions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 3h ago. Israeli airstrikes hit multiple locations across southern Lebanon, prompting reports of ongoing military action in the region.",
+        "title": "Israeli Strikes Kill at Least 2 in Gaza",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Drone Strikes Kill 4 in Gaza",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 24m ago. Two separate Israeli attacks killed at least two Palestinians and wounded several others in the Gaza Strip on Monday, according to enclave health officials.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
