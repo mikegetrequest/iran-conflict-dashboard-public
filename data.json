@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-28 04:56",
+  "updated_at_gst": "2026-09-28 10:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,7 +16,17 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+        "title": "Russian strikes kill eight, injure dozens across Ukraine",
+        "published": "Mon, 28 Sep 2026 05:06:11 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/sudanese-army-impounds-dozens-of-motorcycles-in-blue-nile-curfew?traffic_source=rss"
+      },
+      {
+        "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
+        "published": "Mon, 28 Sep 2026 00:29:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran open to ‘real diplomacy’, ready for ‘apocalyptic war’",
         "published": "Mon, 28 Sep 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss"
       },
@@ -24,16 +34,6 @@
         "title": "Ireland defeats Israel in controversial UEFA Nations League match",
         "published": "Sun, 27 Sep 2026 21:41:59 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss"
-      },
-      {
-        "title": "Deadly strike hits market in Yemen’s Taiz",
-        "published": "Sun, 27 Sep 2026 21:00:55 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss"
-      },
-      {
-        "title": "Why has Trump rejected Iran’s peace proposal?",
-        "published": "Sun, 27 Sep 2026 20:03:04 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Strikes Wound Mojtaba Khamenei, Chosen as Iran Supreme Leader",
+        "title": "Israel Strikes Targets Throughout Southern Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Political · Tehran, Iran · 1d ago. Mojtaba Khamenei was wounded in US/Israeli strikes on a Tehran hospital and pulled from rubble, then quietly selected as Iran's supreme leader amid the ongoing war.",
+        "title": "— S3 · Conflict · Southern Lebanon, Lebanon · 3h ago. Israeli airstrikes hit multiple locations across southern Lebanon, prompting reports of ongoing military action in the region.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "3 Ballistic Missiles Inbound to Iraq",
+        "title": "Israeli Drone Strikes Kill 4 in Gaza",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
