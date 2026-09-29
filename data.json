@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-29 04:40",
+  "updated_at_gst": "2026-09-29 10:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Public transport drivers strike in Manila over soaring fuel prices",
+        "published": "Tue, 29 Sep 2026 05:21:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/29/more-than-80-reported-abducted-in-nigeria-as-police-find-human-remains?traffic_source=rss"
+      },
+      {
         "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
         "published": "Tue, 29 Sep 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss"
-      },
-      {
-        "title": "Slovenia’s U-turn towards Israel",
-        "published": "Mon, 28 Sep 2026 20:35:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/gazas-young-inventors-build-robots-with-what-they-have?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 59m ago. Ambrey confirms a fire on a vessel in the southern corridor of the Strait of Hormuz, amid reports of a missile launch from Hormozgan toward the strait.",
+        "title": "US Forces Exit Iraq After Two Decades, Leaving Opening for Iran",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Arabia Launches 25 Airstrikes on Houthis in Yemen",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 50m ago. A Palestinian man was killed by gunfire in central Gaza, amid ongoing Israeli operations. The identity of the shooter is not specified.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Sanaa, Yemen · 3h ago. Saudi air force significantly escalates strikes on Houthi targets in Yemen, with over 25 airstrikes recorded today. Analysts speculate larger-scale operations may follow.",
+        "title": "Israeli Strike Kills Hamas Gaza City Brigade Commander",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
