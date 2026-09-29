@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-29 17:08",
+  "updated_at_gst": "2026-09-29 22:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Hormuz and Yemen: Iran offers de-escalation at a price others will pay",
-        "published": "Tue, 29 Sep 2026 12:00:00 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/9/29/can-tajikistans-economic-boom-survive-its-debt-gamble?traffic_source=rss"
-      },
-      {
-        "title": "Ireland lost to Israel when they stepped on the pitch",
-        "published": "Tue, 29 Sep 2026 11:07:58 +0000",
-        "link": "https://www.aljazeera.com/features/2026/9/29/palestine-weekly-israeli-politicians-vie-to-look-toughest-before-election?traffic_source=rss"
-      },
-      {
-        "title": "Lebanese are watching Israel’s upcoming election, but few expect change",
-        "published": "Tue, 29 Sep 2026 10:38:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/29/malaysia-begins-returning-myanmar-nationals-despite-safety-warnings?traffic_source=rss"
+        "title": "Ireland undecided on approach for next game against Israel, coach says",
+        "published": "Tue, 29 Sep 2026 15:33:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Airstrikes Hit Yemen's Saada and Hajjah; Alerts in Najran",
+        "title": "Rocket Siren Sounds in Gaza Enclave, Israel",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Saada Governorate, Yemen · 2h ago. Yemeni media report airstrikes/rocket strikes on Saada and Hajjah governorates, with early warning alerts issued in Saudi Arabia's Najran region.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 7m ago. A rocket siren has been activated in the Gaza enclave, indicating a potential incoming attack. Details on the source of the rocket are not yet available.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Rial Hits Record Low of 2.54 Million per Dollar",
+        "title": "Yemen's Ansarallah Fires Ballistic Missiles at Forces South of Taiz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
