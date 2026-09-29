@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-29 10:20",
+  "updated_at_gst": "2026-09-29 17:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Public transport drivers strike in Manila over soaring fuel prices",
-        "published": "Tue, 29 Sep 2026 05:21:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/9/29/more-than-80-reported-abducted-in-nigeria-as-police-find-human-remains?traffic_source=rss"
+        "title": "Hormuz and Yemen: Iran offers de-escalation at a price others will pay",
+        "published": "Tue, 29 Sep 2026 12:00:00 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/9/29/can-tajikistans-economic-boom-survive-its-debt-gamble?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
-        "published": "Tue, 29 Sep 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss"
+        "title": "Ireland lost to Israel when they stepped on the pitch",
+        "published": "Tue, 29 Sep 2026 11:07:58 +0000",
+        "link": "https://www.aljazeera.com/features/2026/9/29/palestine-weekly-israeli-politicians-vie-to-look-toughest-before-election?traffic_source=rss"
+      },
+      {
+        "title": "Lebanese are watching Israel’s upcoming election, but few expect change",
+        "published": "Tue, 29 Sep 2026 10:38:35 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/29/malaysia-begins-returning-myanmar-nationals-despite-safety-warnings?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Forces Exit Iraq After Two Decades, Leaving Opening for Iran",
+        "title": "Airstrikes Hit Yemen's Saada and Hajjah; Alerts in Najran",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 50m ago. A Palestinian man was killed by gunfire in central Gaza, amid ongoing Israeli operations. The identity of the shooter is not specified.",
+        "title": "— S3 · Conflict · Saada Governorate, Yemen · 2h ago. Yemeni media report airstrikes/rocket strikes on Saada and Hajjah governorates, with early warning alerts issued in Saudi Arabia's Najran region.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Strike Kills Hamas Gaza City Brigade Commander",
+        "title": "Iranian Rial Hits Record Low of 2.54 Million per Dollar",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
