@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-29 00:37",
+  "updated_at_gst": "2026-09-29 04:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Photos: Russian drone strikes pound civilian targets across Kyiv",
-        "published": "Mon, 28 Sep 2026 17:37:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-police-release-suspects-on-bail-after-raf-arrests-investigation-ongoing?traffic_source=rss"
+        "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+        "published": "Tue, 29 Sep 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss"
+      },
+      {
+        "title": "Slovenia’s U-turn towards Israel",
+        "published": "Mon, 28 Sep 2026 20:35:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/gazas-young-inventors-build-robots-with-what-they-have?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Missile Alert in Najran After Launches From Yemen",
+        "title": "— S3 · Conflict · Strait of Hormuz · 59m ago. Ambrey confirms a fire on a vessel in the southern corridor of the Strait of Hormuz, amid reports of a missile launch from Hormozgan toward the strait.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Lebanon Accuses Israel of Large Explosion in South",
+        "title": "Saudi Arabia Launches 25 Airstrikes on Houthis in Yemen",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon · 1h ago. Lebanese authorities say Israeli forces set off explosions in southern Lebanon villages; Israel says it destroyed over 600 terrorist infrastructure sites.",
+        "title": "— S3 · Conflict · Sanaa, Yemen · 3h ago. Saudi air force significantly escalates strikes on Houthi targets in Yemen, with over 25 airstrikes recorded today. Analysts speculate larger-scale operations may follow.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
