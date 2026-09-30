@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-09-30 23:30",
+  "updated_at_gst": "2026-10-01 03:16",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
-        "published": "Wed, 30 Sep 2026 15:27:26 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/9/30/photos-kashmirs-600-year-old-wazwan-wedding-feast-adapts-to-modern-life?traffic_source=rss"
+        "title": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
+        "published": "Wed, 30 Sep 2026 21:12:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss"
+      },
+      {
+        "title": "Israeli attacks across Gaza kill at least eight",
+        "published": "Wed, 30 Sep 2026 20:12:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/30/us-judge-rules-wisconsin-mosque-leader-salah-sarsour-can-be-deported?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
+        "published": "Wed, 30 Sep 2026 19:49:21 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/9/30/us-regulator-launches-probe-into-ai-companies?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,12 +53,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Drone Strikes Kurdish Base in Erbil, Iraq",
+        "title": "Passengers Foil Bid to Crash Dubai-Tel Aviv Flight, Israel Says",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Erbil, Iraq · 1h ago. An Iranian drone hit a Kurdish base in Erbil, Iraq, amid ongoing regional tensions.",
+        "title": "Trump Says flydubai Co-Pilot May Have Been Terrorist in Hijack Attempt",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
