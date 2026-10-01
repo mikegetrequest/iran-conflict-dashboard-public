@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-01 03:16",
+  "updated_at_gst": "2026-10-01 06:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran parades Shahed drones through capital",
+        "published": "Thu, 01 Oct 2026 00:39:04 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss"
+      },
+      {
+        "title": "Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight",
+        "published": "Wed, 30 Sep 2026 23:50:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss"
+      },
+      {
         "title": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
         "published": "Wed, 30 Sep 2026 21:12:46 +0000",
         "link": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss"
@@ -26,7 +36,7 @@
         "link": "https://www.aljazeera.com/news/2026/9/30/us-judge-rules-wisconsin-mosque-leader-salah-sarsour-can-be-deported?traffic_source=rss"
       },
       {
-        "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
+        "title": "Netanyahu calls stabbed Indian pilot a hero; Flydubai halts Israel flights",
         "published": "Wed, 30 Sep 2026 19:49:21 +0000",
         "link": "https://www.aljazeera.com/economy/2026/9/30/us-regulator-launches-probe-into-ai-companies?traffic_source=rss"
       }
@@ -48,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Flydubai Flight Diverts to Tabuk After Cockpit Attack",
+        "title": "Passengers Subdue Co-Pilot After Stabbing on Dubai-Tel Aviv Flight",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Passengers Foil Bid to Crash Dubai-Tel Aviv Flight, Israel Says",
+        "title": "Trump Says flydubai Co-Pilot May Have Been Terrorist in Hijack Attempt",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Trump Says flydubai Co-Pilot May Have Been Terrorist in Hijack Attempt",
+        "title": "Israeli Attacks Across Gaza Kill at Least Eight",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
