@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-01 13:07",
+  "updated_at_gst": "2026-10-01 20:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Will Democrats move beyond rhetoric on Israel’s illegal settlements?",
-        "published": "Thu, 01 Oct 2026 08:13:15 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/10/1/openai-reviewing-report-of-failed-hacking-attempt-against-canadas-govt?traffic_source=rss"
+        "title": "Flydubai attack gives Netanyahu new security message ahead of Israel vote",
+        "published": "Thu, 01 Oct 2026 15:47:23 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/1/live-denmark-vs-portugal-uefa-nations-league-ronaldo?traffic_source=rss"
       },
       {
-        "title": "Palestinians to bury remains of 105 people killed in Israeli attack on Gaza",
-        "published": "Thu, 01 Oct 2026 07:23:18 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/1/india-vs-pakistan-live-asian-games-hockey-semifinal?traffic_source=rss"
-      },
-      {
-        "title": "UK says Iran may be linked to alleged RAF Fairford plot, drawing denial",
-        "published": "Thu, 01 Oct 2026 02:30:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss"
-      },
-      {
-        "title": "Passengers tell of ‘nightmare’ onboard diverted Flydubai flight",
-        "published": "Thu, 01 Oct 2026 00:53:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss"
+        "title": "UAE investigates possible ‘terrorist’ link in attack on flight to Israel",
+        "published": "Thu, 01 Oct 2026 11:46:08 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/1/carlos-queiroz-quits-as-ghana-coach-after-afcon-qualifying-defeats?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes Hit Saada, Yemen, Targeting Communications",
+        "title": "Iran Strikes Three Oil Tankers in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Forces Clash With Separatists in Sistan and Baluchestan",
+        "title": "Officials Suspect Terror in Attempted Attack on Israel-Bound Flydubai Flight",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Three UAE Oil Tankers Struck in Southern Red Sea",
+        "title": "— S3 · Disaster · Tel Aviv, Israel · 22m ago. A passenger on a flight to Tel Aviv with over 170 people aboard helped stabilize a nose-diving aircraft, crediting knowledge from an air crash TV show.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
