@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-01 20:33",
+  "updated_at_gst": "2026-10-02 01:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Flydubai attack gives Netanyahu new security message ahead of Israel vote",
-        "published": "Thu, 01 Oct 2026 15:47:23 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/1/live-denmark-vs-portugal-uefa-nations-league-ronaldo?traffic_source=rss"
+        "title": "Protesters halt game as calls grow on Ireland to boycott second Israel game",
+        "published": "Thu, 01 Oct 2026 21:14:55 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss"
       },
       {
-        "title": "UAE investigates possible ‘terrorist’ link in attack on flight to Israel",
-        "published": "Thu, 01 Oct 2026 11:46:08 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/1/carlos-queiroz-quits-as-ghana-coach-after-afcon-qualifying-defeats?traffic_source=rss"
+        "title": "Who is Capt. Smit, Machchhar, the pilot of the Flydubai flight?",
+        "published": "Thu, 01 Oct 2026 19:54:36 +0000",
+        "link": "https://www.aljazeera.com/editorial/2026/10/1/cornell-rape-allegations-renew-push-to-change-new-york-sexual-assault-law?traffic_source=rss"
+      },
+      {
+        "title": "What’s driving Israeli settler violence in the occupied West Bank?",
+        "published": "Thu, 01 Oct 2026 19:45:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/1/after-red-sea-losses-yemens-government-forces-hold-the-line?traffic_source=rss"
+      },
+      {
+        "title": "Saudi-led coalition says power station attacked in Medina, blames Houthis",
+        "published": "Thu, 01 Oct 2026 19:03:14 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Officials Suspect Terror in Attempted Attack on Israel-Bound Flydubai Flight",
+        "title": "Saudi Airstrikes Hit Multiple Yemeni Cities",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Disaster · Tel Aviv, Israel · 22m ago. A passenger on a flight to Tel Aviv with over 170 people aboard helped stabilize a nose-diving aircraft, crediting knowledge from an air crash TV show.",
+        "title": "— S3 · Conflict · Sana'a, Yemen · 31m ago. Saudi air force strikes target Ta'izz, Sa'ada, Amran, southwest coast, and Sana'a (four times) amid ongoing Yemen conflict.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
