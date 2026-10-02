@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-02 17:16",
+  "updated_at_gst": "2026-10-02 22:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
-        "published": "Fri, 02 Oct 2026 12:47:30 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-clip-mother-bear-crashes-into-a-car-in-japan-jp?traffic_source=rss"
-      },
-      {
-        "title": "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall",
-        "published": "Fri, 02 Oct 2026 12:37:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss"
-      },
-      {
-        "title": "FlyDubai pilot describes opening cockpit door during attack",
-        "published": "Fri, 02 Oct 2026 11:23:27 +0000",
-        "link": "https://www.aljazeera.com/features/2026/10/2/containerabad-pakistans-capital-and-truckers-bleed-money-amid-lockdown?traffic_source=rss"
-      },
-      {
-        "title": "How can Jordan respond to Israel’s escalation across the West Bank?",
-        "published": "Fri, 02 Oct 2026 10:17:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/2/new-aircraft-carrier-10000-us-troops-is-the-iran-war-about-to-escalate?traffic_source=rss"
+        "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
+        "published": "Fri, 02 Oct 2026 18:18:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Air Force Kills Hamas Sniper in Khan Younis",
+        "title": "Iran Strikes Seven Tankers in Five Days in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khan Younis, Gaza Strip · 1h ago. IAF and Shin Bet struck in Khan Younis, eliminating Tamir Hamaida, a Hamas sniper who had conducted attacks against Israeli forces and civilians.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 2h ago. Two more tankers hit today in the southern corridor (Ambrey and UKMTO reports), bringing the five-day total to at least seven. Previous strikes hit Kuwaiti and UAE vessels.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "UAE Official Calls flydubai Attack 'Terrorist Act'",
+        "title": "Tanker Attacked in Strait of Hormuz, UK Agency Says",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
