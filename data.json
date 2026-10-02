@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-02 01:27",
+  "updated_at_gst": "2026-10-02 04:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Protesters halt game as calls grow on Ireland to boycott second Israel game",
-        "published": "Thu, 01 Oct 2026 21:14:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss"
+        "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
+        "published": "Thu, 01 Oct 2026 23:44:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss"
       },
       {
-        "title": "Who is Capt. Smit, Machchhar, the pilot of the Flydubai flight?",
-        "published": "Thu, 01 Oct 2026 19:54:36 +0000",
-        "link": "https://www.aljazeera.com/editorial/2026/10/1/cornell-rape-allegations-renew-push-to-change-new-york-sexual-assault-law?traffic_source=rss"
+        "title": "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe",
+        "published": "Thu, 01 Oct 2026 21:53:16 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss"
       },
       {
-        "title": "What’s driving Israeli settler violence in the occupied West Bank?",
-        "published": "Thu, 01 Oct 2026 19:45:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/1/after-red-sea-losses-yemens-government-forces-hold-the-line?traffic_source=rss"
+        "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
+        "published": "Thu, 01 Oct 2026 20:49:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss"
       },
       {
-        "title": "Saudi-led coalition says power station attacked in Medina, blames Houthis",
-        "published": "Thu, 01 Oct 2026 19:03:14 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss"
+        "title": "Syria denies officials held ‘secret’ talks with Hezbollah in Turkiye",
+        "published": "Thu, 01 Oct 2026 20:02:42 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/who-is-capt-smit-machchhar-the-pilot-of-the-flydubai-flight?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes Hit Multiple Yemeni Cities",
+        "title": "Israeli Drone Kills Palestinian in Gaza, Settlers Kill Another in West Bank",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Sana'a, Yemen · 31m ago. Saudi air force strikes target Ta'izz, Sa'ada, Amran, southwest coast, and Sana'a (four times) amid ongoing Yemen conflict.",
+        "title": "Saudi Jets Strike Yemen 47 Times in 24 Hours",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
