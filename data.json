@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-02 22:32",
+  "updated_at_gst": "2026-10-03 02:38",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,21 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli general: Gaza captives could have been freed a year earlier",
+        "published": "Fri, 02 Oct 2026 21:15:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/2/christa-pike-unconscious-on-ventilator-after-botched-execution-lawyers?traffic_source=rss"
+      },
+      {
+        "title": "FlyDubai pilot hailed as ‘national hero’ as he describes attack",
+        "published": "Fri, 02 Oct 2026 20:54:49 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/2/latin-america-sees-china-as-more-positive-global-influence-than-us-poll?traffic_source=rss"
+      },
+      {
+        "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
+        "published": "Fri, 02 Oct 2026 20:32:02 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss"
+      },
       {
         "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
         "published": "Fri, 02 Oct 2026 18:18:42 +0000",
@@ -43,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 2h ago. Two more tankers hit today in the southern corridor (Ambrey and UKMTO reports), bringing the five-day total to at least seven. Previous strikes hit Kuwaiti and UAE vessels.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 6h ago. Two more tankers hit today in the southern corridor (Ambrey and UKMTO reports), bringing the five-day total to at least seven. Previous strikes hit Kuwaiti and UAE vessels.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Tanker Attacked in Strait of Hormuz, UK Agency Says",
+        "title": "PLC Forces Counterattack in Western Jabal Habashi, Yemen",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
