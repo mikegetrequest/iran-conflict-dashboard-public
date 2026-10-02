@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-02 04:58",
+  "updated_at_gst": "2026-10-02 10:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
-        "published": "Thu, 01 Oct 2026 23:44:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss"
+        "title": "FAO official says he lost his job for criticising Israeli policies in Gaza",
+        "published": "Fri, 02 Oct 2026 04:02:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/indian-artist-takes-deleted-voter-song-to-cockroach-protest?traffic_source=rss"
       },
       {
-        "title": "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe",
-        "published": "Thu, 01 Oct 2026 21:53:16 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss"
-      },
-      {
-        "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
-        "published": "Thu, 01 Oct 2026 20:49:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss"
-      },
-      {
-        "title": "Syria denies officials held ‘secret’ talks with Hezbollah in Turkiye",
-        "published": "Thu, 01 Oct 2026 20:02:42 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/who-is-capt-smit-machchhar-the-pilot-of-the-flydubai-flight?traffic_source=rss"
+        "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
+        "published": "Fri, 02 Oct 2026 03:14:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Drone Kills Palestinian in Gaza, Settlers Kill Another in West Bank",
+        "title": "Yemen Warplanes Strike Houthi Targets in Taiz Province",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Jets Strike Yemen 47 Times in 24 Hours",
+        "title": "— S3 · Conflict · Taiz Province, Yemen · 13m ago. Military spokesperson says 20 strikes in past three hours hit Houthi movements, personnel, vehicles and equipment in Taiz province.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
