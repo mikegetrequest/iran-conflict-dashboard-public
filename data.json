@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-03 23:33",
+  "updated_at_gst": "2026-10-04 02:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
-        "published": "Sat, 03 Oct 2026 16:25:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss"
+        "title": "Israeli settlers attack Palestinian farmers during olive harvest",
+        "published": "Sat, 03 Oct 2026 21:15:05 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss"
       },
       {
-        "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
-        "published": "Sat, 03 Oct 2026 16:16:32 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss"
+        "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
+        "published": "Sat, 03 Oct 2026 17:25:28 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss"
       },
       {
-        "title": "Israel election double standard: Arab leader forced out, far right cleared",
-        "published": "Sat, 03 Oct 2026 14:06:47 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss"
+        "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+        "published": "Sat, 03 Oct 2026 16:17:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss"
+      },
+      {
+        "title": "What we know about the co-pilot accused in Flydubai attack",
+        "published": "Sat, 03 Oct 2026 15:39:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/3/bordering-on-angry-the-state-of-play-as-us-midterms-enter-final-month?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Qeshm Island, Iran · 51m ago. Renewed explosions reported from the sea near Qeshm Island, a key Iranian naval and missile site in the Strait of Hormuz, amid ongoing US-Iran hostilities.",
+        "title": "Severe Airspace Disruption Over Riyadh After Strikes on Aramco",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Drone Attack Damages Satellite Station in Dubai",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 32m ago. Multiple airspace disruptions over Riyadh in the past two hours, possibly additional strikes on Aramco facilities following this morning's attacks.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Dubai, United Arab Emirates · 2h ago. Newly released Google Earth imagery reveals a satellite ground station in Dubai was hit by a drone during the 40-day war, previously hidden by censorship.",
+        "title": "Saudi Coalition Denies Strike on Riyadh Refinery",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
