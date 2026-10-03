@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-03 16:38",
+  "updated_at_gst": "2026-10-03 20:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Red Bull’s Verstappen grabs pole position for Bahrain GP in Malaysia",
-        "published": "Sat, 03 Oct 2026 10:03:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss"
+        "title": "What we know about the co-pilot accused in Flydubai attack",
+        "published": "Sat, 03 Oct 2026 15:39:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/3/bordering-on-angry-the-state-of-play-as-us-midterms-enter-final-month?traffic_source=rss"
       },
       {
-        "title": "Who is the mystery co-pilot behind the Flydubai attack?",
-        "published": "Sat, 03 Oct 2026 09:25:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss"
+        "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
+        "published": "Sat, 03 Oct 2026 12:55:54 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/defining-consent-and-the-psychology-behind-the-cornell-7-rape-case?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "UAE Calls FlyDubai Co-Pilot Attack a Terrorist Act",
+        "title": "Airspace Disrupted Over Riyadh Amid Possible Yemen Missile Launches",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Dubai, United Arab Emirates · 20m ago. Omani co-pilot attacked captain with crash axe on Flight 1073 carrying 182 people, attempting to crash the plane; UAE labels it a terrorist attack.",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 22m ago. Flight disruptions reported over Riyadh, possibly linked to ballistic missile launches from Yemen, raising regional alert levels.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
