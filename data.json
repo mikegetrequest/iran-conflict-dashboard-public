@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-03 20:49",
+  "updated_at_gst": "2026-10-03 23:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "What we know about the co-pilot accused in Flydubai attack",
-        "published": "Sat, 03 Oct 2026 15:39:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/3/bordering-on-angry-the-state-of-play-as-us-midterms-enter-final-month?traffic_source=rss"
+        "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
+        "published": "Sat, 03 Oct 2026 16:25:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss"
       },
       {
-        "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
-        "published": "Sat, 03 Oct 2026 12:55:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/defining-consent-and-the-psychology-behind-the-cornell-7-rape-case?traffic_source=rss"
+        "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+        "published": "Sat, 03 Oct 2026 16:16:32 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss"
+      },
+      {
+        "title": "Israel election double standard: Arab leader forced out, far right cleared",
+        "published": "Sat, 03 Oct 2026 14:06:47 +0000",
+        "link": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Seven Tankers in Five Days in Strait of Hormuz",
+        "title": "— S3 · Conflict · Qeshm Island, Iran · 51m ago. Renewed explosions reported from the sea near Qeshm Island, a key Iranian naval and missile site in the Strait of Hormuz, amid ongoing US-Iran hostilities.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Airspace Disrupted Over Riyadh Amid Possible Yemen Missile Launches",
+        "title": "Drone Attack Damages Satellite Station in Dubai",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 22m ago. Flight disruptions reported over Riyadh, possibly linked to ballistic missile launches from Yemen, raising regional alert levels.",
+        "title": "— S3 · Conflict · Dubai, United Arab Emirates · 2h ago. Newly released Google Earth imagery reveals a satellite ground station in Dubai was hit by a drone during the 40-day war, previously hidden by censorship.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
