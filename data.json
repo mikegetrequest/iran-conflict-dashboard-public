@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-03 05:30",
+  "updated_at_gst": "2026-10-03 11:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "North Korea fires ballistic missile towards the sea, South Korea says",
-        "published": "Fri, 02 Oct 2026 23:55:24 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss"
+        "title": "Two Iranians charged over alleged plot targeting Jewish community in UK",
+        "published": "Sat, 03 Oct 2026 03:56:10 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/g7-nations-bow-to-us-pressure-and-avoid-crippling-diesel-ban?traffic_source=rss"
       },
       {
-        "title": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
-        "published": "Fri, 02 Oct 2026 22:50:23 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss"
-      },
-      {
-        "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
-        "published": "Fri, 02 Oct 2026 21:53:17 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/2/france-held-by-italy-in-zidanes-homecoming-after-olise-stunner?traffic_source=rss"
-      },
-      {
-        "title": "Arab party leader withdraws from Israeli elections",
-        "published": "Fri, 02 Oct 2026 19:10:23 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026?traffic_source=rss"
+        "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+        "published": "Sat, 03 Oct 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yemen · 1h ago. Yemeni army reports 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters amid escalating conflict.",
+        "title": "Houthis Strike Saudi Aramco Riyadh Refinery",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemeni Forces Strike Coalition HQ in Aden With Missiles and Drones",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 28m ago. Yemen's Houthis claim a strike on the Saudi Aramco refinery in Riyadh, with smoke reported rising from multiple locations. Impact and casualties unconfirmed.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
