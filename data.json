@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-04 05:49",
+  "updated_at_gst": "2026-10-04 11:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,23 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
-        "published": "Sun, 04 Oct 2026 00:00:29 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss"
-      },
-      {
-        "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
-        "published": "Sat, 03 Oct 2026 22:43:58 +0000",
-        "link": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss"
-      },
-      {
-        "title": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
-        "published": "Sat, 03 Oct 2026 20:10:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -48,17 +32,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen Forces Strike Houthi Stronghold in Sanaa as Conflict Deepens",
+        "title": "Israeli Attack Kills One, Injures 10 in Gaza",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen's Ansarullah Launches Missile and Drone Attacks on Saudi Arabia",
+        "title": "Israeli Drone Strike Kills One in Deir al-Balah, Gaza",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 2h ago. Explosions reported in Yanbu, Abqaiq, Abha, Jizan, and Riyadh amid ongoing ballistic missile and drone strikes by Yemen's Ansarullah (Houthi) forces.",
+        "title": "— S3 · Conflict · Deir al-Balah, Gaza Strip, Palestine · 49m ago. An Israeli targeted assassination drone strike hit a jeep in Deir al-Balah, central Gaza Strip, killing one person and injuring nine others.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
