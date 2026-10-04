@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-05 00:33",
+  "updated_at_gst": "2026-10-05 03:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
-        "published": "Sun, 04 Oct 2026 16:04:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss"
+        "title": "War on Iran: Is escalation more likely than a deal?",
+        "published": "Sun, 04 Oct 2026 18:47:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss"
+      },
+      {
+        "title": "Police investigating Flydubai co-pilot’s Australia ties",
+        "published": "Sun, 04 Oct 2026 17:53:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Passengers Subdue Hijackers Aboard Flydubai Flight",
+        "title": "Flydubai Co-Pilot Attempts to Crash Plane After Hijack Bid",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · United Arab Emirates · 3h ago. An Israeli passenger recounts how travelers regained control of a flydubai flight after an attempted hijacking, with pilots forced out of the cockpit.",
+        "title": "FZ1073 Crash Probe: Emergency Tool Used in Cockpit Attack",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Kills Hamas Commander in Khan Younis Strike",
+        "title": "Passengers Subdue Hijackers Aboard Flydubai Flight",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
