@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-04 11:30",
+  "updated_at_gst": "2026-10-04 17:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,28 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "What are the five questions being asked regarding the Flydubai attack?",
+        "published": "Sun, 04 Oct 2026 13:11:27 +0000",
+        "link": "https://www.aljazeera.com/video/deja-vu-2/2026/10/4/did-the-fall-of-al-andalus-reshape-europe-forever?traffic_source=rss"
+      },
+      {
+        "title": "Iran says Hormuz to remain closed until US meets conditions",
+        "published": "Sun, 04 Oct 2026 11:11:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss"
+      },
+      {
+        "title": "Red Bull’s Verstappen wins rain-delayed Bahrain GP F1 race in Sepang",
+        "published": "Sun, 04 Oct 2026 11:02:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss"
+      },
+      {
+        "title": "Flydubai: What happens when a plane plunges 17,000 feet?",
+        "published": "Sun, 04 Oct 2026 09:53:39 +0000",
+        "link": "https://www.aljazeera.com/features/2026/10/4/the-story-of-a-book-in-gaza-a-treasured-possession-given-new-lease-of-life?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -32,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attack Kills One, Injures 10 in Gaza",
+        "title": "Unknown Projectile Strikes Tanker in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Drone Strike Kills One in Deir al-Balah, Gaza",
+        "title": "Yemen's Ansarallah Strike Aramco Facilities in Riyadh and Al-Khurais",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Deir al-Balah, Gaza Strip, Palestine · 49m ago. An Israeli targeted assassination drone strike hit a jeep in Deir al-Balah, central Gaza Strip, killing one person and injuring nine others.",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 17m ago. Houthi forces claim ballistic missile and drone attacks on Saudi Aramco facilities in Riyadh (second in 48 hours) and Al-Khurais, amid ongoing Saudi strikes on Sanaa.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
