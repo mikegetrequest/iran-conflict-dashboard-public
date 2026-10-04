@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-04 02:29",
+  "updated_at_gst": "2026-10-04 05:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli settlers attack Palestinian farmers during olive harvest",
-        "published": "Sat, 03 Oct 2026 21:15:05 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss"
+        "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
+        "published": "Sun, 04 Oct 2026 00:00:29 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss"
       },
       {
-        "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
-        "published": "Sat, 03 Oct 2026 17:25:28 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss"
+        "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
+        "published": "Sat, 03 Oct 2026 22:43:58 +0000",
+        "link": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss"
       },
       {
-        "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
-        "published": "Sat, 03 Oct 2026 16:17:23 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss"
-      },
-      {
-        "title": "What we know about the co-pilot accused in Flydubai attack",
-        "published": "Sat, 03 Oct 2026 15:39:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/3/bordering-on-angry-the-state-of-play-as-us-midterms-enter-final-month?traffic_source=rss"
+        "title": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
+        "published": "Sat, 03 Oct 2026 20:10:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Severe Airspace Disruption Over Riyadh After Strikes on Aramco",
+        "title": "Yemen Forces Strike Houthi Stronghold in Sanaa as Conflict Deepens",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 32m ago. Multiple airspace disruptions over Riyadh in the past two hours, possibly additional strikes on Aramco facilities following this morning's attacks.",
+        "title": "Yemen's Ansarullah Launches Missile and Drone Attacks on Saudi Arabia",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Coalition Denies Strike on Riyadh Refinery",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 2h ago. Explosions reported in Yanbu, Abqaiq, Abha, Jizan, and Riyadh amid ongoing ballistic missile and drone strikes by Yemen's Ansarullah (Houthi) forces.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
