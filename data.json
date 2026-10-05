@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-05 06:40",
+  "updated_at_gst": "2026-10-05 13:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel face spitting allegation as Ireland boss ‘delighted’ after ties over",
-        "published": "Sun, 04 Oct 2026 23:52:49 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss"
+        "title": "Formula One to probe software bug behind Bahrain GP chaos in Sepang",
+        "published": "Mon, 05 Oct 2026 09:02:06 +0000",
+        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/5/if-i-didnt-write-what-moved-me-itd-be-like-putting-myself-in-prison?traffic_source=rss"
       },
       {
-        "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
-        "published": "Sun, 04 Oct 2026 22:23:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss"
-      },
-      {
-        "title": "Ireland refuse handshake with Israel and don armbands in Nations League tie",
-        "published": "Sun, 04 Oct 2026 21:30:22 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss"
-      },
-      {
-        "title": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
-        "published": "Sun, 04 Oct 2026 20:38:56 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss"
+        "title": "Spitting allegations as Ireland and Israel fight out ill-tempered draw",
+        "published": "Mon, 05 Oct 2026 02:28:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Flydubai Co-Pilot Attempts to Crash Plane After Hijack Bid",
+        "title": "Saudi Arabia Halts East-West Pipeline After Attack",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "FZ1073 Crash Probe: Emergency Tool Used in Cockpit Attack",
+        "title": "Drone Strike Hits Houthi Vehicle in Western Yemen",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Passengers Subdue Hijackers Aboard Flydubai Flight",
+        "title": "— S3 · Conflict · Western Front, Yemen · 23m ago. A drone strike targeted a Houthi militia vehicle on the western front in Yemen, part of ongoing coalition operations.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
