@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-06 23:09",
+  "updated_at_gst": "2026-10-07 03:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,13 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "What new measures is Iran taking to counter US economic pressure?",
-        "published": "Tue, 06 Oct 2026 14:42:33 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/10/6/in-gaza-we-cannot-even-begin-to-recover-from-trauma?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
