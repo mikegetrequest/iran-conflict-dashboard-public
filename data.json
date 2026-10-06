@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-06 10:36",
+  "updated_at_gst": "2026-10-06 17:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UN rights council condemns attacks on civilians in Sudan, calls for truce",
-        "published": "Tue, 06 Oct 2026 02:54:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss"
+        "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
+        "published": "Tue, 06 Oct 2026 12:42:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss"
+      },
+      {
+        "title": "Qatar and India among seven countries bidding for 2036 Olympics, IOC says",
+        "published": "Tue, 06 Oct 2026 12:19:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/frances-student-protests-grow-as-hundreds-of-schools-close?traffic_source=rss"
+      },
+      {
+        "title": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+        "published": "Tue, 06 Oct 2026 10:47:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/6/fort-hood-shooter-to-be-executed-by-firing-squad-all-to-know?traffic_source=rss"
+      },
+      {
+        "title": "UEFA to investigate spitting incident at Ireland-Israel football match",
+        "published": "Tue, 06 Oct 2026 10:15:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Drone Strike Kills One in Gaza City",
+        "title": "10 Tankers Identified in Strait of Hormuz Attacks",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Nearly Shoots Down flydubai Jet With 170 Aboard",
+        "title": "Iran Humanitarian Crisis Worsens After Conflict Escalation",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Israel · 4h ago. Reported near-miss incident where Israeli forces almost downed a civilian flydubai aircraft, raising serious aviation safety and regional tension concerns.",
+        "title": "— S3 · Humanitarian · Iran · 5m ago. OCHA reports 200,000 people need assistance in southern Iran, with 3,400+ civilians killed since February and major damage to infrastructure and livelihoods amid ongoing hostilities.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
