@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-05 22:54",
+  "updated_at_gst": "2026-10-06 04:25",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israeli forces kill one, injure several in occupied West Bank",
+        "published": "Mon, 05 Oct 2026 20:49:35 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/turkiye-pakistan-agree-to-military-deployment-to-saudi-arabia?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
+        "published": "Mon, 05 Oct 2026 20:03:06 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/freed-syrians-recount-torture-in-israeli-detention-centre?traffic_source=rss"
+      },
+      {
         "title": "UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate",
         "published": "Mon, 05 Oct 2026 18:42:36 +0000",
         "link": "https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures?traffic_source=rss"
-      },
-      {
-        "title": "What is ‘Herod’s Pool’, and why is Israel developing it in the West Bank?",
-        "published": "Mon, 05 Oct 2026 18:24:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/5/rubio-no-direct-link-between-us-bombers-removal-and-uk-base-incident?traffic_source=rss"
-      },
-      {
-        "title": "What happened between Ireland and Israel in their Nations League match?",
-        "published": "Mon, 05 Oct 2026 15:28:16 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/a-drive-through-the-west-bank?traffic_source=rss"
-      },
-      {
-        "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
-        "published": "Mon, 05 Oct 2026 14:58:02 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/5/murder-in-okinawa-the-us-militarys-history-of-alleged-crime-in-japan?traffic_source=rss"
-      },
-      {
-        "title": "US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?",
-        "published": "Mon, 05 Oct 2026 14:19:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/5/nobel-medicine-prize-honours-us-and-german-scientists-for-optogenetics-work?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Shin Bet Interrogates flydubai Hijacker in UAE",
+        "title": "Saudi Airstrikes Hit Ta'izz Junction as Ansarullah Advances",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Israel · 28m ago. A vehicle registered to Boaz Assayag, one of Netanyahu's drivers, was shot at in an attempted assassination of crime boss Domrani's son, according to police reports.",
+        "title": "— S3 · Conflict · Ta'izz, Yemen · 1h ago. Saudi airstrikes target the al-Moqadah junction southeast of Ta'izz, indicating the area has likely fallen to Ansarullah (Houthi) control amid ongoing fighting.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Hits Oil Tanker in Strait of Hormuz, Ship on Fire",
+        "title": "Tankers Hit in Omani Lane Amid Iran Payment Dispute",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
