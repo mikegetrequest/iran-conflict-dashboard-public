@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-07 20:43",
+  "updated_at_gst": "2026-10-08 01:40",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How Israel’s genocide in Gaza pulled Britons into the Palestine movement",
-        "published": "Wed, 07 Oct 2026 15:13:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/7/ex-german-spy-chief-arrested-a-history-of-spooks-working-for-enemy-powers?traffic_source=rss"
-      },
-      {
-        "title": "Saudi Arabia beat UAE 2-0 to end 22-year wait for Arabian Gulf Cup crown",
-        "published": "Wed, 07 Oct 2026 13:30:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/7/henri-kagan-kenso-soai-win-chemistry-nobel-for-mirror-image-breakthrough?traffic_source=rss"
-      },
-      {
-        "title": "Palestinian killed, 16 wounded in Israeli pogrom in occupied West Bank",
-        "published": "Wed, 07 Oct 2026 12:38:31 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/10/7/the-uk-greens-are-wrong-zionism-is-not-racism?traffic_source=rss"
+        "title": "Gaza child’s autoimmune condition triggered amid Israel’s war",
+        "published": "Wed, 07 Oct 2026 21:06:46 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/inside-spacexs-new-look-for-ai-data-centres-in-orbit?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Taiz, Yemen · 31m ago. Preliminary reports indicate AnsarAllah/Houthi advances have encircled government forces in Taiz, with airstrikes reported and the city under siege.",
+        "title": "Explosions Heard Off Bandar Abbas, Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
