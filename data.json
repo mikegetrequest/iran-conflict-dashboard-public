@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-07 13:26",
+  "updated_at_gst": "2026-10-07 20:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
-        "published": "Wed, 07 Oct 2026 06:33:54 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss"
+        "title": "How Israel’s genocide in Gaza pulled Britons into the Palestine movement",
+        "published": "Wed, 07 Oct 2026 15:13:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/7/ex-german-spy-chief-arrested-a-history-of-spooks-working-for-enemy-powers?traffic_source=rss"
       },
       {
-        "title": "At least 11 killed as Russia launches ‘massive’ attack on Ukraine",
-        "published": "Wed, 07 Oct 2026 06:19:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss"
+        "title": "Saudi Arabia beat UAE 2-0 to end 22-year wait for Arabian Gulf Cup crown",
+        "published": "Wed, 07 Oct 2026 13:30:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/7/henri-kagan-kenso-soai-win-chemistry-nobel-for-mirror-image-breakthrough?traffic_source=rss"
       },
       {
-        "title": "How three years of Israel’s genocidal war have changed Gaza",
-        "published": "Wed, 07 Oct 2026 05:41:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss"
-      },
-      {
-        "title": "Three years of Israel’s genocide in Gaza: In numbers",
-        "published": "Wed, 07 Oct 2026 05:02:04 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary?traffic_source=rss"
+        "title": "Palestinian killed, 16 wounded in Israeli pogrom in occupied West Bank",
+        "published": "Wed, 07 Oct 2026 12:38:31 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/10/7/the-uk-greens-are-wrong-zionism-is-not-racism?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Rubio Says Iran Lost Control of Strait of Hormuz",
+        "title": "Survivors Question Army Leadership After Drone Attack Kills 6 US Soldiers",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Continues Demolishing Buildings in Gaza a Year After Ceasefire",
+        "title": "— S4 · Conflict · Port Shuaiba, Kuwait · 2d ago. AP Exclusive: Survivors of a drone attack at Port Shuaiba, Kuwait, that killed six U.S. soldiers question Army leadership over safety and medical care.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Prepared to Down Hijacked Flydubai Flight With 166 Aboard",
+        "title": "— S3 · Conflict · Taiz, Yemen · 31m ago. Preliminary reports indicate AnsarAllah/Houthi advances have encircled government forces in Taiz, with airstrikes reported and the city under siege.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
