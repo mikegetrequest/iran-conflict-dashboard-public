@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-07 06:30",
+  "updated_at_gst": "2026-10-07 13:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "What’s behind Israel’s growing shift to the right?",
-        "published": "Wed, 07 Oct 2026 00:58:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss"
+        "title": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
+        "published": "Wed, 07 Oct 2026 06:33:54 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss"
+      },
+      {
+        "title": "At least 11 killed as Russia launches ‘massive’ attack on Ukraine",
+        "published": "Wed, 07 Oct 2026 06:19:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss"
+      },
+      {
+        "title": "How three years of Israel’s genocidal war have changed Gaza",
+        "published": "Wed, 07 Oct 2026 05:41:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss"
+      },
+      {
+        "title": "Three years of Israel’s genocide in Gaza: In numbers",
+        "published": "Wed, 07 Oct 2026 05:02:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi-Led Coalition Intercepts Houthi Missile North of Riyadh",
+        "title": "Rubio Says Iran Lost Control of Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 32m ago. The Saudi-led coalition reports it intercepted and destroyed a ballistic missile launched by the Houthis north of Riyadh. No damage or casualties reported.",
+        "title": "Israel Continues Demolishing Buildings in Gaza a Year After Ceasefire",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Flydubai Co-Pilot in Murder-Suicide Mission Trained in Britain",
+        "title": "Israel Prepared to Down Hijacked Flydubai Flight With 166 Aboard",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
