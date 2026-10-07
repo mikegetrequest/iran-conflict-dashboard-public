@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-07 03:07",
+  "updated_at_gst": "2026-10-07 06:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "What’s behind Israel’s growing shift to the right?",
+        "published": "Wed, 07 Oct 2026 00:58:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -32,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "10 Tankers Identified in Strait of Hormuz Attacks",
+        "title": "Saudi-Led Coalition Intercepts Houthi Missile North of Riyadh",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Iraqi Oil Tankers in Strait of Hormuz",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 32m ago. The Saudi-led coalition reports it intercepted and destroyed a ballistic missile launched by the Houthis north of Riyadh. No damage or casualties reported.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 1d ago. Iran attacked tankers carrying Iraqi oil through the Strait of Hormuz, with at least one ship set ablaze, escalating maritime conflict amid the ongoing US-Iran war.",
+        "title": "Flydubai Co-Pilot in Murder-Suicide Mission Trained in Britain",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
