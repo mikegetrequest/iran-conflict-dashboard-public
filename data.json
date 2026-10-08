@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-08 19:00",
+  "updated_at_gst": "2026-10-09 00:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "King David Hotel bombing to consulate row: A timeline of UK-Israel tension",
-        "published": "Thu, 08 Oct 2026 14:01:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/8/echoes-of-may-1968-frances-students-rise-up-again?traffic_source=rss"
+        "title": "Israeli settlers systematically target the Palestinian olive harvest",
+        "published": "Thu, 08 Oct 2026 19:49:50 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue?traffic_source=rss"
+      },
+      {
+        "title": "Colombian embassy to open in Jerusalem, Israeli FM says",
+        "published": "Thu, 08 Oct 2026 18:07:06 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/8/two-latvian-men-arrested-inside-uk-military-base-after-breach?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Missile Strike Sets Abqaiq Oil Facility Ablaze",
+        "title": "Israel Assassinates Iran Navy Chief Alireza Tangsiri",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Abqaiq, Saudi Arabia · 49m ago. The world's largest crude processing plant in Abqaiq, Saudi Arabia, is on fire after Houthi missile strikes. Extent of damage and casualties unconfirmed.",
+        "title": "Houthi Missile Strike Sets Abqaiq Oil Facility Ablaze",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Palestinians in Gaza Face Israeli Strikes Despite Ceasefire as Peace Deal Stalls",
+        "title": "— S4 · Conflict · Abqaiq, Saudi Arabia · 6h ago. The world's largest crude processing plant in Abqaiq, Saudi Arabia, is on fire after Houthi missile strikes. Extent of damage and casualties unconfirmed.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
