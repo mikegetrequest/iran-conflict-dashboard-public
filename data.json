@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-08 05:23",
+  "updated_at_gst": "2026-10-08 11:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Protesters in Colombia rally against ties with Israel",
+        "published": "Thu, 08 Oct 2026 05:09:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss"
+      },
+      {
+        "title": "Global protests mark October 7 attack with calls for Gaza ceasefire",
+        "published": "Thu, 08 Oct 2026 03:25:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/8/us-bars-fiji-based-man-over-corruption-tied-to-china?traffic_source=rss"
+      },
+      {
+        "title": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+        "published": "Thu, 08 Oct 2026 02:48:25 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss"
+      },
+      {
         "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
         "published": "Thu, 08 Oct 2026 00:33:03 +0000",
         "link": "https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss"
-      },
-      {
-        "title": "Saudi Arabia confirms three dead in Houthi strikes on its airports",
-        "published": "Thu, 08 Oct 2026 00:16:25 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
-        "published": "Wed, 07 Oct 2026 20:17:27 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/10/7/democratic-fcc-member-warns-of-ai-robocall-misinformation-risks-in-us?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Fire Reported on Tanker East of Fujairah, Possibly IRGC Strike",
+        "title": "Saudi Arabia Strikes Back After Deadly Houthi Attacks on Riyadh and Airports",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Strikes Destroy US Base Camp Buehring in Kuwait",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 5h ago. Houthi missile attacks killed 3 and wounded 36 at Abha and Riyadh's King Khalid airports; Saudi-led coalition destroyed the launch platform used in the Riyadh strike.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Camp Buehring, Kuwait · 3h ago. CBS News footage shows Iranian drones and possibly jets striking Camp Buehring early in the US-Iran war; soldiers describe the base as completely destroyed.",
+        "title": "Iran Strikes Emirati Tanker Dhalkut Off Fujairah, Causing Fire",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
