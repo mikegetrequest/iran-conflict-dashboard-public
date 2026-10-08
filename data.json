@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-08 11:36",
+  "updated_at_gst": "2026-10-08 19:00",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Protesters in Colombia rally against ties with Israel",
-        "published": "Thu, 08 Oct 2026 05:09:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss"
-      },
-      {
-        "title": "Global protests mark October 7 attack with calls for Gaza ceasefire",
-        "published": "Thu, 08 Oct 2026 03:25:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/8/us-bars-fiji-based-man-over-corruption-tied-to-china?traffic_source=rss"
-      },
-      {
-        "title": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
-        "published": "Thu, 08 Oct 2026 02:48:25 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss"
-      },
-      {
-        "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-        "published": "Thu, 08 Oct 2026 00:33:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss"
+        "title": "King David Hotel bombing to consulate row: A timeline of UK-Israel tension",
+        "published": "Thu, 08 Oct 2026 14:01:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/8/echoes-of-may-1968-frances-students-rise-up-again?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Arabia Strikes Back After Deadly Houthi Attacks on Riyadh and Airports",
+        "title": "Houthi Missile Strike Sets Abqaiq Oil Facility Ablaze",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 5h ago. Houthi missile attacks killed 3 and wounded 36 at Abha and Riyadh's King Khalid airports; Saudi-led coalition destroyed the launch platform used in the Riyadh strike.",
+        "title": "— S4 · Conflict · Abqaiq, Saudi Arabia · 49m ago. The world's largest crude processing plant in Abqaiq, Saudi Arabia, is on fire after Houthi missile strikes. Extent of damage and casualties unconfirmed.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Emirati Tanker Dhalkut Off Fujairah, Causing Fire",
+        "title": "Palestinians in Gaza Face Israeli Strikes Despite Ceasefire as Peace Deal Stalls",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
