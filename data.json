@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-08 01:40",
+  "updated_at_gst": "2026-10-08 05:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Gaza child’s autoimmune condition triggered amid Israel’s war",
-        "published": "Wed, 07 Oct 2026 21:06:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/inside-spacexs-new-look-for-ai-data-centres-in-orbit?traffic_source=rss"
+        "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+        "published": "Thu, 08 Oct 2026 00:33:03 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss"
+      },
+      {
+        "title": "Saudi Arabia confirms three dead in Houthi strikes on its airports",
+        "published": "Thu, 08 Oct 2026 00:16:25 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
+        "published": "Wed, 07 Oct 2026 20:17:27 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/10/7/democratic-fcc-member-warns-of-ai-robocall-misinformation-risks-in-us?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Survivors Question Army Leadership After Drone Attack Kills 6 US Soldiers",
+        "title": "Fire Reported on Tanker East of Fujairah, Possibly IRGC Strike",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Port Shuaiba, Kuwait · 2d ago. AP Exclusive: Survivors of a drone attack at Port Shuaiba, Kuwait, that killed six U.S. soldiers question Army leadership over safety and medical care.",
+        "title": "Iranian Strikes Destroy US Base Camp Buehring in Kuwait",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosions Heard Off Bandar Abbas, Iran",
+        "title": "— S3 · Conflict · Camp Buehring, Kuwait · 3h ago. CBS News footage shows Iranian drones and possibly jets striking Camp Buehring early in the US-Iran war; soldiers describe the base as completely destroyed.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
