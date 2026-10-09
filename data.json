@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-09 23:08",
+  "updated_at_gst": "2026-10-10 03:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
+        "published": "Fri, 09 Oct 2026 18:06:48 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -37,12 +43,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Insurgent Attacks Surge in Southeastern Iran",
+        "title": "— S3 · Conflict · Yemen · 2h ago. Coalition says it destroyed 136 military targets, providing round-the-clock air support to Yemeni government forces against Houthi ballistic missile network.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Air Defense Activity Reported Over Eastern Tehran",
+        "title": "Houthi Missile Strike Sets Aramco Facility Ablaze in Jeddah",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
