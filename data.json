@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-09 00:31",
+  "updated_at_gst": "2026-10-09 04:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli settlers systematically target the Palestinian olive harvest",
-        "published": "Thu, 08 Oct 2026 19:49:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue?traffic_source=rss"
+        "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
+        "published": "Fri, 09 Oct 2026 00:12:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss"
       },
       {
-        "title": "Colombian embassy to open in Jerusalem, Israeli FM says",
-        "published": "Thu, 08 Oct 2026 18:07:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/8/two-latvian-men-arrested-inside-uk-military-base-after-breach?traffic_source=rss"
+        "title": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
+        "published": "Fri, 09 Oct 2026 00:00:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/8/kenyan-patient-suspected-of-ebola-infection-tests-negative?traffic_source=rss"
+      },
+      {
+        "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
+        "published": "Thu, 08 Oct 2026 22:54:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Israel shuts down British consulate in occupied East Jerusalem",
+        "published": "Thu, 08 Oct 2026 20:34:00 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become?traffic_source=rss"
+      },
+      {
+        "title": "Israeli settlers take Palestinian olives, and their harvest traditions",
+        "published": "Thu, 08 Oct 2026 19:57:29 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israeli-settlers-systematically-target-the-palestinian-olive-harvest?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +68,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Abqaiq, Saudi Arabia · 6h ago. The world's largest crude processing plant in Abqaiq, Saudi Arabia, is on fire after Houthi missile strikes. Extent of damage and casualties unconfirmed.",
+        "title": "— S4 · Conflict · Abqaiq, Saudi Arabia · 11h ago. The world's largest crude processing plant in Abqaiq, Saudi Arabia, is on fire after Houthi missile strikes. Extent of damage and casualties unconfirmed.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
