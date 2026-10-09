@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-09 10:53",
+  "updated_at_gst": "2026-10-09 17:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump says US will not strike Iran before midterm elections",
-        "published": "Fri, 09 Oct 2026 06:22:07 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss"
+        "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
+        "published": "Fri, 09 Oct 2026 11:46:39 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/9/real-madrids-mourinho-lashes-out-at-ridiculous-criticism-of-mbappe?traffic_source=rss"
       },
       {
-        "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
-        "published": "Fri, 09 Oct 2026 00:39:20 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss"
+        "title": "Is Trump signalling a return to war with Iran after the midterms?",
+        "published": "Fri, 09 Oct 2026 10:40:36 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/10/9/ex-openai-staff-say-they-were-fired-for-raising-safety-concerns?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Missile Strike Sets Abqaiq Oil Facility Ablaze",
+        "title": "— S3 · Conflict · Strait of Hormuz · 4m ago. Iran's IRGC confirmed it will target tankers that use the US-backed corridor, even far from the Strait of Hormuz, after hitting the LPG tanker NV Sunshine.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Abqaiq, Saudi Arabia · 17h ago. The world's largest crude processing plant in Abqaiq, Saudi Arabia, is on fire after Houthi missile strikes. Extent of damage and casualties unconfirmed.",
+        "title": "UKMTO Reports New Incident West of Ras Al Khaimah, UAE",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
