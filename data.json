@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-09 04:45",
+  "updated_at_gst": "2026-10-09 10:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
-        "published": "Fri, 09 Oct 2026 00:12:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss"
+        "title": "Trump says US will not strike Iran before midterm elections",
+        "published": "Fri, 09 Oct 2026 06:22:07 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
-        "published": "Fri, 09 Oct 2026 00:00:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/8/kenyan-patient-suspected-of-ebola-infection-tests-negative?traffic_source=rss"
-      },
-      {
-        "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
-        "published": "Thu, 08 Oct 2026 22:54:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Israel shuts down British consulate in occupied East Jerusalem",
-        "published": "Thu, 08 Oct 2026 20:34:00 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settlers take Palestinian olives, and their harvest traditions",
-        "published": "Thu, 08 Oct 2026 19:57:29 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israeli-settlers-systematically-target-the-palestinian-olive-harvest?traffic_source=rss"
+        "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
+        "published": "Fri, 09 Oct 2026 00:39:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -68,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Abqaiq, Saudi Arabia · 11h ago. The world's largest crude processing plant in Abqaiq, Saudi Arabia, is on fire after Houthi missile strikes. Extent of damage and casualties unconfirmed.",
+        "title": "— S4 · Conflict · Abqaiq, Saudi Arabia · 17h ago. The world's largest crude processing plant in Abqaiq, Saudi Arabia, is on fire after Houthi missile strikes. Extent of damage and casualties unconfirmed.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
