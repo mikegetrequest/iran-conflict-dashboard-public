@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-10 23:00",
+  "updated_at_gst": "2026-10-11 02:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
-        "published": "Sat, 10 Oct 2026 18:26:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss"
+        "title": "Hundreds of doctors demand World Medical Association suspend Israel",
+        "published": "Sat, 10 Oct 2026 21:12:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss"
       },
       {
-        "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
-        "published": "Sat, 10 Oct 2026 14:39:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/10/mexican-judge-sentences-three-men-for-murders-of-australian-us-surfers?traffic_source=rss"
+        "title": "Damage seen inside Saudi airport after third attack this week",
+        "published": "Sat, 10 Oct 2026 20:43:19 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemeni Government Drone Strike Hits Ansar Allah South of Marib",
+        "title": "Saudi Arabia Intercepts Ballistic Missile Near Prince Sultan Air Base",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · South of Marib, Yemen · 39m ago. Geolocated video shows Yemeni government forces using an FPV one-way attack drone to drop explosives on Ansar Allah (Houthi) fighters south of Marib, Yemen.",
+        "title": "UKMTO Reports Incident West of Ras Al Khaimah, UAE",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
