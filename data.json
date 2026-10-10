@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-10 03:21",
+  "updated_at_gst": "2026-10-10 06:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
-        "published": "Fri, 09 Oct 2026 18:06:48 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss"
+        "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+        "published": "Sat, 10 Oct 2026 01:40:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,12 +43,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yemen · 2h ago. Coalition says it destroyed 136 military targets, providing round-the-clock air support to Yemeni government forces against Houthi ballistic missile network.",
+        "title": "Israeli Drone Attack Wounds Six in Lebanon Near Syria Border",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Missile Strike Sets Aramco Facility Ablaze in Jeddah",
+        "title": "— S3 · Conflict · Lebanon-Syria border area, Lebanon · 2h ago. Lebanon's health authorities report five Syrians and one Lebanese wounded in the latest Israeli drone strike near the border with Syria.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
