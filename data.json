@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-10 06:27",
+  "updated_at_gst": "2026-10-10 12:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,13 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
-        "published": "Sat, 10 Oct 2026 01:40:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -43,12 +37,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Drone Attack Wounds Six in Lebanon Near Syria Border",
+        "title": "US Strikes 136 Houthi Targets; Tanker Hit in Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Lebanon-Syria border area, Lebanon · 2h ago. Lebanon's health authorities report five Syrians and one Lebanese wounded in the latest Israeli drone strike near the border with Syria.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 4h ago. US-led coalition strikes hit 136 Houthi targets, and a tanker was struck in the Strait of Hormuz amid rising regional tensions. Trump says Russian diesel is coming.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
