@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-11 23:02",
+  "updated_at_gst": "2026-10-12 02:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
-        "published": "Sun, 11 Oct 2026 18:25:42 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss"
+        "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+        "published": "Sun, 11 Oct 2026 22:24:07 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss"
+      },
+      {
+        "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+        "published": "Sun, 11 Oct 2026 20:44:17 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/how-man-city-beat-liverpool-after-guilty-verdict?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s first electric train hopes to revive railway system",
+        "published": "Sun, 11 Oct 2026 18:00:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss"
+      },
+      {
+        "title": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
+        "published": "Sun, 11 Oct 2026 17:14:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
