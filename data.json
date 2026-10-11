@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-11 11:23",
+  "updated_at_gst": "2026-10-11 18:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How genocidal war on Gaza is shaping Israel’s election",
-        "published": "Sun, 11 Oct 2026 05:35:09 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss"
+        "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
+        "published": "Sun, 11 Oct 2026 13:41:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss"
       },
       {
-        "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
-        "published": "Sun, 11 Oct 2026 02:12:07 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss"
-      },
-      {
-        "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
-        "published": "Sun, 11 Oct 2026 01:02:07 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond",
-        "published": "Sun, 11 Oct 2026 00:00:13 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss"
+        "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
+        "published": "Sun, 11 Oct 2026 10:45:15 +0000",
+        "link": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Riyadh, Saudi Arabia · 2h ago. A Houthi strike on Riyadh's international airport killed 12 and wounded over 300, prompting Saudi vows of a decisive response.",
+        "title": "— S4 · Conflict · Riyadh, Saudi Arabia · 9h ago. A Houthi strike on Riyadh's international airport killed 12 and wounded over 300, prompting Saudi vows of a decisive response.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
