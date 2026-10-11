@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-11 05:22",
+  "updated_at_gst": "2026-10-11 11:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Hundreds of doctors demand World Medical Association suspend Israel",
-        "published": "Sat, 10 Oct 2026 21:12:04 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss"
+        "title": "How genocidal war on Gaza is shaping Israel’s election",
+        "published": "Sun, 11 Oct 2026 05:35:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss"
       },
       {
-        "title": "Damage seen inside Saudi airport after third attack this week",
-        "published": "Sat, 10 Oct 2026 20:43:19 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss"
+        "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
+        "published": "Sun, 11 Oct 2026 02:12:07 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss"
+      },
+      {
+        "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
+        "published": "Sun, 11 Oct 2026 01:02:07 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond",
+        "published": "Sun, 11 Oct 2026 00:00:13 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Missile Hits Riyadh Airport Terminal 3, Dozens Injured",
+        "title": "Saudi Arabia Vows Retaliation After Houthi Strike on Riyadh Airport",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Jet Disables Cargo Ship Trying to Break Iran Blockade",
+        "title": "— S4 · Conflict · Riyadh, Saudi Arabia · 2h ago. A Houthi strike on Riyadh's international airport killed 12 and wounded over 300, prompting Saudi vows of a decisive response.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Arabia Intercepts Ballistic Missile Near Prince Sultan Air Base",
+        "title": "Houthi Missile Strike on Riyadh Airport Kills 12, Injures 309",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
