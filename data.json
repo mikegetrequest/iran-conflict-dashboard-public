@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-12 02:59",
+  "updated_at_gst": "2026-10-12 06:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
-        "published": "Sun, 11 Oct 2026 22:24:07 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss"
+        "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+        "published": "Mon, 12 Oct 2026 00:39:08 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/10/12/hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast?traffic_source=rss"
       },
       {
-        "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
-        "published": "Sun, 11 Oct 2026 20:44:17 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/how-man-city-beat-liverpool-after-guilty-verdict?traffic_source=rss"
+        "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+        "published": "Sun, 11 Oct 2026 23:20:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss"
       },
       {
-        "title": "Lebanon’s first electric train hopes to revive railway system",
-        "published": "Sun, 11 Oct 2026 18:00:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss"
+        "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
+        "published": "Sun, 11 Oct 2026 22:49:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss"
       },
       {
-        "title": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
-        "published": "Sun, 11 Oct 2026 17:14:50 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss"
+        "title": "Two killed near Israeli-occupied area in south Lebanon",
+        "published": "Sun, 11 Oct 2026 20:46:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss"
+      },
+      {
+        "title": "Syrian families demand release of detainees held by Israel",
+        "published": "Sun, 11 Oct 2026 20:24:19 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss"
+      },
+      {
+        "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
+        "published": "Sun, 11 Oct 2026 19:59:15 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
