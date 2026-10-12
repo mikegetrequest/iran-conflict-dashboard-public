@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-12 06:06",
+  "updated_at_gst": "2026-10-12 13:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
-        "published": "Mon, 12 Oct 2026 00:39:08 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/10/12/hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast?traffic_source=rss"
+        "title": "Alvarez vs M’billi boxing bout to go ahead in Saudi Arabia despite attacks",
+        "published": "Mon, 12 Oct 2026 07:40:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians?traffic_source=rss"
       },
       {
-        "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
-        "published": "Sun, 11 Oct 2026 23:20:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss"
+        "title": "North Korea fires multiple ballistic missiles towards the sea",
+        "published": "Mon, 12 Oct 2026 03:37:12 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss"
       },
       {
-        "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
-        "published": "Sun, 11 Oct 2026 22:49:23 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss"
-      },
-      {
-        "title": "Two killed near Israeli-occupied area in south Lebanon",
-        "published": "Sun, 11 Oct 2026 20:46:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss"
-      },
-      {
-        "title": "Syrian families demand release of detainees held by Israel",
-        "published": "Sun, 11 Oct 2026 20:24:19 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss"
-      },
-      {
-        "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
-        "published": "Sun, 11 Oct 2026 19:59:15 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss"
+        "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+        "published": "Mon, 12 Oct 2026 02:11:21 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Strike Kills 13 at Riyadh Airport, Injures 309",
+        "title": "US Naval Blockade Halts 135 Ships Near Iranian Ports",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Arabia Vows Retaliation After Houthi Strike on Riyadh Airport",
+        "title": "— S4 · Conflict · Strait of Hormuz · 7h ago. The US has intensified its naval blockade, stopping 135 ships near Iranian ports as part of ongoing military pressure amid the US-Israel-Iran conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Missile Hits Riyadh Airport Terminal 4, Day After Deadly Terminal 3 Strike",
+        "title": "Houthi Strike Kills 13 at Riyadh Airport, Injures 309",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
