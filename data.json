@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-12 13:28",
+  "updated_at_gst": "2026-10-12 23:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Alvarez vs M’billi boxing bout to go ahead in Saudi Arabia despite attacks",
-        "published": "Mon, 12 Oct 2026 07:40:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians?traffic_source=rss"
+        "title": "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
+        "published": "Mon, 12 Oct 2026 18:24:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/12/egypts-press-union-chief-rejects-pressure-over-detained-journalists?traffic_source=rss"
       },
       {
-        "title": "North Korea fires multiple ballistic missiles towards the sea",
-        "published": "Mon, 12 Oct 2026 03:37:12 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss"
-      },
-      {
-        "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
-        "published": "Mon, 12 Oct 2026 02:11:21 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss"
+        "title": "Oil tanker reportedly attacked in Strait of Hormuz region",
+        "published": "Mon, 12 Oct 2026 15:19:23 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 7h ago. The US has intensified its naval blockade, stopping 135 ships near Iranian ports as part of ongoing military pressure amid the US-Israel-Iran conflict.",
+        "title": "— S4 · Conflict · Strait of Hormuz · 17h ago. The US has intensified its naval blockade, stopping 135 ships near Iranian ports as part of ongoing military pressure amid the US-Israel-Iran conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Strike Kills 13 at Riyadh Airport, Injures 309",
+        "title": "Missiles Reported Over Riyadh, Booms Heard",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
