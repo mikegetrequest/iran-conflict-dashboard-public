@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-12 23:12",
+  "updated_at_gst": "2026-10-13 05:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
-        "published": "Mon, 12 Oct 2026 18:24:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/12/egypts-press-union-chief-rejects-pressure-over-detained-journalists?traffic_source=rss"
+        "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+        "published": "Tue, 13 Oct 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss"
       },
       {
-        "title": "Oil tanker reportedly attacked in Strait of Hormuz region",
-        "published": "Mon, 12 Oct 2026 15:19:23 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss"
+        "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
+        "published": "Mon, 12 Oct 2026 21:16:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament?traffic_source=rss"
+      },
+      {
+        "title": "Israel demolitions in Negev displace 400 Palestinians",
+        "published": "Mon, 12 Oct 2026 20:50:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/12/south-africa-deputy-police-chief-resigns-amid-sex-offence-charges?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strike on tent in Gaza’s Khan Younis kills three",
+        "published": "Mon, 12 Oct 2026 20:06:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss"
+      },
+      {
+        "title": "NATO says will do ‘anything and everything’ if alliance is attacked",
+        "published": "Mon, 12 Oct 2026 19:27:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Naval Blockade Halts 135 Ships Near Iranian Ports",
+        "title": "— S3 · Conflict · Strait of Hormuz · 31m ago. Another vessel was attacked in the Strait of Hormuz, with radio orders for ships attempting transit to return, amid ongoing US-Iran conflict and naval blockade.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 17h ago. The US has intensified its naval blockade, stopping 135 ships near Iranian ports as part of ongoing military pressure amid the US-Israel-Iran conflict.",
+        "title": "Houthi Missile Targets Riyadh for Third Consecutive Day",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Missiles Reported Over Riyadh, Booms Heard",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 57m ago. Saudi Arabia intercepts a ballistic missile fired at Riyadh, with Houthis claiming the airport as the target, marking the third straight day of attacks.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
