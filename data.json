@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-13 12:04",
+  "updated_at_gst": "2026-10-13 20:09",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
-        "published": "Tue, 13 Oct 2026 07:36:38 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss"
+        "title": "Palestinians dream of returning home after Israel raids West Bank camps",
+        "published": "Tue, 13 Oct 2026 14:02:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/13/yemeni-government-launches-air-strikes-on-houthi-positions?traffic_source=rss"
       },
       {
-        "title": "Despite long history with Netanyahu, Trump hedges as Israel vote nears",
-        "published": "Tue, 13 Oct 2026 05:40:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/13/more-than-100-foreign-trekkers-stranded-by-floods-in-nepals-gorkha-region?traffic_source=rss"
+        "title": "Iran threatens Gulf data centres: How exposed is the region’s internet?",
+        "published": "Tue, 13 Oct 2026 13:03:33 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/13/rwanda-to-host-a-grand-prix-in-2030s-as-formula-one-returns-to-africa?traffic_source=rss"
       },
       {
-        "title": "Ronaldo waves Saudi-flag scarf after match interrupted by missile alert",
-        "published": "Tue, 13 Oct 2026 04:09:52 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss"
-      },
-      {
-        "title": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
-        "published": "Tue, 13 Oct 2026 03:11:19 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss"
-      },
-      {
-        "title": "Hundreds of supermarkets in France hit by ‘unprecedented’ cyberattack",
-        "published": "Tue, 13 Oct 2026 02:37:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Qatar urges stronger efforts to secure Gulf maritime routes",
-        "published": "Tue, 13 Oct 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss"
+        "title": "Deadly Houthi attacks in Yemen’s Taiz as government forces advance in Marib",
+        "published": "Tue, 13 Oct 2026 12:57:33 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/greta-thunberg-says-french-students-are-being-robbed-amid-nationwide-prot?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Third Ballistic Missile From Isfahan Base",
+        "title": "Saudi Strike Hits Houthi Oil Facility in Dhamar, Yemen",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Isfahan, Iran · 1m ago. Iran conducted its third ballistic missile launch today from the 15 Khordad base near Isfahan, with two earlier launches between 0445Z and 0450Z and one at 0759Z.",
+        "title": "— S3 · Conflict · Dhamar, Yemen · 7m ago. Verified footage shows smoke from a Houthi-controlled Yemeni Oil Company facility in Dhamar after a Saudi coalition strike.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Ballistic Missile From Isfahan Base",
+        "title": "Iran Deploys Naval Forces After Tanker Fire Near Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
