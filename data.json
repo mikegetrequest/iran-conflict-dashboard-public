@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-13 20:09",
+  "updated_at_gst": "2026-10-14 01:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Palestinians dream of returning home after Israel raids West Bank camps",
-        "published": "Tue, 13 Oct 2026 14:02:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/13/yemeni-government-launches-air-strikes-on-houthi-positions?traffic_source=rss"
-      },
-      {
-        "title": "Iran threatens Gulf data centres: How exposed is the region’s internet?",
-        "published": "Tue, 13 Oct 2026 13:03:33 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/13/rwanda-to-host-a-grand-prix-in-2030s-as-formula-one-returns-to-africa?traffic_source=rss"
-      },
-      {
-        "title": "Deadly Houthi attacks in Yemen’s Taiz as government forces advance in Marib",
-        "published": "Tue, 13 Oct 2026 12:57:33 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/greta-thunberg-says-french-students-are-being-robbed-amid-nationwide-prot?traffic_source=rss"
+        "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
+        "published": "Tue, 13 Oct 2026 18:42:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Strike Hits Houthi Oil Facility in Dhamar, Yemen",
+        "title": "Clashes Between Iranian Forces and Militants in Iranshahr",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Dhamar, Yemen · 7m ago. Verified footage shows smoke from a Houthi-controlled Yemeni Oil Company facility in Dhamar after a Saudi coalition strike.",
+        "title": "Saudi-Led Coalition Intercepts Two Houthi Ballistic Missiles",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Deploys Naval Forces After Tanker Fire Near Strait of Hormuz",
+        "title": "— S3 · Conflict · Dhahran, Saudi Arabia · 2h ago. The coalition says it shot down one missile aimed at Haradh and another heading toward Dhahran in Saudi Arabia's Eastern Province. No damage or casualties reported.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
