@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-13 05:28",
+  "updated_at_gst": "2026-10-13 12:04",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+        "title": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
+        "published": "Tue, 13 Oct 2026 07:36:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss"
+      },
+      {
+        "title": "Despite long history with Netanyahu, Trump hedges as Israel vote nears",
+        "published": "Tue, 13 Oct 2026 05:40:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/13/more-than-100-foreign-trekkers-stranded-by-floods-in-nepals-gorkha-region?traffic_source=rss"
+      },
+      {
+        "title": "Ronaldo waves Saudi-flag scarf after match interrupted by missile alert",
+        "published": "Tue, 13 Oct 2026 04:09:52 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss"
+      },
+      {
+        "title": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
+        "published": "Tue, 13 Oct 2026 03:11:19 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss"
+      },
+      {
+        "title": "Hundreds of supermarkets in France hit by ‘unprecedented’ cyberattack",
+        "published": "Tue, 13 Oct 2026 02:37:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Qatar urges stronger efforts to secure Gulf maritime routes",
         "published": "Tue, 13 Oct 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss"
-      },
-      {
-        "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
-        "published": "Mon, 12 Oct 2026 21:16:58 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament?traffic_source=rss"
-      },
-      {
-        "title": "Israel demolitions in Negev displace 400 Palestinians",
-        "published": "Mon, 12 Oct 2026 20:50:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/12/south-africa-deputy-police-chief-resigns-amid-sex-offence-charges?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strike on tent in Gaza’s Khan Younis kills three",
-        "published": "Mon, 12 Oct 2026 20:06:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss"
-      },
-      {
-        "title": "NATO says will do ‘anything and everything’ if alliance is attacked",
-        "published": "Mon, 12 Oct 2026 19:27:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +63,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 31m ago. Another vessel was attacked in the Strait of Hormuz, with radio orders for ships attempting transit to return, amid ongoing US-Iran conflict and naval blockade.",
+        "title": "Iran Launches Third Ballistic Missile From Isfahan Base",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Missile Targets Riyadh for Third Consecutive Day",
+        "title": "— S3 · Conflict · Isfahan, Iran · 1m ago. Iran conducted its third ballistic missile launch today from the 15 Khordad base near Isfahan, with two earlier launches between 0445Z and 0450Z and one at 0759Z.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 57m ago. Saudi Arabia intercepts a ballistic missile fired at Riyadh, with Houthis claiming the airport as the target, marking the third straight day of attacks.",
+        "title": "Iran Launches Ballistic Missile From Isfahan Base",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
