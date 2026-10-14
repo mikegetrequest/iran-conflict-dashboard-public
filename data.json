@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-14 23:30",
+  "updated_at_gst": "2026-10-15 02:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel’s former security chief sues Netanyahu for October 7 defamation",
-        "published": "Wed, 14 Oct 2026 18:39:03 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss"
+        "title": "Israeli quadcopter drone drops bomb in Lebanon",
+        "published": "Wed, 14 Oct 2026 20:47:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss"
       },
       {
-        "title": "Saudi tennis ‘slam’ with Alcaraz, Djokovic postponed amid Houthi attacks",
-        "published": "Wed, 14 Oct 2026 17:11:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss"
-      },
-      {
-        "title": "Settlers attack Palestinian mosque near occupied East Jerusalem",
-        "published": "Wed, 14 Oct 2026 17:05:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case?traffic_source=rss"
-      },
-      {
-        "title": "Jerusalem Daily: UN demands Israel do more to stop settler violence",
-        "published": "Wed, 14 Oct 2026 15:49:54 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/14/ronaldos-among-three-saudi-arabia-games-postponed-due-to-houthi-attacks?traffic_source=rss"
+        "title": "Russia attack hits Kyiv after reported intelligence lapse",
+        "published": "Wed, 14 Oct 2026 20:14:57 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/14/barcola-scores-hat-trick-as-liverpool-hit-lask-for-six?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ansarullah Missile Strike Hits Saudi Ghawar Oil Field",
+        "title": "Evacuation Orders Issued for Bases in Iran",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrike Kills 9 in Yemen's Al Jawf",
+        "title": "— S3 · Conflict · Iran · 33m ago. Authorities issued evacuation orders for several military bases in Iran, indicating heightened alert or potential threat. Details on the cause or scope remain limited.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
