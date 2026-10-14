@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-14 19:15",
+  "updated_at_gst": "2026-10-14 23:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
-        "published": "Wed, 14 Oct 2026 12:28:06 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/14/fulham-manager-arbeloa-fined-for-man-utd-refereeing-outburst?traffic_source=rss"
+        "title": "Israel’s former security chief sues Netanyahu for October 7 defamation",
+        "published": "Wed, 14 Oct 2026 18:39:03 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss"
       },
       {
-        "title": "Do any of these Israeli candidates support a Palestinian state?",
-        "published": "Wed, 14 Oct 2026 11:43:29 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss"
+        "title": "Saudi tennis ‘slam’ with Alcaraz, Djokovic postponed amid Houthi attacks",
+        "published": "Wed, 14 Oct 2026 17:11:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss"
       },
       {
-        "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
-        "published": "Wed, 14 Oct 2026 11:16:21 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss"
+        "title": "Settlers attack Palestinian mosque near occupied East Jerusalem",
+        "published": "Wed, 14 Oct 2026 17:05:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case?traffic_source=rss"
       },
       {
-        "title": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
-        "published": "Wed, 14 Oct 2026 10:57:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss"
+        "title": "Jerusalem Daily: UN demands Israel do more to stop settler violence",
+        "published": "Wed, 14 Oct 2026 15:49:54 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/14/ronaldos-among-three-saudi-arabia-games-postponed-due-to-houthi-attacks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Blasts Shake Strait of Hormuz Near Iran",
+        "title": "Iran Sinks Container Ship GFS Pride in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. Explosions reported in the Strait of Hormuz, a critical oil chokepoint, amid ongoing US-Iran hostilities. Details on cause or damage are not yet available.",
+        "title": "Ansarullah Missile Strike Hits Saudi Ghawar Oil Field",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Bulk Carrier Cape Dao Sinking After Strike in Gulf of Oman",
+        "title": "Saudi Airstrike Kills 9 in Yemen's Al Jawf",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
