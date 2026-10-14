@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-14 01:22",
+  "updated_at_gst": "2026-10-14 04:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
-        "published": "Tue, 13 Oct 2026 18:42:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records?traffic_source=rss"
+        "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+        "published": "Wed, 14 Oct 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss"
+      },
+      {
+        "title": "Albanian police fire tear gas at protesters as Education Ministry attacked",
+        "published": "Tue, 13 Oct 2026 22:33:50 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss"
+      },
+      {
+        "title": "Surveillance video shows moment ICE vehicle strikes man in Houston",
+        "published": "Tue, 13 Oct 2026 21:03:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss"
+      },
+      {
+        "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+        "published": "Tue, 13 Oct 2026 20:33:10 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Clashes Between Iranian Forces and Militants in Iranshahr",
+        "title": "— S3 · Conflict · Strait of Hormuz · 3m ago. Tasnim, linked to Iran's IRGC, released footage of a fire-damaged VLCC identified as ADNOC's Al Maqam, claiming it violated Iranian transit restrictions.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi-Led Coalition Intercepts Two Houthi Ballistic Missiles",
+        "title": "Houthi Attack Sparks Aramco Fire, Wounds 4 in Riyadh",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Dhahran, Saudi Arabia · 2h ago. The coalition says it shot down one missile aimed at Haradh and another heading toward Dhahran in Saudi Arabia's Eastern Province. No damage or casualties reported.",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 31m ago. Saudi Arabia says Houthi attacks caused a fire at an Aramco facility and wounded four people in Riyadh.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
