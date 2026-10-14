@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-14 04:24",
+  "updated_at_gst": "2026-10-14 09:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Israel returns 22 stolen ancient artefacts to Greece",
+        "published": "Wed, 14 Oct 2026 03:23:08 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss"
+      },
+      {
+        "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
+        "published": "Wed, 14 Oct 2026 02:45:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss"
+      },
+      {
+        "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+        "published": "Wed, 14 Oct 2026 00:45:16 +0000",
+        "link": "https://www.aljazeera.com/video/lets-focus/2026/10/14/how-podcasts-became-political-powerhouses-2?traffic_source=rss"
+      },
+      {
         "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
         "published": "Wed, 14 Oct 2026 00:00:00 +0000",
         "link": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss"
-      },
-      {
-        "title": "Albanian police fire tear gas at protesters as Education Ministry attacked",
-        "published": "Tue, 13 Oct 2026 22:33:50 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss"
-      },
-      {
-        "title": "Surveillance video shows moment ICE vehicle strikes man in Houston",
-        "published": "Tue, 13 Oct 2026 21:03:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss"
-      },
-      {
-        "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-        "published": "Tue, 13 Oct 2026 20:33:10 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 3m ago. Tasnim, linked to Iran's IRGC, released footage of a fire-damaged VLCC identified as ADNOC's Al Maqam, claiming it violated Iranian transit restrictions.",
+        "title": "Unexploded Hezbollah Bomb Kills Israeli Student on Field Trip",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attack Sparks Aramco Fire, Wounds 4 in Riyadh",
+        "title": "— S3 · Conflict · Northern Israel · 2h ago. A student was killed and 24 wounded when an unexploded Hezbollah bomb was picked up during a field trip, highlighting the lingering danger of ordnance in the north.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 31m ago. Saudi Arabia says Houthi attacks caused a fire at an Aramco facility and wounded four people in Riyadh.",
+        "title": "Israeli Attacks Kill One in Gaza, Wound Journalists in West Bank",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
