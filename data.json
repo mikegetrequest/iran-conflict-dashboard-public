@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-15 23:16",
+  "updated_at_gst": "2026-10-16 02:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli ad-tech firm helped place spyware on Al Jazeera devices",
-        "published": "Thu, 15 Oct 2026 16:32:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai?traffic_source=rss"
+        "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+        "published": "Thu, 15 Oct 2026 21:57:58 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss"
       },
       {
-        "title": "Delegates walk out as Israeli president addresses summit",
-        "published": "Thu, 15 Oct 2026 15:14:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russian-jet-powered-drone-hits-supermarket-in-ukraines-odesa?traffic_source=rss"
+        "title": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
+        "published": "Thu, 15 Oct 2026 21:05:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss"
+      },
+      {
+        "title": "Will Israeli voters punish Benjamin Netanyahu?",
+        "published": "Thu, 15 Oct 2026 19:44:27 +0000",
+        "link": "https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +53,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen Forces Claim 700 Houthis Killed in 1,250 Strikes",
+        "title": "Iran Announces Full Military Mobilization for 72 Hours",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Kirkuk, Iraq · 2h ago. A brigadier general and two other soldiers died in an IED attack linked to Islamic State near Kirkuk, a day after Iraqi F-16s struck the group's positions in the area.",
+        "title": "— S3 · Conflict · Iran · 34m ago. Iranian sources report a comprehensive military mobilization order lasting 72 hours, signaling heightened readiness amid ongoing regional tensions.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
