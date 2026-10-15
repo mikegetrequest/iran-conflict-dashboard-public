@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-15 02:45",
+  "updated_at_gst": "2026-10-15 05:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+        "published": "Thu, 15 Oct 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss"
+      },
       {
         "title": "Israeli quadcopter drone drops bomb in Lebanon",
         "published": "Wed, 14 Oct 2026 20:47:46 +0000",
@@ -48,12 +53,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Evacuation Orders Issued for Bases in Iran",
+        "title": "Yemeni Forces Strike Houthi Positions in Marib and Taiz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iran · 33m ago. Authorities issued evacuation orders for several military bases in Iran, indicating heightened alert or potential threat. Details on the cause or scope remain limited.",
+        "title": "— S3 · Conflict · Marib, Yemen · 1h ago. Yemen's military reports drone strikes on Houthi targets in Marib, with air and ground operations near Taiz.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
