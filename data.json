@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-15 19:23",
+  "updated_at_gst": "2026-10-15 23:16",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US teen held over Hindu temple attack plot: Is anti-Indian racism rising?",
-        "published": "Thu, 15 Oct 2026 14:38:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss"
+        "title": "Israeli ad-tech firm helped place spyware on Al Jazeera devices",
+        "published": "Thu, 15 Oct 2026 16:32:03 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai?traffic_source=rss"
       },
       {
-        "title": "Al Jazeera probe exposes fake viewing numbers for Israeli counter-film",
-        "published": "Thu, 15 Oct 2026 13:35:46 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss"
-      },
-      {
-        "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
-        "published": "Thu, 15 Oct 2026 11:45:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss"
+        "title": "Delegates walk out as Israeli president addresses summit",
+        "published": "Thu, 15 Oct 2026 15:14:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russian-jet-powered-drone-hits-supermarket-in-ukraines-odesa?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Sinks Container Ship GFS Pride in Strait of Hormuz",
+        "title": "Iran Vows to Force Adversaries to Accept Demands",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ansarullah Ballistic Missile Destroys Bank HQ in Dhahran, Saudi Arabia",
+        "title": "Yemen Forces Claim 700 Houthis Killed in 1,250 Strikes",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Missiles Strike Presidential Palace in Aden, Yemen",
+        "title": "— S3 · Conflict · Kirkuk, Iraq · 2h ago. A brigadier general and two other soldiers died in an IED attack linked to Islamic State near Kirkuk, a day after Iraqi F-16s struck the group's positions in the area.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
