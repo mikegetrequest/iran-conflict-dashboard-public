@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-15 14:55",
+  "updated_at_gst": "2026-10-15 19:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "From Morocco to South Africa, Israel election watched closely across Africa",
-        "published": "Thu, 15 Oct 2026 06:46:52 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss"
+        "title": "US teen held over Hindu temple attack plot: Is anti-Indian racism rising?",
+        "published": "Thu, 15 Oct 2026 14:38:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss"
+      },
+      {
+        "title": "Al Jazeera probe exposes fake viewing numbers for Israeli counter-film",
+        "published": "Thu, 15 Oct 2026 13:35:46 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss"
+      },
+      {
+        "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
+        "published": "Thu, 15 Oct 2026 11:45:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,12 +53,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Hits Gulf Infrastructure 135 Times Across 7 Countries",
+        "title": "Ansarullah Ballistic Missile Destroys Bank HQ in Dhahran, Saudi Arabia",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Blast Heard in Strait of Hormuz, Iran",
+        "title": "Houthi Missiles Strike Presidential Palace in Aden, Yemen",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
