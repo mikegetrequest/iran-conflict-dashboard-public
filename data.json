@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-16 04:51",
+  "updated_at_gst": "2026-10-16 09:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-        "published": "Thu, 15 Oct 2026 23:35:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss"
-      },
-      {
-        "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-        "published": "Thu, 15 Oct 2026 21:57:58 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss"
-      },
-      {
-        "title": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
-        "published": "Thu, 15 Oct 2026 21:05:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss"
-      },
-      {
-        "title": "Will Israeli voters punish Benjamin Netanyahu?",
-        "published": "Thu, 15 Oct 2026 19:44:27 +0000",
-        "link": "https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss"
+        "title": "Iran war live: Trump says ground troops unlikely in Iran; Saudi downs drone",
+        "published": "Fri, 16 Oct 2026 00:02:37 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,12 +43,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · North Valley, Egypt · 1h ago. Egyptian military bombed local gold miners in North Valley, killing 72-200 civilians, per Ayn network report. Strike used US-made F-16s with Egyptian 400kg unguided bombs.",
+        "title": "— S4 · Conflict · North Valley, Egypt · 6h ago. Egyptian military bombed local gold miners in North Valley, killing 72-200 civilians, per Ayn network report. Strike used US-made F-16s with Egyptian 400kg unguided bombs.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Two Syrian Pipelines Damaged in Attacks on Energy Infrastructure",
+        "title": "Ship Attack Reports Near Hormuz Hit Record High",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
