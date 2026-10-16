@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-16 13:57",
+  "updated_at_gst": "2026-10-16 18:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How Israel’s elections will affect Palestinians",
-        "published": "Fri, 16 Oct 2026 07:04:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss"
+        "title": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
+        "published": "Fri, 16 Oct 2026 14:12:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss"
       },
       {
-        "title": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
-        "published": "Fri, 16 Oct 2026 05:28:29 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade?traffic_source=rss"
+        "title": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
+        "published": "Fri, 16 Oct 2026 13:52:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss"
       },
       {
-        "title": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
-        "published": "Fri, 16 Oct 2026 02:56:21 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/residents-douse-workers-with-flaming-gasoline-during-eviction-in-peru?traffic_source=rss"
+        "title": "Israeli settlers continue pogrom amid olive harvest in occupied West Bank",
+        "published": "Fri, 16 Oct 2026 13:04:32 +0000",
+        "link": "https://www.aljazeera.com/features/longform/2026/10/16/how-un-chief-antonio-guterres-tests-the-limits-of-quiet-diplomacy?traffic_source=rss"
+      },
+      {
+        "title": "‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence",
+        "published": "Fri, 16 Oct 2026 11:54:10 +0000",
+        "link": "https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Missile Alert in Yanbu After Yemen Launches",
+        "title": "Saudi-Led Coalition Intercepts Missiles and Drones Over Saudi Arabia, Red Sea",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Israeli forces killed Al-Khalek Hala, a Hamas weapons production commander, and another operative in Gaza, citing their roles in October 7 attacks.",
+        "title": "— S3 · Conflict · Saudi Arabia · 6m ago. The Saudi-led coalition reports intercepting missiles and drones over Saudi Arabia and the Red Sea, indicating an active aerial threat in the region.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
