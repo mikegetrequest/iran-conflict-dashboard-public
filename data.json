@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-17 01:25",
+  "updated_at_gst": "2026-10-17 03:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,23 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
-        "published": "Fri, 16 Oct 2026 20:37:22 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss"
-      },
-      {
-        "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
-        "published": "Fri, 16 Oct 2026 18:21:43 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s president condemns environmental impact of war in Middle East",
-        "published": "Fri, 16 Oct 2026 16:45:03 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -53,12 +37,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "CENTCOM Chief Says Blockade Denies Iran $25B in Oil Revenue",
+        "title": "— S4 · Conflict · North Valley, Egypt · 1d ago. Egyptian military bombed local gold miners in North Valley, killing 72-200 civilians, per Ayn network report. Strike used US-made F-16s with Egyptian 400kg unguided bombs.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "PJAK Drone Attacks Hit Towns Near Shaho Mountains in Iran",
+        "title": "Houthi Missile Attack Halts Air Traffic at Dammam Airport",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
