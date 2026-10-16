@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-16 09:13",
+  "updated_at_gst": "2026-10-16 13:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Trump says ground troops unlikely in Iran; Saudi downs drone",
-        "published": "Fri, 16 Oct 2026 00:02:37 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss"
+        "title": "How Israel’s elections will affect Palestinians",
+        "published": "Fri, 16 Oct 2026 07:04:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss"
+      },
+      {
+        "title": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
+        "published": "Fri, 16 Oct 2026 05:28:29 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade?traffic_source=rss"
+      },
+      {
+        "title": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
+        "published": "Fri, 16 Oct 2026 02:56:21 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/residents-douse-workers-with-flaming-gasoline-during-eviction-in-peru?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,12 +53,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · North Valley, Egypt · 6h ago. Egyptian military bombed local gold miners in North Valley, killing 72-200 civilians, per Ayn network report. Strike used US-made F-16s with Egyptian 400kg unguided bombs.",
+        "title": "Missile Alert in Yanbu After Yemen Launches",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ship Attack Reports Near Hormuz Hit Record High",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 3h ago. Israeli forces killed Al-Khalek Hala, a Hamas weapons production commander, and another operative in Gaza, citing their roles in October 7 attacks.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
