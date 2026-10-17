@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-17 10:18",
+  "updated_at_gst": "2026-10-17 14:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,23 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
+        "published": "Sat, 17 Oct 2026 10:12:01 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/17/live-india-vs-west-indies-fifth-t20-international?traffic_source=rss"
+      },
+      {
+        "title": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
+        "published": "Sat, 17 Oct 2026 09:47:55 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss"
+      },
+      {
+        "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
+        "published": "Sat, 17 Oct 2026 05:19:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/17/three-mexicans-jailed-for-158-years-each-for-killing-australian-us-surfers?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -32,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Claim Aden Airport Attack; Iran Denies Role in Saudi Strikes",
+        "title": "IRGC Video Shows Tanker on Fire After Strike in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Aden, Yemen · 2h ago. Houthi rebels claim responsibility for an attack on Aden airport, while Iran denies involvement in separate strikes on Saudi Arabia, escalating regional tensions.",
+        "title": "— S3 · Conflict · Persian Gulf · 3h ago. UKMTO reports two tanker attacks Friday morning in the Persian Gulf, one hit by RPG from a small boat. Attacks continue amid regional tensions, with reporting gaps noted.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 4h ago. Iran's Revolutionary Guard reports an oil supertanker struck a mine in the Strait of Hormuz and caught fire, amid heightened US-Iran tensions and naval blockade.",
+        "title": "UKMTO 175-26: Tanker Attacked by RPG Northeast of Al Jubayl, Saudi Arabia",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
