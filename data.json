@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-17 18:04",
+  "updated_at_gst": "2026-10-17 21:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
-        "published": "Sat, 17 Oct 2026 12:27:49 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss"
-      },
-      {
-        "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-        "published": "Sat, 17 Oct 2026 12:10:56 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss"
-      },
-      {
-        "title": "Russian strikes kill civilians, injure dozens across Ukraine",
-        "published": "Sat, 17 Oct 2026 11:22:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss"
-      },
-      {
-        "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
-        "published": "Sat, 17 Oct 2026 10:12:01 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/17/live-india-vs-west-indies-fifth-t20-international?traffic_source=rss"
-      },
-      {
-        "title": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
-        "published": "Sat, 17 Oct 2026 09:47:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss"
+        "title": "Why are Latin American countries building closer ties with Israel?",
+        "published": "Sat, 17 Oct 2026 16:54:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "USAF Tankers Active as Missiles Fired Toward Strait of Hormuz",
+        "title": "Iran Crude Exports Drop to Zero Since July",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 18m ago. Two anti-ship missiles launched toward the Strait of Hormuz; at least five USAF refueling aircraft are supporting fighter jets in response.",
+        "title": "— S3 · Economic · Strait of Hormuz · 51m ago. Iran shipped ~2M bpd in Feb 2026, but exports fell to 0 bpd since mid-July amid US naval blockade and war, per TankerTrackers data.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Claim Aden Airport Attack; Iran Denies Saudi Strikes",
+        "title": "Israeli Air Force Kills Four Hamas Militants in Gaza",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
