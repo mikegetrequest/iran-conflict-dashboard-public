@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-17 21:21",
+  "updated_at_gst": "2026-10-17 23:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,16 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+        "published": "Sat, 17 Oct 2026 18:26:59 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss"
+      },
+      {
+        "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+        "published": "Sat, 17 Oct 2026 17:18:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss"
+      },
       {
         "title": "Why are Latin American countries building closer ties with Israel?",
         "published": "Sat, 17 Oct 2026 16:54:44 +0000",
@@ -38,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Crude Exports Drop to Zero Since July",
+        "title": "Israeli Drone Strikes Kill Six in Gaza Despite Ceasefire",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Economic · Strait of Hormuz · 51m ago. Iran shipped ~2M bpd in Feb 2026, but exports fell to 0 bpd since mid-July amid US naval blockade and war, per TankerTrackers data.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 49m ago. Attacks hit several areas across Gaza, with UNICEF reporting over 340 children killed since the ceasefire began a year ago.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Air Force Kills Four Hamas Militants in Gaza",
+        "title": "Iran Crude Exports Drop to Zero Since July",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
