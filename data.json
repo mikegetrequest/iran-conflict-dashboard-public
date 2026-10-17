@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-17 14:59",
+  "updated_at_gst": "2026-10-17 18:04",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
+        "published": "Sat, 17 Oct 2026 12:27:49 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss"
+      },
+      {
+        "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+        "published": "Sat, 17 Oct 2026 12:10:56 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss"
+      },
+      {
+        "title": "Russian strikes kill civilians, injure dozens across Ukraine",
+        "published": "Sat, 17 Oct 2026 11:22:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss"
+      },
+      {
         "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
         "published": "Sat, 17 Oct 2026 10:12:01 +0000",
         "link": "https://www.aljazeera.com/sports/liveblog/2026/10/17/live-india-vs-west-indies-fifth-t20-international?traffic_source=rss"
@@ -24,11 +39,6 @@
         "title": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
         "published": "Sat, 17 Oct 2026 09:47:55 +0000",
         "link": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss"
-      },
-      {
-        "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
-        "published": "Sat, 17 Oct 2026 05:19:19 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/17/three-mexicans-jailed-for-158-years-each-for-killing-australian-us-surfers?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Video Shows Tanker on Fire After Strike in Strait of Hormuz",
+        "title": "USAF Tankers Active as Missiles Fired Toward Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Persian Gulf · 3h ago. UKMTO reports two tanker attacks Friday morning in the Persian Gulf, one hit by RPG from a small boat. Attacks continue amid regional tensions, with reporting gaps noted.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 18m ago. Two anti-ship missiles launched toward the Strait of Hormuz; at least five USAF refueling aircraft are supporting fighter jets in response.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "UKMTO 175-26: Tanker Attacked by RPG Northeast of Al Jubayl, Saudi Arabia",
+        "title": "Houthis Claim Aden Airport Attack; Iran Denies Saudi Strikes",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
