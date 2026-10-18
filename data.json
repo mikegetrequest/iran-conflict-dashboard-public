@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-19 01:59",
+  "updated_at_gst": "2026-10-19 03:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
-        "published": "Sun, 18 Oct 2026 18:44:30 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss"
-      },
-      {
-        "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
-        "published": "Sun, 18 Oct 2026 17:52:37 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/18/madueke-scores-only-goal-as-below-par-arsenal-beat-nottingham-forest?traffic_source=rss"
-      },
-      {
-        "title": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
-        "published": "Sun, 18 Oct 2026 17:20:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss"
+        "title": "Trump endorses Netanyahu in Israeli legislative elections",
+        "published": "Sun, 18 Oct 2026 16:36:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yazd Province, Iran · 11m ago. A launch was reported from Yazd Province, Iran, per a delayed OSINT notice. Details on the missile type and target are not yet available.",
+        "title": "— S3 · Conflict · Yazd Province, Iran · 2h ago. A launch was reported from Yazd Province, Iran, per a delayed OSINT notice. Details on the missile type and target are not yet available.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
