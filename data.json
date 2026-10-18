@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-18 03:34",
+  "updated_at_gst": "2026-10-18 05:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
-        "published": "Sat, 17 Oct 2026 20:02:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss"
+        "title": "Israeli settlers attack European diplomats in the occupied West Bank",
+        "published": "Sun, 18 Oct 2026 01:02:37 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss"
       },
       {
-        "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-        "published": "Sat, 17 Oct 2026 18:26:59 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss"
+        "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+        "published": "Sat, 17 Oct 2026 23:40:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss"
       },
       {
-        "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
-        "published": "Sat, 17 Oct 2026 17:18:50 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss"
-      },
-      {
-        "title": "Why are Latin American countries building closer ties with Israel?",
-        "published": "Sat, 17 Oct 2026 16:54:44 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss"
+        "title": "Is the US Embassy in Jerusalem for Israel or America?",
+        "published": "Sat, 17 Oct 2026 18:41:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes Hit Ansarullah Positions in Ta'izz, Yemen",
+        "title": "Tankers Hit in Strait of Hormuz; Settlers Attack EU Diplomats",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 53m ago. Early warning alerts in Riyadh, Abha, and Khamis Mushait due to drone/missile threats; airspace disrupted over Jeddah and Eastern region, Riyadh airport closed.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. Fires reported on three tankers amid the ongoing US/Israel-Iran war, while masked Israeli settlers attacked European politicians in the occupied West Bank.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi-Led Coalition Intercepts 2 Houthi Missiles Bound for Saudi Arabia",
+        "title": "— S3 · Conflict · Saudi Arabia · 2h ago. Saudi Arabia reports incoming fire, likely missile or drone attacks amid regional conflict, as Egypt considers providing military assistance to its strategic ally.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
