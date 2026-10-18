@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-18 18:59",
+  "updated_at_gst": "2026-10-18 21:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
-        "published": "Sun, 18 Oct 2026 12:00:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss"
+        "title": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
+        "published": "Sun, 18 Oct 2026 17:20:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss"
+      },
+      {
+        "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+        "published": "Sun, 18 Oct 2026 15:10:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss"
+      },
+      {
+        "title": "A timeline of West Bank attacks on Palestinians and foreign officials",
+        "published": "Sun, 18 Oct 2026 14:42:01 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/france-protests-live-macron-to-address-nation-after-deadly-protests?traffic_source=rss"
+      },
+      {
+        "title": "Sudan army accused of drone strike on livestock market",
+        "published": "Sun, 18 Oct 2026 13:37:03 +0000",
+        "link": "https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss"
+      },
+      {
+        "title": "Gaza families fear food shortages as Israel halts commercial shipments",
+        "published": "Sun, 18 Oct 2026 13:16:13 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,12 +63,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Skyscraper Orders Remote Work After Houthi Attacks",
+        "title": "Israeli Attack Kills Palestinian in Southern Gaza",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attack Kills Palestinian in Southern Gaza",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 9h ago. Hospital sources report one Palestinian killed in an Israeli strike in southern Gaza, per Al Jazeera.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
