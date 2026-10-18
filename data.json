@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-18 05:48",
+  "updated_at_gst": "2026-10-18 10:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "St Petersburg under attack from Ukrainian drone swarm",
+        "published": "Sun, 18 Oct 2026 04:51:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss"
+      },
+      {
+        "title": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
+        "published": "Sun, 18 Oct 2026 03:44:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss"
+      },
+      {
         "title": "Israeli settlers attack European diplomats in the occupied West Bank",
         "published": "Sun, 18 Oct 2026 01:02:37 +0000",
         "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss"
@@ -24,11 +34,6 @@
         "title": "US ambassador urges Israel to prosecute attackers of American journalist",
         "published": "Sat, 17 Oct 2026 23:40:59 +0000",
         "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss"
-      },
-      {
-        "title": "Is the US Embassy in Jerusalem for Israel or America?",
-        "published": "Sat, 17 Oct 2026 18:41:30 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Tankers Hit in Strait of Hormuz; Settlers Attack EU Diplomats",
+        "title": "Blast Heard in Western Isfahan, Iran",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. Fires reported on three tankers amid the ongoing US/Israel-Iran war, while masked Israeli settlers attacked European politicians in the occupied West Bank.",
+        "title": "— S3 · Conflict · Isfahan, Iran · 17m ago. A single blast with shaking was reported in western Isfahan, Iran. Details on cause or damage are not yet available.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Saudi Arabia · 2h ago. Saudi Arabia reports incoming fire, likely missile or drone attacks amid regional conflict, as Egypt considers providing military assistance to its strategic ally.",
+        "title": "Israeli Forces Kill Palestinian Girl in Central Gaza",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
