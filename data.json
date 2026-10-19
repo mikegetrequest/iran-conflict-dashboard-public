@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-19 03:54",
+  "updated_at_gst": "2026-10-19 06:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump endorses Netanyahu in Israeli legislative elections",
-        "published": "Sun, 18 Oct 2026 16:36:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss"
+        "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+        "published": "Sun, 18 Oct 2026 23:59:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Missile Launch Reported From Yazd, Iran",
+        "title": "— S3 · Political · Egypt · 1h ago. President Sisi asks parliament to authorize Egyptian military deployment backing Saudi Arabia, a move that could escalate the wider Iran war and threaten global energy supplies.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Yazd Province, Iran · 2h ago. A launch was reported from Yazd Province, Iran, per a delayed OSINT notice. Details on the missile type and target are not yet available.",
+        "title": "PJAK Warns Retaliation After IRGC Strikes Near Marivan",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Blasts Heard in Konarak, Sistan and Baluchestan, Iran",
+        "title": "IRGC Strikes Near Marivan Village in Northwest Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
