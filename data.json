@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-19 19:08",
+  "updated_at_gst": "2026-10-20 00:38",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Dozens killed after Houthi strike on military camp in Shabwa",
-        "published": "Mon, 19 Oct 2026 13:26:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss"
+        "title": "Benny Gantz drops out of Israel’s election race",
+        "published": "Mon, 19 Oct 2026 18:11:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/19/mauritius-lifts-curfew-imposed-amid-wave-of-violent-protests?traffic_source=rss"
       },
       {
-        "title": "Qatar to unveil regional defence partnership",
-        "published": "Mon, 19 Oct 2026 11:51:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss"
+        "title": "Qatar to announce a new regional defence partnership",
+        "published": "Mon, 19 Oct 2026 17:27:18 +0000",
+        "link": "https://www.aljazeera.com/features/longform/2026/10/19/can-religion-help-democrats-win-in-red-states-these-faith-leaders-hope-so?traffic_source=rss"
       },
       {
-        "title": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
-        "published": "Mon, 19 Oct 2026 10:49:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss"
+        "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
+        "published": "Mon, 19 Oct 2026 17:16:22 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/19/how-hsbcs-sharia-fund-invested-millions-in-israeli-war-linked-firms?traffic_source=rss"
+      },
+      {
+        "title": "UN voices security concerns in Haiti amid attacks and election preparation",
+        "published": "Mon, 19 Oct 2026 16:40:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Attacks 15 Container Ships in Strait of Hormuz",
+        "title": "Sirens Sound in Jerusalem Amid Reported Attack",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen's Houthis Strike Saudi Troop Concentrations With Ballistic Missiles",
+        "title": "— S3 · Conflict · Jerusalem, Israel · 2m ago. Air-raid sirens reported in Jerusalem, central Israel, at 20:11 UTC. Details of the incident are unconfirmed.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Saudi Arabia · 1h ago. Ansarallah says it fired six ballistic missiles at Saudi military gatherings in As-Suqya and Ras al-Arah, killing dozens and destroying vehicles.",
+        "title": "IRGC Clashes With Baloch Separatists in Southeast Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
