@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-20 00:38",
+  "updated_at_gst": "2026-10-20 03:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Benny Gantz drops out of Israel’s election race",
-        "published": "Mon, 19 Oct 2026 18:11:01 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/19/mauritius-lifts-curfew-imposed-amid-wave-of-violent-protests?traffic_source=rss"
+        "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
+        "published": "Mon, 19 Oct 2026 23:16:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss"
       },
       {
-        "title": "Qatar to announce a new regional defence partnership",
-        "published": "Mon, 19 Oct 2026 17:27:18 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/10/19/can-religion-help-democrats-win-in-red-states-these-faith-leaders-hope-so?traffic_source=rss"
+        "title": "160 people reported killed in escalating drone attacks across Sudan",
+        "published": "Mon, 19 Oct 2026 21:38:46 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss"
       },
       {
-        "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
-        "published": "Mon, 19 Oct 2026 17:16:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/19/how-hsbcs-sharia-fund-invested-millions-in-israeli-war-linked-firms?traffic_source=rss"
-      },
-      {
-        "title": "UN voices security concerns in Haiti amid attacks and election preparation",
-        "published": "Mon, 19 Oct 2026 16:40:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss"
+        "title": "Israeli police say they arrested 10 in connection with settler attacks",
+        "published": "Mon, 19 Oct 2026 21:00:03 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Sirens Sound in Jerusalem Amid Reported Attack",
+        "title": "Jordan Airstrike Hits Drug-Smuggling Vehicle in Syria's As Suwaida",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Jerusalem, Israel · 2m ago. Air-raid sirens reported in Jerusalem, central Israel, at 20:11 UTC. Details of the incident are unconfirmed.",
+        "title": "— S3 · Conflict · As Suwaida, Syria · 3h ago. A Jordanian airstrike targeted a vehicle linked to a Druze drug-smuggling network in As Suwaida, southern Syria, an area controlled by the Druze separatist council.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Clashes With Baloch Separatists in Southeast Iran",
+        "title": "Sirens Sound in Jerusalem Amid Reported Attack",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
