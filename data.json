@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-19 11:56",
+  "updated_at_gst": "2026-10-19 19:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "The kingmakers who could determine Israel’s election",
-        "published": "Mon, 19 Oct 2026 05:58:46 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts?traffic_source=rss"
+        "title": "Dozens killed after Houthi strike on military camp in Shabwa",
+        "published": "Mon, 19 Oct 2026 13:26:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss"
       },
       {
-        "title": "US President Donald Trump endorses Netanyahu for Israeli election",
-        "published": "Mon, 19 Oct 2026 05:10:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss"
+        "title": "Qatar to unveil regional defence partnership",
+        "published": "Mon, 19 Oct 2026 11:51:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss"
       },
       {
-        "title": "Iran war live: US issues Middle East security alert; Yemen fighting flares",
-        "published": "Sun, 18 Oct 2026 23:59:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss"
+        "title": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
+        "published": "Mon, 19 Oct 2026 10:49:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Mali Forces, Russian Backers Kill Scores of Civilians in Drone Strikes",
+        "title": "Iran Attacks 15 Container Ships in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Mali · 4h ago. Human Rights Watch reports that Mali's military and Russian allies conducted indiscriminate drone strikes and abuses during an offensive, killing scores of civilians.",
+        "title": "Yemen's Houthis Strike Saudi Troop Concentrations With Ballistic Missiles",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Egypt · 7h ago. President Sisi asks parliament to authorize Egyptian military deployment backing Saudi Arabia, a move that could escalate the wider Iran war and threaten global energy supplies.",
+        "title": "— S3 · Conflict · Saudi Arabia · 1h ago. Ansarallah says it fired six ballistic missiles at Saudi military gatherings in As-Suqya and Ras al-Arah, killing dozens and destroying vehicles.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
