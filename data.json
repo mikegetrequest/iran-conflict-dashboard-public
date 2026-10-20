@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-20 03:59",
+  "updated_at_gst": "2026-10-20 07:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
+        "published": "Tue, 20 Oct 2026 01:05:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss"
+      },
+      {
+        "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
+        "published": "Tue, 20 Oct 2026 00:18:20 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss"
+      },
+      {
         "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
         "published": "Mon, 19 Oct 2026 23:16:01 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss"
-      },
-      {
-        "title": "160 people reported killed in escalating drone attacks across Sudan",
-        "published": "Mon, 19 Oct 2026 21:38:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss"
-      },
-      {
-        "title": "Israeli police say they arrested 10 in connection with settler attacks",
-        "published": "Mon, 19 Oct 2026 21:00:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Jordan Airstrike Hits Drug-Smuggling Vehicle in Syria's As Suwaida",
+        "title": "Two Blasts Heard in Strait of Hormuz Near Iran",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · As Suwaida, Syria · 3h ago. A Jordanian airstrike targeted a vehicle linked to a Druze drug-smuggling network in As Suwaida, southern Syria, an area controlled by the Druze separatist council.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 3h ago. Two explosions reported near Iranian coasts in the Strait of Hormuz, Hormozgan Province. Details on cause or damage not yet confirmed.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Sirens Sound in Jerusalem Amid Reported Attack",
+        "title": "Jordan Airstrike Hits Drug-Smuggling Vehicle in Syria's As Suwaida",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
