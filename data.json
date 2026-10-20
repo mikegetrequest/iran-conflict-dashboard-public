@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-20 22:21",
+  "updated_at_gst": "2026-10-21 01:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Is Cyprus becoming Israel’s backyard?",
-        "published": "Tue, 20 Oct 2026 16:23:12 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss"
+        "title": "Why the war on Iran could backfire on US regime-change goals",
+        "published": "Tue, 20 Oct 2026 20:23:52 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss"
       },
       {
-        "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
-        "published": "Tue, 20 Oct 2026 16:01:01 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/20/psg-vs-barcelona-live-champions-league?traffic_source=rss"
+        "title": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
+        "published": "Tue, 20 Oct 2026 19:51:09 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Riyadh, Saudi Arabia · 2h ago. Tensions escalate across the Gulf with reported attacks on Riyadh, Iranian claims of mine strikes on tankers in the Strait of Hormuz, and sharply rising oil prices.",
+        "title": "— S4 · Conflict · Riyadh, Saudi Arabia · 6h ago. Tensions escalate across the Gulf with reported attacks on Riyadh, Iranian claims of mine strikes on tankers in the Strait of Hormuz, and sharply rising oil prices.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khomeini Shahr, Isfahan Province, Iran · 15m ago. A large explosion was reported in Khomeini Shahr, Isfahan Province, Iran. Details on cause or casualties are not yet available.",
+        "title": "Iran Guards Say Three Tankers Hit Mines in Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
