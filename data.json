@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-20 07:42",
+  "updated_at_gst": "2026-10-20 12:56",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
-        "published": "Tue, 20 Oct 2026 01:05:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss"
-      },
-      {
-        "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
-        "published": "Tue, 20 Oct 2026 00:18:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss"
-      },
-      {
-        "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
-        "published": "Mon, 19 Oct 2026 23:16:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss"
+        "title": "Israel’s elections 2026 explained in maps and charts",
+        "published": "Tue, 20 Oct 2026 05:25:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Two Blasts Heard in Strait of Hormuz Near Iran",
+        "title": "All Clear in Riyadh After Houthi Attack Alert",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 3h ago. Two explosions reported near Iranian coasts in the Strait of Hormuz, Hormozgan Province. Details on cause or damage not yet confirmed.",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 38m ago. An alert in Riyadh, Saudi Arabia, due to a Houthi attack has been lifted, with the all-clear announced. No impact details are provided.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Jordan Airstrike Hits Drug-Smuggling Vehicle in Syria's As Suwaida",
+        "title": "Yemeni Army Says 129 Houthis Killed in Taiz Clashes, Airstrikes",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
