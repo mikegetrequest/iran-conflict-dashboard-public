@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-21 23:24",
+  "updated_at_gst": "2026-10-22 02:31",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Video shows Israeli settler assaulting Palestinian child",
+        "published": "Wed, 21 Oct 2026 22:03:54 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/21/man-united-captain-fernandes-slams-carricks-tactics-after-como-hammering?traffic_source=rss"
+      },
+      {
+        "title": "Tehran displays mock installation of Trump behind bars",
+        "published": "Wed, 21 Oct 2026 21:43:06 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss"
+      },
+      {
         "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
         "published": "Wed, 21 Oct 2026 18:58:29 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/farmers-blocked-from-olive-harvest-in-occ-west-bank-volunteers-detained?traffic_source=rss"
-      },
-      {
-        "title": "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
-        "published": "Wed, 21 Oct 2026 18:24:42 +0000",
-        "link": "https://www.aljazeera.com/features/2026/10/21/why-social-media-has-become-an-election-issue-in-brazils-presidential-race?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Strike on Saudi Shaybah Oilfield Kills 2",
+        "title": "Drone Strike Hits Dammam Airport in Saudi Arabia, Killing 1",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosions Reported in Korpān, Sirik, Iran",
+        "title": "Missile Strike Hits Riyadh Airport Terminal 4",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Korpān, Sirik, Hormozgan, Iran · 58m ago. Multiple explosions heard in Korpān, Sirik, Hormozgan Province, per Iranian state media Fars and IRGC-affiliated Tasnim. Cause and impact unconfirmed.",
+        "title": "Drone Strike Hits Second IRGC Missile Launcher Near Sirik, Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
