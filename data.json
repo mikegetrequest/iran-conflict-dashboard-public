@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-21 09:03",
+  "updated_at_gst": "2026-10-21 14:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
-        "published": "Wed, 21 Oct 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss"
+        "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
+        "published": "Wed, 21 Oct 2026 09:02:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss"
       },
       {
-        "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
-        "published": "Tue, 20 Oct 2026 23:19:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss"
+        "title": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
+        "published": "Wed, 21 Oct 2026 08:25:45 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/21/bayern-munich-arsenal-champions-league-predictions-saka-kane-olise?traffic_source=rss"
+      },
+      {
+        "title": "Israeli soldiers mock Lebanese home they rigged with explosives",
+        "published": "Wed, 21 Oct 2026 08:05:28 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/10/21/europe-is-in-trouble-and-it-is-blaming-muslims?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +53,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Riyadh, Saudi Arabia · 13h ago. Tensions escalate across the Gulf with reported attacks on Riyadh, Iranian claims of mine strikes on tankers in the Strait of Hormuz, and sharply rising oil prices.",
+        "title": "— S4 · Conflict · Riyadh, Saudi Arabia · 18h ago. Tensions escalate across the Gulf with reported attacks on Riyadh, Iranian claims of mine strikes on tankers in the Strait of Hormuz, and sharply rising oil prices.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Strike Kills 2 Teenage Girls in Taiz",
+        "title": "Israeli Strike Hits Near Al-Qarara in Southern Gaza",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
