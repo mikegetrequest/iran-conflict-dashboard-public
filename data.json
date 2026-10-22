@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-22 05:02",
+  "updated_at_gst": "2026-10-22 10:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
-        "published": "Thu, 22 Oct 2026 00:25:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
-        "published": "Thu, 22 Oct 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss"
+        "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+        "published": "Thu, 22 Oct 2026 01:45:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Fighters Probe Iranian Airspace From Iraq",
+        "title": "IRGC Claims Strikes on 7 Oil Vessels in Persian Gulf",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iraq · 1h ago. Heavy US fighter presence across southern and eastern Iraq, with aircraft probing Iranian airspace amid ongoing US-Iran hostilities.",
+        "title": "US Fighters Probe Iranian Airspace From Iraq",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Drone Strike Hits Dammam Airport in Saudi Arabia, Killing 1",
+        "title": "— S3 · Conflict · Iraq · 7h ago. Heavy US fighter presence across southern and eastern Iraq, with aircraft probing Iranian airspace amid ongoing US-Iran hostilities.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
