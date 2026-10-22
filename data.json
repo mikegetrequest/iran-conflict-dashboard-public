@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-22 10:12",
+  "updated_at_gst": "2026-10-22 16:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-        "published": "Thu, 22 Oct 2026 01:45:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss"
+        "title": "Can Russia broker a new US-Iran deal?",
+        "published": "Thu, 22 Oct 2026 08:00:48 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Claims Strikes on 7 Oil Vessels in Persian Gulf",
+        "title": "Drones or Missiles Reported Over Saudi Eastern Region",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Fighters Probe Iranian Airspace From Iraq",
+        "title": "Israeli Attack Kills Two Palestinians Near Gaza City",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Iraq · 7h ago. Heavy US fighter presence across southern and eastern Iraq, with aircraft probing Iranian airspace amid ongoing US-Iran hostilities.",
+        "title": "— S3 · Conflict · Gaza City, Palestine · 38m ago. Two Palestinians were killed in an Israeli attack on a vehicle southwest of Gaza City, per Al Jazeera. The incident adds to ongoing violence in the Gaza Strip.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
