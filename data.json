@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-22 16:08",
+  "updated_at_gst": "2026-10-22 21:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Can Russia broker a new US-Iran deal?",
-        "published": "Thu, 22 Oct 2026 08:00:48 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss"
+        "title": "Israeli attacks in Gaza kill four, including a young girl",
+        "published": "Thu, 22 Oct 2026 16:06:55 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
+        "published": "Thu, 22 Oct 2026 14:55:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss"
+      },
+      {
+        "title": "Ilhan Omar home raid, Haines attack: Inside rise in violence on officials",
+        "published": "Thu, 22 Oct 2026 14:34:46 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/22/fifas-infantino-made-to-wait-on-asian-support-as-chief-coy-at-afc-session?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Drones or Missiles Reported Over Saudi Eastern Region",
+        "title": "Yemeni Army Strikes Houthi Missile Launchers in Taiz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attack Kills Two Palestinians Near Gaza City",
+        "title": "— S3 · Conflict · Taiz, Yemen · 4h ago. Yemeni army airstrikes targeted Houthi missile launchers, weapons depots, radars and military communications systems in Taiz, according to state television.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza City, Palestine · 38m ago. Two Palestinians were killed in an Israeli attack on a vehicle southwest of Gaza City, per Al Jazeera. The incident adds to ongoing violence in the Gaza Strip.",
+        "title": "Ansarallah FPV Drones Strike Saudi-Backed Forces in Ma'rib",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
