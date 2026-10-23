@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-24 00:42",
+  "updated_at_gst": "2026-10-24 03:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
-        "published": "Fri, 23 Oct 2026 16:37:59 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss"
+        "title": "Why is Israel increasing its presence in the Balkans?",
+        "published": "Fri, 23 Oct 2026 22:01:52 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss"
+      },
+      {
+        "title": "‘Generation Right’: Israeli youth show strong support for the right",
+        "published": "Fri, 23 Oct 2026 20:52:32 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss"
+      },
+      {
+        "title": "Israel locks down occupied West Bank after Hebron shooting",
+        "published": "Fri, 23 Oct 2026 18:38:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,12 +53,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 6h ago. Iranian armed forces launch dozens of ballistic missiles as they prepare for what is described as all-out war. The missiles' targets and any impacts are not yet specified.",
+        "title": "— S4 · Conflict · Iran · 9h ago. Iranian armed forces launch dozens of ballistic missiles as they prepare for what is described as all-out war. The missiles' targets and any impacts are not yet specified.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Forces Intercept Houthi Drones, Missile",
+        "title": "Israeli Forces Raid West Bank Cities Including Hebron, Nablus",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
