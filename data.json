@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-23 21:32",
+  "updated_at_gst": "2026-10-24 00:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
-        "published": "Fri, 23 Oct 2026 16:29:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss"
-      },
-      {
-        "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
-        "published": "Fri, 23 Oct 2026 15:51:29 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/23/carrick-accepts-blame-for-man-united-slump-confident-he-can-turn-things?traffic_source=rss"
+        "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
+        "published": "Fri, 23 Oct 2026 16:37:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 3h ago. Iranian armed forces launch dozens of ballistic missiles as they prepare for what is described as all-out war. The missiles' targets and any impacts are not yet specified.",
+        "title": "— S4 · Conflict · Iran · 6h ago. Iranian armed forces launch dozens of ballistic missiles as they prepare for what is described as all-out war. The missiles' targets and any impacts are not yet specified.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
