@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-23 06:15",
+  "updated_at_gst": "2026-10-23 11:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Israeli military kills 2 in Hebron gun battle as tension soars in West Bank",
+        "published": "Fri, 23 Oct 2026 04:09:28 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -32,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Arabia Intercepts Houthi Ballistic Missile Over Riyadh",
+        "title": "October Sets Record for Strait of Hormuz Ship Attacks",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 1h ago. Saudi Arabia intercepted a Houthi ballistic missile over Riyadh.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. October has recorded the highest number of ship attacks since the Iran-US war began in late February, per USNI News.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Forces Intercept 9 Houthi Attacks in 24 Hours",
+        "title": "Two Palestinians Attack IDF Checkpoint in Hebron",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
