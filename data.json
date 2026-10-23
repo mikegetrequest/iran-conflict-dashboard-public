@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-23 16:54",
+  "updated_at_gst": "2026-10-23 21:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US-Iran war, then and now: How the landscape has changed since February",
-        "published": "Fri, 23 Oct 2026 11:43:53 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss"
+        "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
+        "published": "Fri, 23 Oct 2026 16:29:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss"
       },
       {
-        "title": "What role does the military play in Israeli schools?",
-        "published": "Fri, 23 Oct 2026 09:32:33 +0000",
-        "link": "https://www.aljazeera.com/features/longform/2026/10/23/pulaku-the-two-faces-of-nigerias-vigilantes?traffic_source=rss"
-      },
-      {
-        "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
-        "published": "Fri, 23 Oct 2026 09:03:39 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results?traffic_source=rss"
+        "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
+        "published": "Fri, 23 Oct 2026 15:51:29 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/23/carrick-accepts-blame-for-man-united-slump-confident-he-can-turn-things?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes Hit Multiple Yemeni Cities",
+        "title": "Iran Launches Dozens of Ballistic Missiles",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Sana'a, Yemen · 4m ago. Saudi Arabia conducted airstrikes on Sana'a, Ta'izz, Mocha, and Sa'dah in Ansarullah-controlled Yemen within the past few hours, escalating regional conflict.",
+        "title": "— S4 · Conflict · Iran · 3h ago. Iranian armed forces launch dozens of ballistic missiles as they prepare for what is described as all-out war. The missiles' targets and any impacts are not yet specified.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Reported: Saudi Forces Intercept Ballistic Missile Near Khamis Mushait",
+        "title": "Saudi Forces Intercept Houthi Drones, Missile",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
