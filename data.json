@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-23 11:44",
+  "updated_at_gst": "2026-10-23 16:54",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli military kills 2 in Hebron gun battle as tension soars in West Bank",
-        "published": "Fri, 23 Oct 2026 04:09:28 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss"
+        "title": "US-Iran war, then and now: How the landscape has changed since February",
+        "published": "Fri, 23 Oct 2026 11:43:53 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss"
+      },
+      {
+        "title": "What role does the military play in Israeli schools?",
+        "published": "Fri, 23 Oct 2026 09:32:33 +0000",
+        "link": "https://www.aljazeera.com/features/longform/2026/10/23/pulaku-the-two-faces-of-nigerias-vigilantes?traffic_source=rss"
+      },
+      {
+        "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+        "published": "Fri, 23 Oct 2026 09:03:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "October Sets Record for Strait of Hormuz Ship Attacks",
+        "title": "Saudi Airstrikes Hit Multiple Yemeni Cities",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. October has recorded the highest number of ship attacks since the Iran-US war began in late February, per USNI News.",
+        "title": "— S3 · Conflict · Sana'a, Yemen · 4m ago. Saudi Arabia conducted airstrikes on Sana'a, Ta'izz, Mocha, and Sa'dah in Ansarullah-controlled Yemen within the past few hours, escalating regional conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Two Palestinians Attack IDF Checkpoint in Hebron",
+        "title": "Reported: Saudi Forces Intercept Ballistic Missile Near Khamis Mushait",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
