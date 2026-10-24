@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-24 16:07",
+  "updated_at_gst": "2026-10-24 20:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
-        "published": "Sat, 24 Oct 2026 10:47:07 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss"
+        "title": "Jordan’s King Abdullah orders firm response after deadly church attack",
+        "published": "Sat, 24 Oct 2026 13:02:51 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss"
       },
       {
-        "title": "Why is Israel launching a new military operation in the occupied West Bank?",
-        "published": "Sat, 24 Oct 2026 09:14:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss"
+        "title": "Is Iran planning attacks on Americans; why is the US on alert?",
+        "published": "Sat, 24 Oct 2026 12:51:21 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Launches Dozens of Ballistic Missiles",
+        "title": "Houthi Missile Fire Hits Aden Airport",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 22h ago. Iranian armed forces launch dozens of ballistic missiles as they prepare for what is described as all-out war. The missiles' targets and any impacts are not yet specified.",
+        "title": "— S3 · Conflict · Aden, Yemen · 31m ago. Aden Airport was struck by Houthi ballistic missiles today; no casualties or serious damage, operations continue per Hadath.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attacks Kill 2 Children in Yemen's Taiz",
+        "title": "Israeli Gunfire Kills Palestinian Woman in Gaza's Khan Younis",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
