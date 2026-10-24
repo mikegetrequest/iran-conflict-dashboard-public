@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-25 01:16",
+  "updated_at_gst": "2026-10-25 03:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Why Israeli tourists and investors are unsettling Cypriots",
-        "published": "Sat, 24 Oct 2026 14:56:47 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss"
+        "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+        "published": "Sat, 24 Oct 2026 21:08:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss"
       },
       {
-        "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-        "published": "Sat, 24 Oct 2026 14:23:40 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss"
+        "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+        "published": "Sat, 24 Oct 2026 20:37:02 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss"
+      },
+      {
+        "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+        "published": "Sat, 24 Oct 2026 19:11:48 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Attack Targets in Saudi Arabia and Yemen's Aden",
+        "title": "Iranian Drones Strike Kurdish Bases in Erbil, Iraq",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Aden, Yemen · 3m ago. Houthi missiles reportedly struck targets in Yemen, including Aden's airport and a coastguard base, amid ongoing regional conflict.",
+        "title": "— S3 · Conflict · Erbil, Iraq · 3h ago. Reported impact of Iranian drones on Kurdish bases in Erbil, Iraq; details on casualties or targets unconfirmed.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Drones Strike Kurdish Bases in Erbil, Iraq",
+        "title": "Netanyahu Receives Hamas October 7-Style Attack Warning",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
