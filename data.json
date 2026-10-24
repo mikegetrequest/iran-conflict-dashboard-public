@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-24 20:06",
+  "updated_at_gst": "2026-10-24 22:52",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Jordan’s King Abdullah orders firm response after deadly church attack",
-        "published": "Sat, 24 Oct 2026 13:02:51 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss"
-      },
-      {
-        "title": "Is Iran planning attacks on Americans; why is the US on alert?",
-        "published": "Sat, 24 Oct 2026 12:51:21 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss"
+        "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
+        "published": "Sat, 24 Oct 2026 15:50:49 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Missile Fire Hits Aden Airport",
+        "title": "Iraqi Officials Suspect Israeli Strikes Hit Militia Weapons Depots",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Aden, Yemen · 31m ago. Aden Airport was struck by Houthi ballistic missiles today; no casualties or serious damage, operations continue per Hadath.",
+        "title": "Netanyahu Receives Hamas October 7-Style Attack Warning",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Gunfire Kills Palestinian Woman in Gaza's Khan Younis",
+        "title": "Houthi Missile Debris Falls in Saudi Cities",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
