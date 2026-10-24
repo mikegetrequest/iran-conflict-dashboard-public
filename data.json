@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-24 11:26",
+  "updated_at_gst": "2026-10-24 16:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Has Vivek Ramaswamy’s attack ad against Amy Acton backfired?",
-        "published": "Sat, 24 Oct 2026 06:21:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss"
+        "title": "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
+        "published": "Sat, 24 Oct 2026 10:47:07 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss"
       },
       {
-        "title": "Massive oil slick seen weeks after tanker struck off UAE’s coast",
-        "published": "Sat, 24 Oct 2026 04:48:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss"
+        "title": "Why is Israel launching a new military operation in the occupied West Bank?",
+        "published": "Sat, 24 Oct 2026 09:14:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Iran · 17h ago. Iranian armed forces launch dozens of ballistic missiles as they prepare for what is described as all-out war. The missiles' targets and any impacts are not yet specified.",
+        "title": "— S4 · Conflict · Iran · 22h ago. Iranian armed forces launch dozens of ballistic missiles as they prepare for what is described as all-out war. The missiles' targets and any impacts are not yet specified.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Air Strike Kills Palestinian West of Gaza City",
+        "title": "Houthi Attacks Kill 2 Children in Yemen's Taiz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
