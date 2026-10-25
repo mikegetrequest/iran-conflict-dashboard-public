@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-26 01:02",
+  "updated_at_gst": "2026-10-26 03:22",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-        "published": "Sun, 25 Oct 2026 17:12:59 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss"
+        "title": "Israeli air strike on Gaza City university kills three people",
+        "published": "Sun, 25 Oct 2026 18:12:13 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss"
       },
       {
-        "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
-        "published": "Sun, 25 Oct 2026 16:30:51 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
-      },
-      {
-        "title": "Jordanians mourn victims of deadly church attack",
-        "published": "Sun, 25 Oct 2026 16:16:48 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss"
+        "title": "US and Israel elections: New leaders, same policies?",
+        "published": "Sun, 25 Oct 2026 17:53:23 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Tanker Attack Near Oman Disrupts Shipping in Strait of Hormuz",
+        "title": "— S3 · Conflict · Strait of Hormuz, Iran · 2h ago. Unconfirmed reports of explosions in the Strait of Hormuz, Iran; details on cause or impact not yet available.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. Nearly 500 vessels face delays in the Strait of Hormuz after a tanker attack near Oman, raising regional maritime security concerns.",
+        "title": "Tanker Attack Near Oman Disrupts Shipping in Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen's Ansarallah Claims 3 Ballistic Missile Operations Against Saudi Targets",
+        "title": "— S3 · Conflict · Strait of Hormuz · 4h ago. Nearly 500 vessels face delays in the Strait of Hormuz after a tanker attack near Oman, raising regional maritime security concerns.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
