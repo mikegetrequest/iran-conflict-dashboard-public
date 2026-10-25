@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-25 15:49",
+  "updated_at_gst": "2026-10-25 19:08",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
+        "published": "Sun, 25 Oct 2026 14:46:38 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss"
+      },
+      {
+        "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
+        "published": "Sun, 25 Oct 2026 12:17:39 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss"
+      },
+      {
         "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
         "published": "Sun, 25 Oct 2026 11:39:41 +0000",
         "link": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss"
-      },
-      {
-        "title": "Qatar official calls for peace and security to boost trade, investment",
-        "published": "Sun, 25 Oct 2026 09:57:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss"
-      },
-      {
-        "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
-        "published": "Sun, 25 Oct 2026 08:44:17 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss"
-      },
-      {
-        "title": "Israel to close occupied West Bank crossings as it locks down Hebron",
-        "published": "Sun, 25 Oct 2026 07:20:36 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Arabia Intercepts Missiles, Drones After Houthi Attack",
+        "title": "Israeli Strike on Gaza University Kills 3",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Reported: Saudi Arabia Intercepts 10 Ballistic Missiles From Yemen",
+        "title": "IRGC Claims Strike on Vessel in Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ansarallah Strikes King Khalid Airbase With Cruise Missiles",
+        "title": "— S3 · Conflict · Strait of Hormuz · 1h ago. Following reports of an anti-ship missile launch from Sirik, Iran, the IRGC claims an &quot;offending&quot; vessel was struck in the Strait of Hormuz.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
