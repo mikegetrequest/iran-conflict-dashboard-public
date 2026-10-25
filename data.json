@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-25 19:08",
+  "updated_at_gst": "2026-10-25 22:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "US and Israel elections: New leaders, same policies?",
+        "published": "Sun, 25 Oct 2026 17:53:23 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss"
+      },
+      {
+        "title": "Israeli soldiers beat elderly Palestinian in Hebron",
+        "published": "Sun, 25 Oct 2026 16:11:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss"
+      },
+      {
         "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
         "published": "Sun, 25 Oct 2026 14:46:38 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss"
-      },
-      {
-        "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
-        "published": "Sun, 25 Oct 2026 12:17:39 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss"
-      },
-      {
-        "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
-        "published": "Sun, 25 Oct 2026 11:39:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Strike on Gaza University Kills 3",
+        "title": "Yemen's Ansarallah Claims 3 Ballistic Missile Operations Against Saudi Targets",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Claims Strike on Vessel in Strait of Hormuz",
+        "title": "Israel Expels Thousands From Hebron",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 1h ago. Following reports of an anti-ship missile launch from Sirik, Iran, the IRGC claims an &quot;offending&quot; vessel was struck in the Strait of Hormuz.",
+        "title": "— S3 · Political · Hebron, Palestine · 1h ago. Israeli authorities reportedly expelled thousands of Palestinians from Hebron, a major displacement action in the occupied West Bank.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
