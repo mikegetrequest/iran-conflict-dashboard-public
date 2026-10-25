@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-25 22:28",
+  "updated_at_gst": "2026-10-26 01:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US and Israel elections: New leaders, same policies?",
-        "published": "Sun, 25 Oct 2026 17:53:23 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss"
+        "title": "Jerusalem Daily: Israel expels thousands from Hebron",
+        "published": "Sun, 25 Oct 2026 17:12:59 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss"
       },
       {
-        "title": "Israeli soldiers beat elderly Palestinian in Hebron",
-        "published": "Sun, 25 Oct 2026 16:11:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss"
+        "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
+        "published": "Sun, 25 Oct 2026 16:30:51 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
       },
       {
-        "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
-        "published": "Sun, 25 Oct 2026 14:46:38 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss"
+        "title": "Jordanians mourn victims of deadly church attack",
+        "published": "Sun, 25 Oct 2026 16:16:48 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen's Ansarallah Claims 3 Ballistic Missile Operations Against Saudi Targets",
+        "title": "Tanker Attack Near Oman Disrupts Shipping in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Expels Thousands From Hebron",
+        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. Nearly 500 vessels face delays in the Strait of Hormuz after a tanker attack near Oman, raising regional maritime security concerns.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Political · Hebron, Palestine · 1h ago. Israeli authorities reportedly expelled thousands of Palestinians from Hebron, a major displacement action in the occupied West Bank.",
+        "title": "Yemen's Ansarallah Claims 3 Ballistic Missile Operations Against Saudi Targets",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
