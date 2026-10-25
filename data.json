@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-25 10:20",
+  "updated_at_gst": "2026-10-25 15:49",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
-        "published": "Sun, 25 Oct 2026 05:27:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
+        "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
+        "published": "Sun, 25 Oct 2026 11:39:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
-        "published": "Sun, 25 Oct 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss"
+        "title": "Qatar official calls for peace and security to boost trade, investment",
+        "published": "Sun, 25 Oct 2026 09:57:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss"
       },
       {
-        "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-        "published": "Sat, 24 Oct 2026 21:30:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
+        "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+        "published": "Sun, 25 Oct 2026 08:44:17 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss"
+      },
+      {
+        "title": "Israel to close occupied West Bank crossings as it locks down Hebron",
+        "published": "Sun, 25 Oct 2026 07:20:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran's IRGC Strikes Komela Headquarters in Northern Iraq",
+        "title": "Saudi Arabia Intercepts Missiles, Drones After Houthi Attack",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Drones Strike Kurdish Bases in Erbil, Iraq",
+        "title": "Reported: Saudi Arabia Intercepts 10 Ballistic Missiles From Yemen",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Erbil, Iraq · 10h ago. Reported impact of Iranian drones on Kurdish bases in Erbil, Iraq; details on casualties or targets unconfirmed.",
+        "title": "Ansarallah Strikes King Khalid Airbase With Cruise Missiles",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
