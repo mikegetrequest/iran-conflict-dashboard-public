@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-25 05:21",
+  "updated_at_gst": "2026-10-25 10:20",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -15,6 +15,11 @@
   "live_api_events": [],
   "headlines": {
     "aljazeera": [
+      {
+        "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
+        "published": "Sun, 25 Oct 2026 05:27:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
+      },
       {
         "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
         "published": "Sun, 25 Oct 2026 00:00:00 +0000",
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Drones Strike Kurdish Bases in Erbil, Iraq",
+        "title": "Iran's IRGC Strikes Komela Headquarters in Northern Iraq",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Erbil, Iraq · 5h ago. Reported impact of Iranian drones on Kurdish bases in Erbil, Iraq; details on casualties or targets unconfirmed.",
+        "title": "Iranian Drones Strike Kurdish Bases in Erbil, Iraq",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Netanyahu Receives Hamas October 7-Style Attack Warning",
+        "title": "— S3 · Conflict · Erbil, Iraq · 10h ago. Reported impact of Iranian drones on Kurdish bases in Erbil, Iraq; details on casualties or targets unconfirmed.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
