@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-25 03:26",
+  "updated_at_gst": "2026-10-25 05:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-        "published": "Sat, 24 Oct 2026 21:08:51 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss"
+        "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+        "published": "Sun, 25 Oct 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss"
       },
       {
-        "title": "Could Israel’s military crackdown influence Tuesday’s election?",
-        "published": "Sat, 24 Oct 2026 20:37:02 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss"
-      },
-      {
-        "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
-        "published": "Sat, 24 Oct 2026 19:11:48 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss"
+        "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+        "published": "Sat, 24 Oct 2026 21:30:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Erbil, Iraq · 3h ago. Reported impact of Iranian drones on Kurdish bases in Erbil, Iraq; details on casualties or targets unconfirmed.",
+        "title": "— S3 · Conflict · Erbil, Iraq · 5h ago. Reported impact of Iranian drones on Kurdish bases in Erbil, Iraq; details on casualties or targets unconfirmed.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
