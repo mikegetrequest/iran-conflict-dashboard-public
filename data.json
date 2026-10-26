@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-26 05:23",
+  "updated_at_gst": "2026-10-26 10:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
-        "published": "Mon, 26 Oct 2026 01:02:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss"
+        "title": "Israel’s election: Five key things to know",
+        "published": "Mon, 26 Oct 2026 05:16:38 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
-        "published": "Mon, 26 Oct 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss"
+        "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+        "published": "Mon, 26 Oct 2026 04:21:26 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Coalition Intercepts Houthi Missile Over Riyadh",
+        "title": "Houthis Claim Missile Strikes on Saudi Forces in Yemen",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 9m ago. Saudi-led coalition reports intercepting and destroying a Houthi ballistic missile fired at Riyadh.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 15m ago. Three Palestinians killed and more than 10 wounded in Israeli strikes on Gaza, per Al Jazeera live updates.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 34m ago. An active warning alert was issued for Riyadh, Saudi Arabia, citing a Houthi attack. No impact details yet.",
+        "title": "Saudi-Led Coalition Claims Strikes on Houthi Tunnels in Yemen",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
