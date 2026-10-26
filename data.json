@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-26 10:30",
+  "updated_at_gst": "2026-10-26 17:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel’s election: Five key things to know",
-        "published": "Mon, 26 Oct 2026 05:16:38 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss"
+        "title": "Israel expands expulsions in occupied West Bank to cement control",
+        "published": "Mon, 26 Oct 2026 13:11:08 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss"
       },
       {
-        "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
-        "published": "Mon, 26 Oct 2026 04:21:26 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss"
+        "title": "Intercepted Houthi missiles cause damage in Saudi Arabian city",
+        "published": "Mon, 26 Oct 2026 12:54:05 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways?traffic_source=rss"
+      },
+      {
+        "title": "Jordan arrests three suspects over church attack in dawn raid: What to know",
+        "published": "Mon, 26 Oct 2026 11:08:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss"
+      },
+      {
+        "title": "Saudi-led coalition says it struck Houthi missile facilities",
+        "published": "Mon, 26 Oct 2026 10:41:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss"
+      },
+      {
+        "title": "Saudi Arabia confirms January start for Asian Cup 2027 despite attacks",
+        "published": "Mon, 26 Oct 2026 09:52:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Claim Missile Strikes on Saudi Forces in Yemen",
+        "title": "Houthi Missile Attack on Yemen Training Ground Kills 75",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 15m ago. Three Palestinians killed and more than 10 wounded in Israeli strikes on Gaza, per Al Jazeera live updates.",
+        "title": "Houthi Missiles Intercepted Over Khamis Mushait, Debris Causes Damage",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi-Led Coalition Claims Strikes on Houthi Tunnels in Yemen",
+        "title": "— S3 · Conflict · Khamis Mushait, Saudi Arabia · 16m ago. Debris from intercepted Houthi-fired missiles fell on the Saudi city, causing damage but no reported casualties.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
