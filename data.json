@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-26 17:26",
+  "updated_at_gst": "2026-10-26 23:27",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel expands expulsions in occupied West Bank to cement control",
-        "published": "Mon, 26 Oct 2026 13:11:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss"
+        "title": "Could the midterms change US military support for Israel?",
+        "published": "Mon, 26 Oct 2026 18:05:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss"
       },
       {
-        "title": "Intercepted Houthi missiles cause damage in Saudi Arabian city",
-        "published": "Mon, 26 Oct 2026 12:54:05 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways?traffic_source=rss"
+        "title": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
+        "published": "Mon, 26 Oct 2026 17:27:34 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/26/ballon-dor-2026-award-ceremony-live-winners-reactions-and-latest-news?traffic_source=rss"
       },
       {
-        "title": "Jordan arrests three suspects over church attack in dawn raid: What to know",
-        "published": "Mon, 26 Oct 2026 11:08:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss"
+        "title": "Delegations arrive in Tehran for security talks",
+        "published": "Mon, 26 Oct 2026 16:55:19 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/10/26/anthropics-ipo-filing-shows-explosive-growth-risks-and-staggering-costs?traffic_source=rss"
       },
       {
-        "title": "Saudi-led coalition says it struck Houthi missile facilities",
-        "published": "Mon, 26 Oct 2026 10:41:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss"
+        "title": "‘Enough is enough’: Palestinians and Israelis share views ahead of election",
+        "published": "Mon, 26 Oct 2026 16:51:13 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss"
       },
       {
-        "title": "Saudi Arabia confirms January start for Asian Cup 2027 despite attacks",
-        "published": "Mon, 26 Oct 2026 09:52:58 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move?traffic_source=rss"
+        "title": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
+        "published": "Mon, 26 Oct 2026 16:12:00 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/10/26/saddam-haftar-is-eyeing-the-throne-in-libya?traffic_source=rss"
+      },
+      {
+        "title": "Israel committing crimes against humanity in occupied West Bank: UN",
+        "published": "Mon, 26 Oct 2026 15:44:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,12 +68,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Missiles Intercepted Over Khamis Mushait, Debris Causes Damage",
+        "title": "Jordanian Air Force Strikes Terrorist Hideouts in Southern Syria",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khamis Mushait, Saudi Arabia · 16m ago. Debris from intercepted Houthi-fired missiles fell on the Saudi city, causing damage but no reported casualties.",
+        "title": "— S3 · Conflict · Southern Syria · 3m ago. Jordan's air force says it targeted hideouts of terrorists linked to the Karak Church attack, in southern Syria.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
