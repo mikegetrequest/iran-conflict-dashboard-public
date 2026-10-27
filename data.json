@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-27 06:11",
+  "updated_at_gst": "2026-10-27 12:04",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Jordan attacks Syria in response to Karak church attack",
-        "published": "Mon, 26 Oct 2026 23:48:51 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss"
+        "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
+        "published": "Tue, 27 Oct 2026 06:28:13 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss"
       },
       {
-        "title": "Africa food security under threat due to Iran war, trade officials warn",
-        "published": "Mon, 26 Oct 2026 21:42:18 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss"
+        "title": "Palestinian citizens of Israel fear they’re next target if far-right wins",
+        "published": "Tue, 27 Oct 2026 06:12:04 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/27/could-us-midterms-reshape-pakistans-relationship-with-washington?traffic_source=rss"
+      },
+      {
+        "title": "Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom",
+        "published": "Tue, 27 Oct 2026 04:54:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/people-missing-after-massive-drilling-platform-sinks-off-gabon?traffic_source=rss"
+      },
+      {
+        "title": "Israel heads to the polls as shift to the right dominates critical election",
+        "published": "Tue, 27 Oct 2026 04:44:14 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ballistic Missiles Fired Towards Eastern Province, Saudi Arabia",
+        "title": "Child Dies After Israeli Forces Open Fire in Gaza",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Saudi Arabia · 2h ago. At least three ballistic missiles were fired towards the Eastern Province of Saudi Arabia, following early warning alerts issued in Al Kharj and the Eastern Province.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. A child has died from wounds sustained after Israeli forces opened fire in the Gaza Strip.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
