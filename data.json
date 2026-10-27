@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-27 03:13",
+  "updated_at_gst": "2026-10-27 06:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Palestinian children crawl under Israeli military gates to get to school",
-        "published": "Mon, 26 Oct 2026 20:46:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss"
+        "title": "Jordan attacks Syria in response to Karak church attack",
+        "published": "Mon, 26 Oct 2026 23:48:51 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss"
       },
       {
-        "title": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
-        "published": "Mon, 26 Oct 2026 20:17:09 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss"
-      },
-      {
-        "title": "Jordan arrests three suspects over deadly church attack",
-        "published": "Mon, 26 Oct 2026 19:25:53 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss"
+        "title": "Africa food security under threat due to Iran war, trade officials warn",
+        "published": "Mon, 26 Oct 2026 21:42:18 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Jordanian Air Force Strikes Terrorist Hideouts in Southern Syria",
+        "title": "Ballistic Missiles Fired Towards Eastern Province, Saudi Arabia",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Syria · 4h ago. Jordan's air force says it targeted hideouts of terrorists linked to the Karak Church attack, in southern Syria.",
+        "title": "— S3 · Conflict · Saudi Arabia · 2h ago. At least three ballistic missiles were fired towards the Eastern Province of Saudi Arabia, following early warning alerts issued in Al Kharj and the Eastern Province.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
