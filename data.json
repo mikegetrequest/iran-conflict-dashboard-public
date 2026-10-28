@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-28 06:26",
+  "updated_at_gst": "2026-10-28 12:47",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Arab parties projected to win 18 seats in Israel parliamentary election",
-        "published": "Wed, 28 Oct 2026 00:43:56 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss"
+        "title": "Elderly women and children survive Russian attack on Kharkiv",
+        "published": "Wed, 28 Oct 2026 07:35:20 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/10/28/russia-is-selling-africa-dependence-disguised-as-partnership?traffic_source=rss"
       },
       {
-        "title": "Israel’s Eisenkot says country voted for change",
-        "published": "Wed, 28 Oct 2026 00:30:22 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss"
-      },
-      {
-        "title": "Smotrich dances in Israel despite far-right decline",
-        "published": "Tue, 27 Oct 2026 23:03:44 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss"
-      },
-      {
-        "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
-        "published": "Tue, 27 Oct 2026 22:31:31 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss"
-      },
-      {
-        "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
-        "published": "Tue, 27 Oct 2026 21:12:27 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss"
+        "title": "Netanyahu outlines achievements, future plans as Likud leads Israeli polls",
+        "published": "Wed, 28 Oct 2026 06:02:00 +0000",
+        "link": "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Patriots Intercept Badr-1P Missiles Near Abha",
+        "title": "Israeli Forces Continue Hebron Incursions for Sixth Day",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Drone Strikes Ambulance in Taiz, Killing 2",
+        "title": "— S3 · Conflict · Hebron, West Bank, Palestine · 2h ago. Israeli military raids and tightened siege in Hebron and surrounding towns continue, displacing thousands of Palestinians, per local sources.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Taiz, Yemen · 3h ago. Ansar Allah (Houthis) used an FPV drone to strike an ambulance in Taiz, Yemen, killing two civilians inside and causing significant damage.",
+        "title": "Israeli Attacks Kill 2 Palestinians in Gaza",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
