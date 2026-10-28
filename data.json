@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-28 03:17",
+  "updated_at_gst": "2026-10-28 06:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,21 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Arab parties projected to win 18 seats in Israel parliamentary election",
+        "published": "Wed, 28 Oct 2026 00:43:56 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s Eisenkot says country voted for change",
+        "published": "Wed, 28 Oct 2026 00:30:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss"
+      },
+      {
+        "title": "Smotrich dances in Israel despite far-right decline",
+        "published": "Tue, 27 Oct 2026 23:03:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss"
+      },
+      {
         "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
         "published": "Tue, 27 Oct 2026 22:31:31 +0000",
         "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss"
@@ -24,21 +39,6 @@
         "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
         "published": "Tue, 27 Oct 2026 21:12:27 +0000",
         "link": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss"
-      },
-      {
-        "title": "Lebanese and Syrians expect no change in Israeli policy after election",
-        "published": "Tue, 27 Oct 2026 20:34:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss"
-      },
-      {
-        "title": "Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike",
-        "published": "Tue, 27 Oct 2026 20:00:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss"
-      },
-      {
-        "title": "Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp",
-        "published": "Tue, 27 Oct 2026 19:28:12 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khash, Iran · 8h ago. Armed clashes reported in the city of Khash in Iran's Balochistan region, with details still emerging.",
+        "title": "Saudi Patriots Intercept Badr-1P Missiles Near Abha",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen's Ansarallah Claims Strikes on Saudi Targets",
+        "title": "Houthi Drone Strikes Ambulance in Taiz, Killing 2",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Says Tanker Catches Fire After Hitting Mines East of Hormuz",
+        "title": "— S3 · Conflict · Taiz, Yemen · 3h ago. Ansar Allah (Houthis) used an FPV drone to strike an ambulance in Taiz, Yemen, killing two civilians inside and causing significant damage.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
