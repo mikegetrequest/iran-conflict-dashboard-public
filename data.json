@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-28 12:47",
+  "updated_at_gst": "2026-10-28 19:33",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Elderly women and children survive Russian attack on Kharkiv",
-        "published": "Wed, 28 Oct 2026 07:35:20 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/10/28/russia-is-selling-africa-dependence-disguised-as-partnership?traffic_source=rss"
+        "title": "Are GCC countries looking for a regional security pact with Iran?",
+        "published": "Wed, 28 Oct 2026 14:51:14 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/28/boxer-serrano-to-hang-up-gloves-in-puerto-rico-farewell-on-january-9?traffic_source=rss"
       },
       {
-        "title": "Netanyahu outlines achievements, future plans as Likud leads Israeli polls",
-        "published": "Wed, 28 Oct 2026 06:02:00 +0000",
-        "link": "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms?traffic_source=rss"
+        "title": "Why Arab parties may not be the ‘kingmakers’ in this Israeli election",
+        "published": "Wed, 28 Oct 2026 14:30:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss"
+      },
+      {
+        "title": "Victims of Jordan’s air strikes in Syria",
+        "published": "Wed, 28 Oct 2026 12:35:19 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss"
+      },
+      {
+        "title": "Israeli voters: hope and despair as election ballots are counted",
+        "published": "Wed, 28 Oct 2026 11:55:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/28/hackers-target-us-campaign-finance-system-days-before-midterm-elections?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Continue Hebron Incursions for Sixth Day",
+        "title": "Jordan Air Strikes Kill Seven in Southern Syria",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Hebron, West Bank, Palestine · 2h ago. Israeli military raids and tightened siege in Hebron and surrounding towns continue, displacing thousands of Palestinians, per local sources.",
+        "title": "— S3 · Conflict · Southern Syria · 3h ago. Jordanian air strikes in southern Syria killed at least seven people, including three children, according to reports.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attacks Kill 2 Palestinians in Gaza",
+        "title": "Oil Spill Forces UAE Beach Closures",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
