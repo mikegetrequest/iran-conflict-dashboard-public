@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-29 17:23",
+  "updated_at_gst": "2026-10-29 23:02",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,18 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "England and Al-Ahli striker Ivan Toney pleads not guilty to club assault",
-        "published": "Thu, 29 Oct 2026 12:10:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s election rhetoric: What candidates said, and how they performed",
-        "published": "Thu, 29 Oct 2026 11:27:22 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/29/survival-of-the-fittest-the-struggle-to-get-to-university-in-the-gambia?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -43,17 +32,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi-Led Airstrike Kills 14 at Yemen Market",
+        "title": "Air Defenses Activated in Riyadh After Houthi Attack",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Northern Yemen · 28m ago. Houthi rebels say Saudi-led airstrikes killed 14 people at a busy market in northern Yemen, amid ongoing conflict.",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 44m ago. Footage shows Saudi air defenses responding to a significant Houthi missile and drone attack on Riyadh.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Downs US Drone East of Strait of Hormuz",
+        "title": "Israeli Strikes Hit Gaza as Health Ministry Urges Rafah Opening",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
