@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-29 23:02",
+  "updated_at_gst": "2026-10-30 03:25",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,18 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
+        "published": "Thu, 29 Oct 2026 21:16:26 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support",
+        "published": "Thu, 29 Oct 2026 19:02:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -32,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Air Defenses Activated in Riyadh After Houthi Attack",
+        "title": "Saudi Arabia Intercepts Cruise Missile Near Jeddah",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 44m ago. Footage shows Saudi air defenses responding to a significant Houthi missile and drone attack on Riyadh.",
+        "title": "— S3 · Conflict · Jeddah, Saudi Arabia · 1h ago. Saudi spokesperson confirms interception of a cruise missile in the western region, linked to earlier airspace disruption over Jeddah.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Strikes Hit Gaza as Health Ministry Urges Rafah Opening",
+        "title": "Saudi Airstrikes Kill Civilians in Yemen's Taiz Governorate",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
