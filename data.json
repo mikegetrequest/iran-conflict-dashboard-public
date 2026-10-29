@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-29 00:37",
+  "updated_at_gst": "2026-10-29 04:28",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "What are the implications of Israel’s elections?",
-        "published": "Wed, 28 Oct 2026 19:03:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss"
+        "title": "Students on hunger strike in India demand restoration of student union",
+        "published": "Wed, 28 Oct 2026 18:52:58 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss"
       },
       {
-        "title": "Jerusalem Daily: What’s next after Israel’s elections?",
-        "published": "Wed, 28 Oct 2026 18:31:33 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss"
+        "title": "Balad leader blasts ‘racist’ exclusion of Arab parties in Israel",
+        "published": "Wed, 28 Oct 2026 17:54:51 +0000",
+        "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Conducts Airstrikes in Syria",
+        "title": "Two Explosions Heard in Ahvaz, Iran",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Syria · 4h ago. Israel carried out airstrikes in Syria, with an unexploded SPICE 250 bomb found, but Damascus has not commented.",
+        "title": "— S3 · Conflict · Ahvaz, Iran · 3h ago. Two explosions were reported in Ahvaz, Khuzestan Province, Iran. Details are limited.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Mali Drone Strike Kills 13 Civilians, Activists Say",
+        "title": "Israel Conducts Airstrikes in Syria",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
