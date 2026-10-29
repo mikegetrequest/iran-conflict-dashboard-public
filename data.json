@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-29 04:28",
+  "updated_at_gst": "2026-10-29 10:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Students on hunger strike in India demand restoration of student union",
-        "published": "Wed, 28 Oct 2026 18:52:58 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss"
+        "title": "Israeli settlers savagely attack journalists in occupied West Bank",
+        "published": "Thu, 29 Oct 2026 02:43:29 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/al-jazeera-speaks-to-el-sayed-as-religion-becomes-flashpoint-in-senate-race?traffic_source=rss"
       },
       {
-        "title": "Balad leader blasts ‘racist’ exclusion of Arab parties in Israel",
-        "published": "Wed, 28 Oct 2026 17:54:51 +0000",
-        "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss"
+        "title": "Israelis rally for Jewish-Arab government after election gains",
+        "published": "Thu, 29 Oct 2026 00:34:24 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Trump says he approved Vance outreach over medical supplies",
+        "published": "Thu, 29 Oct 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Two Explosions Heard in Ahvaz, Iran",
+        "title": "Saudi Spokesperson Reports Intercept of Ballistic Missile Toward Eastern Region",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Ahvaz, Iran · 3h ago. Two explosions were reported in Ahvaz, Khuzestan Province, Iran. Details are limited.",
+        "title": "— S3 · Conflict · Najran, Saudi Arabia · 6h ago. Early warning alerts issued for Najran and the Eastern Region over drone or missile threats, per MenchOsint.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Conducts Airstrikes in Syria",
+        "title": "Two Explosions Heard in Ahvaz, Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
