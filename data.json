@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-30 06:43",
+  "updated_at_gst": "2026-10-30 13:10",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-        "published": "Fri, 30 Oct 2026 00:11:20 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss"
+        "title": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+        "published": "Fri, 30 Oct 2026 08:36:11 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/30/nba-cameron-boozer-tallies-first-triple-double-grizzlies-remain-unbeaten?traffic_source=rss"
       },
       {
-        "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
-        "published": "Fri, 30 Oct 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss"
+        "title": "‘My life is buried here’: Iranian man whose 12 family members were killed",
+        "published": "Fri, 30 Oct 2026 07:51:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid?traffic_source=rss"
       },
       {
-        "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
-        "published": "Thu, 29 Oct 2026 21:16:26 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss"
+        "title": "Britain must sanction Israel, not just its settlers",
+        "published": "Fri, 30 Oct 2026 07:10:50 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss"
+      },
+      {
+        "title": "Israeli actress slams occupation in accidental ‘hot mic’ moment",
+        "published": "Fri, 30 Oct 2026 04:14:09 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/why-are-detroit-gas-stations-selling-discounted-fuel-in-trumps-name?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Arabia Intercepts Cruise Missile Near Jeddah",
+        "title": "Israeli Army Continues Hebron Incursions for 8th Day",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Jeddah, Saudi Arabia · 4h ago. Saudi spokesperson confirms interception of a cruise missile in the western region, linked to earlier airspace disruption over Jeddah.",
+        "title": "— S3 · Conflict · Hebron, Palestine · 14m ago. Israeli forces raid Jilada and Ain Deir Baha neighborhoods in Hebron, deploying large numbers of soldiers amid tightened restrictions, per local sources.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes Kill Civilians in Yemen's Taiz Governorate",
+        "title": "Israeli Attacks on Gaza Target Apartment Despite Ceasefire",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
