@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-30 03:25",
+  "updated_at_gst": "2026-10-30 06:43",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+        "published": "Fri, 30 Oct 2026 00:11:20 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+        "published": "Fri, 30 Oct 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss"
+      },
+      {
         "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
         "published": "Thu, 29 Oct 2026 21:16:26 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss"
-      },
-      {
-        "title": "‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support",
-        "published": "Thu, 29 Oct 2026 19:02:33 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Jeddah, Saudi Arabia · 1h ago. Saudi spokesperson confirms interception of a cruise missile in the western region, linked to earlier airspace disruption over Jeddah.",
+        "title": "— S3 · Conflict · Jeddah, Saudi Arabia · 4h ago. Saudi spokesperson confirms interception of a cruise missile in the western region, linked to earlier airspace disruption over Jeddah.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
