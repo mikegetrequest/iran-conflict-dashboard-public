@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-01 00:07",
+  "updated_at_gst": "2026-11-01 03:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,18 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Jerusalem Daily: Who will form Israel’s next government?",
-        "published": "Sat, 31 Oct 2026 17:29:00 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss"
-      },
-      {
-        "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-        "published": "Sat, 31 Oct 2026 14:31:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": "— strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -43,7 +32,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. Israeli forces shelled the Nuseirat refugee camp and carried out other attacks in Gaza, killing at least four Palestinians as the offensive continues.",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 6h ago. Israeli forces shelled the Nuseirat refugee camp and carried out other attacks in Gaza, killing at least four Palestinians as the offensive continues.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
@@ -53,7 +42,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. Iran's navy reports an oil tanker caught fire after striking sea mines in the Strait of Hormuz; details on the vessel and crew remain unconfirmed.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 6h ago. Iran's navy reports an oil tanker caught fire after striking sea mines in the Strait of Hormuz; details on the vessel and crew remain unconfirmed.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
