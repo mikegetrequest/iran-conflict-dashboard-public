@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-31 04:12",
+  "updated_at_gst": "2026-10-31 09:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
-        "published": "Fri, 30 Oct 2026 19:34:36 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss"
+        "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+        "published": "Sat, 31 Oct 2026 04:51:25 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/31/us-jails-two-chinese-nationals-for-spying?traffic_source=rss"
       },
       {
-        "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
-        "published": "Fri, 30 Oct 2026 18:55:36 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss"
+        "title": "Iran says four tankers on fire after striking mines in Hormuz",
+        "published": "Sat, 31 Oct 2026 03:55:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/31/us-execution-survivor-christa-pike-says-she-is-now-in-constant?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Airstrikes Hit Houthi Positions in South Taiz",
+        "title": "Houthis Launch Fresh Missile Attacks on Aden",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrike Kills 12 Civilians in Yemen's Ta'iz Province",
+        "title": "— S3 · Conflict · Aden, Yemen · 1h ago. Houthi missile attacks target Aden as Oman evacuates 25 seafarers amid the strikes.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gulf of Oman · 4h ago. Iran's Revolutionary Guard published footage of the oil tanker RITI, struck this morning. Oman's navy evacuated 25 crew members from a commercial vessel, likely the same ship.",
+        "title": "Airstrikes Hit Houthi Positions in South Taiz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
