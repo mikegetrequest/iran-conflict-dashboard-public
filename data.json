@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-31 00:55",
+  "updated_at_gst": "2026-10-31 04:12",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
-        "published": "Fri, 30 Oct 2026 18:35:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss"
+        "title": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
+        "published": "Fri, 30 Oct 2026 19:34:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss"
       },
       {
-        "title": "Report reveals campaign promoting racist, Islamophobic, anti-Qatar views",
-        "published": "Fri, 30 Oct 2026 17:34:27 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/10/30/barcelonas-flick-praises-yamal-mentality-in-missing-out-on-ballon-dor?traffic_source=rss"
+        "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
+        "published": "Fri, 30 Oct 2026 18:55:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Gulf of Oman · 24m ago. Iran's Revolutionary Guard published footage of the oil tanker RITI, struck this morning. Oman's navy evacuated 25 crew members from a commercial vessel, likely the same ship.",
+        "title": "Airstrikes Hit Houthi Positions in South Taiz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Fourth Oil Tanker Explodes After Mine Strike in Strait of Hormuz",
+        "title": "Saudi Airstrike Kills 12 Civilians in Yemen's Ta'iz Province",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 38m ago. Iran's IRGC Navy reports a fourth tanker carrying over 2 million barrels of crude exploded after hitting a mine in the Strait of Hormuz, escalating maritime tensions.",
+        "title": "— S3 · Conflict · Gulf of Oman · 4h ago. Iran's Revolutionary Guard published footage of the oil tanker RITI, struck this morning. Oman's navy evacuated 25 crew members from a commercial vessel, likely the same ship.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
