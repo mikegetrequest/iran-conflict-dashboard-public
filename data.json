@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-10-31 20:24",
+  "updated_at_gst": "2026-11-01 00:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Jerusalem Daily: Who will form Israel’s next government?",
+        "published": "Sat, 31 Oct 2026 17:29:00 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss"
+      },
+      {
         "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
         "published": "Sat, 31 Oct 2026 14:31:37 +0000",
         "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss"
-      },
-      {
-        "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
-        "published": "Sat, 31 Oct 2026 13:35:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attacks Force New Saudi Airline to Cancel, Redivert Flights",
+        "title": "— S3 · Conflict · Gaza Strip, Palestine · 2h ago. Israeli forces shelled the Nuseirat refugee camp and carried out other attacks in Gaza, killing at least four Palestinians as the offensive continues.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 5h ago. Riyadh Air cancels and redirects flights under Houthi attacks, moves assets from Riyadh, and staff volunteer at hospitals treating airport strike victims.",
+        "title": "Iran Navy Claims Tanker Hit Mines in Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Official Says US Attacked Fishing Boats Off Qeshm Island",
+        "title": "— S3 · Conflict · Strait of Hormuz · 2h ago. Iran's navy reports an oil tanker caught fire after striking sea mines in the Strait of Hormuz; details on the vessel and crew remain unconfirmed.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
