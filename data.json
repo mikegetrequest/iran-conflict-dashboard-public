@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-02 00:38",
+  "updated_at_gst": "2026-11-02 03:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How will the Iran war shape the outcome of the US midterm vote?",
-        "published": "Sun, 01 Nov 2026 19:00:32 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss"
+        "title": "Thousands displaced from Hebron as Israel carries on siege",
+        "published": "Sun, 01 Nov 2026 21:28:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss"
       },
       {
-        "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
-        "published": "Sun, 01 Nov 2026 18:23:57 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss"
-      },
-      {
-        "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
-        "published": "Sun, 01 Nov 2026 15:38:12 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/1/serbia-arrests-police-chief-over-abuse-of-office-allegations?traffic_source=rss"
+        "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+        "published": "Sun, 01 Nov 2026 18:58:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,7 +43,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 18m ago. Iran's IRGC Navy reports two tankers exploded after striking mines in the Strait of Hormuz, a key oil shipping chokepoint.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 4h ago. Iran's IRGC Navy reports two tankers exploded after striking mines in the Strait of Hormuz, a key oil shipping chokepoint.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
