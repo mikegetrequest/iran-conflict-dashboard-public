@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-01 13:27",
+  "updated_at_gst": "2026-11-01 20:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
-        "published": "Sun, 01 Nov 2026 08:24:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss"
+        "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
+        "published": "Sun, 01 Nov 2026 15:38:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/1/serbia-arrests-police-chief-over-abuse-of-office-allegations?traffic_source=rss"
       },
       {
-        "title": "Iran security chief says US letter signals ‘positive’ shift",
-        "published": "Sun, 01 Nov 2026 08:14:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/1/bangladesh-forms-wage-board-amid-garment-worker-protests?traffic_source=rss"
+        "title": "Israeli attacks on Gaza kill at least nine people",
+        "published": "Sun, 01 Nov 2026 14:10:59 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/macklemore-concludes-free-palestine-tour-with-solidarity-message?traffic_source=rss"
       },
       {
-        "title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
-        "published": "Sun, 01 Nov 2026 07:34:55 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/1/gaza-doctors-struggle-with-bereavement-overwork-trauma-amid-genocidal-war?traffic_source=rss"
+        "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
+        "published": "Sun, 01 Nov 2026 13:36:16 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/11/1/liverpool-vs-arsenal-live-premier-league?traffic_source=rss"
+      },
+      {
+        "title": "Qatar unveils countdown clock for 2027 Basketball World Cup",
+        "published": "Sun, 01 Nov 2026 13:16:03 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/1/michigan-race-all-you-need-to-know-about-abdul-el-sayed-v-mike-rogers?traffic_source=rss"
+      },
+      {
+        "title": "Iran and US explore diplomacy amid rising threats of war",
+        "published": "Sun, 01 Nov 2026 13:02:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Fourth Oil Tanker Explodes After Mine Strike in Strait of Hormuz",
+        "title": "Houthi Drone Attack Sparks Fire in Riyadh Commercial Building",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S4 · Conflict · Strait of Hormuz · 2d ago. Iran's IRGC Navy reports a fourth tanker carrying over 2 million barrels of crude exploded after hitting a mine in the Strait of Hormuz, escalating maritime tensions.",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 10m ago. Footage from Riyadh shows fires in a commercial establishment following Houthi drone attacks on the Saudi capital.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Report Accuses Shin Bet of Coercing Gaza Targets Into Deadly Strikes",
+        "title": "— S3 · Conflict · Gaza City and Khan Younis, Gaza Strip, Palestine · 2h ago. Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
