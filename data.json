@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-02 16:55",
+  "updated_at_gst": "2026-11-03 01:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Freezers in Sweden, Belgium overheat following possible cyberattacks",
-        "published": "Mon, 02 Nov 2026 12:08:59 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/2/french-school-protests-resume-on-small-scale-as-students-return-from-break?traffic_source=rss"
+        "title": "Iran pushing accelerated plan for ceasefire talks with US",
+        "published": "Mon, 02 Nov 2026 18:49:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/2/german-unions-launch-wave-of-strikes-over-cost-of-living-pressures?traffic_source=rss"
+      },
+      {
+        "title": "After Israel’s election: What’s next?",
+        "published": "Mon, 02 Nov 2026 18:32:59 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/11/2/us-petrol-prices-dip-ahead-of-midterms-as-voters-eye-costs?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi-Led Coalition Intercepts Missile as Yemen Fighting Rages",
+        "title": "— S3 · Conflict · Bandar Lengeh, Iran · 18m ago. Residents report explosions off the coast of Bandar Lengeh, Iran, amid unusual US Air Force tanker activity over the Strait of Hormuz, though no strikes are confirmed.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Al-Jawf, Yemen · 3h ago. Houthi-affiliated media report seven wounded in strikes on Hodeidah amid ongoing clashes in al-Jawf.",
+        "title": "IRGC Attacks Vessels in Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Artillery Shells Southern Lebanon Despite US Deal",
+        "title": "— S3 · Conflict · Strait of Hormuz · 25m ago. Iran's Islamic Revolutionary Guard Corps is attacking vessels in the Strait of Hormuz with anti-ship cruise missiles or drones; explosions heard southwest of Qeshm Island.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
