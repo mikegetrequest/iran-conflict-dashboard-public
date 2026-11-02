@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-02 03:59",
+  "updated_at_gst": "2026-11-02 08:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -19,11 +19,6 @@
         "title": "Thousands displaced from Hebron as Israel carries on siege",
         "published": "Sun, 01 Nov 2026 21:28:47 +0000",
         "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss"
-      },
-      {
-        "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
-        "published": "Sun, 01 Nov 2026 18:58:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 4h ago. Iran's IRGC Navy reports two tankers exploded after striking mines in the Strait of Hormuz, a key oil shipping chokepoint.",
+        "title": "Israel Conducts Resupply Mission to Base in Syria's As Suwaida",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Conducts Resupply Mission to Base in Syria's As Suwaida",
+        "title": "Saudi Airstrikes Disable Two Vessels at Ras Issa Port",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes Disable Two Vessels at Ras Issa Port",
+        "title": "— S3 · Conflict · Ras Issa Port, Yemen · 9h ago. Saudi airstrikes hit two ships at Ras Issa port in Ansarullah-controlled Yemen, disabling both vessels.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
