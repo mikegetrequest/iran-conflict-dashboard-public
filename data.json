@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-02 08:37",
+  "updated_at_gst": "2026-11-02 16:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Thousands displaced from Hebron as Israel carries on siege",
-        "published": "Sun, 01 Nov 2026 21:28:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss"
+        "title": "Freezers in Sweden, Belgium overheat following possible cyberattacks",
+        "published": "Mon, 02 Nov 2026 12:08:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/2/french-school-protests-resume-on-small-scale-as-students-return-from-break?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Conducts Resupply Mission to Base in Syria's As Suwaida",
+        "title": "Saudi-Led Coalition Intercepts Missile as Yemen Fighting Rages",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes Disable Two Vessels at Ras Issa Port",
+        "title": "— S3 · Conflict · Al-Jawf, Yemen · 3h ago. Houthi-affiliated media report seven wounded in strikes on Hodeidah amid ongoing clashes in al-Jawf.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Ras Issa Port, Yemen · 9h ago. Saudi airstrikes hit two ships at Ras Issa port in Ansarullah-controlled Yemen, disabling both vessels.",
+        "title": "Israeli Artillery Shells Southern Lebanon Despite US Deal",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
