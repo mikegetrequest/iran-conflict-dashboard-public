@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-03 15:06",
+  "updated_at_gst": "2026-11-03 22:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,34 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
-        "published": "Tue, 03 Nov 2026 10:40:34 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-conducts-series-of-defensive-strikes-against-iran?traffic_source=rss"
+        "title": "Russian strikes on Dnipro kill two, injure 20 others",
+        "published": "Tue, 03 Nov 2026 17:24:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss"
       },
       {
-        "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
-        "published": "Tue, 03 Nov 2026 10:29:56 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/senate-candidates-in-iowa-deliver-final-appeals-for-midterm-elections?traffic_source=rss"
+        "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
+        "published": "Tue, 03 Nov 2026 17:03:24 +0000",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/11/3/barcelona-vs-aston-villa-live-champions-league?traffic_source=rss"
+      },
+      {
+        "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
+        "published": "Tue, 03 Nov 2026 16:49:10 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss"
+      },
+      {
+        "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+        "published": "Tue, 03 Nov 2026 15:47:34 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/11/3/in-pictures-us-midterm-elections-in-20-photos?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
+        "published": "Tue, 03 Nov 2026 15:00:10 +0000",
+        "link": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss"
+      },
+      {
+        "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
+        "published": "Tue, 03 Nov 2026 14:17:29 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +63,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Air Strike Kills Police Officers Near Khan Younis",
+        "title": "— S3 · Conflict · Jerusalem, Israel · 22m ago. A major hospital in Jerusalem is relocating entire wards into underground parking facilities, indicating heightened security or emergency preparedness in the city.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 6m ago. Gaza's interior ministry reports an Israeli air strike killed police officers near Khan Younis, according to Al Jazeera.",
+        "title": "IRGC Forces Strike Saudi-Linked Vessel in Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 49m ago. Iran's Revolutionary Guard reports three oil tankers struck by mines and burning off the southern shores of the Strait of Hormuz, accusing them of unauthorized transit.",
+        "title": "Trump Confirms Iran Strike, Ends Israel Aid as Saudi Intercepts Drone",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
