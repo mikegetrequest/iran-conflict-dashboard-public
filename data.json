@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-03 22:30",
+  "updated_at_gst": "2026-11-04 03:34",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russian strikes on Dnipro kill two, injure 20 others",
-        "published": "Tue, 03 Nov 2026 17:24:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss"
+        "title": "Palestinian families return home after Israeli siege of Hebron",
+        "published": "Tue, 03 Nov 2026 21:15:17 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss"
       },
       {
-        "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
-        "published": "Tue, 03 Nov 2026 17:03:24 +0000",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/11/3/barcelona-vs-aston-villa-live-champions-league?traffic_source=rss"
+        "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
+        "published": "Tue, 03 Nov 2026 19:09:09 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-americans-turn-to-us-flags-to-protect-west-bank-homes?traffic_source=rss"
       },
       {
-        "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
-        "published": "Tue, 03 Nov 2026 16:49:10 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss"
-      },
-      {
-        "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
-        "published": "Tue, 03 Nov 2026 15:47:34 +0000",
-        "link": "https://www.aljazeera.com/gallery/2026/11/3/in-pictures-us-midterm-elections-in-20-photos?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
-        "published": "Tue, 03 Nov 2026 15:00:10 +0000",
-        "link": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss"
-      },
-      {
-        "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
-        "published": "Tue, 03 Nov 2026 14:17:29 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss"
+        "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
+        "published": "Tue, 03 Nov 2026 17:26:02 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Jerusalem, Israel · 22m ago. A major hospital in Jerusalem is relocating entire wards into underground parking facilities, indicating heightened security or emergency preparedness in the city.",
+        "title": "Israel Converts Hospital Parking Lots Into Emergency Departments",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Forces Strike Saudi-Linked Vessel in Strait of Hormuz",
+        "title": "— S3 · Conflict · Jerusalem, Israel · 5h ago. A major hospital in Jerusalem is relocating entire wards into underground parking facilities, indicating heightened security or emergency preparedness in the city.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Trump Confirms Iran Strike, Ends Israel Aid as Saudi Intercepts Drone",
+        "title": "IRGC Forces Strike Saudi-Linked Vessel in Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
