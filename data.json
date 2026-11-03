@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-03 01:58",
+  "updated_at_gst": "2026-11-03 07:17",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran pushing accelerated plan for ceasefire talks with US",
-        "published": "Mon, 02 Nov 2026 18:49:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/2/german-unions-launch-wave-of-strikes-over-cost-of-living-pressures?traffic_source=rss"
-      },
-      {
-        "title": "After Israel’s election: What’s next?",
-        "published": "Mon, 02 Nov 2026 18:32:59 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/11/2/us-petrol-prices-dip-ahead-of-midterms-as-voters-eye-costs?traffic_source=rss"
+        "title": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+        "published": "Tue, 03 Nov 2026 01:17:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bandar Lengeh, Iran · 18m ago. Residents report explosions off the coast of Bandar Lengeh, Iran, amid unusual US Air Force tanker activity over the Strait of Hormuz, though no strikes are confirmed.",
+        "title": "US Strikes Iranian Sites on Qeshm Island",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Attacks Vessels in Strait of Hormuz",
+        "title": "US and Iranian Forces Exchange Fire in Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 25m ago. Iran's Islamic Revolutionary Guard Corps is attacking vessels in the Strait of Hormuz with anti-ship cruise missiles or drones; explosions heard southwest of Qeshm Island.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 1h ago. Iran shot down a US MQ-9 Reaper drone and US aircraft struck Iranian sites on Qeshm Island during overnight clashes in the Strait of Hormuz.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
