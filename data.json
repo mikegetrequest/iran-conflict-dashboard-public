@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-03 07:17",
+  "updated_at_gst": "2026-11-03 15:06",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
-        "published": "Tue, 03 Nov 2026 01:17:57 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss"
+        "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+        "published": "Tue, 03 Nov 2026 10:40:34 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-conducts-series-of-defensive-strikes-against-iran?traffic_source=rss"
+      },
+      {
+        "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+        "published": "Tue, 03 Nov 2026 10:29:56 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/senate-candidates-in-iowa-deliver-final-appeals-for-midterm-elections?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iranian Sites on Qeshm Island",
+        "title": "Israeli Air Strike Kills Police Officers Near Khan Younis",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US and Iranian Forces Exchange Fire in Strait of Hormuz",
+        "title": "— S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 6m ago. Gaza's interior ministry reports an Israeli air strike killed police officers near Khan Younis, according to Al Jazeera.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 1h ago. Iran shot down a US MQ-9 Reaper drone and US aircraft struck Iranian sites on Qeshm Island during overnight clashes in the Strait of Hormuz.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 49m ago. Iran's Revolutionary Guard reports three oil tankers struck by mines and burning off the southern shores of the Strait of Hormuz, accusing them of unauthorized transit.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
