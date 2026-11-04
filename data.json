@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-04 03:34",
+  "updated_at_gst": "2026-11-04 07:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Palestinian families return home after Israeli siege of Hebron",
-        "published": "Tue, 03 Nov 2026 21:15:17 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss"
+        "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
+        "published": "Wed, 04 Nov 2026 03:16:37 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss"
       },
       {
-        "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-        "published": "Tue, 03 Nov 2026 19:09:09 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-americans-turn-to-us-flags-to-protect-west-bank-homes?traffic_source=rss"
+        "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+        "published": "Wed, 04 Nov 2026 01:13:49 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss"
       },
       {
-        "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
-        "published": "Tue, 03 Nov 2026 17:26:02 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss"
+        "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+        "published": "Wed, 04 Nov 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Converts Hospital Parking Lots Into Emergency Departments",
+        "title": "All Clear Issued in Riyadh After Aerial Attack",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Jerusalem, Israel · 5h ago. A major hospital in Jerusalem is relocating entire wards into underground parking facilities, indicating heightened security or emergency preparedness in the city.",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 4h ago. Sirens were raised in Riyadh during an ongoing aerial attack by Yemen's Ansarullah, followed by an all-clear.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Forces Strike Saudi-Linked Vessel in Strait of Hormuz",
+        "title": "Houthi Attack Reported in Saudi Capital Riyadh",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
