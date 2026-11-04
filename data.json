@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-04 07:37",
+  "updated_at_gst": "2026-11-04 15:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
-        "published": "Wed, 04 Nov 2026 03:16:37 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss"
+        "title": "Israel vote results confirmed as election commission rejects fraud claims",
+        "published": "Wed, 04 Nov 2026 10:37:21 +0000",
+        "link": "https://www.aljazeera.com/gallery/2026/11/4/photos-us-democrats-celebrate-winning-control-of-congress?traffic_source=rss"
       },
       {
-        "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
-        "published": "Wed, 04 Nov 2026 01:13:49 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss"
+        "title": "Syrians see Israel as biggest regional threat, followed by Iran: Survey",
+        "published": "Wed, 04 Nov 2026 09:51:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/4/gops-redistricting-gamble-backfires-in-florida-as-democrats-hold-ground?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
-        "published": "Wed, 04 Nov 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss"
+        "title": "‘Rejecting hate’: Abdul El-Sayed wins Senate seat despite racist attacks",
+        "published": "Wed, 04 Nov 2026 09:47:49 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/4/key-takeaways-from-the-2026-midterm-elections-in-california?traffic_source=rss"
+      },
+      {
+        "title": "Who determines Iran’s fighting and negotiating position amid US threats?",
+        "published": "Wed, 04 Nov 2026 09:16:57 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/republicans-fuming-after-democrat-talarico-flips-texas-senate-blue?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "All Clear Issued in Riyadh After Aerial Attack",
+        "title": "Iran Shoots Down US MQ-9 Drone Over Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 4h ago. Sirens were raised in Riyadh during an ongoing aerial attack by Yemen's Ansarullah, followed by an all-clear.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 39m ago. Iran reports downing another American MQ-9 drone over the Strait of Hormuz, claiming a total of 56 such drones destroyed, worth $1.79 billion.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthi Attack Reported in Saudi Capital Riyadh",
+        "title": "Drones Strike Iranian Kurdish Opposition in Iraq's Sulaymaniyah and East Erbil",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
