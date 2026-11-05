@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-04 22:57",
+  "updated_at_gst": "2026-11-05 04:03",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Palestinian citizens of Israel face intimidation after election success",
-        "published": "Wed, 04 Nov 2026 17:14:21 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/4/owono-enduring-hardest-days-of-my-life-after-de-miguel-death?traffic_source=rss"
+        "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
+        "published": "Wed, 04 Nov 2026 23:34:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss"
       },
       {
-        "title": "Ukrainian strikes kill three in Russia’s Belgorod region",
-        "published": "Wed, 04 Nov 2026 16:20:23 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss"
+        "title": "Palestinians, Israelis react after Democrats sweep US midterms",
+        "published": "Wed, 04 Nov 2026 22:06:24 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss"
       },
       {
-        "title": "Trump says Iran war justified despite polls drubbing",
-        "published": "Wed, 04 Nov 2026 15:28:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss"
+        "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
+        "published": "Wed, 04 Nov 2026 21:13:56 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss"
+      },
+      {
+        "title": "Will the US resume its attacks on Iran?",
+        "published": "Wed, 04 Nov 2026 20:25:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +63,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Qeshm Island, Iran · 4h ago. Iran's Islamic Revolutionary Guard Corps says it downed an MQ-9A Reaper and an MQ-1C Gray Eagle over Qeshm Island, escalating tensions in the region.",
+        "title": "— S3 · Conflict · Qeshm Island, Iran · 9h ago. Iran's Islamic Revolutionary Guard Corps says it downed an MQ-9A Reaper and an MQ-1C Gray Eagle over Qeshm Island, escalating tensions in the region.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
