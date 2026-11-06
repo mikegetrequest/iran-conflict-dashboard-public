@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-06 01:37",
+  "updated_at_gst": "2026-11-06 05:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Saudi coalition intercepts missile fired towards Medina",
-        "published": "Thu, 05 Nov 2026 20:48:47 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss"
+        "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+        "published": "Fri, 06 Nov 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss"
       },
       {
-        "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
-        "published": "Thu, 05 Nov 2026 20:07:04 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss"
-      },
-      {
-        "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
-        "published": "Thu, 05 Nov 2026 18:47:10 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss"
-      },
-      {
-        "title": "Jordanian officer killed in stabbing attack in Amman",
-        "published": "Thu, 05 Nov 2026 17:08:45 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse?traffic_source=rss"
+        "title": "Mass protests in France driven by nationwide strike action",
+        "published": "Thu, 05 Nov 2026 20:11:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,7 +48,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 6h ago. Iran reported three more tankers damaged in the Strait of Hormuz, signaling continued shipping peril amid the unresolved Gulf war.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 11h ago. Iran reported three more tankers damaged in the Strait of Hormuz, signaling continued shipping peril amid the unresolved Gulf war.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
