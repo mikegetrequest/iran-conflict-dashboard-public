@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-06 05:51",
+  "updated_at_gst": "2026-11-06 12:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
-        "published": "Fri, 06 Nov 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss"
+        "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
+        "published": "Fri, 06 Nov 2026 07:30:04 +0000",
+        "link": "https://www.aljazeera.com/features/2026/11/6/how-israel-is-tightening-its-grip-on-palestinian-schools-in-east-jerusalem?traffic_source=rss"
       },
       {
-        "title": "Mass protests in France driven by nationwide strike action",
-        "published": "Thu, 05 Nov 2026 20:11:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss"
+        "title": "Israel’s President Herzog to name candidate to form government on Sunday",
+        "published": "Fri, 06 Nov 2026 07:09:42 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/6/mike-hussey-australia-cricket-batting-consultant-ashes-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
+        "published": "Fri, 06 Nov 2026 05:59:54 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/6/us-justice-department-sues-penn-state-over-undocumented-students-tuition?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Turkish Soldier Killed by Cross-Border Fire From Iran; Putin Hosts Iranian Security Chief",
+        "title": "Saudi-Led Coalition Intercepts 2 Houthi Missiles Over Najran",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 11h ago. Iran reported three more tankers damaged in the Strait of Hormuz, signaling continued shipping peril amid the unresolved Gulf war.",
+        "title": "— S3 · Conflict · Najran, Saudi Arabia · 32m ago. Coalition spokesman says damage is being assessed as debris falls following the interception of two Houthi ballistic missiles over Najran.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Attacks Kill Four in Gaza, Including Child",
+        "title": "Israeli Settlers Seize 8 Homes in Jericho, Displacing Dozens",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
