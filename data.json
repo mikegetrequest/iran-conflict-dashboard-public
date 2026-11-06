@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-06 12:39",
+  "updated_at_gst": "2026-11-06 20:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
-        "published": "Fri, 06 Nov 2026 07:30:04 +0000",
-        "link": "https://www.aljazeera.com/features/2026/11/6/how-israel-is-tightening-its-grip-on-palestinian-schools-in-east-jerusalem?traffic_source=rss"
+        "title": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
+        "published": "Fri, 06 Nov 2026 13:30:18 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/6/portugal-fa-pledges-to-honour-cristiano-ronaldo-as-jorge-jesus-names-squad?traffic_source=rss"
       },
       {
-        "title": "Israel’s President Herzog to name candidate to form government on Sunday",
-        "published": "Fri, 06 Nov 2026 07:09:42 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/6/mike-hussey-australia-cricket-batting-consultant-ashes-world-cup?traffic_source=rss"
-      },
-      {
-        "title": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
-        "published": "Fri, 06 Nov 2026 05:59:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/6/us-justice-department-sues-penn-state-over-undocumented-students-tuition?traffic_source=rss"
+        "title": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
+        "published": "Fri, 06 Nov 2026 12:57:33 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/6/cristiano-ronaldo-portugal-retirement-jorge-jesus-manchester-united?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi-Led Coalition Intercepts 2 Houthi Missiles Over Najran",
+        "title": "Israeli Gunfire Kills Teenager in Gaza's al-Mawasi",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Najran, Saudi Arabia · 32m ago. Coalition spokesman says damage is being assessed as debris falls following the interception of two Houthi ballistic missiles over Najran.",
+        "title": "— S3 · Conflict · al-Mawasi, Gaza Strip, Palestine · 2h ago. Israeli gunfire kills a teenager in Gaza's southern area of al-Mawasi, according to Al Jazeera.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Settlers Seize 8 Homes in Jericho, Displacing Dozens",
+        "title": "Tanker Crew Member Killed in Gulf Missile Attack",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
