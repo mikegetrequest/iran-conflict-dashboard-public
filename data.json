@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-07 18:14",
+  "updated_at_gst": "2026-11-07 22:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Houthis report 25 killed in Yemen strikes",
+        "published": "Sat, 07 Nov 2026 17:39:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss"
+      },
+      {
+        "title": "Israel builds 90km network of military roads across southern Lebanon",
+        "published": "Sat, 07 Nov 2026 16:30:33 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s IRGC says building underground sites for weapons production, storage",
+        "published": "Sat, 07 Nov 2026 15:34:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss"
+      },
+      {
+        "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
+        "published": "Sat, 07 Nov 2026 14:24:48 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss"
+      },
+      {
         "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
         "published": "Sat, 07 Nov 2026 13:24:41 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss"
-      },
-      {
-        "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
-        "published": "Sat, 07 Nov 2026 13:07:23 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/al-jazeera-tries-out-martial-art-wushu-at-youth-olympics?traffic_source=rss"
-      },
-      {
-        "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
-        "published": "Sat, 07 Nov 2026 12:22:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Airstrike Kills 22 Near Yemen's Capital, Houthi Says",
+        "title": "Yemen's Ansarallah Claims 6 Attacks on Saudi Arabia",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Near Sanaa, Yemen · 2h ago. Airstrikes on a town near Sanaa killed 22 and wounded 30, mostly women and children, per Houthi-run Health Ministry spokesman.",
+        "title": "Airstrike Kills 22 Near Yemen's Capital, Houthi Says",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Hit Qeshm Island and Hormuz as Mediators Seek De-escalation",
+        "title": "— S3 · Conflict · Near Sanaa, Yemen · 6h ago. Airstrikes on a town near Sanaa killed 22 and wounded 30, mostly women and children, per Houthi-run Health Ministry spokesman.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
