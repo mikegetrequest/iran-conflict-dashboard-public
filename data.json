@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-07 22:55",
+  "updated_at_gst": "2026-11-08 02:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Who is behind Europe’s suspected hybrid attacks?",
+        "published": "Sat, 07 Nov 2026 20:48:58 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+        "published": "Sat, 07 Nov 2026 20:26:58 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss"
+      },
+      {
+        "title": "Demonstration in Berlin calls for an end to arming Israel",
+        "published": "Sat, 07 Nov 2026 19:04:04 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss"
+      },
+      {
         "title": "Houthis report 25 killed in Yemen strikes",
         "published": "Sat, 07 Nov 2026 17:39:23 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss"
-      },
-      {
-        "title": "Israel builds 90km network of military roads across southern Lebanon",
-        "published": "Sat, 07 Nov 2026 16:30:33 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s IRGC says building underground sites for weapons production, storage",
-        "published": "Sat, 07 Nov 2026 15:34:58 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss"
-      },
-      {
-        "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
-        "published": "Sat, 07 Nov 2026 14:24:48 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss"
-      },
-      {
-        "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
-        "published": "Sat, 07 Nov 2026 13:24:41 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen's Ansarallah Claims 6 Attacks on Saudi Arabia",
+        "title": "— S3 · Conflict · Strait of Hormuz · 57m ago. Iran's Revolutionary Guard reports two oil tankers struck naval mines near the Strait of Hormuz, a key maritime chokepoint.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Airstrike Kills 22 Near Yemen's Capital, Houthi Says",
+        "title": "US Forces Disable Vessel Violating Iran Blockade",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Near Sanaa, Yemen · 6h ago. Airstrikes on a town near Sanaa killed 22 and wounded 30, mostly women and children, per Houthi-run Health Ministry spokesman.",
+        "title": "Explosions Reported in Iranian Coastal Cities",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
