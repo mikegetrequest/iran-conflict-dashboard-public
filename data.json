@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-07 05:22",
+  "updated_at_gst": "2026-11-07 11:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
-        "published": "Fri, 06 Nov 2026 23:07:22 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss"
+        "title": "Qatari PM says US willing to seek solution to war with Iran",
+        "published": "Sat, 07 Nov 2026 07:10:37 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/7/jessica-pegula-mirra-andreeva-diva-comment-wta-finals-tennis?traffic_source=rss"
+      },
+      {
+        "title": "How the Iran war helped Democrats win the midterms",
+        "published": "Sat, 07 Nov 2026 06:26:58 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/7/carlos-alcaraz-match-point-paris-masters-semifinals-tennis?traffic_source=rss"
+      },
+      {
+        "title": "President Herzog faces key choice as Israel struggles to form government",
+        "published": "Sat, 07 Nov 2026 05:16:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
+      },
+      {
+        "title": "Trump confirms new US strikes on Iran’s Qeshm island",
+        "published": "Sat, 07 Nov 2026 03:53:01 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Issues Highest Alert for Southern Provinces",
+        "title": "— S3 · Conflict · Omidiyeh, Iran · 19m ago. Heavy air-defense activity reported at the Fifth Fighter Base in Omidiyeh, Khuzestan Province, Iran, with a second location developing.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Provinces, Iran · 3h ago. Code 100, the highest alert level, issued for evacuation and dispersal across southern provinces of Iran, indicating an imminent threat or emergency.",
+        "title": "Explosions Reported Near Isfahan, Iran",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Reported: Iran Launches SAM at US Drone Over Strait of Hormuz",
+        "title": "— S3 · Conflict · Isfahan, Iran · 28m ago. Initial reports indicate several explosions near Isfahan in central Iran; details are limited and unconfirmed.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
