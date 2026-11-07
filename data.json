@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-07 11:23",
+  "updated_at_gst": "2026-11-07 18:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Qatari PM says US willing to seek solution to war with Iran",
-        "published": "Sat, 07 Nov 2026 07:10:37 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/7/jessica-pegula-mirra-andreeva-diva-comment-wta-finals-tennis?traffic_source=rss"
+        "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
+        "published": "Sat, 07 Nov 2026 13:24:41 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss"
       },
       {
-        "title": "How the Iran war helped Democrats win the midterms",
-        "published": "Sat, 07 Nov 2026 06:26:58 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/7/carlos-alcaraz-match-point-paris-masters-semifinals-tennis?traffic_source=rss"
+        "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+        "published": "Sat, 07 Nov 2026 13:07:23 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/al-jazeera-tries-out-martial-art-wushu-at-youth-olympics?traffic_source=rss"
       },
       {
-        "title": "President Herzog faces key choice as Israel struggles to form government",
-        "published": "Sat, 07 Nov 2026 05:16:18 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
-      },
-      {
-        "title": "Trump confirms new US strikes on Iran’s Qeshm island",
-        "published": "Sat, 07 Nov 2026 03:53:01 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss"
+        "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+        "published": "Sat, 07 Nov 2026 12:22:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Omidiyeh, Iran · 19m ago. Heavy air-defense activity reported at the Fifth Fighter Base in Omidiyeh, Khuzestan Province, Iran, with a second location developing.",
+        "title": "Airstrike Kills 22 Near Yemen's Capital, Houthi Says",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosions Reported Near Isfahan, Iran",
+        "title": "— S3 · Conflict · Near Sanaa, Yemen · 2h ago. Airstrikes on a town near Sanaa killed 22 and wounded 30, mostly women and children, per Houthi-run Health Ministry spokesman.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Isfahan, Iran · 28m ago. Initial reports indicate several explosions near Isfahan in central Iran; details are limited and unconfirmed.",
+        "title": "US Strikes Hit Qeshm Island and Hormuz as Mediators Seek De-escalation",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
