@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-08 02:24",
+  "updated_at_gst": "2026-11-08 05:35",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+        "published": "Sat, 07 Nov 2026 23:45:45 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss"
+      },
+      {
         "title": "Who is behind Europe’s suspected hybrid attacks?",
         "published": "Sat, 07 Nov 2026 20:48:58 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss"
@@ -29,11 +34,6 @@
         "title": "Demonstration in Berlin calls for an end to arming Israel",
         "published": "Sat, 07 Nov 2026 19:04:04 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss"
-      },
-      {
-        "title": "Houthis report 25 killed in Yemen strikes",
-        "published": "Sat, 07 Nov 2026 17:39:23 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,7 +53,7 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 57m ago. Iran's Revolutionary Guard reports two oil tankers struck naval mines near the Strait of Hormuz, a key maritime chokepoint.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 4h ago. Iran's Revolutionary Guard reports two oil tankers struck naval mines near the Strait of Hormuz, a key maritime chokepoint.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
