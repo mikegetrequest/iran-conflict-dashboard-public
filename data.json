@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-08 19:24",
+  "updated_at_gst": "2026-11-08 23:48",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
-        "published": "Sun, 08 Nov 2026 14:02:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss"
+        "title": "Eisenkot open to Netanyahu joining Israel’s next government",
+        "published": "Sun, 08 Nov 2026 18:12:27 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss"
       },
       {
-        "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-        "published": "Sun, 08 Nov 2026 12:20:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss"
+        "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+        "published": "Sun, 08 Nov 2026 17:44:51 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss"
+      },
+      {
+        "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
+        "published": "Sun, 08 Nov 2026 16:51:41 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ships Hit Near Strait of Hormuz as Iran Denies US Role",
+        "title": "Explosions Reported on Iran's Qeshm Island",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes Kill 27 Near Sanaa",
+        "title": "— S3 · Conflict · Qeshm Island, Iran · 12m ago. Iran's IRNA reports several explosions on Qeshm Island, with multiple locations apparently hit. Local authorities have not commented yet.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Near Sanaa, Yemen · 2h ago. Houthi-run Saba news agency reports Saudi airstrikes on a village near Yemen's capital killed at least 27 and wounded 36.",
+        "title": "Iranian SAMs Fired at US Jets Over Southern Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
