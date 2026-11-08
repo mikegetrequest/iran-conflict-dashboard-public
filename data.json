@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-08 23:48",
+  "updated_at_gst": "2026-11-09 03:14",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,11 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+        "published": "Sun, 08 Nov 2026 20:51:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss"
+      },
+      {
         "title": "Eisenkot open to Netanyahu joining Israel’s next government",
         "published": "Sun, 08 Nov 2026 18:12:27 +0000",
         "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss"
@@ -24,11 +29,6 @@
         "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
         "published": "Sun, 08 Nov 2026 17:44:51 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss"
-      },
-      {
-        "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
-        "published": "Sun, 08 Nov 2026 16:51:41 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosions Reported on Iran's Qeshm Island",
+        "title": "Drone Attack Hits Khor Mor Gas Field in Northern Iraq",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Qeshm Island, Iran · 12m ago. Iran's IRNA reports several explosions on Qeshm Island, with multiple locations apparently hit. Local authorities have not commented yet.",
+        "title": "Missile Launch Reported in Sanandaj, Iran",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian SAMs Fired at US Jets Over Southern Iran",
+        "title": "— S3 · Conflict · Sanandaj, Iran · 3h ago. A missile launch was reported in Sanandaj, Kurdistan Province, Iran. Details on origin, target, and impact are not yet available.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
