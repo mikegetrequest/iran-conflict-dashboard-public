@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-08 05:35",
+  "updated_at_gst": "2026-11-08 12:11",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
-        "published": "Sat, 07 Nov 2026 23:45:45 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss"
+        "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
+        "published": "Sun, 08 Nov 2026 00:00:56 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss"
       },
       {
-        "title": "Who is behind Europe’s suspected hybrid attacks?",
-        "published": "Sat, 07 Nov 2026 20:48:58 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
-        "published": "Sat, 07 Nov 2026 20:26:58 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss"
-      },
-      {
-        "title": "Demonstration in Berlin calls for an end to arming Israel",
-        "published": "Sat, 07 Nov 2026 19:04:04 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss"
+        "title": "Mélenchon promises action against Israeli annexation if elected President",
+        "published": "Sat, 07 Nov 2026 20:53:47 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 4h ago. Iran's Revolutionary Guard reports two oil tankers struck naval mines near the Strait of Hormuz, a key maritime chokepoint.",
+        "title": "Saudi-Led Coalition Intercepts 2 Cruise Missiles",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Forces Disable Vessel Violating Iran Blockade",
+        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 2h ago. The Saudi-led coalition reports intercepting two cruise missiles in the Riyadh and southern regions, with no impact details provided.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosions Reported in Iranian Coastal Cities",
+        "title": "Ballistic Missiles Launched From Yemen Toward Riyadh",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
