@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-08 12:11",
+  "updated_at_gst": "2026-11-08 19:24",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
-        "published": "Sun, 08 Nov 2026 00:00:56 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss"
+        "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
+        "published": "Sun, 08 Nov 2026 14:02:35 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss"
       },
       {
-        "title": "Mélenchon promises action against Israeli annexation if elected President",
-        "published": "Sat, 07 Nov 2026 20:53:47 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss"
+        "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+        "published": "Sun, 08 Nov 2026 12:20:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi-Led Coalition Intercepts 2 Cruise Missiles",
+        "title": "Ships Hit Near Strait of Hormuz as Iran Denies US Role",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Riyadh, Saudi Arabia · 2h ago. The Saudi-led coalition reports intercepting two cruise missiles in the Riyadh and southern regions, with no impact details provided.",
+        "title": "Saudi Airstrikes Kill 27 Near Sanaa",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ballistic Missiles Launched From Yemen Toward Riyadh",
+        "title": "— S3 · Conflict · Near Sanaa, Yemen · 2h ago. Houthi-run Saba news agency reports Saudi airstrikes on a village near Yemen's capital killed at least 27 and wounded 36.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
