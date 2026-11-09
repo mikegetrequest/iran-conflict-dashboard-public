@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-09 06:47",
+  "updated_at_gst": "2026-11-09 14:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
-        "published": "Mon, 09 Nov 2026 02:23:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss"
+        "title": "At least one person killed as Russia and Ukraine trade strikes overnight",
+        "published": "Mon, 09 Nov 2026 10:08:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
-        "published": "Mon, 09 Nov 2026 00:00:34 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss"
+        "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
+        "published": "Mon, 09 Nov 2026 07:07:26 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss"
       },
       {
-        "title": "Iran waiting to resume talks after US midterms ‘shock’",
-        "published": "Sun, 08 Nov 2026 20:51:22 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss"
+        "title": "How Israel’s separation wall compares with the Berlin Wall",
+        "published": "Mon, 09 Nov 2026 06:32:18 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/9/lando-norris-wins-sao-palo-grand-prix-but-mercedes-seal-constructors-title?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ansarallah Claims Strikes on Saudi Arabia and Yemen",
+        "title": "Israeli Air Force Strikes Towns in Southern Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Strikes Iranian Air Defense Positions on Qeshm Island",
+        "title": "— S3 · Conflict · Southern Lebanon · 3h ago. A wave of Israeli airstrikes hits Kfar Tibnit and Al-Qanatra in southern Lebanon, expanding ongoing cross-border hostilities.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Qeshm Island, Strait of Hormuz, Iran · 57m ago. For the second consecutive night, US airstrikes hit Iranian air defense targets in Qeshm city and possibly Bahman Port, with fires reported after blasts.",
+        "title": "Ansarallah Claims Strikes on Saudi Arabia and Yemen",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
