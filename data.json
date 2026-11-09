@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-09 14:30",
+  "updated_at_gst": "2026-11-10 00:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "At least one person killed as Russia and Ukraine trade strikes overnight",
-        "published": "Mon, 09 Nov 2026 10:08:45 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss"
-      },
-      {
-        "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
-        "published": "Mon, 09 Nov 2026 07:07:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss"
-      },
-      {
-        "title": "How Israel’s separation wall compares with the Berlin Wall",
-        "published": "Mon, 09 Nov 2026 06:32:18 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/9/lando-norris-wins-sao-palo-grand-prix-but-mercedes-seal-constructors-title?traffic_source=rss"
+        "title": "Qatar PM meets with Trump for talks on ending war on Iran",
+        "published": "Mon, 09 Nov 2026 18:48:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Air Force Strikes Towns in Southern Lebanon",
+        "title": "Air Strike Near Sanaa Kills 44, Houthis Say",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon · 3h ago. A wave of Israeli airstrikes hits Kfar Tibnit and Al-Qanatra in southern Lebanon, expanding ongoing cross-border hostilities.",
+        "title": "— S3 · Conflict · Al-Shariya, Yemen · 8m ago. Houthi health authorities report 44 killed, mostly women and children, in strikes on Al-Shariya village east of Sanaa; 40 wounded.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ansarallah Claims Strikes on Saudi Arabia and Yemen",
+        "title": "Yemen Forces Claim Advances as Houthi Attacks Resume",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
