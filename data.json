@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-10 15:26",
+  "updated_at_gst": "2026-11-10 22:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Who moves first in Iran-US diplomacy?",
-        "published": "Tue, 10 Nov 2026 11:14:16 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/10/moroccan-trio-make-african-player-of-year-shortlist-as-salah-absent?traffic_source=rss"
+        "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
+        "published": "Tue, 10 Nov 2026 15:49:36 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss"
       },
       {
-        "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
-        "published": "Tue, 10 Nov 2026 10:51:02 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/humanoid-robot-takes-on-antarctic-ultra-marathon-and-fails?traffic_source=rss"
-      },
-      {
-        "title": "What powers does Netanyahu have as Israel’s interim PM?",
-        "published": "Tue, 10 Nov 2026 08:38:11 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss"
-      },
-      {
-        "title": "Khor Mor drone attack raises fears over Iraq’s energy security",
-        "published": "Tue, 10 Nov 2026 06:22:00 +0000",
-        "link": "https://www.aljazeera.com/opinions/2026/11/10/floridas-red-wall-is-cracking-but-democrats-are-missing-their-chance?traffic_source=rss"
+        "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+        "published": "Tue, 10 Nov 2026 15:18:32 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi-Led Coalition Intercepts Houthi Missiles, Drones; Strikes Hit Sanaa",
+        "title": "— S3 · Conflict · Strait of Hormuz · 14m ago. Iran's Revolutionary Guard released footage showing another oil tanker explosion in the Strait of Hormuz, indicating a new incident in the strategic waterway.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Sanaa, Yemen · 5h ago. Saudi-led coalition reports intercepting Houthi missiles and drones, while Saba reports Saudi strikes on Sanaa, Yemen.",
+        "title": "— S3 · Conflict · Strait of Hormuz · 1h ago. Iran's IRGC announces a third oil tanker has been struck today, following UKMTO confirmation of a projectile hit on a tanker in the southern corridor of the Strait of Hormuz.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrike on Sana'a Gas Station Causes Large Fire",
+        "title": "— S3 · Conflict · Isfahan, Iran · 1h ago. An explosion was reported near the 15 Khordad military base in Isfahan, Iran, at 19:50 local time. Details are sparse and unverified.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
