@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-10 00:57",
+  "updated_at_gst": "2026-11-10 07:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Qatar PM meets with Trump for talks on ending war on Iran",
-        "published": "Mon, 09 Nov 2026 18:48:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume?traffic_source=rss"
+        "title": "Israel’s Shin Bet finds no evidence of foreign election interference",
+        "published": "Tue, 10 Nov 2026 01:59:59 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss"
+      },
+      {
+        "title": "France blames Iran for October supermarket cyberattack",
+        "published": "Tue, 10 Nov 2026 01:01:47 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Iran demands US ‘surrender’ to its conditions",
+        "published": "Mon, 09 Nov 2026 23:55:23 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss"
+      },
+      {
+        "title": "Saudi Arabia reports new attack on key East-West pipeline",
+        "published": "Mon, 09 Nov 2026 22:10:52 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Air Strike Near Sanaa Kills 44, Houthis Say",
+        "title": "Saudi Airstrike on Sana'a Gas Station Causes Large Fire",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Al-Shariya, Yemen · 8m ago. Houthi health authorities report 44 killed, mostly women and children, in strikes on Al-Shariya village east of Sanaa; 40 wounded.",
+        "title": "— S3 · Conflict · Sana'a, Yemen · 13m ago. A large fire erupts in Sana'a, Yemen's Houthi-controlled capital, after a Saudi airstrike hit a gas station, per a video report.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen Forces Claim Advances as Houthi Attacks Resume",
+        "title": "Saudi-Led Coalition Intercepts Two Houthi Missiles Toward Riyadh",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
