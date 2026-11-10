@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-10 07:05",
+  "updated_at_gst": "2026-11-10 15:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israel’s Shin Bet finds no evidence of foreign election interference",
-        "published": "Tue, 10 Nov 2026 01:59:59 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss"
+        "title": "Who moves first in Iran-US diplomacy?",
+        "published": "Tue, 10 Nov 2026 11:14:16 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/10/moroccan-trio-make-african-player-of-year-shortlist-as-salah-absent?traffic_source=rss"
       },
       {
-        "title": "France blames Iran for October supermarket cyberattack",
-        "published": "Tue, 10 Nov 2026 01:01:47 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss"
+        "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
+        "published": "Tue, 10 Nov 2026 10:51:02 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/humanoid-robot-takes-on-antarctic-ultra-marathon-and-fails?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Iran demands US ‘surrender’ to its conditions",
-        "published": "Mon, 09 Nov 2026 23:55:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss"
+        "title": "What powers does Netanyahu have as Israel’s interim PM?",
+        "published": "Tue, 10 Nov 2026 08:38:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss"
       },
       {
-        "title": "Saudi Arabia reports new attack on key East-West pipeline",
-        "published": "Mon, 09 Nov 2026 22:10:52 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss"
+        "title": "Khor Mor drone attack raises fears over Iraq’s energy security",
+        "published": "Tue, 10 Nov 2026 06:22:00 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/11/10/floridas-red-wall-is-cracking-but-democrats-are-missing-their-chance?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrike on Sana'a Gas Station Causes Large Fire",
+        "title": "Saudi-Led Coalition Intercepts Houthi Missiles, Drones; Strikes Hit Sanaa",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Sana'a, Yemen · 13m ago. A large fire erupts in Sana'a, Yemen's Houthi-controlled capital, after a Saudi airstrike hit a gas station, per a video report.",
+        "title": "— S3 · Conflict · Sanaa, Yemen · 5h ago. Saudi-led coalition reports intercepting Houthi missiles and drones, while Saba reports Saudi strikes on Sanaa, Yemen.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi-Led Coalition Intercepts Two Houthi Missiles Toward Riyadh",
+        "title": "Saudi Airstrike on Sana'a Gas Station Causes Large Fire",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
