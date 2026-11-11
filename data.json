@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-11 07:27",
+  "updated_at_gst": "2026-11-11 15:17",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "El Salvador fires missiles on Haitian gang hideout",
-        "published": "Wed, 11 Nov 2026 03:00:23 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/11/gop-led-house-report-slams-systemic-failures-in-handling-of-epstein-case?traffic_source=rss"
+        "title": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
+        "published": "Wed, 11 Nov 2026 10:16:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss"
       },
       {
-        "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
-        "published": "Wed, 11 Nov 2026 01:44:21 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss"
-      },
-      {
-        "title": "Fire contained on platform in Iran’s South Pars gas field",
-        "published": "Tue, 10 Nov 2026 23:38:02 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss"
+        "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+        "published": "Wed, 11 Nov 2026 08:21:56 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/students-run-for-safety-after-fireworks-set-off-inside-french-school?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Beirut, Lebanon · 1h ago. Lebanese authorities launched a murder investigation after the body of former Iraqi MP Ahmed al-Alwani was found in a Beirut apartment.",
+        "title": "Israeli Airstrike Kills 7 in Gaza City, Khan Younis",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes Omani Island Used by US for Hormuz Shipping",
+        "title": "Israeli Drone Strike Kills Gaza Goalkeeper in Gaza City",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Strait of Hormuz · 3h ago. Iran launched strikes on an Omani island the US reportedly uses to support ships transiting the Strait of Hormuz, escalating regional tensions.",
+        "title": "Reported: Yemeni Forces, Houthis Exchange Attacks",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
