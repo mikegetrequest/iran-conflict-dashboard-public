@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-12 20:58",
+  "updated_at_gst": "2026-11-13 02:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
-        "published": "Thu, 12 Nov 2026 16:23:29 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss"
+        "title": "Qatar Under-17 World Cup is on despite US pull out",
+        "published": "Thu, 12 Nov 2026 20:15:47 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss"
       },
       {
-        "title": "UK court finds two Iranian men guilty of spying for Iran",
-        "published": "Thu, 12 Nov 2026 15:15:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss"
+        "title": "Iranian men guilty of spying on British journalists",
+        "published": "Thu, 12 Nov 2026 19:38:33 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss"
       },
       {
-        "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-        "published": "Thu, 12 Nov 2026 14:27:54 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss"
-      },
-      {
-        "title": "FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal",
-        "published": "Thu, 12 Nov 2026 12:57:12 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/12/canada-wont-let-russian-players-enter-for-ice-hockey-junior-championship?traffic_source=rss"
+        "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
+        "published": "Thu, 12 Nov 2026 18:03:02 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ansarallah Strikes Saudi-Led Forces in Lahij With 6 Missiles",
+        "title": "Smoke Rises in Bandar Lengeh After US Strikes",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Lahij Governorate, Yemen · 17m ago. Yemen's Ansarallah say they hit Saudi-led troop concentrations in Lahij governorate with six ballistic missiles, claiming dozens killed or wounded.",
+        "title": "— S3 · Conflict · Bandar Lengeh, Iran · 19m ago. Smoke plumes reported in Bandar Lengeh, southern Iran, following US strikes. No casualty or damage details yet.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Says Two More Oil Tankers Hit Mines in Strait of Hormuz",
+        "title": "Ansarallah Claims Drone Strike on Saudi Pipeline Pumping Station 7",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
