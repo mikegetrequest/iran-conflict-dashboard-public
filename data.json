@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-12 05:07",
+  "updated_at_gst": "2026-11-12 12:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza",
-        "published": "Thu, 12 Nov 2026 00:00:44 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss"
+        "title": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
+        "published": "Thu, 12 Nov 2026 07:38:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru?traffic_source=rss"
       },
       {
-        "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
-        "published": "Wed, 11 Nov 2026 22:34:43 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss"
-      },
-      {
-        "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-        "published": "Wed, 11 Nov 2026 21:03:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss"
-      },
-      {
-        "title": "Gaza goalkeeper killed in Israeli attack",
-        "published": "Wed, 11 Nov 2026 20:44:34 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss"
-      },
-      {
-        "title": "Scenes show aftermath of horrific Israeli strike on Gaza tents",
-        "published": "Wed, 11 Nov 2026 20:33:35 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/11/f1-champion-lewis-hamilton-calls-on-israel-to-open-rafah-border?traffic_source=rss"
+        "title": "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
+        "published": "Thu, 12 Nov 2026 06:49:45 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -63,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Mecca Region, Saudi Arabia · 35m ago. Debris from intercepted ballistic missiles fell in the Mecca region amid escalating Saudi-Houthi exchanges.",
+        "title": "Iraqi Forces Raid Kataib Hezbollah Stronghold Near Baghdad",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iraqi Forces Raid Kataib Hezbollah Stronghold Near Baghdad",
+        "title": "Israeli Strike on Nasser Hospital Kills Six",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
