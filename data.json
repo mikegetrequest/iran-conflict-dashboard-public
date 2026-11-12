@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-11 22:47",
+  "updated_at_gst": "2026-11-12 05:07",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,29 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "‘It’s just too expensive’: Housing and wages at the heart of Spain’s strike",
-        "published": "Wed, 11 Nov 2026 16:20:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss"
+        "title": "Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza",
+        "published": "Thu, 12 Nov 2026 00:00:44 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss"
+      },
+      {
+        "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
+        "published": "Wed, 11 Nov 2026 22:34:43 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss"
+      },
+      {
+        "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+        "published": "Wed, 11 Nov 2026 21:03:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss"
+      },
+      {
+        "title": "Gaza goalkeeper killed in Israeli attack",
+        "published": "Wed, 11 Nov 2026 20:44:34 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss"
+      },
+      {
+        "title": "Scenes show aftermath of horrific Israeli strike on Gaza tents",
+        "published": "Wed, 11 Nov 2026 20:33:35 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/11/f1-champion-lewis-hamilton-calls-on-israel-to-open-rafah-border?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +58,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Persian Gulf · 4h ago. A tanker attack in the Gulf injures four people; an insurer estimates $200 billion in regional damage from ongoing attacks.",
+        "title": "Saudi Arabia Intercepts Two Missiles Over Mecca Region",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Reported: Saudi Arabia Intercepts 3 Cruise Missiles Fired at Riyadh",
+        "title": "— S3 · Conflict · Mecca Region, Saudi Arabia · 35m ago. Debris from intercepted ballistic missiles fell in the Mecca region amid escalating Saudi-Houthi exchanges.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Claim Saudi Airstrikes in Taiz and Lahj Provinces",
+        "title": "Iraqi Forces Raid Kataib Hezbollah Stronghold Near Baghdad",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
