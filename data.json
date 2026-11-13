@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-13 14:36",
+  "updated_at_gst": "2026-11-13 22:13",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
-        "published": "Fri, 13 Nov 2026 10:11:38 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss"
-      },
-      {
-        "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
-        "published": "Fri, 13 Nov 2026 04:48:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/13/from-ocean-legend-to-undersea-reef-why-has-the-ss-united-states-been-sunk?traffic_source=rss"
+        "title": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
+        "published": "Fri, 13 Nov 2026 12:57:08 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Navy Shoots Down US MQ-1 Drone Over Strait of Hormuz",
+        "title": "Explosions Heard in Jask and Bandar Abbas, Iran",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Shell 5 Southern Lebanon Towns",
+        "title": "— S3 · Conflict · Jask and Bandar Abbas, Iran · 1m ago. Reports of explosions in the southern Iranian cities of Jask and Bandar Abbas; cause and impact unknown.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Southern Lebanon · 38m ago. Artillery and machine-gun fire target areas in Nabatieh, Marjayoun and Tyre districts; no casualties reported as drones fly low over Beirut.",
+        "title": "US Forces Shoot Down Two Iranian Drones Near Bahrain",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
