@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-13 22:13",
+  "updated_at_gst": "2026-11-14 03:44",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
-        "published": "Fri, 13 Nov 2026 12:57:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss"
+        "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
+        "published": "Fri, 13 Nov 2026 22:47:16 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss"
+      },
+      {
+        "title": "Qatar and Turkiye send message of deterrence with new defence pact",
+        "published": "Fri, 13 Nov 2026 20:48:02 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss"
+      },
+      {
+        "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
+        "published": "Fri, 13 Nov 2026 18:28:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss"
+      },
+      {
+        "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+        "published": "Fri, 13 Nov 2026 18:04:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosions Heard in Jask and Bandar Abbas, Iran",
+        "title": "IRGC Navy Strikes Commercial Vessel in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Jask and Bandar Abbas, Iran · 1m ago. Reports of explosions in the southern Iranian cities of Jask and Bandar Abbas; cause and impact unknown.",
+        "title": "Yemen's Ansarallah Claims Drone and Missile Strikes on Saudi Targets",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Forces Shoot Down Two Iranian Drones Near Bahrain",
+        "title": "Houthis Fire Ballistic Missiles at Saudi Forces in Jazan",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
