@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-13 06:59",
+  "updated_at_gst": "2026-11-13 14:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
-        "published": "Fri, 13 Nov 2026 01:43:17 +0000",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss"
+        "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
+        "published": "Fri, 13 Nov 2026 10:11:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss"
       },
       {
-        "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
-        "published": "Thu, 12 Nov 2026 23:52:38 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss"
-      },
-      {
-        "title": "Qatar Under-17 World Cup is on despite US pull out",
-        "published": "Thu, 12 Nov 2026 20:15:47 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss"
+        "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
+        "published": "Fri, 13 Nov 2026 04:48:40 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/13/from-ocean-legend-to-undersea-reef-why-has-the-ss-united-states-been-sunk?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Targets US Radar System in Bahrain",
+        "title": "Iranian Navy Shoots Down US MQ-1 Drone Over Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Renew Drone Strikes on Saudi Arabia",
+        "title": "Israeli Forces Shell 5 Southern Lebanon Towns",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosions Heard in Bander Lengeh and Sirik, Southern Iran",
+        "title": "— S3 · Conflict · Southern Lebanon · 38m ago. Artillery and machine-gun fire target areas in Nabatieh, Marjayoun and Tyre districts; no casualties reported as drones fly low over Beirut.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
