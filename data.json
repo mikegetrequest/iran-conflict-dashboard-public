@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-13 02:32",
+  "updated_at_gst": "2026-11-13 06:59",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+        "published": "Fri, 13 Nov 2026 01:43:17 +0000",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss"
+      },
+      {
+        "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+        "published": "Thu, 12 Nov 2026 23:52:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss"
+      },
+      {
         "title": "Qatar Under-17 World Cup is on despite US pull out",
         "published": "Thu, 12 Nov 2026 20:15:47 +0000",
         "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Iranian men guilty of spying on British journalists",
-        "published": "Thu, 12 Nov 2026 19:38:33 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss"
-      },
-      {
-        "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
-        "published": "Thu, 12 Nov 2026 18:03:02 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Smoke Rises in Bandar Lengeh After US Strikes",
+        "title": "Iran Targets US Radar System in Bahrain",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "— S3 · Conflict · Bandar Lengeh, Iran · 19m ago. Smoke plumes reported in Bandar Lengeh, southern Iran, following US strikes. No casualty or damage details yet.",
+        "title": "Houthis Renew Drone Strikes on Saudi Arabia",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ansarallah Claims Drone Strike on Saudi Pipeline Pumping Station 7",
+        "title": "Explosions Heard in Bander Lengeh and Sirik, Southern Iran",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
