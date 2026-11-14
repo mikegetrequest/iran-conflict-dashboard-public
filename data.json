@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-14 21:13",
+  "updated_at_gst": "2026-11-15 01:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "How does Iran view shift in US approach after JD Vance ordered away?",
-        "published": "Sat, 14 Nov 2026 13:24:44 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/14/spain-england-uefa-nations-league-predictions-how-to-watch-teams?traffic_source=rss"
+        "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+        "published": "Sat, 14 Nov 2026 16:13:43 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+        "published": "Sat, 14 Nov 2026 15:36:37 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Drone Strike Kills 2 in Jabaliya, Gaza",
+        "title": "Saudi Drone Attack Hits Yemen's Capital Sanaa",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Oil Slick Spotted From Tanker Struck by Iran in Persian Gulf",
+        "title": ": S3 · Conflict · Sanaa, Yemen · 41m ago. Arab sources report Saudi army drone strikes on Houthi-controlled Sanaa, causing strong explosions in the city.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Persian Gulf off UAE · 2h ago. Oil slick observed off UAE from DOMINICA PROSPERITY, struck 3 days ago by Iran while transiting outbound Strait of Hormuz, now anchored NW of Ras Al Khaimah.",
+        "title": "Multiple Explosions Reported Along Iran's Southern Coast Near Strait of Hormuz",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
