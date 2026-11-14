@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-14 07:48",
+  "updated_at_gst": "2026-11-14 15:01",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+        "published": "Sat, 14 Nov 2026 07:46:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/missing-australian-teenager-reunites-with-his-mother?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": ": strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -32,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Navy Strikes Commercial Vessel in Strait of Hormuz",
+        "title": "Iran Says Oil Tanker Hit in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen's Ansarallah Claims Drone and Missile Strikes on Saudi Targets",
+        "title": ": S3 · Conflict · Strait of Hormuz · 5m ago. Iranian military reports another oil tanker was struck after attempting to illegally cross the Strait of Hormuz, escalating tensions in the strategic waterway.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Fire Ballistic Missiles at Saudi Forces in Jazan",
+        "title": ": S3 · Conflict · Strait of Hormuz · 35m ago. Iran's navy reports a second tanker caught fire this morning in the Strait of Hormuz, following an earlier incident. Details on cause and casualties are not yet available.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
