@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-15 19:17",
+  "updated_at_gst": "2026-11-16 00:26",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
-        "published": "Sun, 15 Nov 2026 14:02:08 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss"
+        "title": "Jordan sentences three men to death over deadly church attack in Karak",
+        "published": "Sun, 15 Nov 2026 20:12:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss"
       },
       {
-        "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-        "published": "Sun, 15 Nov 2026 13:37:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/al-jazeera-english-celebrates-20-years-on-air?traffic_source=rss"
+        "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
+        "published": "Sun, 15 Nov 2026 19:02:21 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Strait of Hormuz · 39m ago. Iran reports a supertanker carrying 2 million barrels of oil sank in the Gulf after hitting a mine and catching fire in the Strait of Hormuz.",
+        "title": "Loud Explosions Reported in Sirik, Southern Iran",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Bahrain Air Defences Destroy Drones Attacking US Base",
+        "title": ": S3 · Conflict · Sirik, Iran · 7m ago. Loud explosions reported in Sirik, southern Iran, with possible US airstrikes. Unconfirmed details.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Bahrain · 1h ago. Second Iranian drone attack in three days draws two air alerts; sporadic strikes persist amid stalled nine-month Middle East war diplomacy.",
+        "title": "Explosion Reported Near Iranian Air Defense Launcher in Kong",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
