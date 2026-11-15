@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-15 05:23",
+  "updated_at_gst": "2026-11-15 11:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
-        "published": "Sun, 15 Nov 2026 00:00:08 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss"
+        "title": "Israel: Making the Holy Land burn",
+        "published": "Sun, 15 Nov 2026 06:49:14 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/11/15/the-french-republics-forgotten-promise-of-equality?traffic_source=rss"
+      },
+      {
+        "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+        "published": "Sun, 15 Nov 2026 01:54:55 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss"
+      },
+      {
+        "title": "Israeli air strike kills senior Hamas commander in Gaza",
+        "published": "Sun, 15 Nov 2026 01:00:42 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Strike Targets Senior Hamas Figure in Rafah",
+        "title": "Missile and Drone Launches From Yemen Disrupt Riyadh Airspace",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Senior Hamas Commander in Khan Younis",
+        "title": "Bahrain Says Air Defenses Intercept Several Iranian Attacks",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Drone Attack Hits Yemen's Capital Sanaa",
+        "title": ": S3 · Conflict · Bahrain · 18m ago. Bahrain's Defense Force reports its air defenses intercepted multiple Iranian attacks targeting Bahraini territory, citing Iran's systematic hostile approach.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
