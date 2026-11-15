@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-15 01:36",
+  "updated_at_gst": "2026-11-15 05:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
-        "published": "Sat, 14 Nov 2026 16:13:43 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
-        "published": "Sat, 14 Nov 2026 15:36:37 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss"
+        "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+        "published": "Sun, 15 Nov 2026 00:00:08 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Drone Attack Hits Yemen's Capital Sanaa",
+        "title": "Israeli Strike Targets Senior Hamas Figure in Rafah",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Sanaa, Yemen · 41m ago. Arab sources report Saudi army drone strikes on Houthi-controlled Sanaa, causing strong explosions in the city.",
+        "title": "Israel Strikes Senior Hamas Commander in Khan Younis",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Multiple Explosions Reported Along Iran's Southern Coast Near Strait of Hormuz",
+        "title": "Saudi Drone Attack Hits Yemen's Capital Sanaa",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
