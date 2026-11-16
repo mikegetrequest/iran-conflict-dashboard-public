@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-16 00:26",
+  "updated_at_gst": "2026-11-16 04:05",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Jordan sentences three men to death over deadly church attack in Karak",
-        "published": "Sun, 15 Nov 2026 20:12:38 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss"
+        "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+        "published": "Sun, 15 Nov 2026 22:06:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss"
       },
       {
-        "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
-        "published": "Sun, 15 Nov 2026 19:02:21 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss"
+        "title": "Estonia to close border crossings with Russia after alleged arson attack",
+        "published": "Sun, 15 Nov 2026 20:31:18 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss"
+      },
+      {
+        "title": "Estonia to close border crossings with Russia after attack on drone maker",
+        "published": "Sun, 15 Nov 2026 18:07:02 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Loud Explosions Reported in Sirik, Southern Iran",
+        "title": "Ansarallah Strike Kills Brigade Operations Chief Near Marib",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Sirik, Iran · 7m ago. Loud explosions reported in Sirik, southern Iran, with possible US airstrikes. Unconfirmed details.",
+        "title": ": S3 · Conflict · Marib, Yemen · 2h ago. A strike by Ansarallah (Houthi) forces killed the head of operations of the Saudi-backed PLC's 2nd Brigade, 1st Emergency Division, near Marib, Yemen.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosion Reported Near Iranian Air Defense Launcher in Kong",
+        "title": ": S3 · Conflict · Bahrain · 2h ago. Air-raid or emergency sirens reported active in Bahrain; cause and impact not yet specified.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
