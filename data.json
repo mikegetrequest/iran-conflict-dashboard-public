@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-16 10:53",
+  "updated_at_gst": "2026-11-16 20:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,13 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Iran war live: Third US carrier arrives, Iran says oil tankers hit mines",
-        "published": "Mon, 16 Nov 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/brawl-erupts-in-brazils-womens-league-final?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": ": strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -38,17 +32,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iranian Navy Says Oil Tanker Struck Mine East of Hormuz",
+        "title": ": S3 · Conflict · West Bank, Palestine · 1h ago. The military described the demolition of the terrorist's house as unprecedented, citing the threat of rocket attacks from the West Bank.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Strait of Hormuz · 19m ago. Iran's navy reports a violating oil tanker caught fire and lost propulsion after hitting an Iranian naval mine east of the Strait of Hormuz this morning.",
+        "title": "Israeli Air Force Strikes Weapons Shipment Near Syria-Lebanon Border",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Strikes Al-Shu'ara in Eastern Lebanon",
+        "title": "Bahrain Sentences Grand Ayatollah Qassim to Life in Prison",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
