@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-16 04:05",
+  "updated_at_gst": "2026-11-16 10:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-        "published": "Sun, 15 Nov 2026 22:06:38 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss"
-      },
-      {
-        "title": "Estonia to close border crossings with Russia after alleged arson attack",
-        "published": "Sun, 15 Nov 2026 20:31:18 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss"
-      },
-      {
-        "title": "Estonia to close border crossings with Russia after attack on drone maker",
-        "published": "Sun, 15 Nov 2026 18:07:02 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss"
+        "title": "Iran war live: Third US carrier arrives, Iran says oil tankers hit mines",
+        "published": "Mon, 16 Nov 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/brawl-erupts-in-brazils-womens-league-final?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ansarallah Strike Kills Brigade Operations Chief Near Marib",
+        "title": "Iranian Navy Says Oil Tanker Struck Mine East of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Marib, Yemen · 2h ago. A strike by Ansarallah (Houthi) forces killed the head of operations of the Saudi-backed PLC's 2nd Brigade, 1st Emergency Division, near Marib, Yemen.",
+        "title": ": S3 · Conflict · Strait of Hormuz · 19m ago. Iran's navy reports a violating oil tanker caught fire and lost propulsion after hitting an Iranian naval mine east of the Strait of Hormuz this morning.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Bahrain · 2h ago. Air-raid or emergency sirens reported active in Bahrain; cause and impact not yet specified.",
+        "title": "Israel Strikes Al-Shu'ara in Eastern Lebanon",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
