@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-16 20:32",
+  "updated_at_gst": "2026-11-17 04:32",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,13 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
+        "published": "Mon, 16 Nov 2026 21:06:19 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": ": strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -32,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · West Bank, Palestine · 1h ago. The military described the demolition of the terrorist's house as unprecedented, citing the threat of rocket attacks from the West Bank.",
+        "title": "UKMTO 208-26: Tanker Attacked in Strait of Hormuz, Engine Room Fire Reported",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Air Force Strikes Weapons Shipment Near Syria-Lebanon Border",
+        "title": "Israeli Strike Hits Near UN Fuel Convoy in Rafah",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Bahrain Sentences Grand Ayatollah Qassim to Life in Prison",
+        "title": "Israeli Air Force Kills Hamas Militants in Jabalia",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
