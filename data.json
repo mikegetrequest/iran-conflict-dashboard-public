@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-17 12:37",
+  "updated_at_gst": "2026-11-17 21:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,29 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Vance calls out ‘neoconservatives’ over Iran war",
-        "published": "Tue, 17 Nov 2026 08:25:25 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams?traffic_source=rss"
+        "title": "Religious ruling revives memories in Israel of Rabin assassination",
+        "published": "Tue, 17 Nov 2026 17:33:18 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear?traffic_source=rss"
       },
       {
-        "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-        "published": "Tue, 17 Nov 2026 08:12:06 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds?traffic_source=rss"
+        "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
+        "published": "Tue, 17 Nov 2026 14:59:39 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/17/us-senators-demand-faa-pause-upgrades-linked-to-nationwide-ground-stop?traffic_source=rss"
       },
       {
-        "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
-        "published": "Tue, 17 Nov 2026 07:35:54 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/17/cristiano-ronaldo-mother-portugal-coach-jorge-jesus?traffic_source=rss"
-      },
-      {
-        "title": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
-        "published": "Tue, 17 Nov 2026 06:06:58 +0000",
-        "link": "https://www.aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
-        "published": "Tue, 17 Nov 2026 01:38:13 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss"
+        "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+        "published": "Tue, 17 Nov 2026 14:09:08 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/rep-thomas-massie-forces-a-new-fight-for-epstein-survivors?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Claims Drone Strike on US Radar at Bahrain Air Base",
+        "title": "Israeli Fire Kills Four, Including Child, in Gaza",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Bahrain Issues Alerts Over Possible Iranian Missile or Drone Attack",
+        "title": ": S3 · Conflict · Gaza Strip, Palestine · 4h ago. Gunfire and strikes killed at least four Palestinians, including a 6-year-old boy, on Tuesday, local health officials said.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen Army Reports 661 Attacks on Houthis Near Aden",
+        "title": "Reported: Iran Scrambles Fighter Jets From Isfahan Air Base",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
