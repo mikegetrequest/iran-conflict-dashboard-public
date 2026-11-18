@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-18 04:19",
+  "updated_at_gst": "2026-11-18 11:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
-        "published": "Tue, 17 Nov 2026 23:38:38 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss"
-      },
-      {
-        "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
-        "published": "Tue, 17 Nov 2026 21:14:31 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss"
+        "title": "Australia issues sanctions targeting Israeli settlers",
+        "published": "Wed, 18 Nov 2026 04:12:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,12 +43,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Air Traffic Halted Near Dammam After Iran Attack on Bahrain",
+        "title": "ADNOC Vessel Attacked in Strait of Hormuz",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Bahrain Lifts Air Raid Sirens After Iranian Attack Ends",
+        "title": "Israeli Airstrikes Kill 5 in Gaza City and Deir al-Balah",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
