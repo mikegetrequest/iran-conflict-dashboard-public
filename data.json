@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-18 11:45",
+  "updated_at_gst": "2026-11-18 20:45",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Australia issues sanctions targeting Israeli settlers",
-        "published": "Wed, 18 Nov 2026 04:12:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss"
+        "title": "Russian attacks on Ukraine kill at least five people",
+        "published": "Wed, 18 Nov 2026 15:32:01 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces demolish homes in southern Lebanon",
+        "published": "Wed, 18 Nov 2026 14:52:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open?traffic_source=rss"
+      },
+      {
+        "title": "Palestinians flee refugee camp as Israel begins operation in central Gaza",
+        "published": "Wed, 18 Nov 2026 14:39:09 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss"
+      },
+      {
+        "title": "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
+        "published": "Wed, 18 Nov 2026 14:08:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Attacks Iraq's Kurdistan Region, Kuwait, and Bahrain",
+        "title": "US Medevac Flights From Germany After Iran Drone Strikes on Bases",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "ADNOC Vessel Attacked in Strait of Hormuz",
+        "title": ": S4 · Conflict · Middle East · 9h ago. US Air Force medical evacuation aircraft are flying from Germany to the Middle East following Iranian drone strikes on several US bases, with confirmed US casualties.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Airstrikes Kill 5 in Gaza City and Deir al-Balah",
+        "title": "Iran Attacks Iraq's Kurdistan Region, Kuwait, and Bahrain",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
