@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-19 03:11",
+  "updated_at_gst": "2026-11-19 08:17",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-        "published": "Wed, 18 Nov 2026 20:38:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss"
-      },
-      {
-        "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
-        "published": "Wed, 18 Nov 2026 19:31:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/voyager-1-reaches-one-light-day-from-earth-after-49-years-in-space?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settler kills Palestinian grandmother in occupied West Bank",
-        "published": "Wed, 18 Nov 2026 19:27:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss"
-      },
-      {
-        "title": "Israeli forces launch new military operation in central Gaza",
-        "published": "Wed, 18 Nov 2026 18:12:42 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss"
+        "title": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh",
+        "published": "Thu, 19 Nov 2026 00:01:02 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -58,12 +43,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S4 · Conflict · Middle East · 15h ago. US Air Force medical evacuation aircraft are flying from Germany to the Middle East following Iranian drone strikes on several US bases, with confirmed US casualties.",
+        "title": ": S4 · Conflict · Middle East · 20h ago. US Air Force medical evacuation aircraft are flying from Germany to the Middle East following Iranian drone strikes on several US bases, with confirmed US casualties.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen's Ansarallah Claims Cruise Missile Strikes on Riyadh Airport, Financial District",
+        "title": "Houthi Missile Strike Damages Riyadh, Coalition Says",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
