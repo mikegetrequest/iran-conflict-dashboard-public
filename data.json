@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-19 17:37",
+  "updated_at_gst": "2026-11-20 01:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,13 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
-        "published": "Thu, 19 Nov 2026 11:38:39 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": ": strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -38,17 +32,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Airbases in Kuwait and Bahrain",
+        "title": "Iran Escalates Attacks on Ships in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S4 · Conflict · Kuwait and Bahrain · 9h ago. Iran launches retaliatory strikes on US airbases in Kuwait and Bahrain following recent US strikes, raising regional tensions.",
+        "title": ": S4 · Conflict · Strait of Hormuz · 7h ago. Iran launches offensive attacks on vessels in the Strait of Hormuz and conducts airstrikes on several Persian Gulf countries.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Forces Shoot Palestinian Dead in Gaza City",
+        "title": "Iran Strikes US Airbases in Kuwait and Bahrain",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
