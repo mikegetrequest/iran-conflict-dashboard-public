@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-20 14:39",
+  "updated_at_gst": "2026-11-20 22:53",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Russia’s day-long attack on Kyiv damages embassies",
-        "published": "Fri, 20 Nov 2026 08:56:08 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss"
-      },
-      {
-        "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
-        "published": "Fri, 20 Nov 2026 06:03:03 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss"
+        "title": "One third of attacks on children worldwide recorded in Palestine",
+        "published": "Fri, 20 Nov 2026 15:50:28 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/20/kansas-hosts-become-guests-as-algeria-repays-world-cup-welcome?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Escalates Attacks on Ships in Strait of Hormuz",
+        "title": "Houthi Missile Damages PIF Tower in Riyadh",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S4 · Conflict · Strait of Hormuz · 20h ago. Iran launches offensive attacks on vessels in the Strait of Hormuz and conducts airstrikes on several Persian Gulf countries.",
+        "title": "US Missile Strike Hits Outskirts of Qeshm",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi-Led Coalition Intercepts Houthi Missile",
+        "title": ": S3 · Conflict · Gaza Strip, Palestine · 3h ago. Palestinians return to find their homes reduced to rubble after Israel's ground offensive, as attacks on Gaza continue.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
