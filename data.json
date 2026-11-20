@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-20 06:43",
+  "updated_at_gst": "2026-11-20 14:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Iran war live: Houthis escalate attacks on Saudi capital",
-        "published": "Thu, 19 Nov 2026 23:58:40 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss"
+        "title": "Russia’s day-long attack on Kyiv damages embassies",
+        "published": "Fri, 20 Nov 2026 08:56:08 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss"
       },
       {
-        "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
-        "published": "Thu, 19 Nov 2026 22:58:48 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss"
-      },
-      {
-        "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
-        "published": "Thu, 19 Nov 2026 20:58:41 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-genocide-survivor-perpetrators-will-have-to-face?traffic_source=rss"
+        "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
+        "published": "Fri, 20 Nov 2026 06:03:03 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S4 · Conflict · Strait of Hormuz · 12h ago. Iran launches offensive attacks on vessels in the Strait of Hormuz and conducts airstrikes on several Persian Gulf countries.",
+        "title": ": S4 · Conflict · Strait of Hormuz · 20h ago. Iran launches offensive attacks on vessels in the Strait of Hormuz and conducts airstrikes on several Persian Gulf countries.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Strikes US Airbases in Kuwait and Bahrain",
+        "title": "Saudi-Led Coalition Intercepts Houthi Missile",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
