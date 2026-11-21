@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-21 11:28",
+  "updated_at_gst": "2026-11-21 19:29",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Emergency crews in Ukraine hit by a double-tap strike",
-        "published": "Sat, 21 Nov 2026 07:12:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss"
+        "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+        "published": "Sat, 21 Nov 2026 14:15:36 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss"
       },
       {
-        "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
-        "published": "Sat, 21 Nov 2026 04:32:07 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss"
+        "title": "Israeli attacks on Gaza kill at least four Palestinians",
+        "published": "Sat, 21 Nov 2026 12:29:49 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-        "published": "Sat, 21 Nov 2026 00:00:06 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss"
-      },
-      {
-        "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
-        "published": "Fri, 20 Nov 2026 23:20:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss"
+        "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+        "published": "Sat, 21 Nov 2026 11:02:49 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Strike Riyadh After Saudi Coalition Operation",
+        "title": ": S3 · Conflict · Near Bushehr, Iran · 1h ago. Iran's Islamic Revolutionary Guard Corps claims it downed an unidentified US reconnaissance drone minutes ago near Bushehr, without specifying the model.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Oil Tanker Hits Iranian Mine in Strait of Hormuz, Catches Fire",
+        "title": "Iran Says Air Defenses Damaged US F-16 Over Persian Gulf",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Strait of Hormuz · 4h ago. Another oil tanker struck an Iranian naval mine in the Strait of Hormuz, catching fire. The incident underscores ongoing maritime hazards in the strategic waterway.",
+        "title": ": S3 · Conflict · Persian Gulf · 2h ago. Iranian Armed Forces say a missile exploded near the aircraft, damaging it and forcing its pilot to abort the mission and make an emergency landing at an airport in the region.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
