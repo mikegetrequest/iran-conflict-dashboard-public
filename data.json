@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-21 19:29",
+  "updated_at_gst": "2026-11-22 00:58",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-        "published": "Sat, 21 Nov 2026 14:15:36 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss"
+        "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+        "published": "Sat, 21 Nov 2026 18:42:38 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss"
       },
       {
-        "title": "Israeli attacks on Gaza kill at least four Palestinians",
-        "published": "Sat, 21 Nov 2026 12:29:49 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss"
+        "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+        "published": "Sat, 21 Nov 2026 17:20:03 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss"
       },
       {
-        "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-        "published": "Sat, 21 Nov 2026 11:02:49 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss"
+        "title": "French presidential candidate blames media for racist attack",
+        "published": "Sat, 21 Nov 2026 15:46:18 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss"
+      },
+      {
+        "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+        "published": "Sat, 21 Nov 2026 15:01:18 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Near Bushehr, Iran · 1h ago. Iran's Islamic Revolutionary Guard Corps claims it downed an unidentified US reconnaissance drone minutes ago near Bushehr, without specifying the model.",
+        "title": "IRGC Attacks Two US Bases in Bahrain",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Says Air Defenses Damaged US F-16 Over Persian Gulf",
+        "title": ": S4 · Conflict · Bahrain · 18m ago. Iran's IRGC attacked US bases at Sheikh Isa and Juffair in Bahrain, according to Iran's Fars news agency, in response to US actions.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Persian Gulf · 2h ago. Iranian Armed Forces say a missile exploded near the aircraft, damaging it and forcing its pilot to abort the mission and make an emergency landing at an airport in the region.",
+        "title": "Iran Attempts to Target US Sites in Bahrain",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
