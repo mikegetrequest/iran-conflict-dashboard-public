@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-20 22:53",
+  "updated_at_gst": "2026-11-21 04:23",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "One third of attacks on children worldwide recorded in Palestine",
-        "published": "Fri, 20 Nov 2026 15:50:28 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/20/kansas-hosts-become-guests-as-algeria-repays-world-cup-welcome?traffic_source=rss"
+        "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
+        "published": "Fri, 20 Nov 2026 20:14:56 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss"
+      },
+      {
+        "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+        "published": "Fri, 20 Nov 2026 19:57:05 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,12 +48,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "US Missile Strike Hits Outskirts of Qeshm",
+        "title": "Saudi-Led Coalition Downs Houthi Missiles Near Riyadh",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Gaza Strip, Palestine · 3h ago. Palestinians return to find their homes reduced to rubble after Israel's ground offensive, as attacks on Gaza continue.",
+        "title": ": S3 · Conflict · Riyadh, Saudi Arabia · 4m ago. Saudi Arabia issues emergency alerts for Riyadh as the coalition reports intercepting three missiles, amid ongoing Houthi attacks on the kingdom.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
