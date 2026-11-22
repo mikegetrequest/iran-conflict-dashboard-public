@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-22 04:56",
+  "updated_at_gst": "2026-11-22 11:38",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,6 +16,16 @@
   "headlines": {
     "aljazeera": [
       {
+        "title": "Why Somalia’s president turned against his former ally, the UAE",
+        "published": "Sun, 22 Nov 2026 06:59:59 +0000",
+        "link": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss"
+      },
+      {
+        "title": "Bessent confirms he’s living on US military base over Iran fears",
+        "published": "Sun, 22 Nov 2026 02:05:50 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss"
+      },
+      {
         "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
         "published": "Sat, 21 Nov 2026 23:44:00 +0000",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss"
@@ -24,11 +34,6 @@
         "title": "Bahrain says Iranian attack hits industrial facility",
         "published": "Sat, 21 Nov 2026 22:02:03 +0000",
         "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
-      },
-      {
-        "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-        "published": "Sat, 21 Nov 2026 18:42:38 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,12 +58,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S4 · Conflict · Bahrain · 4h ago. Iran's IRGC attacked US bases at Sheikh Isa and Juffair in Bahrain, according to Iran's Fars news agency, in response to US actions.",
+        "title": ": S4 · Conflict · Bahrain · 11h ago. Iran's IRGC attacked US bases at Sheikh Isa and Juffair in Bahrain, according to Iran's Fars news agency, in response to US actions.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Drone Targets Tower in Riyadh Amid Houthi Attacks",
+        "title": "Houthis Strike Riyadh After Saudi Coalition Operation",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
