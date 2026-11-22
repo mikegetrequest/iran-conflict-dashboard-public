@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-22 19:44",
+  "updated_at_gst": "2026-11-23 01:21",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,34 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
-        "published": "Sun, 22 Nov 2026 15:03:38 +0000",
-        "link": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss"
-      },
-      {
-        "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
-        "published": "Sun, 22 Nov 2026 14:48:50 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss"
-      },
-      {
-        "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-        "published": "Sun, 22 Nov 2026 14:20:41 +0000",
-        "link": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss"
-      },
-      {
-        "title": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
-        "published": "Sun, 22 Nov 2026 13:35:09 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/croatia-outraged-after-psychiatric-patient-dies-from-alleged-hospital-abuse?traffic_source=rss"
-      },
-      {
-        "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-        "published": "Sun, 22 Nov 2026 13:16:45 +0000",
-        "link": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss"
-      },
-      {
-        "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-        "published": "Sun, 22 Nov 2026 12:31:30 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss"
+        "title": "Civilians killed in RSF drone strikes in Sudan",
+        "published": "Sun, 22 Nov 2026 18:12:07 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -68,12 +43,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S4 · Conflict · Bahrain · 19h ago. Iran's IRGC attacked US bases at Sheikh Isa and Juffair in Bahrain, according to Iran's Fars news agency, in response to US actions.",
+        "title": ": S4 · Conflict · Bahrain · 1d ago. Iran's IRGC attacked US bases at Sheikh Isa and Juffair in Bahrain, according to Iran's Fars news agency, in response to US actions.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Arabia Intercepts Drone as Bahrain Reports Fresh Attacks",
+        "title": "Reported: Ukrainian Drones Attempt Strike on Russian Ship ANASTASIIA in Benghazi",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
