@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-23 01:21",
+  "updated_at_gst": "2026-11-23 05:51",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,9 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Civilians killed in RSF drone strikes in Sudan",
-        "published": "Sun, 22 Nov 2026 18:12:07 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss"
+        "title": "Israeli forces continue house demolitions in southern Lebanon",
+        "published": "Mon, 23 Nov 2026 01:43:29 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+        "published": "Sun, 22 Nov 2026 23:59:22 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss"
+      },
+      {
+        "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
+        "published": "Sun, 22 Nov 2026 22:01:48 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -38,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "IRGC Attacks Two US Bases in Bahrain",
+        "title": "Iran Navy Sets Tankers Ablaze in Strait of Hormuz",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S4 · Conflict · Bahrain · 1d ago. Iran's IRGC attacked US bases at Sheikh Isa and Juffair in Bahrain, according to Iran's Fars news agency, in response to US actions.",
+        "title": ": S3 · Conflict · Strait of Hormuz · 2h ago. Iran's navy says it set ablaze tankers contravening its rules in the Strait of Hormuz; IRGC warns 'enemies' seek to stoke unrest.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Reported: Ukrainian Drones Attempt Strike on Russian Ship ANASTASIIA in Benghazi",
+        "title": "Russian Ship Hit by Suspected Drone Attack at Benghazi Port",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
