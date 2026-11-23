@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-23 13:55",
+  "updated_at_gst": "2026-11-24 01:47",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,14 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
-        "published": "Mon, 23 Nov 2026 09:33:59 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/zelenskyy-says-ukraine-behind-attacks-on-russian-ships-near-libya?traffic_source=rss"
+        "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+        "published": "Mon, 23 Nov 2026 21:30:40 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss"
       },
       {
-        "title": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
-        "published": "Mon, 23 Nov 2026 09:30:16 +0000",
-        "link": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive?traffic_source=rss"
-      },
-      {
-        "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
-        "published": "Mon, 23 Nov 2026 05:38:01 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss"
+        "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
+        "published": "Mon, 23 Nov 2026 20:41:56 +0000",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Reported: Iranian Cargo Ship ALVAN Hit by Naval Drones in Benghazi",
+        "title": "Israeli Incursion in Southern Syria Displaces Families",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Drone Attacks Hit Ships Off Benghazi, Libya",
+        "title": ": S3 · Conflict · Koya, Syria · 22m ago. Families in Koya report being shot at, homes burned, and forced displacement during Israeli military incursions.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Off Benghazi, Libya · 1h ago. Two ships struck by drones off Benghazi; no claim of responsibility, UN calls for investigation. Attacks coincide with Ukrainian strikes far from front lines.",
+        "title": "Houthis Say Saudi Strike Kills 17 in Yemen",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
