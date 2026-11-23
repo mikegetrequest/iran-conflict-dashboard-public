@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-23 05:51",
+  "updated_at_gst": "2026-11-23 13:55",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Israeli forces continue house demolitions in southern Lebanon",
-        "published": "Mon, 23 Nov 2026 01:43:29 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss"
+        "title": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+        "published": "Mon, 23 Nov 2026 09:33:59 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/zelenskyy-says-ukraine-behind-attacks-on-russian-ships-near-libya?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
-        "published": "Sun, 22 Nov 2026 23:59:22 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss"
+        "title": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
+        "published": "Mon, 23 Nov 2026 09:30:16 +0000",
+        "link": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive?traffic_source=rss"
       },
       {
-        "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
-        "published": "Sun, 22 Nov 2026 22:01:48 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss"
+        "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
+        "published": "Mon, 23 Nov 2026 05:38:01 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Iran Navy Sets Tankers Ablaze in Strait of Hormuz",
+        "title": "Reported: Iranian Cargo Ship ALVAN Hit by Naval Drones in Benghazi",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Strait of Hormuz · 2h ago. Iran's navy says it set ablaze tankers contravening its rules in the Strait of Hormuz; IRGC warns 'enemies' seek to stoke unrest.",
+        "title": "Drone Attacks Hit Ships Off Benghazi, Libya",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Russian Ship Hit by Suspected Drone Attack at Benghazi Port",
+        "title": ": S3 · Conflict · Off Benghazi, Libya · 1h ago. Two ships struck by drones off Benghazi; no claim of responsibility, UN calls for investigation. Attacks coincide with Ukrainian strikes far from front lines.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
