@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-24 01:47",
+  "updated_at_gst": "2026-11-24 09:39",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,14 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
-        "published": "Mon, 23 Nov 2026 21:30:40 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss"
+        "title": "Car bomb strikes governor’s office in Meta, Colombia",
+        "published": "Tue, 24 Nov 2026 04:49:31 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/indias-best-known-bottled-water-under-scrutiny?traffic_source=rss"
       },
       {
-        "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
-        "published": "Mon, 23 Nov 2026 20:41:56 +0000",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss"
+        "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
+        "published": "Tue, 24 Nov 2026 01:32:12 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss"
+      },
+      {
+        "title": "Israeli minister approves return of Flydubai flights to Tel Aviv",
+        "published": "Tue, 24 Nov 2026 01:09:51 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -43,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Incursion in Southern Syria Displaces Families",
+        "title": "Israeli Airstrike Kills 3 in Khan Younis",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Koya, Syria · 22m ago. Families in Koya report being shot at, homes burned, and forced displacement during Israeli military incursions.",
+        "title": ": S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 5h ago. An Israeli airstrike killed at least three Palestinians near a police outpost in Khan Younis, southern Gaza, according to local health officials.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Houthis Say Saudi Strike Kills 17 in Yemen",
+        "title": "Israeli Airstrike Kills Three in Gaza",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
