@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-24 09:39",
+  "updated_at_gst": "2026-11-24 20:36",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,24 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Car bomb strikes governor’s office in Meta, Colombia",
-        "published": "Tue, 24 Nov 2026 04:49:31 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/indias-best-known-bottled-water-under-scrutiny?traffic_source=rss"
+        "title": "Jerusalem Daily: Clash in Israeli parliament",
+        "published": "Tue, 24 Nov 2026 16:18:11 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_qatar-urges-restraint-amid-us-iran-tensions-241126?traffic_source=rss"
       },
       {
-        "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
-        "published": "Tue, 24 Nov 2026 01:32:12 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss"
+        "title": "How the Iran war is reshaping the US military presence in the Middle East",
+        "published": "Tue, 24 Nov 2026 15:10:29 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/24/how-brazils-mosquitoes-are-helping-to-fight?traffic_source=rss"
       },
       {
-        "title": "Israeli minister approves return of Flydubai flights to Tel Aviv",
-        "published": "Tue, 24 Nov 2026 01:09:51 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss"
+        "title": "Russia tows it cargo ship back home after Ukrainian drone attack",
+        "published": "Tue, 24 Nov 2026 14:56:18 +0000",
+        "link": "https://www.aljazeera.com/features/2026/11/24/the-photographs-from-gaza-that-sarajevo-took-home?traffic_source=rss"
+      },
+      {
+        "title": "Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE",
+        "published": "Tue, 24 Nov 2026 13:52:45 +0000",
+        "link": "https://www.aljazeera.com/features/2026/11/24/jensen-huangs-nvidia-return-whore-the-big-winners-and-losers?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -48,17 +53,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Airstrike Kills 3 in Khan Younis",
+        "title": "Riyadh Skyscraper Struck Again in Second Attack This Week",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Khan Younis, Gaza Strip, Palestine · 5h ago. An Israeli airstrike killed at least three Palestinians near a police outpost in Khan Younis, southern Gaza, according to local health officials.",
+        "title": "Tower in Riyadh Business District Hit in Terrorist Attack",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Airstrike Kills Three in Gaza",
+        "title": ": S3 · Conflict · Riyadh, Saudi Arabia · 3h ago. Saudi-led coalition says a tower in Riyadh's business district was struck in a 'cowardly terrorist attack'; authorities on site.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
