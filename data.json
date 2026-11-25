@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-24 20:36",
+  "updated_at_gst": "2026-11-25 05:09",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,28 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Jerusalem Daily: Clash in Israeli parliament",
-        "published": "Tue, 24 Nov 2026 16:18:11 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_qatar-urges-restraint-amid-us-iran-tensions-241126?traffic_source=rss"
-      },
-      {
-        "title": "How the Iran war is reshaping the US military presence in the Middle East",
-        "published": "Tue, 24 Nov 2026 15:10:29 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/24/how-brazils-mosquitoes-are-helping-to-fight?traffic_source=rss"
-      },
-      {
-        "title": "Russia tows it cargo ship back home after Ukrainian drone attack",
-        "published": "Tue, 24 Nov 2026 14:56:18 +0000",
-        "link": "https://www.aljazeera.com/features/2026/11/24/the-photographs-from-gaza-that-sarajevo-took-home?traffic_source=rss"
-      },
-      {
-        "title": "Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE",
-        "published": "Tue, 24 Nov 2026 13:52:45 +0000",
-        "link": "https://www.aljazeera.com/features/2026/11/24/jensen-huangs-nvidia-return-whore-the-big-winners-and-losers?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": ": strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -53,17 +32,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Riyadh Skyscraper Struck Again in Second Attack This Week",
+        "title": "Saudi Airstrikes Hit Hodeidah Port and Sana'a Airport Areas",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Tower in Riyadh Business District Hit in Terrorist Attack",
+        "title": ": S3 · Conflict · Hodeidah, Yemen · 3h ago. Heavy Saudi airstrikes target the Port of al-Hodeidah and areas near Sana'a International Airport in Ansarullah-controlled Yemen, escalating the conflict.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Riyadh, Saudi Arabia · 3h ago. Saudi-led coalition says a tower in Riyadh's business district was struck in a 'cowardly terrorist attack'; authorities on site.",
+        "title": "Saudi Airstrikes Hit Near Sana'a International Airport",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
