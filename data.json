@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-25 05:09",
+  "updated_at_gst": "2026-11-25 13:57",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,23 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Galatasaray defy Israel’s complaint to UEFA over pro-Palestine banners",
+        "published": "Wed, 25 Nov 2026 08:53:30 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss"
+      },
+      {
+        "title": "Sentences served, but Gaza prisoners remain behind Israeli bars",
+        "published": "Wed, 25 Nov 2026 07:31:44 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss"
+      },
+      {
+        "title": "Galatasaray says Israel complained to UEFA over Palestine banners",
+        "published": "Wed, 25 Nov 2026 04:12:11 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": ": strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -32,17 +48,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes Hit Hodeidah Port and Sana'a Airport Areas",
+        "title": "Ansarallah Drone Strikes Hit Ras Tanura Oil Terminal",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Hodeidah, Yemen · 3h ago. Heavy Saudi airstrikes target the Port of al-Hodeidah and areas near Sana'a International Airport in Ansarullah-controlled Yemen, escalating the conflict.",
+        "title": "Israeli Strike Kills Hamas Official, Wife and Children in Gaza",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes Hit Near Sana'a International Airport",
+        "title": "Saudi Arabia Strikes Houthi Targets Across Yemen",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
