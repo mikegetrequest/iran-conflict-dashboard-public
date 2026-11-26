@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-25 23:42",
+  "updated_at_gst": "2026-11-26 06:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,19 +16,19 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
-        "published": "Wed, 25 Nov 2026 19:15:52 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss"
+        "title": "Ukraine attacks Russian military base, says five planes struck",
+        "published": "Thu, 26 Nov 2026 01:39:46 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ice-officers-smash-car-window-pepper-spray-bystanders?traffic_source=rss"
       },
       {
-        "title": "Why did Israel arrest human rights defender Ghassan Al Najjar?",
-        "published": "Wed, 25 Nov 2026 16:34:42 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/us-army-detonates-nearly-five-tonnes-of-toxic-explosives-in-iowa?traffic_source=rss"
+        "title": "ISIL blamed for multiple suicide attacks in Syria",
+        "published": "Thu, 26 Nov 2026 00:51:17 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss"
       },
       {
-        "title": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
-        "published": "Wed, 25 Nov 2026 16:02:22 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss"
+        "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
+        "published": "Thu, 26 Nov 2026 00:00:00 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,12 +53,12 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Yemen's AnsarAllah Claims Strikes on Jeddah and Jizan Ports",
+        "title": "Israeli Strike Kills 3 at Gaza's Al-Shati Camp",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Airstrikes Hit Hodeidah as Ansarallah Warns of Retaliation",
+        "title": "Explosion Rocks Sanaa; Missiles Intercepted Over Riyadh",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
