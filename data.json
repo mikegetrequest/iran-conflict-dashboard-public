@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-26 15:37",
+  "updated_at_gst": "2026-11-27 00:38",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,7 +14,18 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [],
+    "aljazeera": [
+      {
+        "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+        "published": "Thu, 26 Nov 2026 16:32:31 +0000",
+        "link": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss"
+      },
+      {
+        "title": "Two dead after Iranian drone attack on Kuwait",
+        "published": "Thu, 26 Nov 2026 15:55:15 +0000",
+        "link": "https://www.aljazeera.com/sports/2026/11/26/pep-guardiola-calls-on-world-to-disobey-horror-over-gaza-and-praises-bds?traffic_source=rss"
+      }
+    ],
     "monitor_the_situation": [
       {
         "title": ": strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -32,17 +43,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Strait of Hormuz · 45m ago. Iran's Revolutionary Guard Navy reports two tankers, including a VLCC, caught fire early this morning near Khasab in the Strait of Hormuz. Cause not yet stated.",
+        "title": "Israeli Air Force Strikes Hezbollah Rocket Launchers in Southern Lebanon",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Saudi Air Force Strikes Houthi-Held Sanaa",
+        "title": "Iranian Air Defense Shoots Down US MQ-1C Gray Eagle Drone",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Sanaa, Yemen · 3h ago. The Royal Saudi Air Force is conducting airstrikes on the Yemeni capital, which is under Houthi control.",
+        "title": "Israeli Strikes Kill 16 Schoolchildren in Gaza This Month, Ministry Says",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
