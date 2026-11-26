@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-26 06:30",
+  "updated_at_gst": "2026-11-26 15:37",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,23 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Ukraine attacks Russian military base, says five planes struck",
-        "published": "Thu, 26 Nov 2026 01:39:46 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ice-officers-smash-car-window-pepper-spray-bystanders?traffic_source=rss"
-      },
-      {
-        "title": "ISIL blamed for multiple suicide attacks in Syria",
-        "published": "Thu, 26 Nov 2026 00:51:17 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-        "published": "Thu, 26 Nov 2026 00:00:00 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": ": strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -48,17 +32,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Ansarallah Drone Strikes Hit Ras Tanura Oil Terminal",
+        "title": ": S3 · Conflict · Strait of Hormuz · 45m ago. Iran's Revolutionary Guard Navy reports two tankers, including a VLCC, caught fire early this morning near Khasab in the Strait of Hormuz. Cause not yet stated.",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Strike Kills 3 at Gaza's Al-Shati Camp",
+        "title": "Saudi Air Force Strikes Houthi-Held Sanaa",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Explosion Rocks Sanaa; Missiles Intercepted Over Riyadh",
+        "title": ": S3 · Conflict · Sanaa, Yemen · 3h ago. The Royal Saudi Air Force is conducting airstrikes on the Yemeni capital, which is under Houthi control.",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
