@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-27 16:50",
+  "updated_at_gst": "2026-11-28 01:42",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -16,24 +16,9 @@
   "headlines": {
     "aljazeera": [
       {
-        "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
-        "published": "Fri, 27 Nov 2026 11:51:26 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss"
-      },
-      {
-        "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
-        "published": "Fri, 27 Nov 2026 11:15:03 +0000",
-        "link": "https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss"
-      },
-      {
-        "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
-        "published": "Fri, 27 Nov 2026 10:31:20 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss"
-      },
-      {
-        "title": "‘I cannot go to work’: Iranians contend with pollution as well as US war",
-        "published": "Fri, 27 Nov 2026 10:15:44 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss"
+        "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+        "published": "Fri, 27 Nov 2026 20:18:45 +0000",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss"
       }
     ],
     "monitor_the_situation": [
@@ -53,17 +38,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Airstrike Kills 11 in Southwestern Yemen",
+        "title": "IDF Kills 10 Hamas, PIJ Fighters in Gaza Strikes",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · Southwestern Yemen · 1h ago. Houthi rebels report an airstrike in southwestern Yemen killed at least 11 people, including children.",
+        "title": ": S3 · Conflict · Gaza Strip, Palestine · 55m ago. Israeli forces struck four Hamas weapons storage facilities in the Gaza Strip, killing 10 militants including four involved in the October 7 massacre, per IDF statement.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israeli Air Force Kills Militants in Gaza, Including October 7 Perpetrators",
+        "title": "Ukrainian Naval Drones Strike Russian Corvette in Benghazi",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
