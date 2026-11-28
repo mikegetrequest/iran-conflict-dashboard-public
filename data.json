@@ -1,5 +1,5 @@
 {
-  "updated_at_gst": "2026-11-28 07:36",
+  "updated_at_gst": "2026-11-28 16:30",
   "status": {
     "dxb_dwc": "Suspended until further notice (verify on official advisory)",
     "uae_posture": "High-alert diplomatic/security posture",
@@ -14,23 +14,7 @@
   },
   "live_api_events": [],
   "headlines": {
-    "aljazeera": [
-      {
-        "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
-        "published": "Sat, 28 Nov 2026 01:55:03 +0000",
-        "link": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss"
-      },
-      {
-        "title": "US military says it disabled merchant ship trying to breach Iran blockade",
-        "published": "Fri, 27 Nov 2026 22:22:02 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss"
-      },
-      {
-        "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
-        "published": "Fri, 27 Nov 2026 20:18:45 +0000",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss"
-      }
-    ],
+    "aljazeera": [],
     "monitor_the_situation": [
       {
         "title": ": strikes, clashes, warnings, diplomatic developments, sanctions, and humanitarian emergencies.",
@@ -48,17 +32,17 @@
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "WhatsApp Pin Lures Man to Deadly UAE Desert Ambush",
+        "title": "Israeli Drone Strike Kills Palestinian in Gaza",
         "published": "line-4",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": ": S3 · Conflict · United Arab Emirates · 35m ago. A man was lured via a WhatsApp location pin to a desert in the UAE, where he was killed in a premeditated murder linked to a drug-related financial dispute.",
+        "title": ": S3 · Conflict · Gaza Strip, Palestine · 17m ago. A Palestinian was killed and two others wounded when an Israeli drone struck a house courtyard near Palestine Stadium in Gaza, amid ongoing ceasefire violations.",
         "published": "line-5",
         "link": "https://monitor-the-situation.com/middle-east"
       },
       {
-        "title": "Israel Kills Two MSF Staff in Strike on Gaza Clinic",
+        "title": "Airspace Disrupted Over Riyadh, Eastern Region on Missile Threat",
         "published": "line-6",
         "link": "https://monitor-the-situation.com/middle-east"
       }
